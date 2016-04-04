@@ -9,24 +9,24 @@ csl: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/
 nocite: "[@*]"
 header-includes:
     - \usepackage{setspace}
+    - \usepackage{indentfirst}
+    - \setlength\parindent{24pt}
     - \doublespacing
 ...
 
 # Introduction
 Beginning at the age of thirty-seven between 1988 and 1998, Danish composer Hans Abrahamsen took an extended break from composing. This period of reflection, contemplation, and private work came after professional success in the late 1970s and 1980s. A precocious young composer and prominent figure of the Danish "New Simplicity" movement, he had written a confident body of work by 27. These early works like *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978) blended the clarity of expression and concise use of musical material associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. The success of these works lead to commissions from the Berlin Philharmonic^[*Nacht und Trompeten* (1981)] and the London Sinfonietta^[*Märchenbilder* (1984) and *Lied in Fall* (1987)] in the 1980s.
 
-Yet despite these high profile commissions or perhaps due to them, Abrahamsen found it increasingly difficult to compose saying "I couldn’t find the way to make what I wanted" and that he was "paralyzed by the white paper."^[@NYT] "He felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."^[@NYT] While he stopped producing new work, he did not stop working, and throughout this period, which he calls the "fermata" of his compositional life, he focused on arranging and orchestrating both other composers' works as well as his own earlier pieces. Abrahamsen arranged works by Bach, Ives, Nielsen, Nørgård, and Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra. This process of revisiting other music extended to his own work, evident through different orchestrations of his woodwind quintet *Walden* and his septet *Winternacht*.
+Yet despite these high profile commissions or perhaps due to them, Abrahamsen found it increasingly difficult to compose saying "I couldn’t find the way to make what I wanted" and that he was "paralyzed by the white paper."^[@NYT] "He felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."^[@NYT] While he stopped producing new work, he did not stop working, and throughout this period, which he calls the "fermata" of his compositional life, he focused on arranging and orchestrating both other composers' works as well as his own earlier pieces. Abrahamsen arranged works by Bach, Ives, Nielsen, Nørgård, and Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra, and for his own work, he made different orchestrations of the woodwind quintet *Walden* and septet *Winternacht*.
 
-Abrahamsen emerged from this period of writer's block with his *Concerto for Piano and Orchestra* (1999-2000), which was commissioned by the BIT-20 Ensemble and composed for his wife, pianist Anne Marie Abildskov. In this four movement work, Abrahamsen draws upon musical material from his earlier pieces, most notably in the last movement where he arranges the eighth movement (*Rivière d'oubli*) of his *Ten Studies for Piano*. The *Concerto* also contains references to music by other composers through descriptive indications such as "Wie Mahler!" and "Hommage à Ligeti." **something about the piano concerto's style**
+Abrahamsen emerged from this period of writer's block with his *Concerto for Piano and Orchestra* (1999-2000), which was commissioned by the BIT-20 Ensemble and composed for his wife, pianist Anne Marie Abildskov. In this four movement work, Abrahamsen draws upon musical material from his earlier pieces, most notably in the last movement where he arranges the eighth movement (*Rivière d'oubli*) of his *Ten Studies for Piano*. The *Concerto* also contains references to music by other composers through descriptive indications such as "Wie Mahler!" and "Hommage à Ligeti."
 
-These two characteristics, returning to earlier music and referencing other composers' work, has become a hallmark of Abrahamsen's style in this "post fermata" period. *Four Pieces for Orchestra* (2004) revisits and elaborates the first four movements of *Ten Studies for Piano* and references "post-Wagnerian orchestral repertoire, from Bruckner to early Schoenberg and Anton Webern."[@FourPiecesPN] His nearly hour-long chamber work *Schnee* (2006-08) is based on the opening of Bach's *Contrapuntus I* and also references *Winternacht*. *Air* (2006) for solo accordion is a twin to *Canzone* (1978), his first work for accordion, and this material is further developed in his *String Quartet No. 3* (2008). His *Ten Sinfonias* (2010) for orchestra is an arrangement and development of his earlier *Ten Preludes* (1973) for string quartet.
+These two characteristics, returning to earlier music and referencing other composers' work, has become a hallmark of Abrahamsen's style in this "post-fermata" period. *Four Pieces for Orchestra* (2004) is an arrangement and development of the first four movements of *Ten Studies for Piano* and references "post-Wagnerian orchestral repertoire, from Bruckner to early Schoenberg and Anton Webern."[@FourPiecesPN] His nearly hour-long chamber work *Schnee* (2006-08) is based upon the opening of Bach's *Contrapuntus I* and also references *Winternacht*. *Air* (2006) for solo accordion is a twin to *Canzone* (1978), his first work for accordion, and this material was used as the basis for *String Quartet No. 3* (2008).
+<!-- His *Ten Sinfonias* (2010) for orchestra is an arrangement and development of his earlier *Ten Preludes* (1973) for string quartet. -->
 
-Beyond these referential qualities, Abrahamsen began to incorporate new techniques in rhythm, timbre, and ensemble spatial layout into his compositional language. The *Concerto for Piano and Orchestra* features frequent changes of meter and complex polyrhythms, as well as microtonal inflections in the woodwinds and "natural" French horn. *Schnee* is scored for 9 musicians organized in a symmetrical semi-circle with three woodwinds and piano on one side, three strings and piano on the other, and a percussionist in the center. Its overall shape involves ten canons that are interspersed with three intermezzi where various combinations of the woodwinds and strings gradually detune their instruments by a quarter tone over the course of the work.
+In addition to these referential qualities, Abrahamsen began to incorporate new techniques in rhythm, timbre, and ensemble layout into his compositional language. The *Concerto for Piano and Orchestra* features frequent changes of meter and complex polyrhythms, as well as microtonal inflections in the woodwinds and "natural" French horn. The nine musicians of *Schnee* are symmetrically organized in a semi-circle with three woodwinds and piano on one side, three strings and piano on the other, and a percussionist in the center. Its overall form involves ten canons interspersed with three intermezzi during which various combinations of the woodwinds and strings gradually detune their instruments by a quarter tone over the course of the work.
 
-# Scope and Methodology
-
-
-Abrahamsen's *Wald* (2008-09) combines all of these elements: material from an older work, references to another composer's music, complex meters, microtonal inflections, and symmetrical ensemble layout. The 18-minute work was jointly commissioned by ASKO Schönberg and the Birmingham Contemporary Music Group and is scored for a large ensemble with uncommon doublings (see Figure 1). *Wald* is a set of seven variations based on the beginning of Abrahamsen's woodwind quintet *Walden* (1978). The thematic material that appears in both pieces is a horn call of a perfect fourth that elicits responses from other instruments. The horn call repeats but has a slower periodicity than the other responses leading to a gradual change in the order. Of its connection to this earlier work and to Robert Schumann's music, Abrahamsen has said:
+One piece that contains all of these "post-fermata" elements (material from an older work, references to another composer's music, complex meters, microtonality, and symmetrical ensemble layout) is Abrahamsen's *Wald* (2008-09). The 18-minute work was jointly commissioned by ASKO Schönberg and the Birmingham Contemporary Music Group and is scored for a large ensemble with novel doublings, among them bass flute and bass trumpet. *Wald* is a set of seven variations based on the beginning of Abrahamsen's woodwind quintet *Walden* (1978). The thematic material appearing in both pieces is a rising perfect fourth horn call that elicits responses from other instruments. The horn call repeats but has a slower periodicity than the other responses leading to a gradual change in the order of call and response. Of its connection to this earlier work and to Robert Schumann's music, Abrahamsen has said:
 
 \singlespacing
 
@@ -38,21 +38,24 @@ Abrahamsen's *Wald* (2008-09) combines all of these elements: material from an o
 
 \doublespacing
 
-*Walden* is a four-movement work for wind quintet composed in 1978 and commissioned by the Funen Wind Quintet. The title of the work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN] Abrahamsen's piece reflects on this experiment and indicates in his program note:
+**closing statement on Wald**
 
-\singlespacing
+# Scope and Methodology
+This dissertation has two goals. The principle goal is to conduct a comprehensive analysis of *Wald* focusing on the compositional techniques characteristic of Abrahamsen's "post-fermata" music. This analysis will address each variation and identify pitch and rhythmic structures, the use of the ensemble's symmetrical layout, and how Abrahamsen develops and varies the musical material across the work. The second goal is to examine *Wald*'s relationship to other music through the following questions: How is *Wald* based on his earlier work *Walden*? In what ways is *Wald* a twin piece to *Schnee*? Is *Wald* related Schumann's *Waldszenen* in any substantial way beyond poetic kinship?
 
-> Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN]
+##### how I plan to complete these analysis
+* get in contact with Abrahamsen (connection with ESM as Howard Hanson guest in 2013)
+* analyze *Walden*, focusing on first mvmt, for re-used material
+* set theory for pitch aspects (Ernste (2006) indicates he thinks this way)
+* compare symmetrical layout of *Schnee* and *Wald*
 
-\doublespacing
-
-
-Figure 1. *Wald* Instrumentation.
-![Wald Instrumentation](../figures/wald-instrumentation.png)
+To answer these questions, I plan to analyze the first movement of *Walden* from which Abrahamsen indicates he bases *Wald* on.
 
 
 # Summary of State of Research
+Hans Abrahamsen is a composer who has been relatively unknown in the United States until recently. His international profile has expanded significantly since the composition of *Schnee* and *let me tell you* (2014), and his receipt of the Grawemeyer Prize in 2016 has done much to bring attention to him in the U.S. Despite this, very few published analyses of Abrahamsen's music are available, with the exception of Dr. Kevin Ernste's dissertation on *Winternacht*. This dissertation would represent a meaningful contribution to the scholarly work on his music, and furthermore it would be one of the first analyses examining the music he has composed since the *Piano Concerto*.
 
+\newpage
 # Bibliography
 \setlength{\parindent}{-0.4in}
 \setlength{\leftskip}{0.4in}
@@ -62,3 +65,20 @@ Figure 1. *Wald* Instrumentation.
 
 <!-- ^[*Wald* (2008-09)]  --> <!-- regular citation -->
 <!-- [@Abrahamsen, p. 21] --> <!-- citation from bib file -->
+
+
+<!-- UNUSED SNIPPETS -->
+
+<!-- On Walden -->
+<!-- *Walden* is a four-movement work for wind quintet composed in 1978 and commissioned by the Funen Wind Quintet. The title of the work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN] Abrahamsen's piece reflects on this experiment and indicates in his program note:
+
+\singlespacing
+
+> Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN]
+
+\doublespacing -->
+
+<!-- # Appendix
+Figure 1. *Wald* Instrumentation.
+
+![Wald Instrumentation](../figures/wald-instrumentation.png) -->

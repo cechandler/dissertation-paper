@@ -1,57 +1,56 @@
 ---
-author: Christopher Chandler
-title: Reuse and Variation in Hans Abrahamsen's *Wald*
+title: Abrahamsen Dissertation Outline
 papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
-bibliography: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/Citations/abrahamsen.bib"
-csl: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/Citations/chicago-note-bibliography.csl"
-nocite: "[@*]"
 header-includes:
     - \usepackage{indentfirst}
     - \usepackage{setspace}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
     - \usepackage{url}
-    - \doublespacing
 ...
 
-Preface Contents
+### Preface Contents
 * Biographical Sketch
 * Acknowledgements
 * Abstract
 * Table of Contents
 * List of Figures
 
-Introduction
+### Introduction
 * Abrahamsen's career
-* Etc.
+    * 1970s-1988: first period
+    * 1988-1999: pause
+    * 1999-present: second period ("post-fermata")
 
-Part One: Reuse of musical material in contemporary composers
+### Part One: Reuse of musical material in contemporary composers
 * Hans Abrahamsen
 * Luciano Berio
 * Toru Takemitsu
 * Toshio Hosokawa
 * Pierre Boulez
 
-Part Two: A Brief Overview of *Walden* and *Wald*
-*Walden*
+### Part Two: A Brief Overview of *Walden* and *Wald*
+#### *Walden*
   * Background, instrumentation, and reorchestration
   * First movement
 
-*Wald*
+#### *Wald*
   * Background and instrumentation
   * Form
   * Spatial layout
 
-Part Three: Analysis of *Wald*
+### Part Three: Analysis of *Wald*
 * Introduction, Variation 1, and Variation 2
 * Variation 3 and Variation 4
 * Variation 5
 * Variation 6 and  Variation 7
+* Connections to other music
 
-\singlespacing
+### Conclusion
 
+\newpage
 
 | Section | Measures    | Tempo                              | Descriptive markings              |
 |:--------|:------------|:-----------------------------------|:----------------------------------|
@@ -111,13 +110,3 @@ Part Three: Analysis of *Wald*
 |         |             |                                    |                                   |
 | Var 7   | mm. 595-605 |                                    |                                   |
 |         | 595         | \eighthNote = 64                   | Piu lento                         |
-
-
-# Conclusion
-
-
-# Bibliography
-\setlength{\parindent}{-0.4in}
-\setlength{\leftskip}{0.4in}
-\setlength{\parskip}{8pt}
-\noindent
