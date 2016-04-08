@@ -110,3 +110,16 @@ header-includes:
 |         |             |                                    |                                   |
 | Var 7   | mm. 595-605 |                                    |                                   |
 |         | 595         | \eighthNote = 64                   | Piu lento                         |
+
+
+# Timings from Recording
+|   Section    | Duration |
+|:------------:|:--------:|
+| Introduction |   3:10   |
+| Variation 1  |   2:38   |
+| Variation 2  |   2:09   |
+| Variation 3  |   2:35   |
+| Variation 4  |   2:00   |
+| Variation 5  |   1:39   |
+| Variation 6  |   1:31   |
+| Variation 7  |   1:18   |
