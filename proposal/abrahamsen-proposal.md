@@ -15,11 +15,13 @@ header-includes:
 ...
 
 # Introduction
-Beginning at the age of thirty-seven between 1988 and 1998, Danish composer Hans Abrahamsen took an extended break from composing. This period of reflection, contemplation, and private work came after professional success in the late 1970s and 1980s. A precocious young composer and prominent figure of the Danish "New Simplicity" movement, he had written a confident body of work by 27. These early works like *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978) blended the clarity of expression and concise use of musical material associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. The success of these works lead to commissions from the Berlin Philharmonic^[*Nacht und Trompeten* (1981)] and the London Sinfonietta^[*Märchenbilder* (1984) and *Lied in Fall* (1987)] in the 1980s.
+Beginning at the age of thirty-seven between 1988 and 1998, Danish composer Hans Abrahamsen took an extended break from composing. This period of reflection, contemplation, and private work came after professional success in the late 1970s and 1980s. A precocious young composer and prominent figure of the Danish "New Simplicity" movement, he had written a confident body of work by twenty-seven. These early works like *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978) blended the clarity of expression and concise use of musical material associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. The success of these works lead to commissions from the Berlin Philharmonic^[*Nacht und Trompeten* (1981)] and the London Sinfonietta^[*Märchenbilder* (1984) and *Lied in Fall* (1987)] in the 1980s.
 
 Yet despite these high profile commissions or perhaps due to them, Abrahamsen found it increasingly difficult to compose saying "I couldn’t find the way to make what I wanted" and that he was "paralyzed by the white paper."^[@NYT] "He felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."^[@NYT] While he stopped producing new work, he did not stop working, and throughout this period, which he calls the "fermata" of his compositional life, he focused on arranging and orchestrating both other composers' works as well as his own earlier pieces. Abrahamsen arranged works by Bach, Ives, Nielsen, Nørgård, and Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra, and for his own work, he made different orchestrations of the woodwind quintet *Walden* and septet *Winternacht*.
 
-Abrahamsen emerged from this period of writer's block with his *Concerto for Piano and Orchestra* (1999-2000), which was commissioned by the BIT-20 Ensemble and composed for his wife, pianist Anne Marie Abildskov. In this four movement work, Abrahamsen draws upon musical material from his earlier pieces, most notably in the last movement where he arranges the eighth movement (*Rivière d'oubli*) of his *Ten Studies for Piano*. The *Concerto* also contains references to music by other composers through descriptive indications such as "Wie Mahler!" and "Hommage à Ligeti."
+Beginning with the *Concerto for Piano and Orchestra* (1999-2000), Abrahamsen emerged from this period of writer's block and clearly entered a new stylistic period. The
+
+In this four movement work, which was commissioned by the BIT-20 Ensemble and composed for his wife, pianist Anne Marie Abildskov, Abrahamsen draws upon musical material from his earlier pieces, most notably in the last movement where he arranges the eighth movement (*Rivière d'oubli*) of his *Ten Studies for Piano*. The *Concerto* also contains quotations and references to music by other composers through descriptive indications such as "Wie Mahler!" and "Hommage à Ligeti."
 
 **work during his second period falls under two broad categories: 1) music based other music and 2) arrangements of his earlier music**
 
@@ -30,7 +32,7 @@ In addition to these referential qualities, Abrahamsen began to incorporate new 
 
 **include repeat signs and repeating material in new techniques**
 
-One piece that contains all of these "post-fermata" elements (material from an older work, references to another composer's music, complex meters, microtonality, and symmetrical ensemble layout) is Abrahamsen's *Wald* (2008-09). The 18-minute work was jointly commissioned by ASKO Schönberg and the Birmingham Contemporary Music Group and is scored for a large ensemble with novel doublings, among them bass flute and bass trumpet. *Wald* is a set of seven variations based on the beginning of Abrahamsen's woodwind quintet *Walden* (1978). The thematic material appearing in both pieces is a rising perfect fourth horn call that elicits responses from other instruments. The horn call repeats but has a slower periodicity than the other responses leading to a gradual change in the order of call and response. Of its connection to this earlier work and to Robert Schumann's music, Abrahamsen has said:
+One piece characteristic of Abrahamsen's second period is *Wald* (2008-09). The 18-minute work was jointly commissioned by ASKO Schönberg and the Birmingham Contemporary Music Group and is scored for a large ensemble with novel instrumental doublings, among them bass flute and bass trumpet. *Wald* is a set of seven variations based on the beginning of Abrahamsen's woodwind quintet *Walden* (1978). The thematic material appearing in both pieces is a rising perfect fourth horn call that elicits responses from other instruments. The horn call repeats but has a slower periodicity than the other responses leading to a gradual change in the order of call and response. Of its connection to this earlier work and to Robert Schumann's music, Abrahamsen has said:
 
 \singlespacing
 
@@ -43,14 +45,16 @@ One piece that contains all of these "post-fermata" elements (material from an o
 \doublespacing
 
 **closing statement on Wald**
+As Abrahamsen indicates,
 
 # Scope and Methodology
-This dissertation has two goals. The principle goal is to analyze *Wald* for innovations in compositional technique characteristic of Abrahamsen's second period. This analysis will focus on his
+This dissertation has two goals. The principle goal is to analyze *Wald* for innovations in compositional technique characteristic of Abrahamsen's second period. This analysis will focus on
 
+(material from an older work, references to another composer's music, complex meters, microtonality, and symmetrical ensemble layout)
 
- development of musical material across variations, new approach to texture, and use of symmetry.
+development of musical material across variations, new approach to texture, and use of symmetry.
 
-The second goal is to examine *Wald*'s relationship to other music through the following questions: How is *Wald* based on his earlier work *Walden*? In what ways is *Wald* a twin piece to *Schnee*? Is *Wald* related Schumann's *Waldszenen* in any substantial way beyond poetic kinship?
+The second goal is to examine *Wald*'s relationship to other music. The music of Abrahamsen's second period largely falls under two categories: arrangements of his earlier music and music based on previous works, either his own or another composer.  through the following questions: How is *Wald* based on his earlier work *Walden*? In what ways is *Wald* a twin piece to *Schnee*? Is *Wald* related Schumann's *Waldszenen* in any substantial way beyond poetic kinship?
 
 ##### how I plan to complete these analysis
 * get in contact with Abrahamsen (connection with ESM as Howard Hanson guest in 2013)
@@ -71,9 +75,9 @@ speculation: what he learned in the middle to give rise to these things
 influence of minimalism and Steve Reich (repeating material)
 
 # Summary of State of Research
-Hans Abrahamsen has been relatively unknown outside of Europe until recently. His international profile expanded significantly after the composition of *Schnee* and more recently with the premiere of *let me tell you* (2014) by the Berlin Philharmonic. The Cleveland Orchestra's recent American tour of this piece and its receipt of the 2016 Grawemeyer Award for Music has brought further attention to his work in the United States.
+Hans Abrahamsen has been relatively unknown outside of Europe until recently. His international profile expanded significantly after the composition of *Schnee* and more recently with the Berlin Philharmonic premiere of *let me tell you* (2014). The Cleveland Orchestra's recent American tour of this piece and its receipt of the 2016 Grawemeyer Award for Music has brought further attention to his work in the United States.
 
-Despite this, very little analytical work has been conducted on his music. Danish composer Karl Aage Rasmussen and scholar John David White have written books profiling Danish and Nordic composers respectively, but their discussion of Abrahamsen details his earlier career from the 1970s and 1980s.[@Rasmussen \newline @White] Composer Kevin Ernste's dissertation on *Winternacht* (1978) represents one of the only in-depth analyses of his music. Considering the existing scholarship's focus on the music of Abrahamsen's first period, this dissertation would represent a significant and original contribution to the knowledge on the music since his compositional "fermata."
+Despite this burgeoning profile, little analytical work has been conducted on his music. Danish composer Karl Aage Rasmussen and scholar John David White have written books profiling Danish and Nordic composers respectively, but their discussion of Abrahamsen details his earlier career from the 1970s and 1980s.[@Rasmussen \newline @White] Composer Kevin Ernste's dissertation on *Winternacht* (1978) represents one of the only in-depth analyses of his music. Considering the existing scholarship's focus on the music of Abrahamsen's first period, this dissertation would represent a significant and original contribution to the knowledge on the music since his compositional "fermata."
 
 \newpage
 # Bibliography
