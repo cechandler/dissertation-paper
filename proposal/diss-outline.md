@@ -21,34 +21,45 @@ header-includes:
 ### Introduction
 * Abrahamsen's career
     * 1970s-1988: first period
+        * characteristics of music
     * 1988-1999: pause
-    * 1999-present: second period ("post-fermata")
+        * arrangements and reorchestrations
+      * 1999-present: second period ("post-fermata")
+        * new technical innovations
 
-### Part One: Reuse of musical material in contemporary composers
-* Hans Abrahamsen
-* Luciano Berio
-* Toru Takemitsu
-* Toshio Hosokawa
-* Pierre Boulez
+### Part One: Historical Context
+* Composers who have taken breaks:
+    * Schoenberg
+    * Donatoni
+* Composers that have reworked material:
+    * Luciano Berio
+    * Toru Takemitsu
+    * Toshio Hosokawa
+    * Pierre Boulez
 
 ### Part Two: A Brief Overview of *Walden* and *Wald*
 #### *Walden*
-  * Background, instrumentation, and reorchestration
-  * First movement
+* Background, instrumentation, and reorchestration
+* Form
+* First movement
 
 #### *Wald*
-  * Background and instrumentation
-  * Form
-  * Spatial layout
+* Background and instrumentation
+* Spatial layout
+* Form
 
 ### Part Three: Analysis of *Wald*
 * Introduction, Variation 1, and Variation 2
 * Variation 3 and Variation 4
 * Variation 5
 * Variation 6 and  Variation 7
-* Connections to other music
 
 ### Conclusion
+* Connections to other music
+    * Schnee
+        * Concept of doubling (both in orchestration and re-use)
+        * Shrinking movement proportions
+    * Schumann
 
 \newpage
 
