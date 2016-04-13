@@ -60,3 +60,25 @@ His practice of returning to older works and referencing other composers' works 
 
 
 The music of Abrahamsen's second period largely falls under two categories: arrangements of his earlier music and music based on previous works, either his own or another composer.  
+
+
+
+##### how I plan to complete these analysis
+* get in contact with Abrahamsen (connection with ESM as Howard Hanson guest in 2013)
+* analyze *Walden*, focusing on first mvmt, for re-used material
+* set theory for pitch aspects (Ernste (2006) indicates he thinks this way)
+* compare symmetrical layout of *Schnee* and *Wald*
+
+To answer these questions, I plan to analyze the first movement of *Walden* from which Abrahamsen indicates he bases *Wald* on.
+
+MORE CLEARLY SAY POINTING OUT ALL THE NEW THINGS THAT HAVE SURFACED IN HIS MUSIC SINCE
+innovation arising from period of reflection
+Schoenberg stopped composed for 10 years
+Donatoni crisis
+compare compositional practice from first period to second period
+handling of texture and orchestration and development of music and harmony
+speculation: what he learned in the middle to give rise to these things
+influence of minimalism and Steve Reich (repeating material)
+
+
+It was jointly commissioned by the Danish ensemble ASKO Schönberg and the Birmingham Contemporary Music Group, and the large ensemble is arranged in six groups seated in symmetrical semi-circles. 
