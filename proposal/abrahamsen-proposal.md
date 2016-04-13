@@ -7,7 +7,7 @@ fontsize: 12pt
 bibliography: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/citations/abrahamsen.bib"
 csl: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/Citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
-header-includes:
+header-includes: 
     - \usepackage{setspace}
     - \usepackage{indentfirst}
     - \setlength\parindent{24pt}
@@ -35,7 +35,7 @@ In order to conduct this analysis and address these questions, this essay will b
 # Summary of State of Research
 Hans Abrahamsen has been relatively unknown outside of Europe until recently. His international profile expanded significantly after the composition of *Schnee* and more recently with the Berlin Philharmonic premiere of *let me tell you* (2014). The Cleveland Orchestra's recent American tour of this piece and its receipt of the 2016 Grawemeyer Award for Music has brought further attention to his work in the United States.
 
-Despite this burgeoning profile, little analytical work has been conducted on his music. Danish composer Karl Aage Rasmussen and scholar John David White have written books profiling Danish and Nordic composers respectively, but their discussion of Abrahamsen is limited to his earlier career from the 1970s and 1980s.[@Rasmussen. \newline @White] Composer Kevin Ernste's dissertation on *Winternacht* (1978) represents one of the only in-depth analyses of his music. Considering the existing scholarship's focus on the music of Abrahamsen's first period, this dissertation would represent a significant and original contribution to the knowledge on the music since his compositional "fermata."
+Despite this burgeoning profile, little analytical work has been conducted on his music. Danish composer Karl Aage Rasmussen and scholar John David White have written books profiling Danish and Nordic composers respectively, but their discussion of Abrahamsen is limited to his earlier career from the 1970s and 1980s.[@Rasmussen. \newline @White] Composer Kevin Ernste's dissertation on *Winternacht* (1978) represents one of the only in-depth analyses of his music. Considering the existing scholarship's focus on the music of Abrahamsen's first period, this dissertation would represent a significant and original contribution to the knowledge on the music of his second period.
 
 \newpage
 # Bibliography
