@@ -177,3 +177,36 @@ Andante mesto \newline
 Piu lento \newline
 <!-- \lilyTimeSignature{8}{8} \lilyTimeSignature{9}{8} \lilyTimeSignature{8}{8} \lilyTimeSignature{9}{8} \lilyTimeSignature{8}{8} \lilyTimeSignature{9}{8} \lilyTimeSignature{8}{8} \lilyTimeSignature{9}{8} \lilyTimeSignature{8}{8} \lilyTimeSignature{9}{8} \lilyTimeSignature{8}{8} || -->
 \lilyTimeSignature{8}{8} 1mm. \lilyTimeSignature{9}{8} 1mm. \lilyTimeSignature{8}{8} 1mm. \lilyTimeSignature{9}{8} 1mm. \lilyTimeSignature{8}{8} 1mm. \lilyTimeSignature{9}{8} 1mm. \lilyTimeSignature{8}{8} 1mm. \lilyTimeSignature{9}{8} 1mm. \lilyTimeSignature{8}{8} 1mm. \lilyTimeSignature{9}{8} 1mm. \lilyTimeSignature{8}{8} 1mm. ||
+
+\singlespacing
+
+# Material Exchange
+## Introduction
+
+| Phrase | Order | Instr      | Length                       |
+|:-------|:------|:-----------|:-----------------------------|
+| One    | A     | bass flute | \eighthNote x 7              |
+|        | B     | contrabass | \eighthNote x 5.5            |
+|        | C     | harp       | \eighthNote x 6              |
+|        | D     | horn       | \eighthNote x 3              |
+|        |       |            |                              |
+| Two    | B     | cello      | doubled compared to phrase 1 |
+|        | A     | horn       | remains the same             |
+|        | C     | kalimba    | remains the same             |
+|        | D     | bass flute | longer compared to phrase 1  |
+|        |       |            |                              |
+| Three  | B     | contrabass | longer compard to phrase 1   |
+|        | C     | harp       | remains the same             |
+|        | D     | horn       | doubled compared to phrase 1 |
+|        | A     | bass flute | remains the same             |
+|        |       |            |                              |
+| Four   | B     | cello      | doubled compared to phrase 2 |
+|        | D     | bass flute | doubled compared to phrase 2 |
+|        | C     | kalimba    | remains the same             |
+|        | A     | horn       | remains the same             |
+
+ABCD
+BACD
+BCA
+ D
+BDCA  
