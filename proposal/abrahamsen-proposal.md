@@ -12,17 +12,13 @@ header-includes:
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
+    - \usepackage{url}
     - \setlength\parindent{24pt}
     - \doublespacing
 ...
 
 # Introduction
-Danish composer Hans Abrahamsen’s piece for large ensemble, *Wald*
-(2009), is a "series of variations" building on the opening of his
-earlier piece for woodwind quintet entitled *Walden* (1978). This return
-to his own music stemmed from a crisis in Abrahamsen’s compositional
-life, between 1991 and 1999, when he took an extended break from
-composing. During this time, Abrahamsen experienced debilitating writer's block; he wrote that he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he stopped producing new work, he did not stop working. Throughout this period, which he calls the "fermata" of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection, contemplation, and private work provided the necessary catalyst leading to a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
+Danish composer Hans Abrahamsen’s piece for large ensemble, *Wald* (2009), is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). This return to his own music stemmed from a crisis in Abrahamsen’s compositional life, between 1991 and 1999, when he took an extended break from composing. During this time, Abrahamsen experienced debilitating writer's block; he wrote that he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new work, he did not stop working. Throughout this period, which he calls the "fermata" of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection, contemplation, and private work provided the necessary catalyst leading to a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
 
 A precocious young composer, Abrahamsen had written a confident body of work by age 27 (1979) and was a prominent figure associated with the Danish "New Simplicity" movement. This movement was largely a reaction against Darmstadt serialism which sought to "establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Ernste, p. 8] Abrahamsen's works of this first period, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti.
 
@@ -38,6 +34,144 @@ While *Schnee* has gained greater notoriety, due in part to its dramatic hour-lo
 This dissertation has two goals. The principle goal is to examine the innovative compositional practices characteristic of Abrahamsen's second period through an analysis of *Wald*. The second goal is to examine *Wald*'s relationship to other music through the following questions: In what ways is *Wald* based on his earlier work *Walden*? How is *Wald* a "twin piece"[@WaldPN Program note] to *Schnee*? Is *Wald* related to Schumann's *Waldszenen* in any substantial way beyond poetic inspiration?
 
 In order to conduct this analysis and address these questions, this essay will be divided into three parts. Part one will place Abrahamsen in a historical context by briefly discussing other twentieth-century composers who have exhibited commonalities in the two areas that define his second period: 1) a break preceding a significant change in style, and 2) a predilection for reworking earlier musical material. Part two will provide an overview of *Walden* and *Wald* in order to compare and contrast Abrahamsen's first and second period styles. Significant differences will be drawn between the two periods, and the discussion of *Walden* will largely be limited to the first movement, since it contains the majority of the common material and has connections to the additional movements in the later work. Part three will consist of a detailed analysis of the introduction and seven variations in *Wald*. The focus will be on the way Abrahamsen recasts the germinal material from *Walden* and develops it throughout the piece via harmony, orchestration (including timbral choices and the symmetrical ensemble layout), and texture (including metrical choices and polyrhythmic layering).
+
+# A Preliminary View of *Wald*
+An analysis of *Wald* must first begin with *Walden*, since it contains the germinal material from which *Wald* is built. Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. The title of the four-movement work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN Program note] In the program note for the piece, Abrahamsen describes the musical material and the kinds of processes that interested him:
+
+\singlespacing
+
+> Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN Program note]
+
+\doublespacing
+
+The layers of organicism, concretism, and descriptive are fitting descriptions of how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance two-note becoming three-note melodies and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4). This susurrous texture gradually decreases in speed and gives way to slow legato oscillating patterns that mechanistically compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth note texture. The "ghost-like music of the past" has relevance to both the horn call of the first movement as well as the fourth movement whose contrapuntal texture is stylistically reminiscent of Baroque music. This final movement features a composite texture of an E-major flute and bassoon duo in 3/4 and an Eb-major trio of oboe, clarinet, and horn in 6/8.
+
+Abrahamsen's unfolding of the first movement's horn call and response is the material that he revisits in *Wald*. Figure 1 shows the first two of four call and response phrases separated by grand pauses. <!-- In future discussion of Walden's first movement, orient the displacement around the clarinet since it's rhythmic position never changes.  -->
+
+![Horn call and responses.](../figures/walden-horn-theme.png){width=75%}
+
+The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, Abrahamsen changes the order of the call and responses by rhythmically displacing each instance. Comparing the first phrase to the second, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues for phrases three and four and ends with the horn motive having rotated to the last order position isolated from the other instruments (see Figure 2).
+
+![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){width=75%}
+
+The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance.
+
+The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table 1, measured from the commercially released recording,^[**footnote for recording**] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*. **Something on the effect this produces**.
+
+\singlespacing
+
+Table: Sectional proportions
+
+| Section      | Duration |
+|:-------------|:---------|
+| Introduction | 3:10     |
+| Variation 1  | 2:38     |
+| Variation 2  | 2:09     |
+| Variation 3  | 2:35     |
+| Variation 4  | 2:00     |
+| Variation 5  | 1:39     |
+| Variation 6  | 1:31     |
+| Variation 7  | 1:18     |
+
+\doublespacing
+
+These variations are juxtaposed with little to no transitional material. Their boundaries and subsections are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. Table 2 gives a comprehensive list of every tempo change and descriptive marking that accompanies a new subsection or variation.
+
+\singlespacing
+
+Table: *Wald* form.
+
+| Section | Measures    | Tempo                              | Descriptive markings              |
+|:--------|:------------|:-----------------------------------|:----------------------------------|
+| Intro   | mm. 1-108   |                                    |                                   |
+|         | 1           | Tempo I \quarterNoteDotted = 88    | Allegro con brio                  |
+|         |             |                                    | "wie aus der Ferne"               |
+|         |             |                                    | ("as from a distance")            |
+|         | 37          | Tempo II \halfNote = 66            | Poco meno ma maestoso             |
+|         |             |                                    | poco grottesco e ironico          |
+|         | 73          | Tempo III \quarterNoteDotted = 100 | Allegro vivace e agitato          |
+|         |             |                                    | "aufgeregt" ("excited")           |
+|         | 91          | Tempo IV \eighthNote = 88          | Meno mosso, soave e fluente       |
+|         |             |                                    |                                   |
+| Var 1   | mm. 109-267 |                                    |                                   |
+|         | 109         | Tempo I \quarterNoteDotted = 92    | Allegro con brio                  |
+|         |             |                                    | ma un poco piu mosso              |
+|         |             |                                    | ancora "wie aus der Ferne"        |
+|         |             |                                    | (yet "as from a distance")        |
+|         | 171         | Tempo II \halfNote = 77            | Poco meno maestoso                |
+|         |             |                                    | ma un poco piu mosso              |
+|         |             |                                    | ma poco lamentoso                 |
+|         | 238         | Tempo III \quarterNoteDotted = 100 | Allegro vivace e piu agitato      |
+|         |             |                                    | "sehr aufgeregt" ("very excited") |
+|         | 254         | Tempo IV \eighthNote = 88          | Meno mosso, soave e fluente       |
+|         |             |                                    |                                   |
+| Var 2   | mm. 268-408 |                                    |                                   |
+|         | 268         | Tempo I \quarterNoteDotted = 94    | Allegro con brio                  |
+|         |             |                                    | ma sempre poco piu mosso          |
+|         | 322         | Tempo II \halfNote = 82            | Un poco meno                      |
+|         |             |                                    | ma ancora piu mosso               |
+|         |             |                                    | lamentoso e melancolico           |
+|         | 382         | Tempo III \quarterNoteDotted = 100 | Allegro vivace e agitato          |
+|         |             |                                    | "wieder aufgeregt"                |
+|         |             |                                    | ("excited again")                 |
+|         | 402         | Tempo IV \eighthNote = 88          | Meno mosso, soave e fluente       |
+|         |             |                                    |                                   |
+| Var 3   | mm. 409-442 |                                    |                                   |
+|         | 409         | \halfNote = 32                     | Adagio misterioso ("Nachtmusik")  |
+|         |             |                                    |                                   |
+| Var 4   | mm. 443-473 |                                    |                                   |
+|         | 443         | \halfNote = 32                     | Stesso tempo                      |
+|         |             |                                    |                                   |
+| Var 5   | mm. 474-581 |                                    |                                   |
+|         | 474         | \quarterNoteDotted = 64            | Con nuova energia                 |
+|         |             |                                    | "Wie ein plötzliches Erwachen"    |
+|         |             |                                    | ("Like a sudden awakening")       |
+|         | 490         | \quarterNote = 144                 | Vivo furioso                      |
+|         |             |                                    | ("vielleicht eine Jagd")          |
+|         |             |                                    | ("perhaps a hunting")             |
+|         | 522         | \quarterNote = 165                 | Presto volante                    |
+|         |             |                                    | ("galoppierend, immer vorwärts")  |
+|         |             |                                    | ("galloping, always forward")     |
+|         | 562         | \quarterNoteDotted = 132           | Più mosso                         |
+|         |             |                                    |                                   |
+| Var 6   | mm. 582-594 |                                    |                                   |
+|         | 582         | \eighthNote = 66                   | Andante mesto                     |
+|         |             |                                    |                                   |
+| Var 7   | mm. 595-605 |                                    |                                   |
+|         | 595         | \eighthNote = 64                   | Piu lento                         |
+
+\doublespacing
+
+This table highlights variations and sections that are musically connected by these indications, but of course, do not describe the full extent of their relationships. There are interrelated sections and variations across the piece that are not captured by this table, and the entire form of the work can be grouped in the following way:
+
+\singlespacing
+
+> Part A: Introduction, Variation 1, Variation 2
+>
+> Part B: Variation 3 and Variation 4
+>
+> Part C: Variation 5
+>
+> Part D: Variation 6 and Variation 7
+
+\doublespacing
+
+The introduction establishes the primary motivic and harmonic material, while variation 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped together in the previous list as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, containing the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar material with different orchestrations.
+
+The orchestrational features of the work are directly tied to the way Abrahamsen arranges the 15 musicians of *Wald* into a semi-circle containing six symmetrical groups. Figure 3 shows a diagram of the seating plan in the score and indicates that there are 4 groups of duos and 2 groups of trios with the piano occupying the central position and not belonging to any group.
+
+![Wald seating plan.](../figures/wald-seating-plan.png){width=75%}
+
+Throughout the variations, the six groups exchange musical ideas in a way that is often balanced and symmetrical. A brief examination of the first two sections of the introduction (measures 1-72) will illustrate this process. This passage features the horn call motive from *Walden* and shows how Abrahamsen expanded the earlier piece's process of rhythmic displacement to apply both to motivic ordering and pitch ordering.
+
+Like *Walden*, the first section of the introduction features four phrases where motives undergo gradual rhythmic displacement. Each of the four phrases repeats verbatim as Abrahamsen makes extensive use of repeat signs in the introduction and first two variations. The number of measures within these phrases can be described in this way: 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||.
+
+The harmonic material of this first section is extremely paired down, consisting of only a D4-G4 dyad colored by a 1/6th-tone flat D4-G4. The motivic  containing the rising perfect fourth motive and subsequent echoes that
+
+<!-- # A Preliminary View of Wald
+- some on Walden, and example of the theme
+- general comments about orchestration, form, etc.
+- short section of some detail to show analytical methodology -->
 
 # Summary of the Literature
 Relatively unknown outside of Europe until recently, Abrahamsen's international profile has expanded significantly after the composition of *Schnee* and more recently with the Berlin Philharmonic premiere of the song cycle *let me tell you* (2014). The Cleveland Orchestra's recent American tour of this piece and its receipt of the 2016 Grawemeyer Award for Music has brought further attention to Abrahamsen in the United States.

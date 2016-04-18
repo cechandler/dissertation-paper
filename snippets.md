@@ -81,4 +81,11 @@ speculation: what he learned in the middle to give rise to these things
 influence of minimalism and Steve Reich (repeating material)
 
 
-It was jointly commissioned by the Danish ensemble ASKO Schönberg and the Birmingham Contemporary Music Group, and the large ensemble is arranged in six groups seated in symmetrical semi-circles. 
+It was jointly commissioned by the Danish ensemble ASKO Schönberg and the Birmingham Contemporary Music Group, and the large ensemble is arranged in six groups seated in symmetrical semi-circles.
+
+
+# On Wald
+
+The first movement begins with a call and response texture that gradually grows in dynamics and **something**, towards the end quiet staccato punctuations begin in the horn and bassoon and are quickly picked up by the rest of the ensemble ending in tutti gesture. The second movement picks up where the first left with unison melody between two instruments accompanied by quiet punctuations in the others. The movement is characterized by a melancholy oboe solo containing motives from the first movement.
+
+and , reminiscent of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968), consisting of a repeating three-note pattern. As
