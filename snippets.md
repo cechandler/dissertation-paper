@@ -89,3 +89,15 @@ It was jointly commissioned by the Danish ensemble ASKO Schönberg and the Birmi
 The first movement begins with a call and response texture that gradually grows in dynamics and **something**, towards the end quiet staccato punctuations begin in the horn and bassoon and are quickly picked up by the rest of the ensemble ending in tutti gesture. The second movement picks up where the first left with unison melody between two instruments accompanied by quiet punctuations in the others. The movement is characterized by a melancholy oboe solo containing motives from the first movement.
 
 and , reminiscent of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968), consisting of a repeating three-note pattern. As
+
+
+
+>Phrase 1: `<1 2 3 6 7 8>`
+>
+>Phrase 2: `<1 2 6 3 7 8>`
+>
+>Phrase 3: `<1 6 3 7 8>`
+>
+>          `<  2      >`
+>
+> Phrase 4: `<1 6 2 7 3 8>`

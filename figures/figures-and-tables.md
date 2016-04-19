@@ -19,7 +19,7 @@ header-includes:
 | Intro   | mm. 1-108   |                                    |                                   |
 |         | 1           | Tempo I \quarterNoteDotted = 88    | Allegro con brio                  |
 |         |             |                                    | "wie aus der Ferne"               |
-|         |             |                                    | ("as from a distance")            |
+|         |             |                                    | ("as if from a distance")         |
 |         | 37          | Tempo II \halfNote = 66            | Poco meno ma maestoso             |
 |         |             |                                    | poco grottesco e ironico          |
 |         | 73          | Tempo III \quarterNoteDotted = 100 | Allegro vivace e agitato          |
@@ -30,7 +30,7 @@ header-includes:
 |         | 109         | Tempo I \quarterNoteDotted = 92    | Allegro con brio                  |
 |         |             |                                    | ma un poco piu mosso              |
 |         |             |                                    | ancora "wie aus der Ferne"        |
-|         |             |                                    | (yet "as from a distance")        |
+|         |             |                                    | (yet "as if from a distance")     |
 |         | 171         | Tempo II \halfNote = 77            | Poco meno maestoso                |
 |         |             |                                    | ma un poco piu mosso              |
 |         |             |                                    | ma poco lamentoso                 |
