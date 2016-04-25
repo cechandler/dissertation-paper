@@ -1,15 +1,6 @@
 <!-- UNUSED SNIPPETS -->
 
-# On Walden
-*Walden* is a four-movement work for wind quintet composed in 1978 and commissioned by the Funen Wind Quintet. The title of the work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN] Abrahamsen's piece reflects on this experiment and indicates in his program note:
-
-\singlespacing
-
-> Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN]
-
-\doublespacing
-
- This analysis will address each variation and identify pitch and rhythmic structures, the use of the ensemble's symmetrical layout, and how Abrahamsen develops and varies the musical material across the work.
+This analysis will address each variation and identify pitch and rhythmic structures, the use of the ensemble's symmetrical layout, and how Abrahamsen develops and varies the musical material across the work.
 
 
 # Appendix
@@ -101,3 +92,27 @@ and , reminiscent of the eighth movement of Ligeti's *Ten Pieces for Wind Quinte
 >          `<  2      >`
 >
 > Phrase 4: `<1 6 2 7 3 8>`
+
+
+#### Unused proposal part on section 2 of introduction
+The second section of the introduction contrasts with the first by way of tempo, meter, rhythmic activity, pitch collection, and orchestration, but it retains the same basic principle of gradual displacement now expanded to both motivic ordering and pitch ordering. Like the first section, the second begins with 2 unrepeated measures and then repeats four phrases verbatim that alternate 8-measure and 9-measure lengths:
+
+> \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
+
+The starting 2 measures abruptly break the perfect fourth pedal point as the pianist performs punctuated `<123678>` **give pc set** clusters. The two violins of Group V that previously alternated repetitions of the D4-G4 and 1/6th tone flat D4-G4 dyads now exchange dyads a half-step higher and lower (C#4-F#4 and Eb4-Ab4). The bass flute and horn (the most active of the first section) rest during the second section. The rest of the ensemble joins in articulating one of two motives: the calling perfect fourth gesture now harmonized as `<123>` and `<678>` clusters and a chromatically ascending percussive line.
+
+The presentation of these two motives continues to reflect the ensemble seating plan. During the 8-measure phrases, Groups I and VI play the perfect fourth motive, with the bassoon and bass clarinet (Group I) playing in equal temperament and the trumpet and bass trumpet (Group VI) playing a 1/6th tone flat intonation. The ascending chromatic line is fully presented by the harp, and additionally doubled in Group II, where the viola and English horn alternate each note of the line. The roles flip symmetrically during the 9-measure phrases (e.g. Group I divides the chromatic line while Group II plays the perfect fourth motive).
+
+As is the case with the first section, these two motives gradually change position over the course of the four phrases. Additionally, the order of the pitches in the chromatically ascending line also undergoes a rotational procedure. With each phrase, the pitch class `6` moves forward one position (with the exception of phrase 3 where it occurs simultaneously with `2`), and during the final phrase, pitch class `7` also shifts forward one position creating a series of chromatically ascending perfect fourths:
+
+\singlespacing
+
+~~~
+    Phrase 1: <1 2 3 6 7 8>
+    Phrase 2: <1 2 6 3 7 8>
+    Phrase 3: <1 6 3 7 8  >
+              <  2        >
+    Phrase 4: <1 6 2 7 3 8>
+~~~
+
+\doublespacing
