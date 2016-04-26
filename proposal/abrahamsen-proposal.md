@@ -6,8 +6,8 @@ coadviser: Professor Ricardo Zohn-Muldoon
 papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
-bibliography: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/citations/abrahamsen.bib"
-csl: "/Volumes/Data/Box\ Sync/Composition/Current\ Projects/Dissertation\ Paper/Citations/chicago-note-bibliography.csl"
+bibliography: "/Volumes/Data/Box Sync/Composition/Current Projects/dissertation paper/citations/abrahamsen.bib"
+csl: "/Volumes/Data/Box Sync/Composition/Current Projects/dissertation paper/citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
 header-includes:
     - \usepackage{setspace}
