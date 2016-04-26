@@ -246,25 +246,24 @@ $endfor$
     $include-before$
   $endfor$
 
-  $if(toc)$
-    {
-      $if(colorlinks)$
-        \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
-      $endif$
-      \setcounter{tocdepth}{$toc-depth$}
-      \tableofcontents
-    }
-  $endif$
-
-  $if(lot)$
-    \listoftables
-  $endif$
-
-  $if(lof)$
-    \listoffigures
-  $endif$
-
-  \pagenumbering{arabic}
+% Commented so that order of source files in dissertation folder determines order
+  % $if(toc)$
+  %   {
+  %     $if(colorlinks)$
+  %       \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+  %     $endif$
+  %     \setcounter{tocdepth}{$toc-depth$}
+  %     \tableofcontents
+  %   }
+  % $endif$
+  %
+  % $if(lot)$
+  %   \listoftables
+  % $endif$
+  %
+  % $if(lof)$
+  %   \listoffigures
+  % $endif$
 
   $body$
 
