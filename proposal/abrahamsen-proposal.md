@@ -1,4 +1,8 @@
 ---
+author: Christopher Chandler
+title: "Hans Abrahamsen's Second Period: An Analysis of *Wald*"
+adviser: Professor David Headlam
+coadviser: Professor Ricardo Zohn-Muldoon
 papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt

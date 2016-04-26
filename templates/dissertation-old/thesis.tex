@@ -1,0 +1,42 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                 %
+%                            ROOT FILE                            %
+%                                                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		                                 														  %
+%  Run LaTeX or pdfLaTeX on this file to produce your thesis.	    %
+%																                                  %
+%																                                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{thesis}
+\usepackage[letterpaper,margin=1.25in]{geometry}
+\usepackage{achicago}     % chicago style citations for bibtex
+\usepackage[T1]{fontenc}  % font encoding to allow <> to be used
+
+% Use the first command below if you want captions over 1 line indented. A side
+% effect of this is to remove the use of bold for captions (thesis default).
+% To restore bold, also include the second line below.
+\usepackage[hang]{caption}      		% to indent subsequent lines of captions
+
+% \renewcommand{\captionfont}{\bfseries} 	% bold caption (needed with caption
+                                       	  % package to restore boldface.)
+% \includeonly{chap1}  				            % use \includeonly to process only
+                      					          % the file(s) listed inside the braces
+% \usepackage{showframe}                  % show layout frame/margins
+
+\begin{document}
+
+\nocite{*}
+
+\include{./includes/title-page} % titlepage material for PhD thesis
+% \include{bio-sketch}        % biographical sketch for UR guidelines
+% \include{acknowledgements}  % acknowledgements
+% \include{abstract}          % abstract
+\include{./includes/preamble} % list of tables and figures
+% \include{./includes/becoming}          % chapter 1
+\include{./includes/dissertation-proposal-md}
+\include{./includes/bibliography}      % bibliography
+% \include{appendix}          % appendix
+
+\end{document}
