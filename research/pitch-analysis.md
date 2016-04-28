@@ -1,0 +1,238 @@
+# Introduction, Variation 1, and Variation 2 Section 4
+
+## Introduction
+### Phrase One: Marimba
+TYPE PC SET (0..9, AaBbTtEe, SC#): 29t5t55552
+	# = 10
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T9P    	4-20[0158]	4-7		--	YES
+
+### Phrase One: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): e078782825
+	# = 10
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T5P    	6-29[023679]	6-42	6-50	YES
+
+### Phrase One: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 29t5t55552e078782825
+	# = 20
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T5P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Two: Piano RH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 3816e412e482ee828e
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T11P    	7-23[0234579]	7-2		--	NO
+
+### Phrase Two: Piano LH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 0et987e57755725552
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T5P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Two: Piano RH and LH Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 3816e412e482ee828e0et987e57755725552
+	# = 36
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
+
+### Phrase Three: Marimba
+TYPE PC SET (0..9, AaBb, SC#): 408519484515e84585e82285
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T8P    	8-17[01345689]	8-17		--	YES
+
+### Phrase Three: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): 73e2t67e72t22e72522e5e52
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T7I    	7-21[0124589]	7-21		--	NO
+
+### Phrase Three: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 408519484515e84585e8228573e2t67e72t22e72522e5e52
+	# = 48
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
+
+### Phrase Four: Piano RH
+TYPE PC SET (0..9, AaBb, SC#): e4t3812816e46e482812ee6e4823828eee
+	# = 34
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T4I    	8-22[0123568A]	8-2		--	NO
+
+### Phrase Four: Piano LH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 870et5t9878755t5828755555282
+	# = 28
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T5P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Four: RH and LH Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): e4t3812816e46e482812ee6e4823828eee870et5t9878755t5828755555282
+	# = 62
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
+
+
+
+## Variation 1
+### Phrase One: Marimba
+TYPE PC SET (0..9, AaBb, SC#): 018989396
+	# = 9
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T6P    	6-29[023679]	6-42	6-50	YES
+
+### Phrase One: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): 3te6e66663
+	# = 10
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T10P    	4-20[0158]	4-7		--	YES
+
+### Phrase One: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 0189893963te6e66663
+	# = 19
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T6P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Two: Piano RH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 453530300675353030
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T7I    	6-36[012347]	6-47	6-3	NO
+
+### Phrase Two: Piano LH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 1868636333t8686363
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T6P    	5-35[02479]	5-1		--	YES
+
+### Phrase Two: Piano RH and LH Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 4535303006753530301868636333t8686363
+	# = 36
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T8I    	9-7[01234578A]	9-2		--	NO
+
+### Phrase Three: Marimba
+TYPE PC SET (0..9, AaBbTtEe, SC#): e38333301565606037838333
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T8I    	8-16[01235789]	8-5		--	NO
+
+### Phrase Three: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): 26560603483833336t565606
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T2P    	8-21[0123468A]	8-21		--	YES
+
+### Phrase Three: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): e3833330156560603783833326560603483833336t565606
+	# = 48
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T10P    	11-1[0123456789A]	11-1		--	YES
+
+### Phrase Four: Piano RH
+TYPE PC SET (0..9, AaBb, SC#): 7053030092353030e453530316753530
+	# = 32
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T11P    	10-2[012345678A]	10-2		--	YES
+
+### Phrase Four: Piano LH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 9863633e68636318686363t86863
+	# = 28
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T6P    	7-23[0234579]	7-2		--	NO
+
+### Phrase Four: RH and LH Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 7053030092353030e4535303167535309863633e68636318686363t86863
+	# = 60
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
+
+
+## Variation Two
+### Phrase One: Marimba
+TYPE PC SET (0..9, AaBbTtEe, SC#): e6727222e
+	# = 9
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T6P    	4-20[0158]	4-7		--	YES
+
+### Phrase One: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): 894545e542
+	# = 10
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T2P    	6-29[023679]	6-42	6-50	YES
+
+### Phrase One: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): e6727222e894545e542
+	# = 19
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T2P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Two: Piano RH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 05t381te815e885e58
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T8P    	7-23[0234579]	7-2		--	NO
+
+### Phrase Two: Piano LH
+TYPE PC SET (0..9, AaBbTtEe, SC#): 9876547254225e222e
+	# = 18
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T2P    	8-10[02345679]	8-10		--	YES
+
+### Phrase Two: Piano RH and LH Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 05t381te815e885e589876547254225e222e
+	# = 36
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
+
+### Phrase Three: Marimba
+TYPE PC SET (0..9, AaBb, SC#): 408e73484e7ee84e2ee8e82e
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T4I    	7-21[0124589]	7-21		--	NO
+
+### Phrase Three: Harp
+TYPE PC SET (0..9, AaBbTtEe, SC#): 1952t61512t2851252858e52
+	# = 24
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T5P    	8-17[01345689]	8-17		--	YES
+
+### Phrase Three: Marimba and Harp Union
+TYPE PC SET (0..9, AaBbTtEe, SC#): 408e73484e7ee84e2ee8e82e1952t61512t2851252858e52
+	# = 48
+
+MAP <==	NAME[PF]		M/MI	Z	SYMMETRIC
+T0P    	12-1[0123456789AB]	12-1		--	YES
