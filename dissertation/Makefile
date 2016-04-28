@@ -30,7 +30,8 @@ pdf:
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
 	--from=markdown+table_captions \
-	--latex-engine=xelatex
+	--latex-engine=xelatex; \
+	open "$(OUTPUTDIR)/$(OUTFILE).pdf"
 
 tex:
 	pandoc "$(INPUTDIR)"/*.md \
