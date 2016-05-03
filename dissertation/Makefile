@@ -26,6 +26,7 @@ pdf:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).pdf" \
 	--template="$(STYLEDIR)/template.tex" \
+	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -37,6 +38,7 @@ tex:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).tex" \
 	--template="$(STYLEDIR)/template.tex" \
+	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -46,7 +48,8 @@ tex:
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).docx" \
-	--reference-docx="$(STYLEDIR)/reference.docx"
+	--reference-docx="$(STYLEDIR)/reference.docx" \
+	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -57,7 +60,8 @@ docx:
 odt:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).odt" \
-	--reference-docx="$(STYLEDIR)/reference.odt"
+	--reference-docx="$(STYLEDIR)/reference.odt" \
+	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
