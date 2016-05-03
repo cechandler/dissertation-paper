@@ -13,47 +13,48 @@ The layers of organicism, concretism, and descriptive are fitting descriptions o
 <!-- In future discussion of Walden's first movement, orient the displacement around the clarinet since it's rhythmic position never changes.  -->
 <!-- Walden's movement durations decrease successively -->
 
-The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure 1 shows the first two of four phrases separated by grand pauses.
+The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure @fig:horn-theme shows the first two of four phrases separated by grand pauses.
 
-![Horn call and responses.](../figures/walden-horn-theme.png){width=75%}
+![Horn call and responses.](../figures/walden-horn-theme.png){#fig:horn-theme width=75%}
 
-The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure 2).
+The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4).
 
-![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){width=75%}
+![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:horn-phrase4 width=75%}
 
 
 ## Wald
-The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance. The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table 1, measured from the commercially released recording,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*.
+The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance. The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table @tbl:wald-proportions, measured from the commercially released recording,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*.
 
 \singlespacing
 
-Table: *Wald* Formal Proportions
+Table: *Wald* Formal Proportions. {#tbl:wald-proportions}
 
-| Section      | Duration |
-|:-------------|:---------|
-| Introduction | 3:10     |
-| Variation 1  | 2:38     |
-| Variation 2  | 2:09     |
-| Variation 3  | 2:35     |
-| Variation 4  | 2:00     |
-| Variation 5  | 1:39     |
-| Variation 6  | 1:31     |
-| Variation 7  | 1:18     |
+|   Section    | Duration |
+|:------------:|:--------:|
+| Introduction |   3:10   |
+| Variation 1  |   2:38   |
+| Variation 2  |   2:09   |
+| Variation 3  |   2:35   |
+| Variation 4  |   2:00   |
+| Variation 5  |   1:39   |
+| Variation 6  |   1:31   |
+| Variation 7  |   1:18   |
+
 
 \doublespacing
 
-These variations are juxtaposed with little to no transitional material. Their boundaries and subsections are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. Table 2 gives a comprehensive list of every tempo change and descriptive marking that accompanies a new subsection or variation.
+These variations are juxtaposed with little to no transitional material. Their boundaries and subsections are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. Table @tbl:wald-form gives a comprehensive list of every tempo change and descriptive marking that accompanies a new subsection or variation.
 
 \singlespacing
 
-Table: *Wald* Tempo and Descriptive Markings
+Table: *Wald* Tempo and Descriptive Markings {#tbl:wald-form}
 
 | Section | Measures    | Tempo                              | Descriptive markings              |
 |:--------|:------------|:-----------------------------------|:----------------------------------|
 | Intro   | mm. 1-108   |                                    |                                   |
 |         | 1           | Tempo I \quarterNoteDotted = 88    | Allegro con brio                  |
 |         |             |                                    | "wie aus der Ferne"               |
-|         |             |                                    | ("as if from a distance")         |
+|         |             |                                    | ("as from a distance")            |
 |         | 37          | Tempo II \halfNote = 66            | Poco meno ma maestoso             |
 |         |             |                                    | poco grottesco e ironico          |
 |         | 73          | Tempo III \quarterNoteDotted = 100 | Allegro vivace e agitato          |
@@ -63,7 +64,7 @@ Table: *Wald* Tempo and Descriptive Markings
 |         | 109         | Tempo I \quarterNoteDotted = 92    | Allegro con brio                  |
 |         |             |                                    | ma un poco piu mosso              |
 |         |             |                                    | ancora "wie aus der Ferne"        |
-|         |             |                                    | (yet "as if from a distance")     |
+|         |             |                                    | (yet "as from a distance")        |
 |         | 171         | Tempo II \halfNote = 77            | Poco meno maestoso                |
 |         |             |                                    | ma un poco piu mosso              |
 |         |             |                                    | ma poco lamentoso                 |
@@ -100,6 +101,7 @@ Table: *Wald* Tempo and Descriptive Markings
 | Var 7   | mm. 595-605 |                                    |                                   |
 |         | 595         | \eighthNote = 64                   | Piu lento                         |
 
+
 \doublespacing
 
 This table highlights variations and sections that are musically connected by these indications, but does not describe the full extent of their relationships. There are interrelated sections and variations across the piece that are not captured by this table. The entire form of the work can be grouped in the following way:
@@ -122,8 +124,8 @@ The introduction establishes the primary motivic and harmonic material, while va
 
 The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
-Abrahamsen's arrangement of the 15 musicians^[Scored for: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass.] into a semi-circle of six symmetrical groups guides his approach to orchestration. Figure 3 shows a diagram of the seating plan in the score and indicates the 4 groups of duos and 2 groups of trios with the piano occupying the central position outside of any group.
+Abrahamsen's arrangement of the 15 musicians^[Scored for: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass.] into a semi-circle of six symmetrical groups guides his approach to orchestration. Figure @fig:wald-seating-plan shows a diagram of the seating plan in the score and indicates the 4 groups of duos and 2 groups of trios with the piano occupying the central position outside of any group.
 
-![*Wald* seating plan.](../figures/wald-seating-plan.png){width=60%}
+![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=60%}
 
 Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups. A brief examination of the first sections of the introduction (measures 1-36) illustrates this process.
