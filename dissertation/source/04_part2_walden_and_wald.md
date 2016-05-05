@@ -1,26 +1,74 @@
 # Part 2: An Overview of *Walden* and *Wald*
 ## Walden
+### Background and Instrumentation
 An analysis of *Wald* must first begin with *Walden*, as it provides the germinal material later recast in *Wald*. Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. The title of the four-movement work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN Program note] In the program note for the piece, Abrahamsen describes the musical material and the kinds of processes that interested him:
 
 \singlespacing
+
+<!-- Full Note -->
+
+> The title is taken from the American philosopher and poet Henry David Thoreau’s novel from 1854 about living in the woods, which Thoreau did for two years. His stay there was an experiment, an attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature. In that particular sense his novel is a documentation of social inadequacy and a work of poetry (Utopia) as well.
+
+> All thought Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology. His ideas are particularly relevant now that pollution caused by society has reached alarming proportions.
+
+> Walden was written in a style of re-cycling and “new simplicity”. A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, Decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). Walden consist of four movements.
+
+> In 1995 another version for reed quintet was written to the Calefax Reed Quintet.[@WaldenPN Program note]
+
+<!-- Edited Note -->
 
 > Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN Program note]
 
 \doublespacing
 
+**section on rearrangement for reed quintet**
+
+### Form
 The layers of organicism, concretism, and descriptive are fitting descriptions of how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4). This susurrous texture gradually decreases in speed and gives way to slow legato oscillating patterns that mechanistically compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth note texture. The "ghost-like music of the past" has relevance to both the horn call of the first movement as well as the fourth movement whose contrapuntal texture is stylistically reminiscent of Baroque music. This final movement features a composite texture of an E-major flute and bassoon duo in 3/4 and an Eb-major trio of oboe, clarinet, and horn in 6/8.
 
-<!-- In future discussion of Walden's first movement, orient the displacement around the clarinet since it's rhythmic position never changes.  -->
-<!-- Walden's movement durations decrease successively -->
+Walden's movement durations decrease successively
+
+\singlespacing
+
+Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
+
+|     Section     | Duration |
+|:---------------:|:--------:|
+| First Movement  |   2:57   |
+| Second Movement |   2:51   |
+| Third Movement  |   2:33   |
+| Fourth Movement |   1:04   |
+
+\doublespacing
 
 The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure @fig:horn-theme shows the first two of four phrases separated by grand pauses.
 
 ![Horn call and responses.](../figures/walden-horn-theme.png){#fig:horn-theme width=75%}
 
-The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4).
+The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4). **orient the displacement discussion around the clarinet since its rhythmic position never changes**
 
 ![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:horn-phrase4 width=75%}
 
+**cross relationships between movements**
+
+
+* first movement: perfect fourth motive and displacement
+* first movement: limited melodic motives
+* second movement: picking up where the first left off after the punctuated interruption
+* second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
+* third movement: oboe F# C# at climax
+* third movement: punctuated gesture towards end
+* fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
+* fourth movement: polymeter and various subsets
+
+**connect aspects of Walden to other music**
+
+
+* Winternacht: movement picking up where the last left off
+* Winternacht: material returning in another movement
+* Winternacht:
+
+### Relationships to Wald
 
 ## Wald
 The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance. The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table @tbl:wald-proportions, measured from the commercially released recording,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*.
@@ -29,16 +77,16 @@ The simplicity and straightforward process-driven development of this material i
 
 Table: *Wald* Formal Proportions. {#tbl:wald-proportions}
 
-|   Section    | Duration |
-|:------------:|:--------:|
-| Introduction |   3:10   |
-| Variation 1  |   2:38   |
-| Variation 2  |   2:09   |
-| Variation 3  |   2:35   |
-| Variation 4  |   2:00   |
-| Variation 5  |   1:39   |
-| Variation 6  |   1:31   |
-| Variation 7  |   1:18   |
+| Section      | Duration |
+|:-------------|:---------|
+| Introduction | 3:10     |
+| Variation 1  | 2:38     |
+| Variation 2  | 2:09     |
+| Variation 3  | 2:35     |
+| Variation 4  | 2:00     |
+| Variation 5  | 1:39     |
+| Variation 6  | 1:31     |
+| Variation 7  | 1:18     |
 
 
 \doublespacing
