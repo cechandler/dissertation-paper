@@ -1,4 +1,7 @@
 # Part 1: Historical Context
+
+\singlespacing
+
 Table: Abrahamsen's Related Works {#tbl:related-works}
 
 | Work                         | Related Work                                      |
@@ -15,3 +18,5 @@ Table: Abrahamsen's Related Works {#tbl:related-works}
 | *Schnee* (2006-08) Canon 1A  | *let me tell you* (2013) I                        |
 | *Traumlieder* (2009)         | *Six Pieces* (1984)                               |
 | *Liebeslied* (2010)          | *Double Concerto* (2011) I                        |
+
+\doublespacing
