@@ -14,13 +14,12 @@ help:
 	@echo 'Makefile for the Markdown thesis       '
 	@echo '                                       '
 	@echo 'Usage:                                 '
-	@echo '   make html			generate a web version'
-	@echo '   make pdf      generate a PDF file  	'
-	@echo '   make docx	    generate a Docx file 	'
-	@echo '   make tex	    generate a Latex file '
+	@echo '   make html		generate a .html file		'
+	@echo '   make pdf		generate a .pdf file  	'
+	@echo '   make docx		generate a .docx file 	'
+	@echo '   make odt		generate a .odt file 		'
+	@echo '   make tex		generate a .tex file 		'
 	@echo ' 																	  	'
-	@echo 'get local templates with: pandoc -D latex/html/etc'
-	@echo 'or generic ones from: https://github.com/jgm/pandoc-templates'
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \

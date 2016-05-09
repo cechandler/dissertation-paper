@@ -20,3 +20,12 @@ Table: Abrahamsen's Related Works {#tbl:related-works}
 | *Liebeslied* (2010)          | *Double Concerto* (2011) I                        |
 
 \doublespacing
+
+**importance of horn to Abrahamsen**
+
+* connection to hunting:
+  * from Cheung Dissertation: Raymond Monelle explains, "The medieval hunting horn was primarily a signaling instrument. During the course of personnel and hounds could become dispersed over wide area, and it was often necessary to communicate certain water, the release sight of the quarry, the loss of the scent, the plunging of the quarry into probable route of of (relais, small teams of huntsmen and hounds posted along the the hunt), the stag at bay, the stag and many other important steps in the process of hunting needed to be broadcast to the various members of the hunting party. The sound of the horns was also found to stimulate the hounds."  Mondelle, Raymond. *The Musical Topic: Hunt, Military and Pastoral*. Bloomington, IN: Indiana University Press, 2006.
+* connection to German romanticism
+* connection to Schumann's *Waldenszen*
+* connection to *Six Pieces* (companion piece to Danish premiere of Ligeti's *Horn Trio*)
+* connection to Ligeti's Horn Trio and Hamburg Concerto (?)

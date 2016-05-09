@@ -52,21 +52,21 @@ The phrases contain two motives: a single rising Bb-Eb call and three D-F echoin
 **cross relationships between movements**
 
 
-* first movement: perfect fourth motive and displacement
-* first movement: limited melodic motives
-* second movement: picking up where the first left off after the punctuated interruption
-* second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
-* third movement: oboe F# C# at climax
-* third movement: punctuated gesture towards end
-* fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
-* fourth movement: polymeter and various subsets
+- first movement: perfect fourth motive and displacement
+- first movement: limited melodic motives
+- second movement: picking up where the first left off after the punctuated interruption
+- second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
+- third movement: oboe F# C# at climax
+- third movement: punctuated gesture towards end
+- fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
+- fourth movement: polymeter and various subsets
 
 **connect aspects of Walden to other music**
 
 
-* Winternacht: movement picking up where the last left off
-* Winternacht: material returning in another movement
-* Winternacht:
+- Winternacht: movement picking up where the last left off
+- Winternacht: material returning in another movement
+- Winternacht:
 
 ### Relationships to Wald
 
