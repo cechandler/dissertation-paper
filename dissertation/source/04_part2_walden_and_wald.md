@@ -1,4 +1,25 @@
 # Part 2: An Overview of *Walden* and *Wald*
+
+**importance of horn to Abrahamsen**
+
+- principle instrument
+- physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
+- connection to *Six Pieces* (companion piece to Danish premiere of Ligeti's *Horn Trio*)
+- connection to Ligeti's Horn Trio and Hamburg Concerto (?)
+- connection to German romanticism
+- connection to Schumann's *Waldenszen*
+- - connection to hunting:
+  - from Cheung Dissertation: Raymond Monelle explains, "The medieval hunting horn was primarily a signaling instrument. During the course of personnel and hounds could become dispersed over wide area, and it was often necessary to communicate certain water, the release sight of the quarry, the loss of the scent, the plunging of the quarry into probable route of of (relais, small teams of huntsmen and hounds posted along the the hunt), the stag at bay, the stag and many other important steps in the process of hunting needed to be broadcast to the various members of the hunting party. The sound of the horns was also found to stimulate the hounds."  Mondelle, Raymond. *The Musical Topic: Hunt, Military and Pastoral*. Bloomington, IN: Indiana University Press, 2006.
+
+**Left, alone** program note:
+> I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
+>
+> My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
+>
+> Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title Left, alone contains all kinds of references, not only to the obvious fact that the left hand is playing alone. Left, alone is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
+
+- *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
+
 ## Walden
 ### Background and Instrumentation
 An analysis of *Wald* must first begin with *Walden*, as it provides the germinal material later recast in *Wald*. Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. The title of the four-movement work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN Program note] In the program note for the piece, Abrahamsen describes the musical material and the kinds of processes that interested him:
