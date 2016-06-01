@@ -42,7 +42,8 @@ tex:
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
 	--from=markdown+table_captions \
-	--latex-engine=xelatex
+	--latex-engine=xelatex; \
+	open "$(OUTPUTDIR)/$(OUTFILE).tex"
 
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
@@ -53,20 +54,20 @@ docx:
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
 	--from=markdown+table_captions \
-	--latex-engine=xelatex
-	--toc
+	--latex-engine=xelatex; \
+	open "$(OUTPUTDIR)/$(OUTFILE).docx"
 
 odt:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).odt" \
-	--reference-docx="$(STYLEDIR)/reference.odt" \
+	--reference-odt="$(STYLEDIR)/reference.odt" \
 	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
 	--from=markdown+table_captions \
-	--latex-engine=xelatex
-	--toc
+	--latex-engine=xelatex; \
+	open "$(OUTPUTDIR)/$(OUTFILE).odt"
 
 html:
 	pandoc "$(INPUTDIR)"/*.md \
