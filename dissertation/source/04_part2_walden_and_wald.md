@@ -14,39 +14,66 @@
 
 **Left, alone** program note:
 
+\singlespacing
+
 > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
 >
 > My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
 >
 > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title Left, alone contains all kinds of references, not only to the obvious fact that the left hand is playing alone. Left, alone is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
+\doublespacing
+
 - *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
+
+**connection of both pieces to nature/German Romanticism?**
 
 ## Walden
 ### Background and Instrumentation
-An analysis of *Wald* must first begin with *Walden*, as it provides the germinal material later recast in *Wald*. Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. The title of the four-movement work comes from Henry David Thoreau's novel of the same name that documented the American philosopher's "attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature."[@WaldenPN Program note] In the program note for the piece, Abrahamsen describes the musical material and the kinds of processes that interested him:
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995 during his fermata period, Abrahamsen created an arrangement of the piece for the Califax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some minor tempi adjustments and addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original version where the instrumental material has been reassigned to a corresponding instrument (see Table @tbl:walden-arrangement). This discussion of *Walden* will refer to the score of original 1978 version.
+
+**review the 1995 version later movements in greater detail to make sure this is the case**
+
+**questions**
+
+- date and place of premiere
+- date and place of reed quintet version premiere
+- considerations when translating the arrangement
+- adjustments made between the two versions
 
 \singlespacing
 
-<!-- Full Note -->
+Table: *Walden* Orchestration Comparison. {#tbl:walden-arrangement}
+
+| Woodwind Quintet |   | Reed Quintet         |
+|:-----------------|:--|:---------------------|
+| Flute            | > | Clarinet in A        |
+| Oboe             | > | Oboe d'amore         |
+| Clarinet in A    | > | Alto Saxophone in Eb |
+| Horn in F        | > | Bass Clarinet in Bb  |
+| Bassoon          | > | Bassoon              |
+
+\doublespacing
+
+Like many works throughout his career, *Walden* is deeply inspired by nature and has a connection to another non-musical, artistic field. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
+
+\singlespacing
 
 > The title is taken from the American philosopher and poet Henry David Thoreau’s novel from 1854 about living in the woods, which Thoreau did for two years. His stay there was an experiment, an attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature. In that particular sense his novel is a documentation of social inadequacy and a work of poetry (Utopia) as well.
 
 > All thought Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology. His ideas are particularly relevant now that pollution caused by society has reached alarming proportions.
 
-> Walden was written in a style of re-cycling and “new simplicity”. A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, Decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). Walden consist of four movements.
-
-> In 1995 another version for reed quintet was written to the Calefax Reed Quintet.[@WaldenPN Program note]
-
-<!-- Edited Note -->
-
-> Walden was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).[@WaldenPN Program note]
+> *Walden* was written in a style of re-cycling and “new simplicity”. A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, Decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). *Walden* consist of four movements.
 
 \doublespacing
 
-**section on rearrangement for reed quintet**
+**discuss re-cycling, new simplicity, identity, clarity, and layers**
+
+**connection to Winternacht and similar ideas**
 
 ### Form
+*Walden* is comprised of four movements without titles that differ in character and tempo yet share musical material between them. Each movement gradually decreases in duration over the course of the piece (see Table @tbl:walden-proportions, timings taken from 1994 recording **need citation**).
+
 The layers of organicism, concretism, and descriptive are fitting descriptions of how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4). This susurrous texture gradually decreases in speed and gives way to slow legato oscillating patterns that mechanistically compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth note texture. The "ghost-like music of the past" has relevance to both the horn call of the first movement as well as the fourth movement whose contrapuntal texture is stylistically reminiscent of Baroque music. This final movement features a composite texture of an E-major flute and bassoon duo in 3/4 and an Eb-major trio of oboe, clarinet, and horn in 6/8.
 
 Walden's movement durations decrease successively
@@ -85,6 +112,8 @@ The phrases contain two motives: a single rising Bb-Eb call and three D-F echoin
 - fourth movement: polymeter and various subsets
 
 **connect aspects of Walden to other music**
+
+**section on rearrangement for reed quintet**
 
 
 - Winternacht: movement picking up where the last left off

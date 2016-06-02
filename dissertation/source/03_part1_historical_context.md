@@ -6,6 +6,7 @@ Table: Abrahamsen's Related Works {#tbl:related-works}
 
 | Work                         | Related Work                                      |
 |:-----------------------------|:--------------------------------------------------|
+| *Winternacht* (1976-78) IV   | *Nacht und Trumpeten* (1981)                      |
 | *Ten Preludes* (1973)        | *Ten Sinfonias* (2010)                            |
 | *Ten Studies* (1984-98) I-IV | *Six Pieces* (1984)                               |
 | *Ten Studies* (1984-98) I-IV | *Four Pieces for Orchestra* (2004) I-IV           |

@@ -3,8 +3,8 @@ author: Christopher Chandler
 title: "Hans Abrahamsen's Second Period: An Analysis of *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
-bibliography: "/Volumes/Data/Box Sync/Composition/Current Projects/dissertation paper/citations/abrahamsen.bib"
-csl: "/Volumes/Data/Box Sync/Composition/Current Projects/dissertation paper/citations/chicago-note-bibliography.csl"
+bibliography: "/Volumes/Data 1/Box Sync/Composition/Current Projects/dissertation paper/citations/abrahamsen.bib"
+csl: "/Volumes/Data 1/Box Sync/Composition/Current Projects/dissertation paper/citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
 papersize: letter
 geometry: margin=1.25in
