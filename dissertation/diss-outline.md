@@ -11,7 +11,7 @@ header-includes:
     - \usepackage{url}
 ...
 
-### Preface Contents
+### Front Matter
 * Biographical Sketch
 * Acknowledgements
 * Abstract
@@ -24,18 +24,19 @@ header-includes:
         * characteristics of music
     * 1988-1999: pause
         * arrangements and reorchestrations
-      * 1999-present: second period ("post-fermata")
-        * new technical innovations
+    * 1999-present: second period ("post-fermata")
+      * new technical innovations
 
 ### Part One: Historical Context
 * Composers who have taken breaks:
-    * Schoenberg
-    * Donatoni
+    * Arnold Schoenberg
+    * Franco Donatoni
 * Composers that have reworked material:
     * Luciano Berio
     * Toru Takemitsu
     * Toshio Hosokawa
     * Pierre Boulez
+    * Franco Donatoni
 
 ### Part Two: A Brief Overview of *Walden* and *Wald*
 #### *Walden*
