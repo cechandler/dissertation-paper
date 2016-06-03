@@ -6,6 +6,8 @@ Table: Abrahamsen's Related Works {#tbl:related-works}
 
 | Work                         | Related Work                                      |
 |:-----------------------------|:--------------------------------------------------|
+| *Flowersongs* (1973)         | *Ten Preludes* (1973) VIII                        |
+| *Flowersongs* (1973)         | *Schnee* (2006-08) Canon 2A                       |
 | *Winternacht* (1976-78) IV   | *Nacht und Trumpeten* (1981)                      |
 | *Ten Preludes* (1973)        | *Ten Sinfonias* (2010)                            |
 | *Ten Studies* (1984-98) I-IV | *Six Pieces* (1984)                               |
@@ -21,3 +23,7 @@ Table: Abrahamsen's Related Works {#tbl:related-works}
 | *Liebeslied* (2010)          | *Double Concerto* (2011) I                        |
 
 \doublespacing
+
+From *Flowersongs* (1973) program note:
+
+> I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
