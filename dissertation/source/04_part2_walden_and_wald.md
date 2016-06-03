@@ -1,5 +1,5 @@
 # Part 2: An Overview of *Walden* and *Wald*
-
+<!--
 **importance of horn to Abrahamsen**
 
 - principle instrument
@@ -12,26 +12,27 @@
 - connection to hunting:
   - from Cheung Dissertation: Raymond Monelle explains, "The medieval hunting horn was primarily a signaling instrument. During the course of personnel and hounds could become dispersed over wide area, and it was often necessary to communicate certain water, the release sight of the quarry, the loss of the scent, the plunging of the quarry into probable route of of (relais, small teams of huntsmen and hounds posted along the the hunt), the stag at bay, the stag and many other important steps in the process of hunting needed to be broadcast to the various members of the hunting party. The sound of the horns was also found to stimulate the hounds."  Mondelle, Raymond. *The Musical Topic: Hunt, Military and Pastoral*. Bloomington, IN: Indiana University Press, 2006.
 
-**Left, alone** program note:
+*Left, alone* program note:
 
 \singlespacing
 
 > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
->
+
 > My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
->
+
 > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title Left, alone contains all kinds of references, not only to the obvious fact that the left hand is playing alone. Left, alone is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
 \doublespacing
 
-- *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
+*Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
 
-**connection of both pieces to nature/German Romanticism?**
+-->
 
 ## Walden
 ### Background and Instrumentation
-Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995 during his fermata period, Abrahamsen created an arrangement of the piece for the Califax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some minor tempi adjustments and addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original version where the instrumental material has been reassigned to a corresponding instrument (see Table @tbl:walden-arrangement). This discussion of *Walden* will refer to the score of original 1978 version.
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995 during his fermata period, Abrahamsen created an arrangement of the piece for the Califax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some tempi adjustments and addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original version but the instrumental material has been reassigned to a corresponding instrument (see Table @tbl:walden-arrangement). This discussion of *Walden* will refer to the score of original 1978 version.
 
+<!--
 **review the 1995 version later movements in greater detail to make sure this is the case**
 
 **questions**
@@ -40,6 +41,8 @@ Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet
 - date and place of reed quintet version premiere
 - considerations when translating the arrangement
 - adjustments made between the two versions
+
+-->
 
 \singlespacing
 
@@ -55,7 +58,7 @@ Table: *Walden* Orchestration Comparison. {#tbl:walden-arrangement}
 
 \doublespacing
 
-Like many works throughout his career, *Walden* is deeply inspired by nature and has a connection to another non-musical, artistic field. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
+Like many works throughout his career, *Walden* is deeply inspired by nature and connected to another artistic field, in this case literature. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
 
 \singlespacing
 
@@ -67,27 +70,29 @@ Like many works throughout his career, *Walden* is deeply inspired by nature and
 
 \doublespacing
 
+Abrahamsen's connection between Thoreau's "strip[ping] away all the artificial needs imposed by society" and the aesthetic ideals of "New Simplicity" is clearly expressed in the work. Several of the movements contain either re-cycled material from prior movements or very similar gestures which retain their musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending F# to C# perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27.
+
+Abrahamsen's *Walden* presents musical material paired down to the extreme.
+
 **discuss re-cycling, new simplicity, identity, clarity, and layers**
 
 **connection to Winternacht and similar ideas**
 
 ### Form
-*Walden* is comprised of four movements without titles that differ in character and tempo yet share musical material between them. Each movement gradually decreases in duration over the course of the piece (see Table @tbl:walden-proportions, timings taken from 1994 recording **need citation**).
+*Walden* is comprised of four movements without titles that differ in character and tempo but share musical material between them. Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[Timings taken from 1994 recording of **this ensemble**.] a technique he has used in several works (e.g. *Winternacht*, *Märchenbilder*, *Schnee*, *Wald*).
 
 The layers of organicism, concretism, and descriptive are fitting descriptions of how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4). This susurrous texture gradually decreases in speed and gives way to slow legato oscillating patterns that mechanistically compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth note texture. The "ghost-like music of the past" has relevance to both the horn call of the first movement as well as the fourth movement whose contrapuntal texture is stylistically reminiscent of Baroque music. This final movement features a composite texture of an E-major flute and bassoon duo in 3/4 and an Eb-major trio of oboe, clarinet, and horn in 6/8.
-
-Walden's movement durations decrease successively
 
 \singlespacing
 
 Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 
-|     Section     | Duration |
-|:---------------:|:--------:|
-| First Movement  |   2:57   |
-| Second Movement |   2:51   |
-| Third Movement  |   2:33   |
-| Fourth Movement |   1:04   |
+| Movement | Tempo                | Measures | Duration |
+|:---------|:---------------------|:---------|:---------|
+| I.       | \quarterNote = 63-66 | 67       | 2:57     |
+| II.      | \eighthNote = 76     | 30       | 2:51     |
+| III.     | \quarterNote = 52    | 32       | 2:33     |
+| IV.      | \quarterNote = 112   | 28       | 1:04     |
 
 \doublespacing
 
@@ -99,26 +104,25 @@ The phrases contain two motives: a single rising Bb-Eb call and three D-F echoin
 
 ![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:horn-phrase4 width=75%}
 
+<!--
 **cross relationships between movements**
-
 
 - first movement: perfect fourth motive and displacement
 - first movement: limited melodic motives
 - second movement: picking up where the first left off after the punctuated interruption
 - second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
-- third movement: oboe F# C# at climax
+- third movement: oboe F# C# at climax, mm. 26-27
 - third movement: punctuated gesture towards end
 - fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
 - fourth movement: polymeter and various subsets
 
 **connect aspects of Walden to other music**
 
-**section on rearrangement for reed quintet**
-
-
 - Winternacht: movement picking up where the last left off
 - Winternacht: material returning in another movement
 - Winternacht:
+- Ten Preludes and Flowersongs: ending with a clearly neo-classical movement
+-->
 
 ### Relationships to Wald
 
