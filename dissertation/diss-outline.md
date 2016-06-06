@@ -11,7 +11,7 @@ header-includes:
     - \usepackage{url}
 ...
 
-### Front Matter
+# Front Matter
 - Biographical Sketch
 - Acknowledgements
 - Abstract
@@ -28,6 +28,16 @@ header-includes:
       - new technical innovations
 
 ### Part One: Historical Context
+- Reason for this chatper
+
+From *Flowersongs* (1973) program note:
+
+\singlespacing
+
+> I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
+
+\doublespacing
+
 - Composers who have taken breaks:
     - Arnold Schoenberg
     - Franco Donatoni
@@ -42,8 +52,12 @@ header-includes:
 - importance of horn to Abrahamsen
   - principle instrument
   - physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
-  - connection to *Six Pieces* (companion piece to Danish premiere of Ligeti's *Horn Trio*)
-  - connection to Ligeti's Horn Trio and Hamburg Concerto (?)
+  - other works featuring the horn
+    - first piece for horn and piano
+    - *Six Pieces*
+      - companion piece to Danish premiere of Ligeti's *Horn Trio*
+      - Ligeti's Horn Trio
+      - Hamburg Concerto (?)
   - connection to German romanticism
   - connection to Schumann's *Waldenszen*
   - discuss "Waldhorn" (from program note) and natural horn/microtonality
@@ -58,11 +72,15 @@ header-includes:
 
 > My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
 
-> Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title Left, alone contains all kinds of references, not only to the obvious fact that the left hand is playing alone. Left, alone is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
+> Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
 \doublespacing
 
 *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
+
+*Ten Studies for Piano* program note:
+
+> It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
 #### *Walden*
 - Background
@@ -84,8 +102,8 @@ header-includes:
   - *Wald*
 
 - Form
-  - four movements
-    - untitled
+  - Basic Info
+    - four movements, untitled
     - decreasing durations
   - cross relationships between movements
     - first movement: perfect fourth motive and displacement
@@ -108,8 +126,19 @@ header-includes:
 
 ### Part Three: Analysis of *Wald*
 - Introduction, Variation 1, and Variation 2
+  - Section 1
+  - Section 2
+  - Section 3
+  - Section 4
+    - Cascading material in marimba/harp and piano
+    - Interval cycles at play
+    - Interlocking voices of the pentatonic 5-34[02469] material from Section 3
 - Variation 3 and Variation 4
 - Variation 5
+  - More interval cycles: 5-cycle and 6-cycle
+  - Two primary motives:
+    - ascending repeated figures voiced in fifths
+    - descending dyads of tritones, fourths, and
 - Variation 6 and  Variation 7
 
 ### Conclusion
