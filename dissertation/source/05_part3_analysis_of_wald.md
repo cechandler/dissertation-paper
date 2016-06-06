@@ -35,16 +35,8 @@ As is the case with the first section, these two motives gradually change positi
 ### Section 3
 ### Section 4
 
-- Cascading material in marimba/harp and piano
-- Interval cycles at play
-- Interlocking voices of the pentatonic 5-34[02469] material from Section 3
-
 ## Variation 3 and Variation 4
-## Variation 5
 
-- More interval cycles: 5-cycle and 6-cycle
-- Two primary motives:
-  - ascending repeated figures voiced in fifths
-  - descending dyads of tritones, fourths, and 
+## Variation 5
 
 ## Variation 6 and Variation 7
