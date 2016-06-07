@@ -4,8 +4,8 @@ title: "Hans Abrahamsen's Second Period: An Analysis of *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
 date: December 2016
-bibliography: "/Volumes/Data 1/Box Sync/Composition/Current Projects/dissertation paper/citations/abrahamsen.bib"
-csl: "/Volumes/Data 1/Box Sync/Composition/Current Projects/dissertation paper/citations/chicago-note-bibliography.csl"
+bibliography: "../citations/abrahamsen.bib"
+csl: "../citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
 papersize: letter
 geometry: margin=1.25in

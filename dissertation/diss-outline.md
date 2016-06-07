@@ -17,8 +17,9 @@ header-includes:
 - Abstract
 - Table of Contents
 - List of Figures
+- List of Tables
 
-### Introduction
+# Introduction
 - Abrahamsen's career
     - 1970s-1988: first period
         - characteristics of music
@@ -27,8 +28,8 @@ header-includes:
     - 1999-present: second period ("post-fermata")
       - new technical innovations
 
-### Part One: Historical Context
-- Reason for this chatper
+# Part One: Historical Context
+- Reason for this chapter
 
 From *Flowersongs* (1973) program note:
 
@@ -48,8 +49,9 @@ From *Flowersongs* (1973) program note:
     - Pierre Boulez
     - Franco Donatoni
 
-### Part Two: A Brief Overview of *Walden* and *Wald*
-- importance of horn to Abrahamsen
+# Part Two: A Brief Overview of *Walden* and *Wald*
+
+## Importance of horn to Abrahamsen
   - principle instrument
   - physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
   - other works featuring the horn
@@ -82,10 +84,10 @@ From *Flowersongs* (1973) program note:
 
 > It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
-#### *Walden*
+## *Walden*
 - Background
-  - Instrumentation and reorchestration
-  - Program notes
+  - instrumentation and reorchestration
+  - program notes
   - **questions**
     - date and place of premiere
     - date and place of reed quintet version premiere
@@ -93,16 +95,18 @@ From *Flowersongs* (1973) program note:
     - adjustments made between the two versions
 - Connections to Other Music
   - *Winternacht*
-    - similar material
+    - musical material
       - punctuated gestures
       - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
-    - material returning in another movement
-    - movement picking up where the last left off (can't remember why I said this??)
-    - *Ten Preludes* and *Flowersongs*: ending with a clearly neo-classical movement
+        - same articulation and triadic material
+    - formal similarity
+      - material returning in another movement
+      - movement picking up where the last left off (can't remember why I said this??)
+  - *Ten Preludes* and *Flowersongs*
+    - ending with a clearly neo-classical movement
   - *Wald*
-
 - Form
-  - Basic Info
+  - basic info
     - four movements, untitled
     - decreasing durations
   - cross relationships between movements
@@ -114,34 +118,50 @@ From *Flowersongs* (1973) program note:
     - third movement: punctuated gesture towards end
     - fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
     - fourth movement: polymeter and various subsets
-- First movement
+- Exmaples of organicism, concretism, and descriptive
 
-#### *Wald*
+## *Wald*
 - Background and instrumentation
-- Connections to Other Music
-  - *Winternacht* and connection to Beethoven's *Moonlight Sonata*
-  - *Schnee* and connection to Bach canons and *Contrapunctus*
-- Spatial layout
+  - co-commission
+  - world premieres
+  - instrumentation and use of bass instruments
+    - scordatura harp
+    - double horn in f/Bb?
+    - bass trumpet played by the trombone player
+  - seating plan introduction
+  - **questions**
+    - any changes made between two performances?
+- Connections to other music (good place for this discussion?)
+  - *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
+  - *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
+  - *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
 - Form
+  - series of variations
+- Spatial layout
+  - connection to call and response
+  - connection to orchestration
 
-### Part Three: Analysis of *Wald*
-- Introduction, Variation 1, and Variation 2
-  - Section 1
-  - Section 2
-  - Section 3
-  - Section 4
-    - Cascading material in marimba/harp and piano
-    - Interval cycles at play
-    - Interlocking voices of the pentatonic 5-34[02469] material from Section 3
-- Variation 3 and Variation 4
-- Variation 5
-  - More interval cycles: 5-cycle and 6-cycle
-  - Two primary motives:
-    - ascending repeated figures voiced in fifths
-    - descending dyads of tritones, fourths, and
-- Variation 6 and  Variation 7
+# Part Three: Analysis of *Wald*
+## Introduction, Variation 1, and Variation 2
+- Section 1
+- Section 2
+- Section 3
+- Section 4
+  - Cascading material in marimba/harp and piano
+  - Interval cycles at play
+  - Interlocking voices of the pentatonic 5-34[02469] material from Section 3
 
-### Conclusion
+## Variation 3 and Variation 4
+
+## Variation 5
+- More interval cycles: 5-cycle and 6-cycle
+- Two primary motives:
+  - ascending repeated figures voiced in fifths
+  - descending dyads of tritones, fourths, and
+
+## Variation 6 and  Variation 7
+
+# Conclusion
 - Connections to other music
     - *Schnee*
         - Concept of doubling (both in orchestration and re-use)
