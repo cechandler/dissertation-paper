@@ -127,7 +127,7 @@ These aspects of Abrahamsen's tight, almost obsessive, control over orchestratio
 # Bibliography
 \setlength{\parindent}{-0.4in}
 \setlength{\leftskip}{0.4in}
-\setlength{\parskip}{8pt}
+\setlength{\parskip}{7pt}
 \noindent
 
 <!-- ^[*Wald* (2008-09)]  --> <!-- regular citation -->
