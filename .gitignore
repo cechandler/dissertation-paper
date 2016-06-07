@@ -1,3 +1,10 @@
 # gitignore settings for dissertation #
 research/**
 esm-docs/**
+.~lock*
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
