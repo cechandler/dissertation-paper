@@ -14,7 +14,6 @@ header-includes:
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
-    - \usepackage{url}
     - \setlength\parindent{24pt}
     - \doublespacing
 ...
@@ -40,7 +39,7 @@ However, little analytical work has been conducted on his music. Danish composer
 # Scope of the Dissertation
 This dissertation has two parts: a compositional component and a research component. The compositional component is a multi-movement work for sinfonietta chamber orchestra, including flute, oboe, 2 clarinets, bassoon, French horn, trumpet, trombone, harp, piano, 2 percussionists, and string quintet. Each movement of this work will focus on different manifestations of kaleidoscope metaphors.
 
-Kaleidoscopes are a potent guiding principle suggestive of several approaches to generating and realizing musical material, including contrapuntal activity, melodic and harmonic symmetry, and orchestration. In one movement, three archetypal gestures (arpeggiated figures, repeated-note agitated figures, and percussive articulation) will be continuously reorchestrated among different orchestral families. Juxtaposing and superimposing these gestures with specific subsets of the ensemble will not only highlight timbral qualities of the ensemble but also create clearly stratified sonic objects, analogous to the colorful mosaic images produced by kaleidoscopes. In another movement, a single monophonic melody comprised of symmetrical pitch collections will be heterophonically refracted and reflected around the ensemble. The slow and morphological treatment of this material is visually akin to the fluid changes in color and shape created by rotating kaleidoscopes.
+Kaleidoscopes are a potent guiding principle suggestive of several approaches to generating and realizing musical material, including contrapuntal activity, melodic and harmonic symmetry, and orchestration. In one movement, three archetypal gestures (arpeggiated figures, repeated-note agitated figures, and percussive articulation) will be continuously reorchestrated among different orchestral families. Juxtaposing and superimposing these gestures with specific subsets of the ensemble will not only highlight timbral qualities of the subsets but also create clearly stratified sonic objects, analogous to the colorful mosaic images produced by kaleidoscopes. In another movement, a single monophonic melody comprised of symmetrical pitch collections will be heterophonically refracted and reflected around the ensemble. The slow and morphological treatment of this material is visually akin to the fluid changes in color and shape created by rotating kaleidoscopes.
 
 These kaleidoscopic metaphors and images are inspired in part by Abrahamsen's compositions. The ways he recasts the same or similar musical gestures within a piece, and often across a series of pieces, connects directly to my interests in exploring the inherent kaleidoscopic potential of musical ideas. It seems appropriate that both components of this dissertation engage with his music.
 
