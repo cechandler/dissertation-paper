@@ -112,6 +112,17 @@ From *Ten Sinfonias* (2010) program note:
   - basic info
     - four movements, untitled
     - decreasing durations
+  - first movement
+    - tonal ambiguity to tonal clarity
+    - heterophony to homophony
+    - independence to subsets (duos and trios)
+    - strict processes:
+      - displacement
+      - pitch canons
+      - consistent rhythmic subdivisions
+      - limited intervallic sets/relationships
+    - second movement
+      -
   - cross relationships between movements
     - first movement: perfect fourth motive and displacement
     - first movement: limited melodic motives
