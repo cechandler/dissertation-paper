@@ -1,6 +1,6 @@
 # Part 2: An Overview of *Walden* and *Wald*
 
-It is important to note that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two[@NYT] functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency. So early on the horn became his principle instrument due to its ability to be performed with the left hand only. In fact, the first ever public performance of his own music was a piece called *October* performed by Abrahamsen in 1969. He played both the horn and the piano with his left hand and incorporated the playing of "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
+It is important to note that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand,[@NYT] which left him unable to pursue most instruments with professional proficiency. So early on the horn became his principle instrument due to its ability to be performed with the left hand only. In fact, the first ever public performance of his own music was a piece called *October* performed by Abrahamsen in 1969. He played both the horn and the piano with his left hand and incorporated the playing of "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
 
 Abrahamsen has featured the horn in several works beyond *Walden* and *Wald*. Most notably he wrote *Six Pieces* (1984), for horn, violin, and piano, as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN] In 2009, he also rearranged *Six Pieces* for violin, cello, and piano under the title *Traumlieder*.
 
@@ -8,13 +8,13 @@ Beyond Abrahamsen's personal and musical relationship with the horn, the instrum
 
 ## Walden
 ### Background and Instrumentation
-Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard wind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some tempi adjustments and the addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original but the instrumental material has been reassigned to a corresponding instrument (see Table @tbl:walden-arrangement). This discussion of *Walden* will refer to the score of original 1978 wind quintet version.
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some tempi adjustments and the addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original but Abrahamsen reassigned the instrumental lines to different instruments. For instance, while both versions have a clarinet in A, the 1995 version clarinet performs the flute material from the 1978 woodwind quintet, while the alto saxophone in reed quintet performs the clarinet material from the original version. Table @tbl:walden-rearrangement gives an overview of the instrumental reassignments. In the subsequent discussions of *Walden*, the original woodwind quintet and its score will be the referenced version.
 
 <!-- **review the 1995 version later movements in greater detail to make sure this is the case** -->
 
 \singlespacing
 
-Table: *Walden* Orchestration Comparison. {#tbl:walden-arrangement}
+Table: *Walden* Orchestration Comparison. {#tbl:walden-rearrangement}
 
 | Wind Quintet  |                 | Reed Quintet         |
 |:--------------|:----------------|:---------------------|
@@ -26,7 +26,7 @@ Table: *Walden* Orchestration Comparison. {#tbl:walden-arrangement}
 
 \doublespacing
 
-Like many works throughout his career, *Walden* is deeply inspired by nature and furthermore has a connection to a literary work of the same name by Henry David Thoreau. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
+Like many works throughout his career, *Walden* is deeply inspired by nature and furthermore has a connection to a literary work of the same name by Henry David Thoreau. Abrahamsen's first period works are often inspired by or otherwise make references to art, literature, poetry, or other music. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
 
 \singlespacing
 

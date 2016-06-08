@@ -30,11 +30,17 @@ header-includes:
 
 From *Flowersongs* (1973) program note:
 
-\singlespacing
-
 > I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
 
-\doublespacing
+From *Ten Sinfonias* (2010) program note:
+
+> Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
+
+> A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces — or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
+
+> ...
+
+> I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
 
 - Composers who have taken breaks:
     - Arnold Schoenberg
@@ -188,7 +194,7 @@ From *Flowersongs* (1973) program note:
 | 1978  | Winternacht                      | DURATION | 1.0.1.0/1.0+cnt.0.0/pf/str(1.0.0.1.0)                  |
 | 1978  | Walden                           | 11:00    | fl, ob, cl, bn, hn                                     |
 | 1981  | Nacht und Trompeten              | 11:00    | 2.2.2.2/2.3.0.0/5perc/pf/str                           |
-| 1981  | Strygekvartet nr. 2              | 15:00    | str4tet                                                |
+| 1981  | String Quartet No. 2             | 15:00    | string quartet                                         |
 | 1984  | Märchenbilder                    | 14:00    | sinfonietta                                            |
 | 1984  | Seks stykker                     | 14:00    | vn, hn, pf                                             |
 | 1985  | Zwei Schneetänze                 | 4:00     | 4rec Alternate Orchestration: vn, vc, fl, cl           |
@@ -209,19 +215,19 @@ From *Flowersongs* (1973) program note:
 | 2006  | Air                              | 9:00     | accordion                                              |
 | 2006  | Schnee, Canons 1a & 1b           | 17:00    | 0+pic.1.0+Ebcl.0/0000/perc/2pf/str 1.0.1.1.0           |
 | 2008  | Schnee                           | 57:00    | 1(pic,afl).1(ca).1(Ebcl,bcl)/perc/2pf/str 1.0.1.1.0    |
-| 2008  | Strygekvartet nr. 3              | 12:00    | str 4tet                                               |
+| 2008  | String Quartet No. 3             | 12:00    | string quartet                                         |
 | 2009  | Efterårslied                     | 6:00     | ca.pf[hpd]vn.va.vc                                     |
 | 2009  | Traumlieder                      | 14:00    | vn.vc.pf                                               |
 | 2009  | Wald                             | 18:00    | 0+bfl.0+ca.0+bcl.1/1200/perc/hp.pf(cel)/str(1.1.1.1.1) |
-| 2009? | Kharon                           | 7:00     | Trombone                                               |
-| 2010  | Liebeslied                       | 3:00     | bfl.obda.bcl.perc.pf.vn.va.vc                          |
-| 2010  | Ten Sinfonias                    | 20:00    | 0.3(ca).0.2/2200/timp/str                              |
-| 2011  | Double Concerto                  | 22:00    | violin, piano, and str(6-6-4-4-2)                      |
-| 2012  | Flowersongs, version 2012        | 10:00    | fl(afl).ob(ca).cl(Ebcl)                                |
-| 2012  | String Quartet No. 4             | 20:00    | 2vn.va.vc                                              |
-| 2013  | Schneebilder                     | 20:00    | pf.vn.va.vc                                            |
+| 2009? | Kharon                           | 7:00     | trombone                                               |
+| 2010  | Liebeslied                       | 3:00     | bs fl, ob, bs cl, perc, pno, vn, va, vc                |
+| 2010  | Ten Sinfonias                    | 20:00    | orchestra                                              |
+| 2011  | Double Concerto                  | 22:00    | violin, piano, and string orchestra                    |
+| 2012  | Flowersongs, version 2012        | 10:00    | fl/a.fl, ob/Eng.hn, and cl/Eb.cl                       |
+| 2012  | String Quartet No. 4             | 20:00    | string quartet                                         |
+| 2013  | Schneebilder                     | 20:00    | violin, viola, cello, and piano                        |
 | 2013  | Let me tell you                  | 30:00    | soprano and orchestra                                  |
-| 2014  | Bamberger Tanz                   | 4:00     | 2.1+ca.2.2/4230/timp.2perc/str                         |
+| 2014  | Bamberger Tanz                   | 4:00     | orchestra                                              |
 | 2015  | Left, alone                      | 18:00    | piano (left hand) and orchestra                        |
 
 
