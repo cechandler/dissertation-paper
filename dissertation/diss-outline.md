@@ -4,11 +4,8 @@ papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
-    - \usepackage{indentfirst}
     - \usepackage{setspace}
-    - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
-    - \usepackage{url}
 ...
 
 # Front Matter
@@ -167,3 +164,81 @@ From *Flowersongs* (1973) program note:
         - Concept of doubling (both in orchestration and re-use)
         - Shrinking movement proportions
     - Schumann
+
+
+
+# Chronological List of Works
+| Year  | Title                            | Duration | Instrumentation                                        |
+|:------|:---------------------------------|:---------|:-------------------------------------------------------|
+| 1970  | Skum                             | 14:00    | 2.1.1.1/1.1.1.0/4perc/hp/pf/str(2.2.3.3.2)             |
+| 1971  | Rundt om og Ind Imellem          | 10:00    | hn, 2trp, tbn, tba                                     |
+| 1972  | EEC sats                         | 10:00    | 3.3.3.3/4.3.3.1/3perc/pf/str                           |
+| 1972  | Efterår                          | 5:00     | Tenor [=Soprano] vc, fl, gtr                           |
+| 1972  | Landskaber                       | 8:00     | fl, ob, cl, bn, hn                                     |
+| 1973  | 10 Præludier                     | 20:00    | string quartet                                         |
+| 1973  | Flowersongs                      | 11:00    | 3fl                                                    |
+| 1973  | Glansbilleder [Scraps]           | 4:00     | vc, pf                                                 |
+| 1973  | Universe Birds                   | 4:00     | 10 Sopranos and 10 S or 5S                             |
+| 1974  | Gush                             | 4:00     | asx                                                    |
+| 1974  | Symfoni                          | 14:00    | 2.2.2.2/4.3.3.0/timp.3perc/str                         |
+| 1975  | Stratifications                  | 8:00     | 2.2.2.1/2.2.1.0/2perc/pf/str                           |
+| 1976  | October                          | 6:00     | pf                                                     |
+| 1976  | Danmarks-sange                   | 10:00    | soprano and va, fl, cl, perc, pf                       |
+| 1978  | Canzone                          | 9:00     | acn                                                    |
+| 1978  | Winternacht                      | DURATION | 1.0.1.0/1.0+cnt.0.0/pf/str(1.0.0.1.0)                  |
+| 1978  | Walden                           | 11:00    | fl, ob, cl, bn, hn                                     |
+| 1981  | Nacht und Trompeten              | 11:00    | 2.2.2.2/2.3.0.0/5perc/pf/str                           |
+| 1981  | Strygekvartet nr. 2              | 15:00    | str4tet                                                |
+| 1984  | Märchenbilder                    | 14:00    | sinfonietta                                            |
+| 1984  | Seks stykker                     | 14:00    | vn, hn, pf                                             |
+| 1985  | Zwei Schneetänze                 | 4:00     | 4rec Alternate Orchestration: vn, vc, fl, cl           |
+| 1987  | Lied in Fall                     | 14:00    | cello and chamber orchestra                            |
+| 1988  | Storm og Stille                  | 3:00     | vc and Alternate Orchestration: vn, va, vc             |
+| 1990  | Capriccio Bagateller             | 4:00     | vn                                                     |
+| 1990  | Aarhus Ragtime                   | 3:00     | 1(pic).1.1.1/1.1.1.0/perc/pf/str 1.1.1.1.1             |
+| 1990  | Hymne                            | 3:00     | vc or va                                               |
+| 1992  | Efterårslied                     | 6:00     | Soprano vn.vc.cl.pf[hpd]                               |
+| 1995  | Walden (reed quintet version)    | 11:00    | ob, 2cl, bn, asx                                       |
+| 19--  | Winternacht                      | DURATION | 1.0.1.0/0.0.0.0/perc/pf/gtr/str(1.0.0.1.0)             |
+| 1998  | Ti studier                       | 21:00    | pf                                                     |
+| 1999  | Two Pieces in Slow Time          | 7:00     | 2hn, 3trp, 3tbn, 2tba, 2cnt, 2perc                     |
+| 2000  | Siciliano                        | 6:12     | vc                                                     |
+| 2000  | Concerto for Piano and Orchestra | 15:00    | piano and chamber orchestra                            |
+| 2004  | Fire Stykker for Orkester        | 17:00    | large orchestra                                        |
+| 2005  | Three Little Nocturnes           | 9:00     | accordion and string quartet                           |
+| 2006  | Air                              | 9:00     | accordion                                              |
+| 2006  | Schnee, Canons 1a & 1b           | 17:00    | 0+pic.1.0+Ebcl.0/0000/perc/2pf/str 1.0.1.1.0           |
+| 2008  | Schnee                           | 57:00    | 1(pic,afl).1(ca).1(Ebcl,bcl)/perc/2pf/str 1.0.1.1.0    |
+| 2008  | Strygekvartet nr. 3              | 12:00    | str 4tet                                               |
+| 2009  | Efterårslied                     | 6:00     | ca.pf[hpd]vn.va.vc                                     |
+| 2009  | Traumlieder                      | 14:00    | vn.vc.pf                                               |
+| 2009  | Wald                             | 18:00    | 0+bfl.0+ca.0+bcl.1/1200/perc/hp.pf(cel)/str(1.1.1.1.1) |
+| 2009? | Kharon                           | 7:00     | Trombone                                               |
+| 2010  | Liebeslied                       | 3:00     | bfl.obda.bcl.perc.pf.vn.va.vc                          |
+| 2010  | Ten Sinfonias                    | 20:00    | 0.3(ca).0.2/2200/timp/str                              |
+| 2011  | Double Concerto                  | 22:00    | violin, piano, and str(6-6-4-4-2)                      |
+| 2012  | Flowersongs, version 2012        | 10:00    | fl(afl).ob(ca).cl(Ebcl)                                |
+| 2012  | String Quartet No. 4             | 20:00    | 2vn.va.vc                                              |
+| 2013  | Schneebilder                     | 20:00    | pf.vn.va.vc                                            |
+| 2013  | Let me tell you                  | 30:00    | soprano and orchestra                                  |
+| 2014  | Bamberger Tanz                   | 4:00     | 2.1+ca.2.2/4230/timp.2perc/str                         |
+| 2015  | Left, alone                      | 18:00    | piano (left hand) and orchestra                        |
+
+
+| Year | Arrangement                               | Duration | Instrumentation            |
+|:-----|:------------------------------------------|:---------|:---------------------------|
+|      | Bach: 8 Canons - 20:00                    |          |                            |
+|      | Bach: Befiehl du deine Wege - 5:00        |          |                            |
+| 2012 | Nielsen: Commotio                         | 21:00    |                            |
+| 1988 | Nielsen: Fantasistykker, op. 2            | 6:00     | ob,vn,va,vc                |
+|      | Nielsen: Festpræludium                    | 3:00     |                            |
+| 2010 | Nielsen: Symfoni Nr. 6                    | 32:00    |                            |
+| 1990 | Nielsen: Three Piano Pieces op. 59 posth. | 10:00    |                            |
+| 1989 | Ravel: Le Tombeau de Couperin             | 20:00    |                            |
+| 2011 | Debussy: Children's Corner                | 18:00    | |                          |
+| 1988 | Satie: Trois Gymnopedies                  | 12:00    | ob,str4tet                 |
+| 2012 | Ligeti: Arc-en-ciel                       | 4:00     |                            |
+| 2012 | Ligeti: En Suspens                        | 2:15     |                            |
+| ???? | Nørgård: Surf                             | 5:00     |                            |
+|      | Schumann: Kinderszenen, op.15             |          | Wind Quintet               |
+| 1998 | Weyse: Fire Aftensange                    | 20:00    | Mezzosoprano and orchestra |
