@@ -48,13 +48,5 @@ As is the case with the first section, these two motives gradually change positi
 
 \doublespacing
 
-<!--
 ### Section 3
 ### Section 4
-
-## Variation 3 and Variation 4
-
-## Variation 5
-
-## Variation 6 and Variation 7
--->
