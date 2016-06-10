@@ -78,6 +78,18 @@ The first movement of *Walden* begins with a call and response that Abrahamsen d
 
 ![Horn call and responses.](../figures/walden-horn-theme.png){#fig:horn-theme width=75%}
 
-The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4). **orient the displacement discussion around the clarinet since its rhythmic position never changes**
+The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4).
 
 ![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:horn-phrase4 width=75%}
+
+Movement I Tempo Canons
+
+\singlespacing
+
+|      |                             |                             |                              |                             |                             |                             |
+|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
+| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
+| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
+
+\doublespacing
