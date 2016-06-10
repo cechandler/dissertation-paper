@@ -25,22 +25,35 @@ header-includes:
     - 1999-present: second period ("post-fermata")
       - new technical innovations
 
+    - From *Flowersongs* (1973) program note:
+
+      > I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
+
+    - From *Ten Sinfonias* (2010) program note:
+
+      > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
+
+      > A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces — or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
+
+      > ...
+
+      > I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
+
 # Part One: Historical Context
-- Reason for this chapter
+- Intertexuality/intermusicality?
+- Mikhail Bakhtin and *The Dialogic Imagination* (from Wikipedia: https://en.wikipedia.org/wiki/Dialogic):
 
-From *Flowersongs* (1973) program note:
+  > Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
 
-> I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
+  > The term 'dialogic' does not only apply to literature. For Bakhtin, all language — indeed, all thought — appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
 
-From *Ten Sinfonias* (2010) program note:
+  > Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
 
-> Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
+  > When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
 
-> A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces — or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
-
-> ...
-
-> I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
+- Historical reworkings
+  - Parody music
+  - From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
 
 - Composers who have taken breaks:
     - Arnold Schoenberg
@@ -51,6 +64,18 @@ From *Ten Sinfonias* (2010) program note:
     - Toshio Hosokawa
     - Pierre Boulez
     - Franco Donatoni
+- Possibly mention pieces arranged from smaller works
+  - Pictures at an Exhibition (suite of 10 piano pieces, like A's Ten Studies)
+
+
+#### R. F. Thomas, "Virgil's Georgics and the art of reference" Harvard Studies in Classical Philology 90 (1986) pp 171–98.
+- In discussing the richly allusive poetry of Virgil's Georgics, R. F. Thomas distinguished six categories of allusive reference, which are applicable to a wider cultural sphere. These types are:
+  1. Casual Reference, "the use of language which recalls a specific antecedent, but only in a general sense" that is relatively unimportant to the new context;
+  2. Single Reference, in which the hearer or reader is intended to "recall the context of the model and apply that context to the new situation"; such a specific single reference in Virgil, according to Thomas, is a means of "making connections or conveying ideas on a level of intense subtlety";
+  3. Self-Reference, where the locus is in the poet's own work;
+  4. Corrective Allusion, where the imitation is clearly in opposition to the original source's intentions;
+  5. Apparent Reference "which seems clearly to recall a specific model but which on closer inspection frustrates that intention"; and
+  6. Multiple Reference or Conflation, which refers in various ways simultaneously to several sources, fusing and transforming the cultural traditions.
 
 # Part Two: A Brief Overview of *Walden* and *Wald*
 
