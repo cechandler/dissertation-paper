@@ -12,7 +12,7 @@ geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
     - \usepackage{tocbibind}
-    - \setcounter{tocdepth}{2}
+    - \setcounter{tocdepth}{3}
     - \usepackage{setspace}
     - \usepackage{indentfirst}
     - \usepackage{fontspec}

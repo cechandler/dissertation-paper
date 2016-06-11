@@ -8,7 +8,7 @@ Beyond Abrahamsen's personal and musical relationship with the horn, the instrum
 
 ## Walden
 ### Background and Instrumentation
-Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some tempi adjustments and the addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original but Abrahamsen reassigned the instrumental lines to different instruments. For instance, while both versions have a clarinet in A, the 1995 version clarinet performs the flute material from the 1978 woodwind quintet, while the alto saxophone in reed quintet performs the clarinet material from the original version. Table @tbl:walden-rearrangement gives an overview of the instrumental reassignments. In the subsequent discussions of *Walden*, the original woodwind quintet and its score will be the referenced version.
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. With the exception of some tempi adjustments and the addition of descriptive markings, this alternate arrangement is more or less exactly the same as the original but Abrahamsen reassigned the instrumental lines to different instruments. For instance, while both versions have a clarinet in A, the 1995 version clarinet performs the flute material from the 1978 woodwind quintet, while the alto saxophone in reed quintet performs the clarinet material from the original version. Table @tbl:walden-rearrangement gives an overview of the instrumental reassignments between these two versions. In the following discussions of *Walden*, the original woodwind quintet and its score will be the referenced version.
 
 <!-- **review the 1995 version later movements in greater detail to make sure this is the case** -->
 
@@ -26,7 +26,9 @@ Table: *Walden* Orchestration Comparison. {#tbl:walden-rearrangement}
 
 \doublespacing
 
-Like many works throughout his career, *Walden* is deeply inspired by nature and furthermore has a connection to a literary work of the same name by Henry David Thoreau. Abrahamsen's first period works are often inspired by or otherwise make references to art, literature, poetry, or other music. The program note explains the origin of the title and describes the musical material and the kinds of processes found in the piece:
+Like many works throughout Abrahamsen's career, *Walden* is deeply inspired by nature and also inspired by the literary work of the same name by Henry David Thoreau.^[Abrahamsen has continued to borrow titles for his music. Other examples include *Märchenbilder* (1984) from the viola and piano duo by Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] Abrahamsen's first and second period works are often inspired by or otherwise make references to art, literature, poetry, or other music. For instance, the first and fourth movements of *Winternacht* are dedicated to Austrian poet Georg Trakl, while the second is inspired by Dutch graphic artist M.C. Escher and the third, the most neo-classical in nature, is dedicated to Igor Stravinsky. **something on the second period extramusical connections** These references and allusions provide a conceptual view from which to understand Abrahamsen's compositional methods and **something else**.
+
+The program note for *Walden* explains the inspiration, origin of the title, and describes the musical material and the kinds of processes found in the piece:
 
 \singlespacing
 
@@ -38,28 +40,10 @@ Like many works throughout his career, *Walden* is deeply inspired by nature and
 
 \doublespacing
 
-Abrahamsen's connection between Thoreau's "strip[ping] away all the artificial needs imposed by society" and the aesthetic ideals of "New Simplicity" is clearly expressed in the work.
-
 **discuss stripping away, re-cycling, new simplicity, identity, clarity, and layers**
 
-### Connections to Other Music
-<!-- ### Connections to *Winternacht* and *Wald* -->
-As with much of Abrahamsen's music, there are intersections between *Walden*, earlier pieces, and later pieces. Abrahamsen completed *Walden* and *Winternacht* in the same year (1978) and both share similar compositional features. The two works each contain four movements that successively decrease in duration, returning musical material between movements, and a final movement that is polystylistic, polytonal, and clearly references older musical styles. In the case of *Winternacht*, the first movement serves as a "kind of overture"[@Ernste] that foreshadows the music to come in the third and fourth movement. Figure @fig:wn-returning-material shows one example of this from the first and third movements. The first movement contains a section where Stravinskian rhythms articulated in the strings crossfade with material from a previous section. The same material, recast in a different tempo and meter, serves as the basis for the third movement. The way in which this and other sections return throughout *Winternacht* is like the difference between a door being temporarily opened and catching a glimpse of a room versus being inside the room.
-
-![*Winternacht* Material from Movement I Returning in Movement III.](../figures/wn-returning-material.png){#fig:wn-returning-material}
-
-An additional connection between *Winternacht* and *Walden* can be heard in the presence of a similar horn call in both works. Figure @fig:triadic-horn-calls compares the two. The triadic nature of this horn motive calls to mind a natural horn, or more specifically a German *Jagd Horn* (hunting horn). In his dissertation on Ligeti's *Hamburg Concerto*, composer Anthony Cheung discusses
-
-<!-- ![*Winternacht* and *Walden* Triadic Horn Calls.](../figures/triadic-horn-calls.png){#fig:triadic-horn-calls} -->
-
-*Walden* does not have large sections of music that return in the same fashion as in *Winternacht*. Instead several movements contain recurring gestures or otherwise similar material that retain particular musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending F# to C# perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27. Another case can be found in the close relationship between the ending of the first movement and beginning of the second movement. Towards the end of the first movement, a C# and E staccato repeated-note gesture appears in the bassoon and French horn while a new homophonic texture and melody arises in the trio of flute, oboe, and clarinet. The staccato repeated-note gesture grows in assertiveness and abruptly cuts off this melody and transforms into a tutti punctuated chord articulated by the entire quintet. In a way, the second movement picks up where this prior melody left off. Abrahamsen presents it directly at the beginning of the second movement transposed a perfect fifth lower and shortly thereafter the staccato C# and E gesture returns in the clarinet and horn.
-
-The opening section of the first movement of *Walden* also serves as the germinal material for *Wald* which was written many years later.
-
 ### Form
-*Walden* is comprised of four movements without titles that differ in character and tempo but share identifiable melodies and motives, specific gestures, and harmonic consistency. Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[Timings taken from 1994 recording of **this ensemble**.] a technique he has used in several works.^[For instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.]
-
-The layers of organicism, concretism, and descriptive are fitting descriptions of how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4). This susurrous texture gradually decreases in speed and gives way to slow legato oscillating patterns that mechanistically compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth note texture. The "ghost-like music of the past" has relevance to both the horn call of the first movement as well as the fourth movement whose contrapuntal texture is stylistically reminiscent of Baroque music. This final movement features a composite texture of an E-major flute and bassoon duo in 3/4 and an Eb-major trio of oboe, clarinet, and horn in 6/8.
+*Walden* is comprised of four movements without titles that differ in character and tempo but share identifiable melodies and motives, specific gestures, and harmonic consistency. **more on this?** Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[Durations taken from the recording of The Scandinavian Wind Quintet, @WaldenRec] a technique he has used in both first and second period works. The movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN Program note.]
 
 \singlespacing
 
@@ -74,22 +58,47 @@ Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 
 \doublespacing
 
-The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure @fig:horn-theme shows the first two of four phrases separated by grand pauses.
+The layers of organicism, concretism, and descriptive reflect how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance, melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4); this bubbling texture gradually decreases in speed and gives way to slow legato oscillating patterns that compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth-note texture. The description, "ghost-like music of the past," is relevant to both the horn call of the first movement as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music. This final movement features a composite texture of a duo of flute and bassoon in 3/4 and a trio of oboe, clarinet, and horn in 6/8.
 
-![Horn call and responses.](../figures/walden-horn-theme.png){#fig:horn-theme width=75%}
+### First Movement
+The first movement of *Walden* contains three different dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning features the quintet performing music that is harmonically ambiguous and articulated heterophonically, but by the end the quintet is performing harmonically clear and homophonic musical material. The instruments begin playing quite independently from one another, and over the course of the movement, they break into various duos and trios, and finally end as a tutti unit.
 
-The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 4 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to its last order position (see Figure @fig:horn-phrase4).
+Abrahamsen uses several strict processes throughout *Walden* as a whole but particularly in the first movement. Rhythmic displacement, consistency in rhythmic subdivision, canons, and limited intervallic motion will be discussed.
 
-![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:horn-phrase4 width=75%}
+The form of the movement unfolds over four short sections. The first features a call and response pattern that gradually transforms over four phrases via a process of rhythmic displacement. The second section consists of a heterophonic canon between flute, clarinet, and bassoon, while the oboe and horn continue calling. The third section continues the heterophonic canon, now in the flute, oboe, and clarinet, while the horn and bassoon periodically interject a staccato interval. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated chord.
 
-Movement I Tempo Canons
+Figure @fig:walden-hn-call-resp shows the first two of these phrases separated by grand pauses.
 
-\singlespacing
+![Horn call and responses.](../figures/walden-horn-theme.png){#fig:walden-hn-call-resp width=75%}
 
-|      |                             |                             |                              |                             |                             |                             |
-|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
-| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
-| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
+The phrases contain two motives: a single rising Bb-Eb horn call and three D-F echoing responses in the flute, clarinet, and bassoon. Each instance of the motive differs slightly in rhythmic subdivision (e.g. eighths, triplets, and quintuplets), and over the course of the four phrases, the order of the call and responses undergoes rhythmic displacement. The horn call consistently enters within beat four, but with each phrase "responses" shift by a consistent rhythmic value: the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth note. By the fourth phrase, the horn call is isolated from the responses having rotated to the end (see Figure @fig:walden-hn-call-phr4).
 
-\doublespacing
+![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:walden-hn-call-phr4 width=75%}
+
+After this four phrase rhythmic displacement process finishes, the oboe enters for the first time with a falling F#-C# perfect fourth motive, and the second section follows. The second section features the oboe and horn working as one layer, while the flute, clarinet, and bassoon articulate a heterophonic, canonic texture. The oboe and horn remain in a consistent 5-measure rhythmic relationship. For 2 measures, the horn performs the rising perfect fourth call, now elongated by the addition of a F (Bb-Eb-F), while the oboe continues with the falling perfect fourth motive for 3 measures.
+
+During the course of this pattern's four repetitions, the flute, clarinet, and bassoon engage in a tempo and pitch canon.
+
+On the oboe's fourth response, the flute, clarinet, and horn make a jarring fortissimo interjection.
+
+Harmonically, the endings of the first, second, and third sections are characterized by subtle changes in harmonic language that act as a transition to the next section.
+
+### Second Movement
+
+### Third Movement
+
+### Fourth Movement
+
+### Connections to Other Music
+<!-- ### Connections to *Winternacht* and *Wald* -->
+As with much of Abrahamsen's music, there are intersections between *Walden*, earlier pieces, and later pieces. Abrahamsen completed *Walden* and *Winternacht* in the same year (1978) and both share similar compositional features. The two works each contain four movements that successively decrease in duration, returning musical material between movements, and a final movement that is polystylistic, polytonal, and clearly references older musical styles. In the case of *Winternacht*, the first movement serves as a "kind of overture"[@Ernste] that foreshadows the music to come in the third and fourth movement. Figure @fig:wn-returning-material shows one example of this from the first and third movements. The first movement contains a section where Stravinskian rhythms articulated in the strings crossfade with material from a previous section. The same material, recast in a different tempo and meter, serves as the basis for the third movement. The way in which this and other sections return throughout *Winternacht* is like the difference between a door being temporarily opened and catching a glimpse of a room versus being inside the room.
+
+![*Winternacht* Material from Movement I Returning in Movement III.](../figures/wn-returning-material.png){#fig:wn-returning-material}
+
+An additional connection between *Winternacht* and *Walden* can be heard in the presence of a similar horn call in both works. Figure @fig:triadic-horn-calls compares the two. The triadic nature of this horn motive calls to mind a natural horn, or more specifically a German *Jagd Horn* (hunting horn). In his dissertation on Ligeti's *Hamburg Concerto*, composer Anthony Cheung discusses
+
+![*Winternacht* and *Walden* Triadic Horn Calls.](../figures/temporary.png){#fig:triadic-horn-calls}
+
+*Walden* does not have large sections of music that return in the same fashion as in *Winternacht*. Instead several movements contain recurring gestures or otherwise similar material that retain particular musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending F# to C# perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27. Another case can be found in the close relationship between the ending of the first movement and beginning of the second movement. Towards the end of the first movement, a C# and E staccato repeated-note gesture appears in the bassoon and French horn while a new homophonic texture and melody arises in the trio of flute, oboe, and clarinet. The staccato repeated-note gesture grows in assertiveness and abruptly cuts off this melody and transforms into a tutti punctuated chord articulated by the entire quintet. In a way, the second movement picks up where this prior melody left off. Abrahamsen presents it directly at the beginning of the second movement transposed a perfect fifth lower and shortly thereafter the staccato C# and E gesture returns in the clarinet and horn.
+
+The opening section of the first movement of *Walden* also serves as the germinal material for *Wald* which was written many years later.

@@ -25,19 +25,19 @@ header-includes:
     - 1999-present: second period ("post-fermata")
       - new technical innovations
 
-    - From *Flowersongs* (1973) program note:
+- From *Flowersongs* (1973) program note:
 
-      > I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
+  > I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
 
-    - From *Ten Sinfonias* (2010) program note:
+- From *Ten Sinfonias* (2010) program note:
 
-      > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
+  > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
 
-      > A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces — or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
+  > A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces — or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
 
-      > ...
+  > ...
 
-      > I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
+  > I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
 
 # Part One: Historical Context
 - Intertexuality/intermusicality?
@@ -52,12 +52,20 @@ header-includes:
   > When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
 
 - Historical reworkings
-  - Parody music
+  - Parody music?
   - From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
 
-- Composers who have taken breaks:
+- Composers who have had crises/taken breaks:
     - Arnold Schoenberg
     - Franco Donatoni
+      - seven year cycles/crises
+      - influence of Cage: trying to purge the influence, "He almost wrecked my life" (*Composer to composer*, pg. 118)
+      - transitional pieces:
+        - *Etwas ruhiger...* and connection to Schoenberg
+        - *Ash* after the 2-year 1974 crisis: marks "the beginning of his current musical style (written in 1991)" (pg. 119)
+          - became "freer"
+          - "shift away from the earlier automatism; I invent more." (pg. 119)
+      - needing a fragment: "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 - Composers that have reworked material:
     - Luciano Berio
     - Toru Takemitsu
@@ -96,15 +104,11 @@ header-includes:
 
 *Left, alone* program note:
 
-\singlespacing
-
 > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
 
 > My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
 
 > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
-
-\doublespacing
 
 *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
 
@@ -121,6 +125,42 @@ header-includes:
     - date and place of reed quintet version premiere
     - considerations when translating the arrangement
     - adjustments made between the two versions
+- Form
+  - basic info
+    - four movements, untitled
+    - decreasing durations
+  - compositional techniques
+    - rhythmic displacement
+    - rhythmic subdivisions
+    - rhythmic augmentation and compression
+    - pitch canons
+    - limited intervallic motion
+    - limited harmonic sets
+    - retrograde: rhythm and pitch
+    - polymeter and tempo
+    - clarity in phrasing
+      - almost classical in nature
+      - often grouped in 4
+  - first movement
+    - tonal ambiguity to tonal clarity
+    - heterophony to homophony
+    - independence to subsets (duos and trios)
+    - strict processes:
+      - displacement
+      - pitch canons
+      - consistent rhythmic subdivisions
+      - limited intervallic sets/relationships
+    - second movement
+  - cross relationships between movements
+    - first movement: perfect fourth motive and displacement
+    - first movement: limited melodic motives
+    - second movement: picking up where the first left off after the punctuated interruption
+    - second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
+    - third movement: oboe F# C# at climax, mm. 26-27
+    - third movement: punctuated gesture towards end
+    - fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
+    - fourth movement: polymeter and various subsets
+- Exmaples of organicism, concretism, and descriptive
 - Connections to Other Music
   - *Winternacht*
     - musical material
@@ -133,31 +173,19 @@ header-includes:
   - *Ten Preludes* and *Flowersongs*
     - ending with a clearly neo-classical movement
   - *Wald*
-- Form
-  - basic info
-    - four movements, untitled
-    - decreasing durations
-  - first movement
-    - tonal ambiguity to tonal clarity
-    - heterophony to homophony
-    - independence to subsets (duos and trios)
-    - strict processes:
-      - displacement
-      - pitch canons
-      - consistent rhythmic subdivisions
-      - limited intervallic sets/relationships
-    - second movement
-      -
-  - cross relationships between movements
-    - first movement: perfect fourth motive and displacement
-    - first movement: limited melodic motives
-    - second movement: picking up where the first left off after the punctuated interruption
-    - second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
-    - third movement: oboe F# C# at climax, mm. 26-27
-    - third movement: punctuated gesture towards end
-    - fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
-    - fourth movement: polymeter and various subsets
-- Exmaples of organicism, concretism, and descriptive
+
+
+Movement I Tempo Canons
+
+\singlespacing
+
+|      |                             |                             |                              |                             |                             |                             |
+|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
+| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
+| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
+
+\doublespacing
 
 ## *Wald*
 - Background and instrumentation
