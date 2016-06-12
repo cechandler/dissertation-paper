@@ -120,7 +120,7 @@ header-includes:
 ## *Walden*
 - Background
     - instrumentation and reorchestration
-    - program notes
+    - inspiration and relationship to nature
     - **questions**
         - date and place of premiere
         - date and place of reed quintet version premiere
