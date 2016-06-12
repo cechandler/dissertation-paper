@@ -1,6 +1,6 @@
 # Part 2: An Overview of *Walden* and *Wald*
 
-It is important to note that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand,[@NYT] which left him unable to pursue most instruments with professional proficiency. So early on the horn became his principle instrument due to its ability to be performed with the left hand only. In fact, the first ever public performance of his own music was a piece called *October* performed by Abrahamsen in 1969. He played both the horn and the piano with his left hand and incorporated the playing of "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
+It is important to note that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency.[@NYT] So early on the horn became his principle instrument due to its ability to be performed with the left hand only. In fact, the first ever public performance of his own music was a piece called *October* performed by Abrahamsen in 1969. He played both the horn and the piano with his left hand and incorporated the playing of "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
 
 Abrahamsen has featured the horn in several works beyond *Walden* and *Wald*. Most notably he wrote *Six Pieces* (1984), for horn, violin, and piano, as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN] In 2009, he also rearranged *Six Pieces* for violin, cello, and piano under the title *Traumlieder*.
 
@@ -26,7 +26,7 @@ Table: *Walden* Orchestration Comparison. {#tbl:walden-rearrangement}
 
 \doublespacing
 
-Like many works throughout Abrahamsen's career, *Walden* is deeply inspired by nature and also inspired by the literary work of the same name by Henry David Thoreau.^[Abrahamsen has continued to borrow titles for his music. Other examples include *Märchenbilder* (1984) from the viola and piano duo by Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] Abrahamsen's first and second period works are often inspired by or otherwise make references to art, literature, poetry, or other music. For instance, the first and fourth movements of *Winternacht* are dedicated to Austrian poet Georg Trakl, while the second is inspired by Dutch graphic artist M.C. Escher and the third, the most neo-classical in nature, is dedicated to Igor Stravinsky. **something on the second period extramusical connections**
+Like many works throughout Abrahamsen's career, *Walden* is deeply inspired by nature and also inspired by the literary work of the same name by Henry David Thoreau.^[Abrahamsen has continued to borrow titles for his music. Other examples include *Märchenbilder* (1984) from the viola and piano duo by Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] Abrahamsen's first and second period works are often inspired by or otherwise make references to art, literature, poetry, or other music.[@Ernste] For instance, the first and fourth movements of *Winternacht* are dedicated to Austrian poet Georg Trakl, while the second is inspired by Dutch graphic artist M.C. Escher and the third, the most neo-classical in nature, is dedicated to Igor Stravinsky. **something on the second period extramusical connections**
 
 These references and allusions provide a conceptual view from which to understand Abrahamsen's compositional methods and **something else**. His program note for *Walden* explains the inspiration, origin of the title, and describes the musical material and the kinds of processes found in the piece:
 
@@ -36,16 +36,18 @@ These references and allusions provide a conceptual view from which to understan
 
 > All thought Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology. His ideas are particularly relevant now that pollution caused by society has reached alarming proportions.
 
-> *Walden* was written in a style of re-cycling and “new simplicity”. A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, Decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). *Walden* consist of four movements.
+> *Walden* was written in a style of re-cycling and “new simplicity.” A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, Decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). *Walden* consist of four movements.
 
 \doublespacing
 
-**discuss stripping away, re-cycling, new simplicity, identity, clarity, and layers**
+**discuss stripping away, cyclic character of Nature, re-cycling, new simplicity, identity, clarity, and layers**
+
+Unlike much of Abrahamsen's other music, the score for *Walden* contains remarkably little interpretative markings beyond isolated instances of descriptions like *lontano*, *giocoso*, or *calmo*. The reed quintet version includes some additional tempo markings like "Moderato fluente" (first movement), "**here**" (second movement), "**here**" (third movement), and "**here**" (fourth movement). The lack of textual description underscores the strong vein of classicism that runs throughout Abrahamsen's first period works and perhaps aligns this piece more with the performance practice of Classical period works.
 
 ### Form
-*Walden* is comprised of four movements without titles that differ in character and tempo but share identifiable melodies and motives, specific gestures, and harmonic consistency. **more on this?**
+*Walden* is comprised of four movements without titles that differ in character and tempo yet retain a strong sense of cohesion, musical restraint, and .
 
-Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[Durations taken from the recording of The Scandinavian Wind Quintet, @WaldenRec] a technique he has used in both first and second period works. The movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN Program note.]
+Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[The duration measurements are taken from the recording of The Scandinavian Wind Quintet, @WaldenRec] a technique he has used in both first and second period works. The movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN Program note.]
 
 \singlespacing
 
@@ -61,6 +63,8 @@ Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 \doublespacing
 
 The layers of organicism, concretism, and descriptive reflect how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance, melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4); this bubbling texture gradually decreases in speed and gives way to slow legato oscillating patterns that compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth-note texture. The description, "ghost-like music of the past," is relevant to both the horn call of the first movement as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music. This final movement features a composite texture of a duo of flute and bassoon in 3/4 and a trio of oboe, clarinet, and horn in 6/8.
+
+but share melodies, motives, gestures, and harmonies
 
 ### Compositional Techniques in *Walden*
 The clarity of form and expression and economy of musical materials associated with Abrahamsen's first period "New Simplicity" works are evident through a wide variety of compositional techniques in *Walden*. These techniques include: rhythmic displacement, consistency in rhythmic subdivisions, rhythmic augmentation and diminution/compression, rhythm and pitch retrograde, canons, limited harmonic collections, limited intervallic motion, polymeter and polytempo, and clarity in phrasing.
