@@ -121,6 +121,9 @@ header-includes:
 - Background
     - instrumentation and reorchestration
     - inspiration and relationship to nature
+        - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
+        - https://en.wikipedia.org/wiki/Concrete_art
+        - https://en.wikipedia.org/wiki/De_Stijl
     - **questions**
         - date and place of premiere
         - date and place of reed quintet version premiere

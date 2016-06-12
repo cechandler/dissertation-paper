@@ -42,12 +42,12 @@ These references and allusions provide a conceptual view from which to understan
 
 **discuss stripping away, cyclic character of Nature, re-cycling, new simplicity, identity, clarity, and layers**
 
+The qualities of organicism, concretism, and descriptive reflect how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance, melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4); this bubbling texture gradually decreases in speed and gives way to slow legato oscillating patterns that compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth-note texture. The description, "ghost-like music of the past," is relevant to both the horn call of the first movement as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music.
+
 Unlike much of Abrahamsen's other music, the score for *Walden* contains remarkably little interpretative markings beyond isolated instances of descriptions like *lontano*, *giocoso*, or *calmo*. The reed quintet version includes some additional tempo markings like "Moderato fluente" (first movement), "**here**" (second movement), "**here**" (third movement), and "**here**" (fourth movement). The lack of textual description underscores the strong vein of classicism that runs throughout Abrahamsen's first period works and perhaps aligns this piece more with the performance practice of Classical period works.
 
 ### Form
-*Walden* is comprised of four movements without titles that differ in character and tempo yet retain a strong sense of cohesion, musical restraint, and .
-
-Table @tbl:walden-proportions shows how Abrahamsen in part shapes the overall proportions of the piece by successively decreasing the duration of each movement,^[The duration measurements are taken from the recording of The Scandinavian Wind Quintet, @WaldenRec] a technique he has used in both first and second period works. The movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN Program note.]
+*Walden* is comprised of four movements without titles that differ in duration, tempo, and compositional techniques yet retain a strong sense of cohesion, musical restraint, and clarity. Abrahamsen in part shapes the overall proportions of the work by successively decreasing the duration of each movement, a technique he has used in both first and second period works. For instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN Program note.] Table @tbl:walden-proportions shows this proportional relationship and lists the tempo and movement timing present in the score as well as the timings found in 1994 recording of the Scandinavian Wind Quintet.[@WaldenRec]
 
 \singlespacing
 
@@ -62,17 +62,25 @@ Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 
 \doublespacing
 
-The layers of organicism, concretism, and descriptive reflect how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance, melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4); this bubbling texture gradually decreases in speed and gives way to slow legato oscillating patterns that compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth-note texture. The description, "ghost-like music of the past," is relevant to both the horn call of the first movement as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music. This final movement features a composite texture of a duo of flute and bassoon in 3/4 and a trio of oboe, clarinet, and horn in 6/8.
+The form of each movement is mostly fluid and continuous and does not lend itself to classical formal patterns and instead is best described as through-composed. The formal continuity present throughout can, however, be parsed into several sections delineated by changes in harmonic collection or texture. but share melodies, motives, gestures, and harmonies
 
-but share melodies, motives, gestures, and harmonies
+The form of the first movement unfolds over four short sections. The first features a call and response pattern that gradually transforms over four phrases via a process of rhythmic displacement. The second section consists of a heterophonic canon between flute, clarinet, and bassoon, while the oboe and horn continue calling. The third section continues the heterophonic canon in the flute, oboe, and clarinet, while the horn and bassoon periodically interject a staccato interval. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated chord.
+
+The second movement reuses much of the same musical materials from the first movement: a transposed version of the three-octave melody, a melodic motive in the oboe, and the horn and bassoon staccato punctuation. Abrahamsen presents these materials in a precise cyclical configuration using retrograde and filtering procedures and **balanced phrasing**. Since the music unfolds more or less continuously, its formal sections are primarily revealed by how various cycles repeat and the changes made upon a new cycle starting. This movement is less about development than it is about transformation through decay and removal.
+
+The third movement is also concerned with fluidity and continuity but the form can be audibly segmented into two principle sections with a short "coda" that crossfades out of the second section. The two primary sections both employ strict rhythmic procedures of augmentation and diminution or compression. The polyrhythmic and heterophonic opening first section, quite similar to the opening of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968)^[**Thomas, Something Amiss with the Fairies**, p. 272], gradually slows down over ten measures, while the second section gradually accelerates. The short "coda" features a distant, triadic horn call evoking allusions to hunting.
+
+The finale of *Walden* is a fleeting, polytonal movement featuring a composite texture of a duo of flute and bassoon in 3/4 and a trio of oboe, clarinet, and horn in 6/8. The duo and trio begin in distant tonal key centers but modulate toward one another and join by the end. While the music spins out in a continuous fashion, both the duo and trio have clear balanced phrasing.
+
+Figure @fig:walden-formal-overview gives a
+
+![Formal overview of *Walden* movements.](../figures/temporary.png){#fig:walden-formal-overview}
 
 ### Compositional Techniques in *Walden*
 The clarity of form and expression and economy of musical materials associated with Abrahamsen's first period "New Simplicity" works are evident through a wide variety of compositional techniques in *Walden*. These techniques include: rhythmic displacement, consistency in rhythmic subdivisions, rhythmic augmentation and diminution/compression, rhythm and pitch retrograde, canons, limited harmonic collections, limited intervallic motion, polymeter and polytempo, and clarity in phrasing.
 
 ### First Movement
 The first movement of *Walden* contains three different dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning features the quintet performing music that is harmonically ambiguous and articulated heterophonically, but by the end the quintet is performing harmonically clear and homophonic musical material. The instruments begin playing quite independently from one another, and over the course of the movement, they break into various duos and trios, and finally end as a tutti unit.
-
-The form of the movement unfolds over four short sections. The first features a call and response pattern that gradually transforms over four phrases via a process of rhythmic displacement. The second section consists of a heterophonic canon between flute, clarinet, and bassoon, while the oboe and horn continue calling. The third section continues the heterophonic canon, now in the flute, oboe, and clarinet, while the horn and bassoon periodically interject a staccato interval. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated chord.
 
 Figure @fig:walden-hn-call-resp shows the first two of these phrases separated by grand pauses.
 
@@ -92,11 +100,11 @@ On the oboe's fourth response, the flute, clarinet, and horn make a jarring fort
 
 Harmonically, the endings of the first, second, and third sections are characterized by subtle changes in harmonic language that act as a transition to the next section.
 
-### Second Movement
+<!-- ### Second Movement
 
 ### Third Movement
 
-### Fourth Movement
+### Fourth Movement -->
 
 ### Connections to Other Music
 <!-- ### Connections to *Winternacht* and *Wald* -->
