@@ -23,7 +23,7 @@ header-includes:
     - 1988-1999: pause
         - arrangements and reorchestrations
     - 1999-present: second period ("post-fermata")
-      - new technical innovations
+        - new technical innovations
 
 - From *Flowersongs* (1973) program note:
 
@@ -40,66 +40,67 @@ header-includes:
   > I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
 
 # Part One: Historical Context
-- Intertexuality/intermusicality?
+## Intertexuality/intermusicality?
 - Mikhail Bakhtin and *The Dialogic Imagination* (from Wikipedia: https://en.wikipedia.org/wiki/Dialogic):
 
-  > Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
+> Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
 
-  > The term 'dialogic' does not only apply to literature. For Bakhtin, all language — indeed, all thought — appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
+> The term 'dialogic' does not only apply to literature. For Bakhtin, all language — indeed, all thought — appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
 
-  > Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
+> Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
 
-  > When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
+> When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
 
-- Historical reworkings
-  - Parody music?
-  - From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
+- R. F. Thomas, "Virgil's *Georgics* and the art of reference" *Harvard Studies in Classical Philology* 90 (1986) pp 171–98.
+- In discussing the richly allusive poetry of Virgil's *Georgics*, R. F. Thomas distinguished six categories of allusive reference, which are applicable to a wider cultural sphere. These types are:
+    1. **Casual Reference**, "the use of language which recalls a specific antecedent, but only in a general sense" that is relatively unimportant to the new context;
+    2. **Single Reference**, in which the hearer or reader is intended to "recall the context of the model and apply that context to the new situation"; such a specific single reference in Virgil, according to Thomas, is a means of "making connections or conveying ideas on a level of intense subtlety";
+    3. **Self-Reference**, where the locus is in the poet's own work;
+    4. **Corrective Allusion, where the imitation is clearly in opposition to the original source's intentions;
+    5. **Apparent Reference** "which seems clearly to recall a specific model but which on closer inspection frustrates that intention"; and
+    6. **Multiple Reference or Conflation**, which refers in various ways simultaneously to several sources, fusing and transforming the cultural traditions.
 
-- Composers who have had crises/taken breaks:
-    - Arnold Schoenberg
-    - Franco Donatoni
-      - seven year cycles/crises
-      - influence of Cage: trying to purge the influence, "He almost wrecked my life" (*Composer to composer*, pg. 118)
-      - transitional pieces:
+## Historical reworkings
+- Parody music?
+- From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
+
+## Composers who have had crises/taken breaks:
+- Arnold Schoenberg
+- Franco Donatoni
+    - seven year cycles/crises
+    - influence of Cage: trying to purge the influence, "He almost wrecked my life" (*Composer to composer*, pg. 118)
+    - transitional pieces:
         - *Etwas ruhiger...* and connection to Schoenberg
         - *Ash* after the 2-year 1974 crisis: marks "the beginning of his current musical style (written in 1991)" (pg. 119)
-          - became "freer"
-          - "shift away from the earlier automatism; I invent more." (pg. 119)
-      - needing a fragment: "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
-- Composers that have reworked material:
-    - Luciano Berio
-    - Toru Takemitsu
-    - Toshio Hosokawa
-    - Pierre Boulez
-    - Franco Donatoni
-- Possibly mention pieces arranged from smaller works
+            - became "freer"
+            - "shift away from the earlier automatism; I invent more." (pg. 119)
+    - needing a fragment: "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
+
+## Composers that have reworked material:
+- Luciano Berio
+- Toru Takemitsu
+- Toshio Hosokawa
+- Pierre Boulez
+- Franco Donatoni
+
+## Possibly mention pieces arranged from smaller works
   - Pictures at an Exhibition (suite of 10 piano pieces, like A's Ten Studies)
-
-
-#### R. F. Thomas, "Virgil's Georgics and the art of reference" Harvard Studies in Classical Philology 90 (1986) pp 171–98.
-- In discussing the richly allusive poetry of Virgil's Georgics, R. F. Thomas distinguished six categories of allusive reference, which are applicable to a wider cultural sphere. These types are:
-  1. Casual Reference, "the use of language which recalls a specific antecedent, but only in a general sense" that is relatively unimportant to the new context;
-  2. Single Reference, in which the hearer or reader is intended to "recall the context of the model and apply that context to the new situation"; such a specific single reference in Virgil, according to Thomas, is a means of "making connections or conveying ideas on a level of intense subtlety";
-  3. Self-Reference, where the locus is in the poet's own work;
-  4. Corrective Allusion, where the imitation is clearly in opposition to the original source's intentions;
-  5. Apparent Reference "which seems clearly to recall a specific model but which on closer inspection frustrates that intention"; and
-  6. Multiple Reference or Conflation, which refers in various ways simultaneously to several sources, fusing and transforming the cultural traditions.
 
 # Part Two: A Brief Overview of *Walden* and *Wald*
 
 ## Importance of horn to Abrahamsen
-  - principle instrument
-  - physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
-  - other works featuring the horn
+- principle instrument
+- physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
+- other works featuring the horn
     - first piece for horn and piano
     - *Six Pieces*
       - companion piece to Danish premiere of Ligeti's *Horn Trio*
       - Ligeti's Horn Trio
       - Hamburg Concerto (?)
-  - connection to German romanticism
-  - connection to Schumann's *Waldenszen*
-  - discuss "Waldhorn" (from program note) and natural horn/microtonality
-  - connection to hunting:
+- connection to German romanticism
+- connection to Schumann's *Waldenszen*
+- discuss "Waldhorn" (from program note) and natural horn/microtonality
+- connection to hunting:
     - from Cheung Dissertation: Raymond Monelle explains, "The medieval hunting horn was primarily a signaling instrument. During the course of personnel and hounds could become dispersed over wide area, and it was often necessary to communicate certain water, the release sight of the quarry, the loss of the scent, the plunging of the quarry into probable route of of (relais, small teams of huntsmen and hounds posted along the the hunt), the stag at bay, the stag and many other important steps in the process of hunting needed to be broadcast to the various members of the hunting party. The sound of the horns was also found to stimulate the hounds."  Mondelle, Raymond. *The Musical Topic: Hunt, Military and Pastoral*. Bloomington, IN: Indiana University Press, 2006.
 
 *Left, alone* program note:
@@ -118,40 +119,42 @@ header-includes:
 
 ## *Walden*
 - Background
-  - instrumentation and reorchestration
-  - program notes
-  - **questions**
-    - date and place of premiere
-    - date and place of reed quintet version premiere
-    - considerations when translating the arrangement
-    - adjustments made between the two versions
+    - instrumentation and reorchestration
+    - program notes
+    - **questions**
+        - date and place of premiere
+        - date and place of reed quintet version premiere
+        - considerations when translating the arrangement
+        - adjustments made between the two versions
 - Form
-  - basic info
-    - four movements, untitled
-    - decreasing durations
-  - compositional techniques
+    - basic info
+        - four movements, untitled
+        - decreasing durations
+- Compositional techniques
     - rhythmic displacement
     - rhythmic subdivisions
     - rhythmic augmentation and compression
     - pitch canons
-    - limited intervallic motion
-    - limited harmonic sets
+    - harmony:
+        - limited intervallic motion
+        - limited harmonic sets
     - retrograde: rhythm and pitch
     - polymeter and tempo
     - clarity in phrasing
-      - almost classical in nature
-      - often grouped in 4
-  - first movement
-    - tonal ambiguity to tonal clarity
-    - heterophony to homophony
-    - independence to subsets (duos and trios)
-    - strict processes:
-      - displacement
-      - pitch canons
-      - consistent rhythmic subdivisions
-      - limited intervallic sets/relationships
+        - almost classical in nature
+        - often grouped in 4
+    - gesture identity
+    - first movement
+        - tonal ambiguity to tonal clarity
+        - heterophony to homophony
+        - independence to subsets (duos and trios)
+        - strict processes:
+          - displacement
+          - pitch canons
+          - consistent rhythmic subdivisions
+          - limited intervallic sets/relationships
     - second movement
-  - cross relationships between movements
+- Cross relationships between movements
     - first movement: perfect fourth motive and displacement
     - first movement: limited melodic motives
     - second movement: picking up where the first left off after the punctuated interruption
@@ -162,51 +165,49 @@ header-includes:
     - fourth movement: polymeter and various subsets
 - Exmaples of organicism, concretism, and descriptive
 - Connections to Other Music
-  - *Winternacht*
-    - musical material
-      - punctuated gestures
-      - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
-        - same articulation and triadic material
-    - formal similarity
-      - material returning in another movement
-      - movement picking up where the last left off (can't remember why I said this??)
-  - *Ten Preludes* and *Flowersongs*
-    - ending with a clearly neo-classical movement
-  - *Wald*
+    - *Winternacht*
+        - musical material
+            - punctuated gestures
+            - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
+                - same articulation and triadic material
+        - formal similarity
+            - material returning in another movement
+            - movement picking up where the last left off (can't remember why I said this??)
+    - *Ten Preludes* and *Flowersongs*
+        - ending with a clearly neo-classical movement
+    - *Wald*
 
 
 Movement I Tempo Canons
-
-\singlespacing
-
 |      |                             |                             |                              |                             |                             |                             |
 |:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
 | Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
 | Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
 | Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
 
-\doublespacing
-
 ## *Wald*
-- Background and instrumentation
-  - co-commission
-  - world premieres
-  - instrumentation and use of bass instruments
+### Background and instrumentation
+- co-commission
+- world premieres
+- instrumentation and use of bass instruments
     - scordatura harp
     - double horn in f/Bb?
     - bass trumpet played by the trombone player
-  - seating plan introduction
-  - **questions**
+- seating plan introduction
+- **questions**
     - any changes made between two performances?
-- Connections to other music (good place for this discussion?)
-  - *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
-  - *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
-  - *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
-- Form
-  - series of variations
-- Spatial layout
-  - connection to call and response
-  - connection to orchestration
+
+### Connections to other music (good place for this discussion?)
+- *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
+- *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
+- *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
+
+### Form
+- series of variations
+
+### Spatial layout
+- connection to call and response
+- connection to orchestration
 
 # Part Three: Analysis of *Wald*
 ## Introduction, Variation 1, and Variation 2
@@ -234,81 +235,3 @@ Movement I Tempo Canons
         - Concept of doubling (both in orchestration and re-use)
         - Shrinking movement proportions
     - Schumann
-
-
-
-# Chronological List of Works
-| Year  | Title                            | Duration | Instrumentation                                        |
-|:------|:---------------------------------|:---------|:-------------------------------------------------------|
-| 1970  | Skum                             | 14:00    | 2.1.1.1/1.1.1.0/4perc/hp/pf/str(2.2.3.3.2)             |
-| 1971  | Rundt om og Ind Imellem          | 10:00    | hn, 2trp, tbn, tba                                     |
-| 1972  | EEC sats                         | 10:00    | 3.3.3.3/4.3.3.1/3perc/pf/str                           |
-| 1972  | Efterår                          | 5:00     | Tenor [=Soprano] vc, fl, gtr                           |
-| 1972  | Landskaber                       | 8:00     | fl, ob, cl, bn, hn                                     |
-| 1973  | 10 Præludier                     | 20:00    | string quartet                                         |
-| 1973  | Flowersongs                      | 11:00    | 3fl                                                    |
-| 1973  | Glansbilleder [Scraps]           | 4:00     | vc, pf                                                 |
-| 1973  | Universe Birds                   | 4:00     | 10 Sopranos and 10 S or 5S                             |
-| 1974  | Gush                             | 4:00     | asx                                                    |
-| 1974  | Symfoni                          | 14:00    | 2.2.2.2/4.3.3.0/timp.3perc/str                         |
-| 1975  | Stratifications                  | 8:00     | 2.2.2.1/2.2.1.0/2perc/pf/str                           |
-| 1976  | October                          | 6:00     | pf                                                     |
-| 1976  | Danmarks-sange                   | 10:00    | soprano and va, fl, cl, perc, pf                       |
-| 1978  | Canzone                          | 9:00     | acn                                                    |
-| 1978  | Winternacht                      | DURATION | 1.0.1.0/1.0+cnt.0.0/pf/str(1.0.0.1.0)                  |
-| 1978  | Walden                           | 11:00    | fl, ob, cl, bn, hn                                     |
-| 1981  | Nacht und Trompeten              | 11:00    | 2.2.2.2/2.3.0.0/5perc/pf/str                           |
-| 1981  | String Quartet No. 2             | 15:00    | string quartet                                         |
-| 1984  | Märchenbilder                    | 14:00    | sinfonietta                                            |
-| 1984  | Seks stykker                     | 14:00    | vn, hn, pf                                             |
-| 1985  | Zwei Schneetänze                 | 4:00     | 4rec Alternate Orchestration: vn, vc, fl, cl           |
-| 1987  | Lied in Fall                     | 14:00    | cello and chamber orchestra                            |
-| 1988  | Storm og Stille                  | 3:00     | vc and Alternate Orchestration: vn, va, vc             |
-| 1990  | Capriccio Bagateller             | 4:00     | vn                                                     |
-| 1990  | Aarhus Ragtime                   | 3:00     | 1(pic).1.1.1/1.1.1.0/perc/pf/str 1.1.1.1.1             |
-| 1990  | Hymne                            | 3:00     | vc or va                                               |
-| 1992  | Efterårslied                     | 6:00     | Soprano vn.vc.cl.pf[hpd]                               |
-| 1995  | Walden (reed quintet version)    | 11:00    | ob, 2cl, bn, asx                                       |
-| 19--  | Winternacht                      | DURATION | 1.0.1.0/0.0.0.0/perc/pf/gtr/str(1.0.0.1.0)             |
-| 1998  | Ti studier                       | 21:00    | pf                                                     |
-| 1999  | Two Pieces in Slow Time          | 7:00     | 2hn, 3trp, 3tbn, 2tba, 2cnt, 2perc                     |
-| 2000  | Siciliano                        | 6:12     | vc                                                     |
-| 2000  | Concerto for Piano and Orchestra | 15:00    | piano and chamber orchestra                            |
-| 2004  | Fire Stykker for Orkester        | 17:00    | large orchestra                                        |
-| 2005  | Three Little Nocturnes           | 9:00     | accordion and string quartet                           |
-| 2006  | Air                              | 9:00     | accordion                                              |
-| 2006  | Schnee, Canons 1a & 1b           | 17:00    | 0+pic.1.0+Ebcl.0/0000/perc/2pf/str 1.0.1.1.0           |
-| 2008  | Schnee                           | 57:00    | 1(pic,afl).1(ca).1(Ebcl,bcl)/perc/2pf/str 1.0.1.1.0    |
-| 2008  | String Quartet No. 3             | 12:00    | string quartet                                         |
-| 2009  | Efterårslied                     | 6:00     | ca.pf[hpd]vn.va.vc                                     |
-| 2009  | Traumlieder                      | 14:00    | vn.vc.pf                                               |
-| 2009  | Wald                             | 18:00    | 0+bfl.0+ca.0+bcl.1/1200/perc/hp.pf(cel)/str(1.1.1.1.1) |
-| 2009? | Kharon                           | 7:00     | trombone                                               |
-| 2010  | Liebeslied                       | 3:00     | bs fl, ob, bs cl, perc, pno, vn, va, vc                |
-| 2010  | Ten Sinfonias                    | 20:00    | orchestra                                              |
-| 2011  | Double Concerto                  | 22:00    | violin, piano, and string orchestra                    |
-| 2012  | Flowersongs, version 2012        | 10:00    | fl/a.fl, ob/Eng.hn, and cl/Eb.cl                       |
-| 2012  | String Quartet No. 4             | 20:00    | string quartet                                         |
-| 2013  | Schneebilder                     | 20:00    | violin, viola, cello, and piano                        |
-| 2013  | Let me tell you                  | 30:00    | soprano and orchestra                                  |
-| 2014  | Bamberger Tanz                   | 4:00     | orchestra                                              |
-| 2015  | Left, alone                      | 18:00    | piano (left hand) and orchestra                        |
-
-
-| Year | Arrangement                               | Duration | Instrumentation            |
-|:-----|:------------------------------------------|:---------|:---------------------------|
-|      | Bach: 8 Canons - 20:00                    |          |                            |
-|      | Bach: Befiehl du deine Wege - 5:00        |          |                            |
-| 2012 | Nielsen: Commotio                         | 21:00    |                            |
-| 1988 | Nielsen: Fantasistykker, op. 2            | 6:00     | ob,vn,va,vc                |
-|      | Nielsen: Festpræludium                    | 3:00     |                            |
-| 2010 | Nielsen: Symfoni Nr. 6                    | 32:00    |                            |
-| 1990 | Nielsen: Three Piano Pieces op. 59 posth. | 10:00    |                            |
-| 1989 | Ravel: Le Tombeau de Couperin             | 20:00    |                            |
-| 2011 | Debussy: Children's Corner                | 18:00    | |                          |
-| 1988 | Satie: Trois Gymnopedies                  | 12:00    | ob,str4tet                 |
-| 2012 | Ligeti: Arc-en-ciel                       | 4:00     |                            |
-| 2012 | Ligeti: En Suspens                        | 2:15     |                            |
-| ???? | Nørgård: Surf                             | 5:00     |                            |
-|      | Schumann: Kinderszenen, op.15             |          | Wind Quintet               |
-| 1998 | Weyse: Fire Aftensange                    | 20:00    | Mezzosoprano and orchestra |
