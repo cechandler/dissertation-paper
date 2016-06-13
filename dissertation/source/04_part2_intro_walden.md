@@ -64,7 +64,7 @@ Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 
 The form of each movement is mostly fluid and continuous and does not lend itself to classical formal patterns and instead is best described as through-composed. The formal continuity present throughout can, however, be parsed into several sections delineated by changes in harmonic collection or texture. but share melodies, motives, gestures, and harmonies
 
-The form of the first movement unfolds over four short sections. The first features a call and response pattern that gradually transforms over four phrases via a process of rhythmic displacement. The second section consists of a heterophonic canon between flute, clarinet, and bassoon, while the oboe and horn continue calling. The third section continues the heterophonic canon in the flute, oboe, and clarinet, while the horn and bassoon periodically interject a staccato interval. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated chord.
+The first movement of *Walden* contains three different dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning features the quintet performing music that is harmonically ambiguous and articulated heterophonically, but by the end the quintet is performing harmonically clear and homophonic musical material. The form of the first movement unfolds over four short sections. The first features a call and response pattern that gradually transforms over four phrases via a process of rhythmic displacement. The second section consists of a heterophonic canon between flute, clarinet, and bassoon, while the oboe and horn continue calling. The third section continues the heterophonic canon in the flute, oboe, and clarinet, while the horn and bassoon periodically interject a staccato interval. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated chord.
 
 The second movement reuses much of the same musical materials from the first movement: a transposed version of the three-octave melody, a melodic motive in the oboe, and the horn and bassoon staccato punctuation. Abrahamsen presents these materials in a precise cyclical configuration using retrograde and filtering procedures and **balanced phrasing**. Since the music unfolds more or less continuously, its formal sections are primarily revealed by how various cycles repeat and the changes made upon a new cycle starting. This movement is less about development than it is about transformation through decay and removal.
 
@@ -76,22 +76,30 @@ Figure @fig:walden-formal-overview gives a diagram of each movement including si
 
 ![Formal overview of *Walden* movements.](../figures/temporary.png){#fig:walden-formal-overview}
 
-### Compositional Techniques in *Walden*
-The clarity of form and expression and economy of musical materials associated with Abrahamsen's first period "New Simplicity" works are evident through a wide variety of compositional techniques in *Walden*. These techniques include: rhythmic displacement, consistency in rhythmic subdivisions, rhythmic augmentation and diminution/compression, rhythm and pitch retrograde, canons, limited harmonic collections, limited intervallic motion, polymeter and polytempo, and clarity in phrasing.
+### Process and Materials in *Walden*
+Abrahamsen's use of strict processes, limited musical materials, and inter-movement relationships are defining characteristics of *Walden*. These processes and compositional techniques pertain to the domains of rhythm (displacement, retrograde, augmentation, diminution/compression, consistency in subdivisions), pitch (canons, retrograde, limited harmonic collections, limited intervallic motion), and orchestration (texture, subsets, layers, phrasing). An examination of these elements will illustrate the economy of musical materials associated with Abrahamsen's work in general but will additionally provide a foundation from which to make comparisons to *Wald*.
 
-### First Movement
-The first movement of *Walden* contains three different dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning features the quintet performing music that is harmonically ambiguous and articulated heterophonically, but by the end the quintet is performing harmonically clear and homophonic musical material. The instruments begin playing quite independently from one another, and over the course of the movement, they break into various duos and trios, and finally end as a tutti unit.
+#### Rhythmic Displacement
+Rhythmic displacement is an important process in *Walden* that involves a repeated phrase or gesture gradually moving out of phrase or alignment with other instruments. It not only shapes the opening of the work but also serves as the basis for *Wald*. The process/technique is linked in some ways to the music of American minimalists, particularly Steve Reich. While Abrahamsen does not embrace the same aesthetic as the American minimalists, Abrahamsen was familiar with Reich's music,^[**find citation**] and he would more fully explore this notion of minimalism during his "fermata" and in some of his second period works, particularly *Schnee*.
 
-Figure @fig:walden-hn-call-resp shows the first two of these phrases separated by grand pauses.
+The first movement opens with four phrases separated by grand pauses. All four phrases contain different rhythmic configurations of only two motives: a single rising Bb-Eb horn call and three rising D-F echoing responses in the flute, clarinet, and bassoon. Each instrument articulates their motive with a consistent rhythmic subdivision: the flute and horn in triplets, the clarinet in quintuplets, and the bassoon in eighth notes. Figure @fig:walden-hn-call-resp shows the first two of these phrases.
 
 ![Horn call and responses.](../figures/walden-horn-theme.png){#fig:walden-hn-call-resp width=75%}
 
-The phrases contain two motives: a single rising Bb-Eb horn call and three D-F echoing responses in the flute, clarinet, and bassoon. Each instance of the motive differs slightly in rhythmic subdivision (e.g. eighths, triplets, and quintuplets), and over the course of the four phrases, the order of the call and responses undergoes rhythmic displacement. The horn call consistently enters within beat four, but with each phrase "responses" shift by a consistent rhythmic value: the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth note. By the fourth phrase, the horn call is isolated from the responses having rotated to the end (see Figure @fig:walden-hn-call-phr4).
+Over the course of this first section (mm. 1-17), the echoing responses shift in their rhythmic position by fixed amounts causing displacement both with one another and the horn call. The Bb-Eb horn call consistently enters within beat four, while the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth-note. By the fourth phrase, the horn call is isolated from the responses having rotated to the end (see Figure @fig:walden-hn-call-phr4).
 
 ![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){#fig:walden-hn-call-phr4 width=75%}
 
-After this four phrase rhythmic displacement process finishes, the oboe enters for the first time with a falling F#-C# perfect fourth motive, and the second section follows. The second section features the oboe and horn working as one layer, while the flute, clarinet, and bassoon articulate a heterophonic, canonic texture. The oboe and horn remain in a consistent 5-measure rhythmic relationship. For 2 measures, the horn performs the rising perfect fourth call, now elongated by the addition of a F (Bb-Eb-F), while the oboe continues with the falling perfect fourth motive for 3 measures.
+This process breaks down the initial call and response relationship. **more on what this does and what it says about the process being applied to a horn call motive**
 
+Another instance of displacement or rotational rhythmic process occurs briefly between measures 5-7 in the third movement. While the flute and horn are engaged in a polyrhythmic repetition of F-G-Ab, the oboe and clarinet articulate similar musical motives in different rhythmic subdivisions
+
+#### Rhythmic Augmentation and Diminution
+The same way that the global, movement proportions of *Walden* compress over the work applies to the local phrase or gesture level as well.
+
+#### Polyrhythm and polymeter
+
+#### Canons and Retrograde
 During the course of this pattern's four repetitions, the flute, clarinet, and bassoon engage in a tempo and pitch canon from measure 21 to 38 consisting of four phrases. The ending of each phrase is identified by a longer held F. The trio begins together on the downbeat of measure 21 with the D-F echoing responses from the first section. Each instrument remains in a separate rhythmic subdivision: the bassoon in eighths, the clarinet in quintuplets, and the flute in triplet eighths. Unlike the responses from the first section, each motive
 
 ![Flute line mm. 21-34.](../figures/temporary.png){#fig:walden-I-flute}
@@ -100,11 +108,10 @@ On the oboe's fourth response, the flute, clarinet, and horn make a jarring fort
 
 Harmonically, the endings of the first, second, and third sections are characterized by subtle changes in harmonic language that act as a transition to the next section.
 
-<!-- ### Second Movement
+<!-- #### Orchestration -->
 
-### Third Movement
-
-### Fourth Movement -->
+#### Harmonic Collections and Connections Between Movements
+After this four phrase rhythmic displacement process finishes, the oboe enters for the first time with a falling F#-C# perfect fourth motive, and the second section follows. The second section features the oboe and horn working as one layer, while the flute, clarinet, and bassoon articulate a heterophonic, canonic texture. The oboe and horn remain in a consistent 5-measure rhythmic relationship. For 2 measures, the horn performs the rising perfect fourth call, now elongated by the addition of a F (Bb-Eb-F), while the oboe continues with the falling perfect fourth motive for 3 measures.
 
 ### Connections to Other Music
 <!-- ### Connections to *Winternacht* and *Wald* -->
