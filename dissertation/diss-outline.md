@@ -118,75 +118,90 @@ header-includes:
 > It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
 ## *Walden*
-- Background
-    - instrumentation and reorchestration
-    - inspiration and relationship to nature
-        - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
-        - https://en.wikipedia.org/wiki/Concrete_art
-        - https://en.wikipedia.org/wiki/De_Stijl
-    - **questions**
-        - date and place of premiere
-        - date and place of reed quintet version premiere
-        - considerations when translating the arrangement
-        - adjustments made between the two versions
-- Form
-    - basic info
-        - four movements, untitled
-        - decreasing durations
-- Compositional techniques
-    - rhythmic displacement
-    - rhythmic subdivisions
-    - rhythmic augmentation and compression
-    - pitch canons
-    - harmony:
-        - limited intervallic motion
-        - limited harmonic sets
-    - retrograde: rhythm and pitch
-    - polymeter and tempo
-    - clarity in phrasing
-        - almost classical in nature
-        - often grouped in 4
-    - gesture identity
+### Background
+- instrumentation and reorchestration
+- inspiration and relationship to nature
+    - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
+    - https://en.wikipedia.org/wiki/Concrete_art
+    - https://en.wikipedia.org/wiki/De_Stijl
+- **questions**
+    - date and place of premiere
+    - date and place of reed quintet version premiere
+    - considerations when translating the arrangement
+    - adjustments made between the two versions
+
+### Form
+- basic info
+    - four movements, untitled
+    - decreasing durations
+- differences between 1978 and 1995 version
+    - I:
+        - D major chord for trio instead of tutti
+    - II:
+        - written in 4/8 instead of 4/4
+    - III:
+    - IV:
+        - written in 12/16 and 3/4
+- description of movements
     - first movement
         - tonal ambiguity to tonal clarity
         - heterophony to homophony
         - independence to subsets (duos and trios)
         - strict processes:
-          - displacement
-          - pitch canons
-          - consistent rhythmic subdivisions
-          - limited intervallic sets/relationships
+            - displacement
+            - quasi-prolation canons
+            - consistent rhythmic subdivisions
+            - limited intervallic sets/relationships
     - second movement
-- Cross relationships between movements
-    - first movement: perfect fourth motive and displacement
-    - first movement: limited melodic motives
-    - second movement: picking up where the first left off after the punctuated interruption
-    - second movement: oboe F# C# at mm. 5-6, 15-16, and 24-25
-    - third movement: oboe F# C# at climax, mm. 26-27
-    - third movement: punctuated gesture towards end
-    - fourth movement: most unrelated; scalar material suggestive of scalar motion in first and second movements
-    - fourth movement: polymeter and various subsets
-- Exmaples of organicism, concretism, and descriptive
-- Connections to Other Music
-    - *Winternacht*
-        - musical material
-            - punctuated gestures
-            - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
-                - same articulation and triadic material
-        - formal similarity
-            - material returning in another movement
-            - movement picking up where the last left off (can't remember why I said this??)
-    - *Ten Preludes* and *Flowersongs*
-        - ending with a clearly neo-classical movement
-    - *Wald*
+        - clarity in phrasing
+            - almost classical in nature
+            - often grouped in 4
+    - third movement
+    - fourth movement
 
+### Process and Techniques
+1. rhythmic displacement and subdivision
+    - I: mm. 1-16 horn call and response
+    - III: mm. 5-7 two motive repetitions in ob, cl, and bsn
+2. augmentation, diminution, canon, retrograde
+    - I: mm. 21-38 and mm. 42-56 prolation canons
+    - II: mm. 1-9 re-reading of I melody (mm. 57-61) and retrograde in pitch/rhythm
+        - I mm. 57-61 melody stops right at point of retrograde
+    - II: mm. 5-26 oboe melody and diminution/expansion of phrase length
+        - process of filtering in both oboe melody and fl/bsn duo
+    - III: mm. 1-10 ritarando/augmentation and mm. 10-25 accelerando/diminution and mm. 25-32 ritardando/augmentation
+3. harmony:
+    - limited intervallic motion
+    - limited harmonic sets
+4. polymeter and tempo
 
-Movement I Tempo Canons
-|      |                             |                             |                              |                             |                             |                             |
-|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
-| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
-| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
+### Cross relationships between movements
+- I:
+    - perfect fourth motive and displacement
+    - limited melodic motives
+- II:
+    - picking up where the first left off after the punctuated interruption
+    - oboe F# C# at mm. 5-6, 15-16, and 24-25
+- III:
+    - oboe F# C# at climax, mm. 26-27
+    - punctuated gesture towards end
+- IV:
+    - most unrelated; scalar material suggestive of scalar motion in first and second movements
+    - polymeter and various subsets
+
+### Connections to Other Music
+- *Winternacht*
+    - musical material
+        - punctuated gestures
+        - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
+            - same articulation and triadic material
+    - formal similarity
+        - material returning in another movement
+        - movement picking up where the last left off (can't remember why I said this??)
+- *Ten Preludes* and *Flowersongs*
+    - ending with a clearly neo-classical movement
+- *Wald*
+
 
 ## *Wald*
 ### Background and instrumentation

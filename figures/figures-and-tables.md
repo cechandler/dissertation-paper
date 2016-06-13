@@ -74,7 +74,7 @@ header-includes:
 |         | 595         | \eighthNote = 64                   | Piu lento                         |
 
 
-# Compressed table 
+# Compressed table
 | Section | Measures    | Tempo                              | Descriptive markings              |
 |:--------|:------------|:-----------------------------------|:----------------------------------|
 | Intro   | mm. 1-108   |                                    |                                   |
@@ -264,3 +264,12 @@ BACD
 BCA
  D
 BDCA  
+
+
+
+Movement I Tempo Canons
+|      |                             |                             |                              |                             |                             |                             |
+|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
+| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
+| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
