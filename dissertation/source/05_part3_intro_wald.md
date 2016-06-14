@@ -1,5 +1,5 @@
-## Wald
-### Background and Instrumentation
+# Part 3: An Analysis of *Wald*
+## Background and Instrumentation
 Abrahamsen completed *Wald* in 2009 as a result of a co-commission from the Asko|Schönberg Ensemble (Netherlands) and the BBC for the Birgmingham Contemporary Music Group (United Kingdom). Asko/Schönberg and conductor Reinbert de Leeuw gave the world premiere on January 14, 2010 at the Muziekgebouw aan't IJ in Amsterdam, while the BCMG and composer/conductor George Benjamin gave the UK premiere on August 6, 2010 at the Royal Albert Hall in London during the 2010 BBC Proms.
 
 The piece is scored for a sinfonietta ensemble of fifteen musicians: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass. **more on the use of unique doublings** The musicians are seated in a non-standard semi-circle configuration of four groups of duos and two groups of trios with the piano occupying the central position outside of any group. Figure @fig:wald-seating-plan shows the tree-like diagram of this seating plan. This seating arrangement is intimately connected with the way Abrahamsen handles orchestration and the transference of material over the course of the work and will be discussed in greater detail later on.
@@ -8,9 +8,9 @@ The piece is scored for a sinfonietta ensemble of fifteen musicians: bass flute,
 
 ![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=60%}
 
-### Connections to Other Music
+## Connections to Other Music
 
-### Form
+## Form
 <!-- The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance.  -->
 The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table @tbl:wald-proportions, measured from the only commercially released recording by Asko|Schönberg Ensemble,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, as seen earlier in *Walden* and other works.
 
@@ -92,7 +92,6 @@ Table: *Wald* Tempo and Descriptive Markings {#tbl:wald-form}
 
 \doublespacing
 
-
 This table highlights variations and sections that are musically connected by these indications, but does not describe the full extent of their relationships. There are interrelated sections and variations across the piece that are not captured by this table. The entire form of the work can be grouped in the following way:
 
 \singlespacing
@@ -109,5 +108,5 @@ This table highlights variations and sections that are musically connected by th
 
 The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
-#### Spatial Layout
+### Spatial Layout
 Abrahamsen's arrangement of the 15 musicians into a semi-circle of six symmetrical groups guides his approach to orchestration. Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups. A brief examination of the first sections of the introduction (measures 1-36) illustrates this process.

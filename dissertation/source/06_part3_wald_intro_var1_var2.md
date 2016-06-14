@@ -1,4 +1,3 @@
-# Part 3: An Analysis of *Wald*
 ## Introduction, Variation 1, and Variation 2
 **short section describing the interrelationships of the Introduction, Variation 1, and Variation2**
 
