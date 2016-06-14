@@ -1,5 +1,6 @@
 # gitignore settings for dissertation #
-research/**
+research/timeline.md
+research/log.md
 esm-docs/**
 .~lock*
 [._]*.s[a-w][a-z]
