@@ -171,9 +171,31 @@ header-includes:
         - process of filtering in both oboe melody and fl/bsn duo
     - III: mm. 1-10 ritarando/augmentation and mm. 10-25 accelerando/diminution and mm. 25-32 ritardando/augmentation
 3. harmony:
-    - limited intervallic motion
-    - limited harmonic sets
-4. polymeter and tempo
+    - harmonic sets
+        - [013], [014589], D major
+        - limited intervallic motion
+            - new intervals highlight change in section
+        - syntax: changes in harmonic set at the end of a phrase/section
+            - I: mm. 18-20 oboe entrance
+            - I: mm. 38-41 B-D dyad and C-Eb dyad
+            - II: mm. 28-30 new harmonic area (but related to earlier oboe line) to conclude mvmt
+            - III: mm. 10 perfect fifth and beginning of new section
+    - [013]
+        - I: mm. 21-38 and mm. 42-56 are inversions of [013] around F#
+        - I: mm. 38-39 contrast with major 3rd interval signal
+        - II: same melody as in I
+        - III:
+    - D major
+        - often functions as the ending harmonic area: I, II, and IV primarily
+        - I: mm. 62-end
+        - II: mm. 26
+        - III: mm. 11-26 D major intersects with [014589] and mm. 27-end triadic horn call
+        - IV: modulation to D major by end
+    - [014589] and connection to parts of sets
+4. polymeter and tempo:
+    - I, II, and III: importance of rhythmic subdivisions; way of using polymeter to create different layers
+    - IV: actually polymetric and polytempo
+
 
 ### Cross relationships between movements
 - I:
@@ -253,3 +275,10 @@ header-includes:
         - Concept of doubling (both in orchestration and re-use)
         - Shrinking movement proportions
     - Schumann
+
+
+# Misc thoughts
+Simplicity of A's music:
+Pierre Boulez interview with Andrew Ford (*Composer to Composer*, pg. 23):
+
+> Take *Notations*, for example: In these short pieces the design is very clear. But if you go inside, you know, you find so many small relationships, the kitting of each element is so tight that it takes quite a lot of time to see what is really there. For me it is a game of appearance and reality.
