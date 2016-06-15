@@ -83,6 +83,10 @@ header-includes:
 - Pierre Boulez
 - Franco Donatoni
 
+From *Concerto for Piano and Orchestra* program note:
+
+> Characteristically for Hans Abrahamsen’s works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - ‘(Wie Mahler!)’ - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen’s most important teachers.
+
 ## Possibly mention pieces arranged from smaller works
   - Pictures at an Exhibition (suite of 10 piano pieces, like A's Ten Studies)
 
@@ -217,6 +221,7 @@ header-includes:
         - punctuated gestures
         - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
             - same articulation and triadic material
+        - polyrhythmic acceleration and deceleartion (WN II vs Walden II)
     - formal similarity
         - material returning in another movement
         - movement picking up where the last left off (can't remember why I said this??)

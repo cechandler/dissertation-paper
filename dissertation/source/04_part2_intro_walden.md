@@ -78,7 +78,7 @@ Abrahamsen's use of strict processes, limited musical materials, and inter-movem
 ### Rhythmic Displacement and Subdivision
 Rhythmic displacement is an important process in *Walden* involving a repeated phrase or gesture gradually moving out of phrase or alignment with other instruments. It not only shapes the opening of the work but also serves as the basis for *Wald*. The process/technique is linked in some ways to the music of American minimalists, particularly Steve Reich. While Abrahamsen does not embrace the same aesthetic as the American minimalists, Abrahamsen was familiar with Reich's music,^[**find citation**] and he would more fully explore this notion of minimalism during his "fermata" and in some of his second period works, particularly *Schnee*.
 
-The first movement opens with four phrases separated by grand pauses. All four phrases contain different rhythmic configurations of only two motives: a single rising Bb-Eb horn call and three rising D-F echoing responses in the flute, clarinet, and bassoon. Each instrument articulates their motive with a consistent rhythmic subdivision: the flute and horn in triplet eighths, the clarinet in quintuplet sixteenths, and the bassoon in quarter notes. Figure @fig:walden-hn-call-resp shows the first two of these phrases.
+The first movement opens with four phrases separated by grand pauses. All four phrases contain different rhythmic configurations of only two motives: a single rising Bb-Eb horn call and three rising D-F echoing responses in the flute, clarinet, and bassoon. Each instrument articulates their motive with a consistent rhythmic subdivision: the flute and horn in triplet eighths, the clarinet in quintuplet sixteenths, and the bassoon in quarter notes. Figure @fig:walden-hn-call-resp shows the first two of these phrases. **include some additional language on the importance of subdivision treatment throughout**
 
 ![Horn call and responses](../figures/walden-I-horn-theme.png){#fig:walden-hn-call-resp width=75%}
 
@@ -123,30 +123,36 @@ One final instance of augmentation and diminution in this same passage of the se
 
 \singlespacing
 
-Table: *Walden* II oboe melody phrase durations. {#tbl:walden-II-ob-pro}
+Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
-| Phrase | Duration           |
-|:-------|:-------------------|
-| 1      | 15 \quarterNote    |
-| 2      | 9 1/2 \quarterNote |
-| 3      | 6 1/2 \quarterNote |
-| 4      | 4 1/3 \quarterNote |
-| 5      | 9 1/2 \quarterNote |
-| 6      | 9 1/2 \quarterNote |
-| 7      | 9 1/2 \quarterNote |
+| Phrase |      Duration      |
+|:------:|:------------------:|
+|   1    |  15 \quarterNote   |
+|   2    | 9 1/2 \quarterNote |
+|   3    | 6 1/2 \quarterNote |
+|   4    | 4 1/3 \quarterNote |
+|   5    | 9 1/2 \quarterNote |
+|   6    | 9 1/2 \quarterNote |
+|   7    | 9 1/2 \quarterNote |
 
 \doublespacing
 
 **concluding section on oboe augmentation and diminution**
 
+The final third passage of augmentation and diminution comes from measures 1-26 in the third movement. This passage can be divided into two sections, an augmentation of rhythmic values from measures 1-10 and then a diminution of rhythms from measures 10-26. Abrahamsen constructs both sections from polyrhythmic textures where individual voices change in rhythmic subdivision to accelerate or decelerate their repeated patterns. For instance, the opening of the movement features the flute, clarinet, and bassoon playing a polyrhythm of 10:7:4 (quintuplet thirty-seconds, over septuplet sixteenths, over sixteenths) that slows twice, once in measure 5 to a polyrhythm of 8:5 (for flute and horn) and again to 6:3 at measure 8 (for flute and clarinet). The process reverses from mm. 10-26, this time engaging the entire ensemble in the slow and deliberate acceleration to an interlocking angular sixteenth-note texture. One way to measure the increasing energy produced by this section is to track the number of articulations or attacks per measures. Figure @fig:walden-III-mm11-26-attacks plots each instrument's number of attacks from measures 11-26.
+
+![*Walden* III mm. 11-26 attacks per measure](../figures/walden-III-mm11-26-attacks.png){#fig:walden-III-mm11-26-attacks width=65%}
+
+This graph expresses the overall increase in the number of events over the course of this passage, and also illustrates how the flute and bassoon are the primary driving instruments at the end while the other three instruments change to long held notes.
+
+**something on why this is useful**
+
+**conclusion on augmentation, diminution, canon, and retrograde processes**
+
 ### Harmonic Collections and Connections Between Movements
 After this four phrase rhythmic displacement process finishes, the oboe enters for the first time with a falling F#-C# perfect fourth motive, and the second section follows. The second section features the oboe and horn working as one layer, while the flute, clarinet, and bassoon articulate a heterophonic, canonic texture. The oboe and horn remain in a consistent 5-measure rhythmic relationship. For 2 measures, the horn performs the rising perfect fourth call, now elongated by the addition of a F (Bb-Eb-F), while the oboe continues with the falling perfect fourth motive for 3 measures.
 
 Harmonically, the endings of the first, second, and third sections are characterized by subtle changes in harmonic language that act as a transition to the next section.
-
-### Polyrhythm and polymeter
-
-<!-- ### Orchestration -->
 
 ## Connections to Other Music
 <!-- ## Connections to *Winternacht* and *Wald* -->

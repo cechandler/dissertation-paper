@@ -239,20 +239,20 @@ Piu lento \newline
 
 | Phrase | Order | Instr      | Length                       |
 |:-------|:------|:-----------|:-----------------------------|
-| One    | A     | bass flute | \eighthNote x 7              |
-|        | B     | contrabass | \eighthNote x 5.5            |
-|        | C     | harp       | \eighthNote x 6              |
-|        | D     | horn       | \eighthNote x 3              |
+| One    | A     | bass flute | 7 \eighthNote                |
+|        | B     | contrabass | 5.5 \eighthNote              |
+|        | C     | harp       | 6 \eighthNote                |
+|        | D     | horn       | 3 \eighthNote                |
 |        |       |            |                              |
 | Two    | B     | cello      | doubled compared to phrase 1 |
-|        | A     | horn       | remains the same             |
-|        | C     | kalimba    | remains the same             |
+|        | A     | horn       | 7 \eighthNote                |
+|        | C     | kalimba    | 5 \eighthNote                |
 |        | D     | bass flute | longer compared to phrase 1  |
 |        |       |            |                              |
 | Three  | B     | contrabass | longer compard to phrase 1   |
-|        | C     | harp       | remains the same             |
+|        | C     | harp       | 6 \eighthNote                |
 |        | D     | horn       | doubled compared to phrase 1 |
-|        | A     | bass flute | remains the same             |
+|        | A     | bass flute | 7 \eighthNote                |
 |        |       |            |                              |
 | Four   | B     | cello      | doubled compared to phrase 2 |
 |        | D     | bass flute | doubled compared to phrase 2 |
