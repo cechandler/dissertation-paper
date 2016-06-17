@@ -222,6 +222,10 @@ From *Concerto for Piano and Orchestra* program note:
   - I: mm. 1-16 horn call and response
   - III: mm. 5-7 two motive repetitions in ob, cl, and bsn
 
+      - oboe shifts left by 1 quintuplet 16th
+      - clarinet shifts right by 1 sixteenth
+      - another way of saying this is the pattern is such a length that displacement happens due to duration and meter
+
 2. augmentation, diminution, canon, retrograde
 
   - I: mm. 21-38 and mm. 42-56 prolation canons
