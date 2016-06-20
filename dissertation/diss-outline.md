@@ -1,12 +1,11 @@
 ---
-title: Abrahamsen Dissertation Outline
 papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
-    - \usepackage{setspace}
-    - \usepackage{lilyglyphs}
-...
+  - '\usepackage{setspace}'
+  - '\usepackage{lilyglyphs}'
+---
 
 # Front Matter
 
@@ -33,11 +32,11 @@ header-includes:
 
     - new technical innovations
 
-- From *Flowersongs* (1973) program note:
+- Discussion of reusing ideas from earlier works in *Flowersongs* (1973) program note:
 
   > I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008\. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
 
-- From *Ten Sinfonias* (2010) program note:
+- Discussion of reusing ideas from earlier works in *Ten Sinfonias* (2010) program note:
 
   > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
 
@@ -91,11 +90,15 @@ header-includes:
       - became "freer"
       - "shift away from the earlier automatism; I invent more." (pg. 119)
 
-  - needing a fragment:
+  - needing a fragment (from *Composer to Composer*):
 
     > "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 
-## Composers that have reworked material:
+## Composers that frequently rework older material:
+
+- From *Concerto for Piano and Orchestra* program note:
+
+> Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
 
 - Luciano Berio
 - Toru Takemitsu
@@ -103,56 +106,53 @@ header-includes:
 - Pierre Boulez
 - Franco Donatoni
 
-From *Concerto for Piano and Orchestra* program note:
+- Possibly mention historical pieces arranged from smaller works:
 
-> Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
+  - Pictures at an Exhibition (suite of 10 piano pieces, like A's Ten Studies)
 
-## Possibly mention pieces arranged from smaller works
-
-- Pictures at an Exhibition (suite of 10 piano pieces, like A's Ten Studies)
-
-# Part Two: A Brief Overview of *Walden* and *Wald*
+# Part Two: An Analysis of *Walden*
 
 ## Importance of horn to Abrahamsen
 
 - principle instrument
 - physicality of horn and his cerebral palsy (mentioned in left alone program note and NY Times article)
-- other works featuring the horn
+- other works featuring the horn:
 
-  - first piece for horn and piano
-  - *Six Pieces*
+  - *Six Pieces*: companion piece to Danish premiere of Ligeti's *Horn Trio*, reworks *Ten Studies*
+  - *Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of earliest work for horn and piano
+  - *October*: first piece for horn and piano
+  - *Left, alone* program note discusses:
 
-    - companion piece to Danish premiere of Ligeti's *Horn Trio*
-    - Ligeti's Horn Trio
-    - Hamburg Concerto (?)
+    > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
+
+    > My very first public performance of one of my own works was in autumn 1969\. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
+
+    > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
 - connection to German romanticism
 
 - connection to Schumann's *Waldenszen*
+
 - discuss "Waldhorn" (from program note) and natural horn/microtonality
+
 - connection to hunting:
 
   - from Cheung Dissertation: Raymond Monelle explains, "The medieval hunting horn was primarily a signaling instrument. During the course of personnel and hounds could become dispersed over wide area, and it was often necessary to communicate certain water, the release sight of the quarry, the loss of the scent, the plunging of the quarry into probable route of of (relais, small teams of huntsmen and hounds posted along the the hunt), the stag at bay, the stag and many other important steps in the process of hunting needed to be broadcast to the various members of the hunting party. The sound of the horns was also found to stimulate the hounds." Mondelle, Raymond. *The Musical Topic: Hunt, Military and Pastoral*. Bloomington, IN: Indiana University Press, 2006.
 
-*Left, alone* program note:
+## Background
 
-> I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
+- Abrahamsen on title and Thoreau's book (Kullberg, 1985):
 
-> My very first public performance of one of my own works was in autumn 1969\. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
+  > Hm! .. It is no more literary than that it is a title I found out after I had written the piece. So I rediscovered some qualities in my music, as Thoreau had tried to write about in his book "Walden, life in the forest '- that was why I chose the title. So, one can say anything about recycling and something about the cyclical and something about the ecological and poetic dimension etc. - And I liked the title 'Walden', it is something with forest, some pastoral.
 
-> Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
+- Abrahamsen has indicated this in the program note for *Ten Studies*:
 
-*Left, alone* Part 2: IV. Horn and piano solo in orchestral context perhaps reminiscent of this earlier work
+  > The language of the title means a lot to me and to which associations it arouses the listener. there may, for instance, be a world of difference between a "Traumlied", a "Drømmesang" and a "Dream Song", for that matter.
 
-*Ten Studies for Piano* program note:
-
-> It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
-
-## *Walden*
-
-### Background
+  > It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
 - instrumentation and reorchestration
+
 - inspiration and relationship to nature
 
   - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
@@ -166,12 +166,14 @@ From *Concerto for Piano and Orchestra* program note:
   - considerations when translating the arrangement
   - adjustments made between the two versions
 
-### Form
+## Form
 
 - basic info
 
   - four movements, untitled
   - decreasing durations
+
+    - make it clear A thinks about ratios like this; it's in the Kullberg article explicitly
 
 - differences between 1978 and 1995 version
 
@@ -199,32 +201,42 @@ From *Concerto for Piano and Orchestra* program note:
     - independence to subsets (duos and trios)
     - strict processes:
 
-      - displacement
-      - quasi-prolation canons
-      - consistent rhythmic subdivisions
-      - limited intervallic sets/relationships
+      - rhythmic displacement
+      - rhythmic subdivisions
+      - prolation canons at a ratio of 1:2:4
+      - retrograde in pitch
+      - limited intervallic sets
+      - permutational voice leading
 
   - second movement
 
+    - cycles and symmetry
     - clarity in phrasing
+    - compression of oboe phrases
+    - strict processes:
 
-      - almost classical in nature
-      - often grouped in 4
+      - rhythmic subdivisions
+      - retrograde in pitch and rhythm
+      - filtering out of motives
 
   - third movement
 
   - fourth movement
 
-### Process and Techniques
+## Process and Techniques
+
+**need to revise this section in order to only focus on the re-working of materials between I and II**
+
+**still talk about III and IV but in the context of other aspects or not deep analytical detail**
 
 1. rhythmic displacement and subdivision
 
   - I: mm. 1-16 horn call and response
   - III: mm. 5-7 two motive repetitions in ob, cl, and bsn
 
-      - oboe shifts left by 1 quintuplet 16th
-      - clarinet shifts right by 1 sixteenth
-      - another way of saying this is the pattern is such a length that displacement happens due to duration and meter
+    - oboe shifts left by 1 quintuplet 16th
+    - clarinet shifts right by 1 sixteenth
+    - another way of saying this is the pattern is such a length that displacement happens due to meter
 
 2. augmentation, diminution, canon, retrograde
 
@@ -277,7 +289,7 @@ From *Concerto for Piano and Orchestra* program note:
   - I, II, and III: importance of rhythmic subdivisions; way of using polymeter to create different layers
   - IV: actually polymetric and polytempo
 
-### Cross relationships between movements
+## Cross relationships between movements
 
 - I:
 
@@ -299,7 +311,7 @@ From *Concerto for Piano and Orchestra* program note:
   - most unrelated; scalar material suggestive of scalar motion in first and second movements
   - polymeter and various subsets
 
-### Connections to Other Music
+## Connections to Other Music
 
 - *Winternacht*
 
@@ -317,19 +329,18 @@ From *Concerto for Piano and Orchestra* program note:
     - material returning in another movement
     - movement picking up where the last left off (can't remember why I said this??)
 
-- *Ten Preludes* and *Flowersongs*
+- *Ten Preludes* and *Flowersongs*: ending with a clearly neo-classical movement
 
-  - ending with a clearly neo-classical movement
+- *Wald*: prepare next section
 
-- *Wald*
+# Part Three: An Analysis of *Wald*
 
-## *Wald*
-
-### Background and instrumentation
+## Background and instrumentation
 
 - co-commission
 - world premieres
-- instrumentation and use of bass instruments
+- "subtle rhetoric": Julian Anderson on Abrahamsen's music; description of *Wald* and *Schnee*
+- instrumentation and use of bass instruments:
 
   - scordatura harp
   - double horn in f/Bb?
@@ -341,33 +352,191 @@ From *Concerto for Piano and Orchestra* program note:
 
   - any changes made between two performances?
 
-### Connections to other music (good place for this discussion?)
-
-- *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
-- *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
-- *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
-
-### Form
+## Form
 
 - series of variations
+- tempo modulations
 
-### Spatial layout
+## Spatial layout
 
 - connection to call and response
 - connection to orchestration
 
-# Part Three: Analysis of *Wald*
-
 ## Introduction, Variation 1, and Variation 2
 
-- Section 1
-- Section 2
-- Section 3
-- Section 4
+### Section 1
 
-  - Cascading material in marimba/harp and piano
-  - Interval cycles at play
-  - Interlocking voices of the pentatonic 5-34[02469] material from Section 3
+- main features:
+
+  - highly organized proportions
+  - rhythmic displacement
+  - microtonal temperaments
+  - symmetrical groups call and response by phrase
+  - repeats in intro
+
+- musical elements:
+
+  1. quartal chord repeated twice
+  2. repeated static notes (almost tremolo)
+  3. perfect fourth call
+  4. repeated note response: 1) horn, bass, harp and 2) bass flute, cello, kalimba
+
+- changes to elements over Intro, Var 1, Var 2
+
+  - Introduction:
+
+    - 2 bar intro
+    - 4 phrases each repeated once
+    - alternates 8 and 9 measure repeats
+    - alternates subdivisions of 2 and 3 beats
+
+    - Element 1: quartal chord repeated twice
+
+      - piano with sostenuto pedal
+      - D-G played on piano strings with marimba mallet
+      - only occurs at the start of the piece (2 bar intro)
+
+    - Element 2: repeated static notes (almost tremolo)
+
+      - violin 1 and 2 alternate
+
+        1. quintuplet and sextuplet polyrhythms
+        2. ET and JI
+        3. both alternate accented subdivisions of 2 and 3 per repeat
+
+    - Element 3: perfect fourth call
+
+      - bass flute and horn
+      - remains same duration throughout: 7 eighth notes
+      - bass flute: timbral ornamentations, ET
+      - horn: no ornamentations, JI
+      - four instances each repeated once:
+
+        1. bfl: starts in 2nd measure of repeat
+        2. hrn: starts in 3rd measure of repeat; shifts later by 3 eighths
+        3. bfl: starts in 5th measure of repeat; shifts later by 6 eighths
+        4. hrn: starts in 6th measure of repeat; shifts later by 3 eighths
+
+    - Element 4: repeated note response
+
+      - horn, bass, harp
+      - bass flute, cello, kalimba
+      - contains three gestures:
+
+        1. repeated D
+
+          - bass: unornamented; JI
+          - horn: unornamented; JI
+
+        2. repeated G
+
+          - bass flute: ornamented; short flz or saltando tremolo on the beat; ET
+          - cello: ornamented; short flz or saltando tremolo on the beat; ET
+
+        3. plucked ascending perfect fourth D-G: harp and kalimba
+
+      - rhythmic process:
+
+        - total durations of three gestures grows longer: 6.5 eighths, 10, 11.5, 15
+        - gesture 3 (harp and kalimba always remains the same)
+        - gestures 1 and 2 augment each instance; but only the first two of the three articulations
+
+          1. baseline; gesture D duration is 4.5 eighths, gesture G is 3 eighths
+          2. gesture D = first two rhythms have eighth-notes added; gesture G = first two rhythms have eighth-notes added
+          3. gesture D = first two rhythms have eighth-notes added; gesture G = first two rhythms have eighth-notes added
+          4. gesture D = first two rhythms have eighth-notes added; gesture G = first two rhythms have eighth-notes added
+
+        - by growing longer, these gestures "shift" earlier
+
+  - Variation 1:
+
+    - 2 bar intro
+    - no repeated bars
+    - alternate 8 and 7 measure double bars
+    - call and responses started to "bleed over" double bars
+
+      - 6 perfect fourth calls
+      - 7 responses
+      - kind of like phasing over whole section
+
+    - Element 1: quartal chord repeated twice
+
+      - 8 instance (not including doublings) at the beginning of every double bar
+      - they compress with each instance
+
+        1. piano: 9 eighth notes between
+        2. harp: 6 eighth notes between
+        3. kalimba: 9 eighths
+        4. piano and harp
+
+          - piano: 6 eighths
+          - harp: 3 eighths and 2/5 quints
+
+        5. harp and trumpets
+
+          - harp: 3 eighths
+          - trumpets: 9 eighths
+
+        6. kalimba and piano
+
+          - kalimba: 6 eighths
+          - piano: 3 eighths and 2/5 quints
+
+        7. piano and bsn+bscl+vla+engh
+
+          - piano: 3 eighths
+          - bsn+bs cl+vla+engh: 9 eighths
+
+        8. kalimba and trumpets
+
+          - kalimba: 3 eighths and 2/5 quints
+          - trumpets: 6 eighths
+
+    - Element 2: repeated static notes (almost tremolo)
+
+      - violin 1 and 2 alternate
+
+        1. quintuplet and sextuplet polyrhythms
+        2. ET and JI
+        3. both alternate accented subdivisions: 2 + 3 + 2 then 3 + 2 + 3
+
+    - Element 3: perfect fourth call
+
+      - bass flute and horn
+      - remains same duration throughout: 7 eighth notes
+      - bass flute: timbral ornamentations, ET
+      - horn: no ornamentations, JI
+      - 6 instances:
+
+        1. stuff
+        2. stuff
+        3. stuff
+        4. stuff
+        5. stuff
+        6. stuff
+
+    - Element 4: repeated note response
+
+  - Variation 2:
+
+    - characteristics
+    - Element 1: quartal chord repeated twice
+
+    - Element 2: repeated static notes (almost tremolo)
+
+    - Element 3: perfect fourth call
+
+    - Element 4: repeated note response
+
+### Section 2
+
+### Section 3
+
+### Section 4
+
+- Cascading material in marimba/harp and piano
+- Interval cycles at play
+- Interlocking voices of the pentatonic 5-34[02469] material from Section 3
 
 ## Variation 3 and Variation 4
 
@@ -381,16 +550,22 @@ From *Concerto for Piano and Orchestra* program note:
 
 ## Variation 6 and Variation 7
 
+## Connections to other music (good place for this discussion?)
+
+- *Diabelli Variations* and connection to "sudden awakening" instruction at Variation 5
+
+  - I think Abrahamsen is talking about *Diabelli Variation* No. 20
+
+- *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
+
+- *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
+
+  - Concept of doubling (both in orchestration and re-use)
+  - Shrinking movement proportions
+
+- *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
+
 # Conclusion
-
-- Connections to other music
-
-  - *Schnee*
-
-    - Concept of doubling (both in orchestration and re-use)
-    - Shrinking movement proportions
-
-  - Schumann
 
 # Misc thoughts
 
