@@ -273,3 +273,27 @@ Movement I Tempo Canons
 | Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
 | Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
 | Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
+
+
+## Variation 1: Section 1 Element 1
+
+repeated quartal chord motive compressions and pattern
+
+| Instr                 | One | Two | Three | Four  | Five | Six   | Seven | Eight |
+|:----------------------|:----|:----|:------|:------|:-----|:------|:------|:------|
+| Piano                 | 9   |     |       | 6     |      | 3 2/5 | 3     |       |
+| Harp                  |     | 6   |       | 3 2/5 | 3    |       |       |       |
+| Kalimba               |     |     | 9     |       |      | 6     |       | 3 2/5 |
+| Trumpets              |     |     |       |       | 9    |       |       | 6     |
+| Bassoon/Bass clarinet |     |     |       |       |      |       | 9     |       |
+| Viola/Eng Horn        |     |     |       |       |      |       | 9     |       |
+
+## Variation 1: Section 2 Element 1
+
+repeated quartal chord motive compressions and pattern
+
+| Instr   | One           | Two           | Three         | Four          | Five          | Six           | Seven         | Eight         | Nine          |
+|:--------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
+| Piano   | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               |
+| Harp    |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |
+| Marimba |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |
