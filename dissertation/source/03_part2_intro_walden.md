@@ -49,12 +49,12 @@ Unlike much of Abrahamsen's other music, the score for *Walden* contains remarka
 
 Table: *Walden* Movement Proportions. {#tbl:walden-proportions}
 
-| Movement | Tempo                | Measures | Duration in Score | Duration on Recording |
-|:---------|:---------------------|:---------|:------------------|:----------------------|
-| I.       | \quarterNote = 63-66 | 67       | 3:35              | 2:57                  |
-| II.      | \eighthNote = 76     | 30       | 3:10              | 2:51                  |
-| III.     | \quarterNote = 52    | 32       | 2:30              | 2:33                  |
-| IV.      | \quarterNote = 112   | 28       | 1:00              | 1:04                  |
+| Movement | Tempo                  | Measures | Duration in Score | Duration on Recording |
+|:---------|:-----------------------|:---------|:------------------|:----------------------|
+| I.       | \quarterNote{} = 63-66 | 67       | 3:35              | 2:57                  |
+| II.      | \eighthNote{} = 76     | 30       | 3:10              | 2:51                  |
+| III.     | \quarterNote{} = 52    | 32       | 2:30              | 2:33                  |
+| IV.      | \quarterNote{} = 112   | 28       | 1:00              | 1:04                  |
 
 \doublespacing
 
@@ -125,15 +125,15 @@ One final instance of augmentation and diminution in this same passage of the se
 
 Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
-| Phrase |      Duration      |
-|:------:|:------------------:|
-|   1    |  15 \quarterNote   |
-|   2    | 9 1/2 \quarterNote |
-|   3    | 6 1/2 \quarterNote |
-|   4    | 4 1/3 \quarterNote |
-|   5    | 9 1/2 \quarterNote |
-|   6    | 9 1/2 \quarterNote |
-|   7    | 9 1/2 \quarterNote |
+| Phrase |       Duration       |
+|:------:|:--------------------:|
+|   1    |  15 \quarterNote{}   |
+|   2    | 9 1/2 \quarterNote{} |
+|   3    | 6 1/2 \quarterNote{} |
+|   4    | 4 1/3 \quarterNote{} |
+|   5    | 9 1/2 \quarterNote{} |
+|   6    | 9 1/2 \quarterNote{} |
+|   7    | 9 1/2 \quarterNote{} |
 
 \doublespacing
 
