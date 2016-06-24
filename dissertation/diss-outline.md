@@ -3,8 +3,8 @@ papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
-  - '\usepackage{setspace>'
-  - '\usepackage{lilyglyphs>'
+  - '\usepackage{setspace}'
+  - '\usepackage{lilyglyphs}'
 ---
 
 # Front Matter
@@ -627,7 +627,7 @@ header-includes:
 - Element 1: staccato quartal/chromatic chord repeated twice
 
   - piano, staccato, little resonance
-  - {123678>
+  - `<123678>`
   - only occurs at start of section
 
 - Element 2: chromatic tremolo
@@ -635,7 +635,7 @@ header-includes:
   - violin 1 and 2 sul pont trem
   - violin 1 and 2 alternate:
 
-    1. perfect fourth dyads {16> and {38>
+    1. perfect fourth dyads `<16>` and `<38>`
     2. no microtonality
     3. downbeat accents on repeat every 2 or 3 measures depending on subdivision of meter
 
@@ -648,10 +648,10 @@ header-includes:
   - trumpet, bassoon, bass clar, viola, English horn: ET
   - four instances each repeated once:
 
-    1. 2 trumpets <27>, bassoon <38> and bass clarinet <16>: starts in 2nd measure of repeat
-    2. cello and bass <27>, viola <16> and English horn <38>: starts in 4th measure of repeat; shifts later by 6 3:2 quarters
-    3. 2 trumpets <27>, bassoon <38> and bass clarinet <16>: starts in 5th measure of repeat; shifts later by 3 3:2 quarters
-    4. cello and bass <27>, viola <16> and English horn <38>: starts in 7th measure of repeat; shifts later by 6 3:2 quarters
+    1. 2 trumpets `<27>`, bassoon `<38>` and bass clarinet `<16>`: starts in 2nd measure of repeat
+    2. cello and bass `<27>`, viola `<16>` and English horn `<38>`: starts in 4th measure of repeat; shifts later by 6 3:2 quarters
+    3. 2 trumpets `<27>`, bassoon `<38>` and bass clarinet `<16>`: starts in 5th measure of repeat; shifts later by 3 3:2 quarters
+    4. cello and bass `<27>`, viola `<16>` and English horn `<38>`: starts in 7th measure of repeat; shifts later by 6 3:2 quarters
 
 - Element 4: chromatic line response
 
@@ -762,55 +762,55 @@ header-includes:
 
     - harp, viola, English horn
 
-      1. harp <123678>, viola <137>, eng horn <268>
-      2. harp <1<26>738>, viola <678>, eng horn <123>
-      3. harp <1<26>378>, viola <167>, eng horn <238>
-      4. harp <123678>, viola <268>, eng horn <137>
-      5. harp <162738>, viola <123>, eng horn <678>
-      6. harp <321876>, viola <286>, eng horn <317>
-      7. harp <162738>, viola <123>, eng horn <678>
-      8. harp <3<28>176>, viola <876>, eng horn <321>
+      1. harp `<123678>`, viola `<137>`, eng horn `<268>`
+      2. harp `<1<26>738>`, viola `<678>`, eng horn `<123>`
+      3. harp `<1<26>378>`, viola `<167>`, eng horn `<238>`
+      4. harp `<123678>`, viola `<268>`, eng horn `<137>`
+      5. harp `<162738>`, viola `<123>`, eng horn `<678>`
+      6. harp `<321876>`, viola `<286>`, eng horn `<317>`
+      7. harp `<162738>`, viola `<123>`, eng horn `<678>`
+      8. harp `<3<28>176>`, viola `<876>`, eng horn `<321>`
 
     - marimba, bassoon, bass clarinet
 
-      1. mar <162738>, bsn <678>, bscl <123>
-      2. mar <126378>, bsn <167>, bscl <238>
-      3. mar <126378>, bsn <238>, bscl <167>
-      4. mar <162738>, bsn <123>, bscl <678>
-      5. mar <<13><26>78>, bsn <368>, bscl <17>
-      6. mar <162738>, bsn <123>, bscl <678>
-      7. mar <328176>, bsn <216>, bscl <387>
-      8. mar <162738>, bsn <123>, bscl <678>
+      1. mar `<162738>`, bsn `<678>`, bscl `<123>`
+      2. mar `<126378>`, bsn `<167>`, bscl `<238>`
+      3. mar `<126378>`, bsn `<238>`, bscl `<167>`
+      4. mar `<162738>`, bsn `<123>`, bscl `<678>`
+      5. mar `<<13><26>78>`, bsn `<368>`, bscl `<17>`
+      6. mar `<162738>`, bsn `<123>`, bscl `<678>`
+      7. mar `<328176>`, bsn `<216>`, bscl `<387>`
+      8. mar `<162738>`, bsn `<123>`, bscl `<678>`
 
   - rhythmic processes:
 
-    - three separate perfect fourths undergo **five** different processes: <16><27><38>
+    - three separate perfect fourths undergo **five** different processes: `<16><27><38>`
     - harp and marimba are composite of the five processes
 
-      1. <27> occurs consistently every 8 measures, or 16 quarters
-      2. <16>: <1> three triplet quarters, <6> two triplet quarters
+      1. `<27>` occurs consistently every 8 measures, or 16 quarters
+      2. `<16>`: `<1>` three triplet quarters, `<6>` two triplet quarters
 
         - in red on the "Wald-Var1-Sect2-Process.sib" file
-        - displaces right/later/towards the central <27> dyad at rate of 1 triplet quarter per phrase
+        - displaces right/later/towards the central `<27>` dyad at rate of 1 triplet quarter per phrase
         - there's one error with the pattern at phrase 2
         - moves between marimba line and harp line with each phrase
 
-      3. <16>: <1> three quarters, <6> two quarters
+      3. `<16>`: `<1>` three quarters, `<6>` two quarters
 
         - in blue on the "Wald-Var1-Sect2-Process.sib" file
-        - displaces left/earlier/away from the central <27> dyad at rate of 1 quarter per phrase
+        - displaces left/earlier/away from the central `<27>` dyad at rate of 1 quarter per phrase
         - moves between harp line and marimba line with each phrase
 
-      4. <38>: <3> three triplet quarters, <8> two triplet quarters
+      4. `<38>`: `<3>` three triplet quarters, `<8>` two triplet quarters
 
         - in green on the "Wald-Var1-Sect2-Process.sib" file
-        - displaces right/later/away from the central <27> dyad at rate of 1 triplet quarter per phrase
+        - displaces right/later/away from the central `<27>` dyad at rate of 1 triplet quarter per phrase
         - moves between harp and marimba line with each phrase
 
-      5. <38>: <3> three quarters, <8> two quarters
+      5. `<38>`: `<3>` three quarters, `<8>` two quarters
 
         - in pink on the "Wald-Var1-Sect2-Process.sib" file
-        - displaces left/earlier/towards the central <27> dyad at rate of 1 quarter per phrase
+        - displaces left/earlier/towards the central `<27>` dyad at rate of 1 quarter per phrase
         - moves between the marimba line and harp line with each phrase
 
 ##### Variation 2
@@ -858,7 +858,7 @@ header-includes:
     - harp and marimba
     - simultaneous processes like Var1:Sect2
     - transposed
-    - blank instances of each:
+    - eight instances of each:
 
       - harp
 
@@ -884,34 +884,135 @@ header-includes:
 
     - rhythmic processes:
 
-      - three separate perfect fourths undergo different processes: `<05><16><e4>`
-      - same consistent rhythms as before:
+      - three separate layers that pull apart:
 
-        - 3 quarters, 2 quarters
-        - 6 quintuplet eighths, 4 quintuplet eighths
-        - 3 triplet quarters, 2 triplet quarters
+        1. earlier: 3 quarters, 2 quarters
+        2. center, every 8 measures, or 16 beats: 6 quintuplet eighths, 4 quintuplet eighths
+        3. later: 3 triplet quarters, 2 triplet quarters
 
-      - but now the pitches rotate amongst the rhythmic pulling apart process
-        - 6 quint eighths, 4 quint eighths always remains at center and occurs every 8 measures, or 16 beats
+      - each layer contains a sequence of four notes which rotates and retrogrades
 
-| Phrase | 3q 2q early | 3q 2q late | 6qe 4qe | 6qe 4qe | 3tq 2tq early | 3tq 2tq late |
-|:-------|:------------|:-----------|:--------|:--------|:--------------|:-------------|
-| 1      | <4e>        | <4e>       | <50>    | <50>    | <61>          | <61>         |
-| 2      | <05>        | <16>       | <e4>    | <16>    | <05>          | <e4>         |
-| 3      | <61>        | <50>       | <4e>    | <61>    | <4e>          | <50>         |
-| 4      |             |            |         |         |               |              |
-| 5      |             |            |         |         |               |              |
-| 6      |             |            |         |         |               |              |
-| 7      |             |            |         |         |               |              |
-| 8      |             |            |         |         |               |              |
+| Phrase | 3q 2q    | 6qe 4qe      | 3tq 2tq  |
+|:-------|:---------|:-------------|:---------|
+| 1      | `<4e4e>` | `<<50><50>>` | `<6161>` |
+| 2      | `<0516>` | `<<e4><16>>` | `<05e4>` |
+| 3      | `<6150>` | `<<61><4e>>` | `<4e50>` |
+| 4      | `<05e4>` | `<<e4><16>>` | `<0516>` |
+| 5      | `<4e50>` | `<<61><4e>>` | `<6150>` |
+| 6      | `<1616>` | `<<50><50>>` | `<e4e4>` |
+| 7      | `<6150>` | `<<4e><61>>` | `<50e4>` |
+| 8      | `<e4e4>` |              |          |
 
 ### Section 3
 
 ### Section 4
 
-- Cascading material in marimba/harp and piano
-- Interval cycles at play
-- Interlocking voices of the pentatonic 5-34[02469] material from Section 3
+- Cascading material in marimba/harp and piano LH/RH
+- Harmonies based on interval cycles and "woven" interlocking voices of the pentatonic 5-34[02469] material from Section 3
+- Consists of four phrases:
+
+  1. 10/16: marimba and harp in sixteenths
+  2. 3/4: piano RH and LH in triplet sixteenths
+  3. 6/16: marimba and harp in sixteenths
+  4. 3/8: piano RH and LH in thirty-seconds
+
+#### Introduction
+
+- Phrase 1:
+
+  - marimba: contour up; 5-cycle, 1-cycle,
+  - harp: contour down; 1-cycle, 5-cycle, 6-cycle
+  - upper voice: 5-34[02469] `<2579e>`
+  - lower voice: 5-34[02469] `<58t02>`
+  - related by T~3~
+
+- Phrase 2:
+
+  - piano RH: contour down; 5-cycle `<3816e412e482ee828e>`
+  - piano LH: contour up; 1-cycle `<0et987e58755825552>`
+  - four interwoven sets related by T~3~:
+
+    1. soprano voice: 4-22[0247] `<8e13>`
+    2. alto voice: 5-34[02469] `<e2468>`
+    3. tenor voice: 5-34[02469] `<2579e>`
+    4. bass voice: 4-22[0247] `<58t0>`
+
+- Phrase 3:
+
+  - marimba: contour down; 3- 4- and 5-cycle
+  - harp: contour up; 3- 4- and 5-cycle
+  - four interwoven sets related by T~3~:
+
+    1. soprano voice: 4-22[0247] `<8e13>`
+    2. alto voice: 3-7[025] `<e24>`
+    3. tenor voice: 3-7[025] `<257>`
+    4. bass voice: 4-22[0247] `<58t0>`
+
+- Phrase 4:
+
+  - piano RH: contour down; 5-cycle
+  - piano LH: contour up; kind of 1-cycle
+  - four interwoven sets (T~0~I T~3~I T~6~I T~7~I T~9~I T~10~I):
+
+    1. RH soprano voice: 4-22[0247] `<8e13>` harmonized in fifths `<368t>`
+    2. RH alto voice: 5-34[02469] `<e2468>`
+    3. RH tenor voice: 3-7[025] `<8e1>`
+    4. RH bass voice: 3-7[025] `<e24>`
+    5. LH soprano: 5-34[02469] `<2579e>`
+    6. LH alto: 3-7[025] `<357>`
+    7. LH tenor: 3-7[025] `<58t>`
+    8. LH bass: 3-7[025] `<58t>`
+
+#### Variation 1
+
+- Phrase 1:
+
+  - marimba: contour down; 1-cycle, 5-cycle, 6-cycle
+  - harp: contour up; 5-cycle, 1-cycle, 6-cycle
+  - upper voice: 5-34[02469] `<368t0>`
+  - lower voice: 5-34[02469] `<69e13>`
+  - related by T~3~
+
+- Phrase 2:
+
+  - wider spaced dyads
+
+    - they carry over the 1-cycle and 5-cycle voice leading from the first phrase
+    - E and F# are like upper neighbors to the "in-key" F and G that follow them
+    - also begin a kind of 2-cycle pattern
+    - `<14><36>`
+
+  - piano RH: 4-22[0247] `<0357>`
+  - piano LH: 4-22[0247] `<368t>`
+  - related by T~3~
+
+- Phrase 3:
+
+  - marimba: contour up; 3- 4- and 5-cycle
+  - harp: contour down; 3- 4- and 5-cycle
+  - upper voice: 4-22[0247] `<0357>`
+  - lower voice: 4-22[0247] `<368t>`
+  - related by T~3~
+  - every 9 notes, there is a "out of key" dyad
+
+    - `<e2><14><36>`
+    - extends the 2-cycle pattern initiated in phrase 1
+
+- Phrase 4:
+
+  - four separate threads:
+
+    1. soprano voice: 2-cycle in perfect fifths; lower = `<0246>`, upper = `<79e1>`
+    2. alto voice: same as phrase 2 and 3; 4-22[0247] `<0357>`
+    3. tenor voice: same as phrase 2 and 3; `<368t>`
+    4. bass voice: 2-cycle `<9e13>`
+
+#### Variation 2
+
+- Phrase 1:
+- Phrase 2:
+- Phrase 3:
+- Phrase 4:
 
 ## Variation 3 and Variation 4
 
