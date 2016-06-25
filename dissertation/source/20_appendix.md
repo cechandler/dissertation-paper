@@ -17,7 +17,7 @@
 | 1974 | *Gush*                             | 4:00     | alto saxophone                          |
 | 1974 | *Symfoni*                          | 14:00    | orchestra                               |
 | 1975 | *Stratifications*                  | 8:00     | orchestra                               |
-| 1976 | *October*                          | 6:00     | piano                                   |
+| 1976 | *October*                          | 6:00     | horn and piano                          |
 | 1976 | *Danmarks-sange*                   | 10:00    | soprano and va, fl, cl, perc, pf        |
 | 1978 | *Canzone*                          | 9:00     | accordion                               |
 | 1978 | *Winternacht*                      | 13:00    | fl, cl, cnt, hn, pno, vn, vc            |
@@ -86,8 +86,9 @@
 | *Winternacht* (1976-78) IV   | *Nacht und Trumpeten* (1981)                      |
 | *Ten Preludes* (1973)        | *Ten Sinfonias* (2010)                            |
 | *Six Pieces* (1984) II       | *Concerto for Piano and Orchestra* (1999-2000) I  |
-| *Ten Studies* (1984-98) I-IV | *Six Pieces* (1984)                               |
+| *Ten Studies* (1984-98)      | *Six Pieces* (1984)                               |
 | *Ten Studies* (1984-98) I-IV | *Four Pieces for Orchestra* (2004) I-IV           |
+| *Ten Studies* (1984-98) II   | *Concerto for Piano and Orchestra* (1999-2000) I  |
 | *Ten Studies* (1984-98) VIII | *Concerto for Piano and Orchestra* (1999-2000) IV |
 | *Canzone* (1978)             | *Air* (2006)                                      |
 | *Air* (2006)                 | *String Quartet No. 3* (2008)                     |
