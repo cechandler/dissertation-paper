@@ -297,3 +297,16 @@ repeated quartal chord motive compressions and pattern
 | Piano   | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               |
 | Harp    |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |
 | Marimba |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |
+
+## Variation 2: Section 2 pitch rotations
+
+| Phrase | 3q 2q    | 6qe 4qe      | 3tq 2tq  |
+|:-------|:---------|:-------------|:---------|
+| 1      | `<4e4e>` | `<<50><50>>` | `<6161>` |
+| 2      | `<0516>` | `<<e4><16>>` | `<05e4>` |
+| 3      | `<6150>` | `<<61><4e>>` | `<4e50>` |
+| 4      | `<05e4>` | `<<e4><16>>` | `<0516>` |
+| 5      | `<4e50>` | `<<61><4e>>` | `<6150>` |
+| 6      | `<1616>` | `<<50><50>>` | `<e4e4>` |
+| 7      | `<6150>` | `<<4e><61>>` | `<50e4>` |
+| 8      | `<e4e4>` |              |          |
