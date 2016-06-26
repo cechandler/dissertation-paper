@@ -1,11 +1,17 @@
 # gitignore settings for dissertation #
+dissertation/output/**
+esm-docs/**
 research/timeline.md
 research/log.md
-esm-docs/**
+templates/**
+
+# odt and docx locked and temp files
 .~lock*
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
+*~
+
+# vim session files
 Session.vim
 .netrwhist
-*~
