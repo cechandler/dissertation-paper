@@ -3,8 +3,8 @@ papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
-  - '\usepackage{setspace}'
-  - '\usepackage{lilyglyphs}'
+  - \usepackage{setspace}
+  - \usepackage{lilyglyphs}
 ---
 
 # Front Matter
@@ -23,6 +23,8 @@ header-includes:
   - 1970s-1988: first period
 
     - characteristics of music
+    - New simplicity
+    - *Ten Preludes* as an example
 
   - 1988-1999: pause
 
@@ -250,6 +252,10 @@ header-includes:
     - process of filtering in both oboe melody and fl/bsn duo
 
   - III: mm. 1-10 ritarando/augmentation and mm. 10-25 accelerando/diminution and mm. 25-32 ritardando/augmentation
+  - The final third passage of augmentation and diminution comes from measures 1-26 in the third movement. This passage can be divided into two sections, an augmentation of rhythmic values from measures 1-10 and then a diminution of rhythms from measures 10-26. Abrahamsen constructs both sections from polyrhythmic textures where individual voices change in rhythmic subdivision to accelerate or decelerate their repeated patterns. For instance, the opening of the movement features the flute, clarinet, and bassoon playing a polyrhythm of 10:7:4 (quintuplet thirty-seconds, over septuplet sixteenths, over sixteenths) that slows twice, once in measure 5 to a polyrhythm of 8:5 (for flute and horn) and again to 6:3 at measure 8 (for flute and clarinet). The process reverses from mm. 10-26, this time engaging the entire ensemble in the slow and deliberate acceleration to an interlocking angular sixteenth-note texture. One way to measure the increasing energy produced by this section is to track the number of articulations or attacks per measures. Figure @fig:walden-III-mm11-26-attacks plots each instrument's number of attacks from measures 11-26.
+  - ![*Walden* III mm. 11-26 attacks per measure](../figures/walden-III-mm11-26-attacks.png){#fig:walden-III-mm11-26-attacks width=65%}
+  - This graph expresses the overall increase in the number of events over the course of this passage, and also illustrates how the flute and bassoon are the primary driving instruments at the end while the other three instruments change to long held notes.
+  - **something on why this is useful**
 
 3. harmony:
 
