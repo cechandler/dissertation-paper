@@ -160,32 +160,56 @@ header-includes:
 ## Metrical Scheme
 ### Introduction
 \onehalfspacing
+
+#### Section 1
 Allegro con brio \newline
 \lilyTimeSignature{3}{8} 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :|| \newline
+
+#### Section 2
 Poco meno ma maestoso \newline
 \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :|| \newline
+
+#### Section 3
 Allegro vivace e agitato \newline
 \lilyTimeSignature{12}{8} 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm. \newline
+
+#### Section 4
 Meno mosso, soave e fluente \newline
 \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 11mm.
 
 ### Variation 1
+
+#### Section 1
 Allegro con brio \newline
 \lilyTimeSignature{3}{8} 2mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. || \newline
+
+#### Section 2
 Poco meno ma maestoso \newline
 \lilyTimeSignature{2}{4} 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. || \newline
+
+#### Section 3
 Allegro vivace e agitato \newline
 \lilyTimeSignature{12}{8} 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. || \newline
+
+#### Section 4
 Meno mosso, soave e fluente \newline
 \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 7mm.
 
 ### Variation 2
+
+#### Section 1
 Allegro con brio \newline
 \lilyTimeSignature{3}{8} 6mm. | 6mm. | 6mm. | 6mm. | 6mm. | 6mm. | 6mm. | 6mm. | 6mm. || \newline
+
+#### Section 2
 Poco meno ma maestoso \newline
 \lilyTimeSignature{2}{4} 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. || \newline
+
+#### Section 3
 Allegro vivace e agitato \newline
 \lilyTimeSignature{12}{8} 20 mm. \newline
+
+#### Section 4
 Meno mosso, soave e fluente \newline
 \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{9}{16} 1mm.
 
@@ -210,12 +234,18 @@ Presto volante \newline
 ( \lilyTimeSignature{10}{16} ) \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} || \newline
 ( \lilyTimeSignature{2}{4} ) \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} \lilyTimeSignature{2}{4} \lilyTimeSignature{10}{16} || -->
 
+#### Section 1
+
 Con nuova energia \newline
 \lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 1mm.\lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 2mm. \lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{8} 2mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{8} 1mm. \lilyTimeSignature{2}{4} 1mm. || \newline
+
+#### Section 2
 Vivo furioso \newline
 \lilyTimeSignature{4}{4} 1mm. \lilyTimeSignature{12}{16} 1mm. \lilyTimeSignature{4}{4} 1mm. \lilyTimeSignature{12}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{16} 1mm. \lilyTimeSignature{7}{16} 4mm. \newline
 \lilyTimeSignature{12}{16} 1mm. \lilyTimeSignature{4}{4} 1mm. \lilyTimeSignature{12}{16} 1mm. \lilyTimeSignature{4}{4} 1mm. \lilyTimeSignature{6}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{7}{16} 4mm. \newline
 \lilyTimeSignature{4}{4} 1mm. \lilyTimeSignature{12}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{6}{16} 1mm. \lilyTimeSignature{7}{16} 4mm. \newline
+
+#### Section 3
 Presto volante \newline
 \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. || \newline
 ( \lilyTimeSignature{2}{4} ) 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{2}{4} 1mm. \lilyTimeSignature{10}{16} 1mm. || \newline
