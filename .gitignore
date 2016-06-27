@@ -1,6 +1,9 @@
 # gitignore settings for dissertation #
+*.aif
+dissertation/*.pdf
 dissertation/output/**
 esm-docs/**
+figures/*.logicx
 research/timeline.md
 research/log.md
 templates/**
