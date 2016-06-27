@@ -10,3 +10,15 @@ In a radio interview with the BBC prior to the UK premiere of *Wald* at the 2010
 While the variation is not quite the four and half minutes that Abrahamsen mentions, Variation 20 from *Diabelli Variations* fits this description. It is not surprising that Abrahamsen found inspiration from this variation given Beethoven's use of the perfect fourth in the beginning of Variation 20 and the perfect fourths found throughout *Wald*. Figure @fig:diabell-var20 shows the three staves of Variation 20 and highlights the perfect fourth opening, the quiet dynamic, slow tempo, and emphasis on low register.
 
 ![Beethoven's *Diabelli Variations* Variation XX.](../figures/beethoven-diabelli-var20.png){#fig:diabell-var20}
+
+\singlespacing
+
+Table: *Wald* Variation 5 Durations {#tbl:wald-var5-proportions}
+
+| Section   | Duration |
+|:----------|:---------|
+| Section 1 | 0:18     |
+| Section 2 | 0:29     |
+| Section 3 | 0:50     |
+
+\doublespacing
