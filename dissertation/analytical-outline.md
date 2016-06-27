@@ -311,48 +311,48 @@ header-includes:
 
         1. starts on beat 2 of 4th measure of repeat
 
-            - harp <123678>
-            - viola <137>
-            - eng horn <268>
-            - piano <27>
+            - harp `<123678>`
+            - viola `<137>`
+            - eng horn `<268>`
+            - piano `<27>`
 
         2. starts on downbeat of 4th measure; shifts earlier by 1 quarter
 
-            - marimba <126378>
-            - bassoon <238>
-            - bass clar <167>
-            - piano <27>
+            - marimba `<126378>`
+            - bassoon `<238>`
+            - bass clar `<167>`
+            - piano `<27>`
 
         3. starts on beat 2 of 2nd measure; shifts earlier by 3 quarters
 
-            - harp <1 <26> 378>
-            - viola <167>
-            - eng horn <238>
-            - piano <27>
+            - harp `<1<26>378>`
+            - viola `<167>`
+            - eng horn `<238>`
+            - piano `<27>`
 
         4. starts on downbeat of 2nd measure; shifts earlier by 1 quarter
 
-            - marimba <162738>
-            - bassoon <623>
-            - bass clar <178>
-            - piano <27>
+            - marimba `<162738>`
+            - bassoon `<623>`
+            - bass clar `<178>`
+            - piano `<27>`
 
     - rhythmic processes:
 
-        - three separate perfect fourths undergo different processes: <16><27><38>
+        - three separate perfect fourths undergo different processes: `<16><27><38>`
         - harp and marimba are composite of the three perfect fourth processes
         - each remains consistent in rhythm:
 
-            - <16> 3 quarters, 2 quarters
-            - <27> 6 quintuplet eighths, 4 quintuplet eights
-            - <38> 3 triplet quarters, 2 triplet quarters
+            - `<16>` 3 quarters, 2 quarters
+            - `<27>` 6 quintuplet eighths, 4 quintuplet eights
+            - `<38>` 3 triplet quarters, 2 triplet quarters
 
         - they pull apart at different speeds
 
-            - phrase 1: baseline; <27> remains at the center and <16> and <38> pull away in opposite directions
-            - phrase 2: <16> shifts earlier by 1 quarter; <38> shifts later by 1 triplet quarter
-            - phrase 3: <16> shifts earlier by 1 quarter; <38> shifts later by 1 triplet quarter; whole pattern shifts earlier by 2 quarters
-            - phrase 4: <16> shifts earlier by 1 quarter; <38> shifts later by 1 triplet quarter
+            - phrase 1: baseline; `<27>` remains at the center and `<16>` and `<38>` pull away in opposite directions
+            - phrase 2: `<16>` shifts earlier by 1 quarter; `<38>` shifts later by 1 triplet quarter
+            - phrase 3: `<16>` shifts earlier by 1 quarter; `<38>` shifts later by 1 triplet quarter; whole pattern shifts earlier by 2 quarters
+            - phrase 4: `<16>` shifts earlier by 1 quarter; `<38>` shifts later by 1 triplet quarter
 
 #### Variation 1
 
@@ -376,25 +376,25 @@ header-includes:
     - downbeat accents notated as f ppp
     - violin 1 and 2 alternate:
 
-        1. perfect fourth dyads {16> and {38>
+        1. perfect fourth dyads `<16>` and `<38>`
         2. no microtonality
         3. marcato/accented subdivisions: 2 + 3 + 2 then 3 + 2 + 3
 
 - Element 3: perfect fourth call
 
-    - 2 trumpets <1378>
-    - cello and bass <1268> and piano <1268>
+    - 2 trumpets `<1378>`
+    - cello and bass `<1268>` and piano `<1268>`
     - remains the same duration throughout: 3 eighths + 1 3:2 quarters (or 7 3:2 quarters)
     - no JI temperament
     - seven instances, one every 10 measures, more periodic than intro due to lack of repeats:
 
-        1. 2 trumpets <1378>: starts in 2nd bar
-        2. cello <18>, bass <26>, and piano <1268>: starts in 5th bar
-        3. 2 trumpets <1378>: starts in 7th bar
-        4. cello <18>, bass <26>, and piano <1268>: starts in 2nd bar (after skipping one 8 measure phrase)
-        5. 2 trumpets <1378>: starts in 5th bar
-        6. cello <18>, bass <26>, and piano <1268>: starts in 7th bar
-        7. 2 trumpets <1378>: starts in 2nd bar
+        1. 2 trumpets `<1378>`: starts in 2nd bar
+        2. cello `<18>`, bass `<26>`, and piano `<1268>`: starts in 5th bar
+        3. 2 trumpets `<1378>`: starts in 7th bar
+        4. cello `<18>`, bass `<26>`, and piano `<1268>`: starts in 2nd bar (after skipping one 8 measure phrase)
+        5. 2 trumpets `<1378>`: starts in 5th bar
+        6. cello `<18>`, bass `<26>`, and piano `<1268>`: starts in 7th bar
+        7. 2 trumpets `<1378>`: starts in 2nd bar
 
 - Element 4: chromatic line response
 
