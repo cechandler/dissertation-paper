@@ -32,7 +32,7 @@ The variations are juxtaposed with little to no transitional material. Their bou
 
 \singlespacing
 
-Table: *Wald* Tempo and Descriptive Markings {#tbl:wald-form}
+Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 
 | Section | Measures | Tempo                                | Descriptive markings              |
 |:--------|:---------|:-------------------------------------|:----------------------------------|
