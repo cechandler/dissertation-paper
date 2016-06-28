@@ -94,7 +94,7 @@ header-includes:
 
     - needing a fragment (from *Composer to Composer*):
 
-    > "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
+        > "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 
 ## Composers that frequently rework older material:
 
@@ -125,11 +125,11 @@ header-includes:
     - *October*: first piece for horn and piano
     - *Left, alone* program note discusses:
 
-    > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
+        > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
 
-    > My very first public performance of one of my own works was in autumn 1969\. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
+        > My very first public performance of one of my own works was in autumn 1969\. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
 
-    > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
+        > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
 - connection to German romanticism
 
@@ -254,6 +254,7 @@ header-includes:
     - III: mm. 1-10 ritarando/augmentation and mm. 10-25 accelerando/diminution and mm. 25-32 ritardando/augmentation
 
     - The final third passage of augmentation and diminution comes from measures 1-26 in the third movement. This passage can be divided into two sections, an augmentation of rhythmic values from measures 1-10 and then a diminution of rhythms from measures 10-26\. Abrahamsen constructs both sections from polyrhythmic textures where individual voices change in rhythmic subdivision to accelerate or decelerate their repeated patterns. For instance, the opening of the movement features the flute, clarinet, and bassoon playing a polyrhythm of 10:7:4 (quintuplet thirty-seconds, over septuplet sixteenths, over sixteenths) that slows twice, once in measure 5 to a polyrhythm of 8:5 (for flute and horn) and again to 6:3 at measure 8 (for flute and clarinet). The process reverses from mm. 10-26, this time engaging the entire ensemble in the slow and deliberate acceleration to an interlocking angular sixteenth-note texture. One way to measure the increasing energy produced by this section is to track the number of articulations or attacks per measures. Figure @fig:walden-III-mm11-26-attacks plots each instrument's number of attacks from measures 11-26.
+
     - ![*Walden* III mm. 11-26 attacks per measure](../figures/walden-III-mm11-26-attacks.png){#fig:walden-III-mm11-26-attacks width=65%}
     - This graph expresses the overall increase in the number of events over the course of this passage, and also illustrates how the flute and bassoon are the primary driving instruments at the end while the other three instruments change to long held notes.
     - **something on why this is useful**
@@ -488,6 +489,7 @@ header-includes:
     - piano RH: 4-22[0247] `<0357>`
 
     - piano LH: 4-22[0247] `<368t>`
+
     - related by T~3~
 
 - Phrase 3:
