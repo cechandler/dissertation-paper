@@ -8,9 +8,7 @@ header-includes:
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
     - \usepackage{url}
-    - \newcommand{\rpt}{\raisebox{.2ex}{:}\raisebox{-.4ex}{\rule{.1ex}{2.5ex}\,\rule{.3ex}{2.5ex}}}
-    - \newcommand{\revrpt}{\raisebox{-.4ex}{\rule{.3ex}{2.5ex}\,\rule{.1ex}{2.5ex}}\raisebox{.2ex}{:}}
-...
+---
 
 
 # Formal boundaries
@@ -296,37 +294,28 @@ BCA
 BDCA  
 
 
-
-Movement I Tempo Canons
-|      |                             |                             |                              |                             |                             |                             |
-|:----:|:---------------------------:|:---------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-| Fl 1 | 3$\frac{1}{3}$ \quarterNote |       3 \quarterNote        |        3 \quarterNote        | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |                             |
-| Fl 2 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote |        3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 4$\frac{1}{3}$ \quarterNote | 4$\frac{2}{3}$ \quarterNote |
-| Fl 3 |       3 \quarterNote        | 1$\frac{2}{3}$ \quarterNote | 10$\frac{2}{3}$ \quarterNote |                             |                             |                             |
-
-
 ## Variation 1: Section 1 Element 1
 
 repeated quartal chord motive compressions and pattern
 
-| Instr                 | One | Two | Three | Four  | Five | Six   | Seven | Eight |
-|:----------------------|:----|:----|:------|:------|:-----|:------|:------|:------|
-| Piano                 | 9   |     |       | 6     |      | 3 2/5 | 3     |       |
-| Harp                  |     | 6   |       | 3 2/5 | 3    |       |       |       |
-| Kalimba               |     |     | 9     |       |      | 6     |       | 3 2/5 |
-| Trumpets              |     |     |       |       | 9    |       |       | 6     |
-| Bassoon/Bass clarinet |     |     |       |       |      |       | 9     |       |
-| Viola/Eng Horn        |     |     |       |       |      |       | 9     |       |
+| Instrument              | One             | Two             | Three           | Four                               | Five            | Six                                | Seven           | Eight                              |
+|:------------------------|:----------------|:----------------|:----------------|:-----------------------------------|:----------------|:-----------------------------------|:----------------|:-----------------------------------|
+| Piano                   | 9 \eighthNote{} |                 |                 | 6 \eighthNote{}                    |                 | 3 \eighthNote{} 2/5 \sixteenthNote | 3 \eighthNote{} |                                    |
+| Harp                    |                 | 6 \eighthNote{} |                 | 3 \eighthNote{} 2/5 \sixteenthNote | 3 \eighthNote{} |                                    |                 |                                    |
+| Kalimba                 |                 |                 | 9 \eighthNote{} |                                    |                 | 6 \eighthNote{}                    |                 | 3 \eighthNote{} 2/5 \sixteenthNote |
+| Trumpet + Bass trumpet  |                 |                 |                 |                                    | 9 \eighthNote{} |                                    |                 | 6 \eighthNote{}                    |
+| Bassoon + Bass clarinet |                 |                 |                 |                                    |                 |                                    | 9 \eighthNote{} |                                    |
+| Viola + English horn    |                 |                 |                 |                                    |                 |                                    | 9 \eighthNote{} |                                    |
 
 ## Variation 1: Section 2 Element 1
 
 repeated quartal chord motive compressions and pattern
 
-| Instr   | One           | Two           | Three         | Four          | Five          | Six           | Seven         | Eight         | Nine          |
-|:--------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-| Piano   | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               |
-| Harp    |               | 6 \eighthNote |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |
-| Marimba |               |               | 4 \eighthNote |               |               | 6 \eighthNote |               |               | 4 \eighthNote |
+| Instr   | One             | Two             | Three           | Four            | Five            | Six             | Seven           | Eight           | Nine            |
+|:--------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|
+| Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
+| Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
+| Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
 
 ## Variation 2: Section 2 pitch rotations
 
