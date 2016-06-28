@@ -2,6 +2,8 @@
 ## Background and Instrumentation
 Abrahamsen completed *Wald* in 2009 on a co-commission from the Asko|Schönberg Ensemble (Netherlands) and the BBC for the Birgmingham Contemporary Music Group (United Kingdom). Asko/Schönberg and conductor Reinbert de Leeuw gave the world premiere on January 14, 2010 at the Muziekgebouw aan't IJ in Amsterdam, while the BCMG and composer/conductor George Benjamin gave the UK premiere on August 6, 2010 at the Royal Albert Hall in London during the 2010 BBC Proms.
 
+In an interview with the BBC prior to the UK premiere of *Wald*, Abrahamsen mentioned the work's connection with *Walden* and mentioned that the work could bear a subtitle of "**THIS THING HE SAYS**" or "**THIS OTHER THING**."
+
 The piece is scored for a sinfonietta ensemble of fifteen musicians: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass. **more on the use of unique doublings** The musicians are seated in a non-standard semi-circle configuration of four groups of duos and two groups of trios with the piano occupying the central position outside of any group. Figure @fig:wald-seating-plan shows the tree-like diagram of this seating plan. This seating arrangement is intimately connected with the way Abrahamsen handles orchestration and the transference of material over the course of the work and will be discussed in greater detail later on.
 
 **more on the broader implications/suggestions of this seating arrangement and its tree-like shape**
