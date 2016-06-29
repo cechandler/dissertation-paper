@@ -106,5 +106,8 @@ This table highlights variations and sections that are musically connected by th
 
 The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
+### Harmony
+**some brief language on microtonality throughout *Wald* so it's expected when it comes up in discussion during the analysis**
+
 ### Spatial Layout
 Abrahamsen's arrangement of the 15 musicians into a semi-circle of six symmetrical groups guides his approach to orchestration. Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups. A brief examination of the first sections of the introduction (measures 1-36) illustrates this process.
