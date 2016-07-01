@@ -16,7 +16,9 @@ header-includes:
     - \usepackage{lilyglyphs}
     - \setlength\parindent{24pt}
     - \doublespacing
-...
+---
+
+\pagenumbering{arabic}
 
 # Introduction
 Danish composer Hans Abrahamsen’s piece for large ensemble, *Wald* (2009), is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). This return to his own music stemmed from a crisis in Abrahamsen’s compositional life, between 1991 and 1999, when he took an extended break from composing. During this time, Abrahamsen experienced debilitating writer's block; he wrote that he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
@@ -58,15 +60,13 @@ An analysis of *Wald* must first begin with *Walden*, as the latter provides ger
 
 The layers of organicism, concretism, and descriptive reflect how the material unfolds in each movement. Organicism is central to the first and second movements where motives develop gradually through additive processes, for instance, melodic expansion and rhythmic augmentation and diminution. The third movement features a three-note pattern articulated heterophonically with polyrhythms (10 over 7 over 4); this bubbling texture gradually decreases in speed and gives way to slow legato oscillating patterns that compress in rhythm, ascend in register, and coalesce into an interlocking sixteenth-note texture. The description, "ghost-like music of the past," is relevant to both the horn call of the first movement as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music. This final movement features a composite texture of a duo of flute and bassoon in 3/4 and a trio of oboe, clarinet, and horn in 6/8.
 
-<!-- In future discussion of Walden's first movement, orient the displacement around the clarinet since it's rhythmic position never changes.  -->
+The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure @fig:walden-I-hn-theme shows the first two of four phrases separated by grand pauses in the opening of *Walden*.
 
-The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure 1 shows the first two of four phrases separated by grand pauses in the opening of *Walden*.
+![Horn call and responses.](../figures/walden-I-horn-theme.png){#fig:walden-I-hn-theme width=75%}
 
-![Horn call and responses.](../figures/walden-I-horn-theme.png){width=75%}
+The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to the end (see Figure @fig:walden-I-hn-phrase4).
 
-The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to the end (see Figure 2).
-
-![Horn motive phrase four.](../figures/walden-I-horn-theme-phrase4.png){width=75%}
+![Horn motive phrase four.](../figures/walden-I-horn-theme-phrase4.png){#fig:walden-I-hn-phrase4 width=75%}
 
 The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance. The form of *Wald* consists of an introduction and seven variations; the successive durations in the variations decrease over the course of the work. The listing of durations in Table 1, measured from the commercially released recording,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*.
 
@@ -87,35 +87,30 @@ Table: Sectional proportions
 
 \doublespacing
 
-These variations are juxtaposed with little to no transitional material. Their boundaries and subsections are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. For instance, the Introduction, Variation 1, and Variation 2 each have four subsections with the same descriptive indications: 1) Allegro con brio, "wie aus der Ferne," 2) Poco meno ma maestoso, poco grottesco e ironico, 3) Allegro vivace e agitato, "aufgeregt," and 4) Meno mosso, soave e fluente. There are several other interrelated variations and subsections across the piece, and the entire form of the work can be grouped as shown in Figure 3:
+These variations are juxtaposed with little to no transitional material. Their boundaries and subsections are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. For instance, the Introduction, Variation 1, and Variation 2 each have four subsections with the same descriptive indications: 1) Allegro con brio, "wie aus der Ferne," 2) Poco meno ma maestoso, poco grottesco e ironico, 3) Allegro vivace e agitato, "aufgeregt," and 4) Meno mosso, soave e fluente. There are several other interrelated variations and subsections across the piece, and the entire form of the work can be grouped as shown in Figure @fig:walden-formal-groupings:
 
-\singlespacing
-
-> Part A: Introduction, Variation 1, Variation 2
->
-> Part B: Variation 3 and Variation 4
->
-> Part C: Variation 5
->
-> Part D: Variation 6 and Variation 7
-
-\begin{center}
-
-Figure 3: \emph{Wald} formal groupings.
-
-\end{center}
+\onehalfspacing
+\begin{figure}[htbp]
+\begin{quote}
+Part A: Introduction, Variation 1, Variation 2\\
+Part B: Variation 3 and Variation 4\\
+Part C: Variation 5\\
+Part D: Variation 6 and Variation 7
+\end{quote}
+\caption{\emph{Wald} formal groupings.}\label{fig:walden-formal-groupings}
+\end{figure}
 
 \doublespacing
 
 The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 in Part B contain the quietest, calmest, and most introverted music, while Variation 5 in Part C functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 in Part D are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
-Abrahamsen's arrangement of the 15 musicians^[Scored for: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass.] into a semi-circle of six symmetrical groups guides his approach to orchestration. Figure 4 shows the tree-like diagram of the seating plan and indicates the 4 groups of duos and 2 groups of trios with the piano occupying the central position outside of any group.
+Abrahamsen's arrangement of the 15 musicians^[Scored for: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass.] into a semi-circle of six symmetrical groups guides his approach to orchestration. Figure @fig:wald-seating-plan shows the tree-like diagram of the seating plan and indicates the 4 groups of duos and 2 groups of trios with the piano occupying the central position outside of any group.
 
-![*Wald* seating plan.](../figures/wald-seating-plan.png){width=60%}
+![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=60%}
 
 Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups. A brief examination of the first sections of the introduction (measures 1-36) illustrates this process.
 
-Like *Walden*, the first section of the introduction features four phrases where the rising perfect fourth motive and three echoing motives undergo rhythmic displacement. Each of the four phrases features a specific collection of instruments from Group III and Group IV (see Figure 4). Furthermore, each phrase repeats verbatim from the extensive use of repeat signs, characteristic of Abrahamsen's second period works. These phrases alternate lengths of 9 measures and 8 measures following an unrepeated 2 measure intro:
+Like *Walden*, the first section of the introduction features four phrases where the rising perfect fourth motive and three echoing motives undergo rhythmic displacement. Each of the four phrases features a specific collection of instruments from Group III and Group IV (see Figure @fig:wald-seating-plan). Furthermore, each phrase repeats verbatim from the extensive use of repeat signs, characteristic of Abrahamsen's second period works. These phrases alternate lengths of 9 measures and 8 measures following an unrepeated 2 measure intro:
 
 > \lilyTimeSignature{3}{8} 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||
 
