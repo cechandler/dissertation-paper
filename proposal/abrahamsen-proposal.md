@@ -62,11 +62,11 @@ The layers of organicism, concretism, and descriptive reflect how the material u
 
 The first movement of *Walden* begins with a call and response that Abrahamsen develops further in *Wald*. A brief examination of the process he uses to gradually unfold this material will illustrate the concept of rhythmic displacement, which is central to *Wald*. Figure 1 shows the first two of four phrases separated by grand pauses in the opening of *Walden*.
 
-![Horn call and responses.](../figures/walden-horn-theme.png){width=75%}
+![Horn call and responses.](../figures/walden-I-horn-theme.png){width=75%}
 
 The phrases contain two motives: a single rising Bb-Eb call and three D-F echoing responses. Each instance of the motive differs slightly in rhythmic subdivision, and over the course of the four phrases, the order of the call and responses changes by rhythmic displacement each instance. Comparing the second phrase to the first, the horn enters within beat 4 as before, but the bassoon enters 5 quarter notes earlier, the clarinet 4 quarter notes, and the flute 3 quarter notes plus one triplet eighth note. This process continues through phrases three and four and ends with the horn motive isolated from the other instruments and rotated to the end (see Figure 2).
 
-![Horn motive phrase four.](../figures/walden-horn-theme-phrase4.png){width=75%}
+![Horn motive phrase four.](../figures/walden-I-horn-theme-phrase4.png){width=75%}
 
 The simplicity and straightforward process-driven development of this material is indicative of Abrahamsen's first period compositional technique. His reworking of this material in *Wald* retains these qualities yet recasts the material with greater emphasis on timbral nuance. The form of *Wald* consists of an introduction and seven variations; the successive durations in the variations decrease over the course of the work. The listing of durations in Table 1, measured from the commercially released recording,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, a technique he also used in *Schnee*.
 
