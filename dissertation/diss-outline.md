@@ -18,12 +18,13 @@ header-includes:
 
 # Introduction
 
+- Brief intro of *Wald* and connection to place in Abrahamsen's career
 - Abrahamsen's career
 
     - 1970s-1988: first period
 
+        - New Simplicity
         - characteristics of music
-        - New simplicity
         - *Ten Preludes* as an example
 
     - 1988-1999: pause
@@ -32,7 +33,7 @@ header-includes:
 
     - 1999-present: second period ("post-fermata")
 
-        - new technical innovations
+        - identify new technical innovations
 
 - Discussion of reusing ideas from earlier works in *Flowersongs* (1973) program note:
 
@@ -54,23 +55,24 @@ header-includes:
 
 - Mikhail Bakhtin and *The Dialogic Imagination* (from Wikipedia: <https://en.wikipedia.org/wiki/Dialogic>):
 
-> Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
+    > Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
 
-> The term 'dialogic' does not only apply to literature. For Bakhtin, all language -- indeed, all thought -- appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
+    > The term 'dialogic' does not only apply to literature. For Bakhtin, all language -- indeed, all thought -- appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
 
-> Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
+    > Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
 
-> When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
+    > When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
 
-- R. F. Thomas, "Virgil's *Georgics* and the art of reference" *Harvard Studies in Classical Philology* 90 (1986) pp 171–98.
 - In discussing the richly allusive poetry of Virgil's *Georgics*, R. F. Thomas distinguished six categories of allusive reference, which are applicable to a wider cultural sphere. These types are:
 
     1. **Casual Reference**, "the use of language which recalls a specific antecedent, but only in a general sense" that is relatively unimportant to the new context;
     2. **Single Reference**, in which the hearer or reader is intended to "recall the context of the model and apply that context to the new situation"; such a specific single reference in Virgil, according to Thomas, is a means of "making connections or conveying ideas on a level of intense subtlety";
     3. **Self-Reference**, where the locus is in the poet's own work;
-    4. **Corrective Allusion, where the imitation is clearly in opposition to the original source's intentions;
+    4. **Corrective Allusion**, where the imitation is clearly in opposition to the original source's intentions;
     5. **Apparent Reference** "which seems clearly to recall a specific model but which on closer inspection frustrates that intention"; and
     6. **Multiple Reference or Conflation**, which refers in various ways simultaneously to several sources, fusing and transforming the cultural traditions.
+
+        > R. F. Thomas, "Virgil's *Georgics* and the art of reference" *Harvard Studies in Classical Philology* 90 (1986) pp 171–98.
 
 ## Historical reworkings
 
@@ -100,7 +102,7 @@ header-includes:
 
 - From *Concerto for Piano and Orchestra* program note:
 
-> Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
+    > Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
 
 - Luciano Berio
 - Toru Takemitsu
@@ -145,13 +147,13 @@ header-includes:
 
 - Abrahamsen on title and Thoreau's book (Kullberg, 1985):
 
-> Hm! .. It is no more literary than that it is a title I found out after I had written the piece. So I rediscovered some qualities in my music, as Thoreau had tried to write about in his book "Walden, life in the forest '- that was why I chose the title. So, one can say anything about recycling and something about the cyclical and something about the ecological and poetic dimension etc. - And I liked the title 'Walden', it is something with forest, some pastoral.
+    > Hm! .. It is no more literary than that it is a title I found out after I had written the piece. So I rediscovered some qualities in my music, as Thoreau had tried to write about in his book "Walden, life in the forest '- that was why I chose the title. So, one can say anything about recycling and something about the cyclical and something about the ecological and poetic dimension etc. - And I liked the title 'Walden', it is something with forest, some pastoral.
 
 - Abrahamsen has indicated this in the program note for *Ten Studies*:
 
-> The language of the title means a lot to me and to which associations it arouses the listener. there may, for instance, be a world of difference between a "Traumlied", a "Drømmesang" and a "Dream Song", for that matter.
+    > The language of the title means a lot to me and to which associations it arouses the listener. there may, for instance, be a world of difference between a "Traumlied", a "Drømmesang" and a "Dream Song", for that matter.
 
-> It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
+    > It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
 - instrumentation and reorchestration
 
@@ -258,6 +260,7 @@ header-includes:
     - ![*Walden* III mm. 11-26 attacks per measure](../figures/walden-III-mm11-26-attacks.png){#fig:walden-III-mm11-26-attacks width=65%}
 
     - This graph expresses the overall increase in the number of events over the course of this passage, and also illustrates how the flute and bassoon are the primary driving instruments at the end while the other three instruments change to long held notes.
+
     - **something on why this is useful**
 
 3. harmony:
@@ -372,6 +375,11 @@ header-includes:
 - connection to orchestration
 
 ## Introduction, Variation 1, and Variation 2
+
+**re-organize to introduction subsection 1, variation 1 subsection 1, variation 2 subsection 1**
+**re-organize to introduction subsection 2, variation 1 subsection 2, variation 2 subsection 2**
+**re-organize to introduction subsection 3, variation 1 subsection 3, variation 2 subsection 3**
+**re-organize to introduction subsection 4, variation 1 subsection 4, variation 2 subsection 4**
 
 ### Section 1
 

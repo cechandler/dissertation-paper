@@ -3,8 +3,8 @@
 dissertation/*.pdf
 dissertation/output/*
 esm-docs/**
-figures/*.logicx
-figures/*.pdf
+figures/**.pdf
+figures/docs/*.logicx
 proposal/output/*.pdf
 research/timeline.md
 research/log.md
