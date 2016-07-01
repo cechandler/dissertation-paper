@@ -5,6 +5,7 @@ dissertation/output/*
 esm-docs/**
 figures/*.logicx
 figures/*.pdf
+proposal/output/*.pdf
 research/timeline.md
 research/log.md
 templates/**
