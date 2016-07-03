@@ -119,41 +119,64 @@ In the two instances of Element 4 in Variation 2 (for bass/cello and horn/bass f
 
 ### Subsection 2
 
-The second section of the introduction contrasts the first by way of tempo, meter, rhythmic activity, pitch collection, and orchestration, but it retains the same basic principle of gradual displacement and expands it to both motivic ordering and pitch ordering. Like the first section, the second begins with 2 unrepeated measures and then repeats four phrases verbatim that alternate 8-measure and 9-measure lengths:
+In the second subsection of Part A, Abrahamsen recasts the previous four elements in a more chromatic language and louder dynamic context. Like the first subsection, Variation 1 is close re-reading of the Introduction, while Variation 2 is further removed and contains changes in harmony and **density**. Again, Abrahamsen controls the metrical scheme of each subsection 2 by alternating double bar line groupings that differ by one measure. Unlike Var2:Sec1, the final instance of subsection 2 does not settle into equally grouped phrases:
+
+> Subsection 2 Meters
+
+> **Introduction: Subsection 2**
+
+> \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
+
+> Total: 70 measures (repeats included)
+
+> **Variation 1: Subsection 2**
+
+> \lilyTimeSignature{2}{4} 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
+
+> Total: 67 measures
+
+> **Variation 2: Subsection 2**
+
+> \lilyTimeSignature{2}{4} 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
+
+> Total: 60 measures
+
+The individual elements of Intro:Sec2 differ from those in Intro:Sec1 by harmony, orchestration, and underlying technique. Element 1 again only appears at the very onset of Intro:Sec2 and takes on larger roles in Variation 1 and Variation 2. Its first appearance is again in the piano but performed staccato on the keys, creating a clear formal demarcation and setting the harmonic collection for what follows. These punctuated chords contain three chromatic perfect fourths (`<123678>`) symmetrical around the D4-G4 axis of Intro:Sect1, creating a `6-6[012567]`. As in subsection 1, this harmonic language is extremely limited, as Abrahamsen uses only this collection along with microtonal inflections throughout Intro:Sec2 and Var1:Sec2. Var2:Sec2 uses the same set class but transposed by T~10~, which is a transposition level that removes the D4-G4 center.
+
+Element 1 again takes on a more substantial role in Var1:Sec2 and Var2:Sec2, occurring at the beginning of every double bar line and following both a pattern of orchestration and duration between attacks. Tables @tbl:wald-var1-ss2-e1 and @tbl:wald-var2-ss2-e1 describe how Element 1 in Var1:Sec2 and Var2:Sec2 rotates between piano, harp, and marimba and alternates between four eighth notes and six eighth notes of duration between attacks. The difference between these two processes is subtle; in Var2:Sec2, the instrumental ordering is slightly changed, the piano is muted, and the durations between attacks have switched.
+
+\singlespacing
+
+Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var1-ss2-e1}
+
+| Instr   |       One       |       Two       |      Three      |      Four       |      Five       |       Six       |      Seven      |      Eight      |      Nine       |
+|:--------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
+| Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
+| Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
+
+\doublespacing
+
+Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var2-ss2-e1}
+
+| Instr   |       One       |       Two       |      Three      |      Four       |      Five       |       Six       |      Seven      |
+|:--------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Piano   | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |
+| Marimba |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 |
+| Harp    |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |
+
+\doublespacing
+
+Element 2 remains closely associated with its corresponding element from subsection 1. It remains scored for the symmetrical violin I and violin II but becomes a sul ponticello tremolo and removes microtonality and subdivision accents. Instead, the violins alternate the two perfect fourth dyads symmetrical around D4-G4 and accents the downbeat every 2 or 3 measures, depending on the double bar grouping (every 2 for 8 measure grouping or every 3 for 9 measure groupings). In Var1:Sec2 the downbeat accents change slightly to accommodate the 8 and 7 measure groupings (3+2+3 for 8 measure groupings or 2+3+2 for 7 measure groupings). Abrahamsen removes Element 2 in this sul ponticello tremolo form and instead recasts it as a spiccato repeated note gesture alternating between double bass and cello. The two strings alternate between sixteenth-note subdivisions for three measures (double bass) and triplet sixteenth-note subdvisions for two measures (cello) throughout the entirety of Var2:Sec2.
+
+
+<!-- The second section of the introduction contrasts the first by way of tempo, meter, rhythmic activity, pitch collection, and orchestration, but it retains the same basic principle of gradual displacement and expands it to both motivic ordering and pitch ordering. Like the first section, the second begins with 2 unrepeated measures and then repeats four phrases verbatim that alternate 8-measure and 9-measure lengths:
 
 > \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
 
 The starting 2 measures abruptly break the perfect fourth pedal point as the pianist performs punctuated `<123678>` clusters. The two violins of Group V that were previously alternating repetitions of the D4-G4 and 1/6th tone flat D4-G4 dyads begin exchanging dyads a half-step higher and lower (C#4-F#4 and Eb4-Ab4). The bass flute and horn (the most active of the first section) rest during the second section. The rest of the ensemble joins in articulating one of two motives: the calling perfect fourth gesture now harmonized as `<123>` and `<678>` clusters and a chromatically ascending percussive line.
 
-Again the presentation of these two motives is largely connected to the ensemble seating plan. During the 8-measure phrases, Group I and Group VI play the perfect fourth motive, with the bassoon and bass clarinet (Group I) playing in equal temperament and the trumpet and bass trumpet (Group VI) playing a 1/6th tone flat intonation. The ascending chromatic line is fully presented by the harp, and additionally doubled in Group II, where the viola and English horn alternate each note of the line. The roles flip symmetrically during the 9-measure phrases (e.g. Group I divides the chromatic line while Group II plays the perfect fourth motive).
-
-As is the case with the first section, these two motives gradually change position over the course of the four phrases. Additionally, the order of the pitches in the chromatically ascending line also undergoes a rotational procedure. With each phrase, the pitch class `6` moves forward one position (with the exception of phrase 3 where it occurs simultaneously with `2`), and during the final phrase, pitch class `7` also shifts forward one position creating a series of chromatically ascending perfect fourths:
-
-\singlespacing
-
-```
-    Phrase 1: <1 2 3 6 7 8>
-    Phrase 2: <1 2 6 3 7 8>
-    Phrase 3: <1 6 3 7 8  >
-              <  2        >
-    Phrase 4: <1 6 2 7 3 8>
-```
-
-\doublespacing
-
-> Subsection 2 Meters
-
-> Introduction:
-
-> \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
-
-> Variation 1:
-
-> \lilyTimeSignature{2}{4} 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. ||
-
-> Variation 2:
-
-> \lilyTimeSignature{2}{4} 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. | 8mm. | 7mm. ||
+Again the presentation of these two motives is largely connected to the ensemble seating plan. During the 8-measure phrases, Group I and Group VI play the perfect fourth motive, with the bassoon and bass clarinet (Group I) playing in equal temperament and the trumpet and bass trumpet (Group VI) playing a 1/6th tone flat intonation. The ascending chromatic line is fully presented by the harp, and additionally doubled in Group II, where the viola and English horn alternate each note of the line. The roles flip symmetrically during the 9-measure phrases (e.g. Group I divides the chromatic line while Group II plays the perfect fourth motive). -->
 
 ### Subsection 3
 
