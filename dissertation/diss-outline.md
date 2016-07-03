@@ -96,7 +96,7 @@ header-includes:
 
     - needing a fragment (from *Composer to Composer*):
 
-        > "Now I always use a fragment given to me, or the gragment of another score. I need a fragment. Something that can evelop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
+        > "Now I always use a fragment given to me, or the fragment of another score. I need a fragment. Something that can develop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 
 ## Composers that frequently rework older material:
 
@@ -105,9 +105,13 @@ header-includes:
     > Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
 
 - Luciano Berio
+
 - Toru Takemitsu
+
 - Toshio Hosokawa
+
 - Pierre Boulez
+
 - Franco Donatoni
 
 - Possibly mention historical pieces arranged from smaller works:
@@ -130,8 +134,6 @@ header-includes:
         > I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
 
         > My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
-
-        > Through decades the idea of writing a larger work for piano left hand has been in my mind. This new work is not written for a pianist with only one hand, but rather by a composer who can only play with the left hand. The title *Left, alone* contains all kinds of references, not only to the obvious fact that the left hand is playing alone. *Left, alone* is divided into two large parts, each consisting of three smaller movements – in effect, six in total.
 
 - connection to German romanticism
 
@@ -175,26 +177,10 @@ header-includes:
 - basic info
 
     - four movements, untitled
+    - little interpretative markings
+    - tempo markings in 1995 version
+    - focus on structure in compositional process (Kullberg)
     - decreasing durations
-
-        - make it clear A thinks about ratios like this; it's in the Kullberg article explicitly
-
-- differences between 1978 and 1995 version
-
-    - I:
-
-        - D major chord has more orchestration of horn's sustain
-        - D major chord for trio instead of tutti
-
-    - II:
-
-        - written in 4/8 instead of 4/4
-
-    - III:
-
-    - IV:
-
-        - written in 12/16 and 3/4
 
 - description of movements
 
@@ -226,6 +212,14 @@ header-includes:
     - third movement
 
     - fourth movement
+
+- differences between 1978 and 1995 version
+
+    - I: D major chord has more orchestration of horn's sustain
+    - I: D major chord for trio instead of tutti
+    - II: written in 4/8 instead of 4/4
+    - III:
+    - IV: written in 12/16 and 3/4
 
 ## Process and Techniques
 
@@ -376,10 +370,10 @@ header-includes:
 
 ## Introduction, Variation 1, and Variation 2
 
-**re-organize to introduction subsection 1, variation 1 subsection 1, variation 2 subsection 1**
-**re-organize to introduction subsection 2, variation 1 subsection 2, variation 2 subsection 2**
-**re-organize to introduction subsection 3, variation 1 subsection 3, variation 2 subsection 3**
-**re-organize to introduction subsection 4, variation 1 subsection 4, variation 2 subsection 4**
+- **re-organize to introduction subsection 1, variation 1 subsection 1, variation 2 subsection 1**
+- **re-organize to introduction subsection 2, variation 1 subsection 2, variation 2 subsection 2**
+- **re-organize to introduction subsection 3, variation 1 subsection 3, variation 2 subsection 3**
+- **re-organize to introduction subsection 4, variation 1 subsection 4, variation 2 subsection 4**
 
 ### Section 1
 
