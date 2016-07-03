@@ -362,6 +362,14 @@ header-includes:
 
 - series of variations
 - tempo modulations
+- a short section on terminological conventions
+
+  - "Part" for the grouping of related variations
+  - "Section" for Intro, Var 1, Var 5, etc.
+  - "Subsection" for sections inside Intro, Var 1, Var 2
+  - "Subsection" notation: Var1:Sec3 for example
+  - "Element" for associative segments that are re-used across the work
+  - better terms for this? maybe something from Hanninen?
 
 ## Spatial layout
 
