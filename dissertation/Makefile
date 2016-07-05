@@ -41,6 +41,7 @@ tex:
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
+	--wrap=none \
 	--from=markdown+table_captions \
 	--latex-engine=xelatex; \
 	open "$(OUTPUTDIR)/$(OUTFILE).tex"
