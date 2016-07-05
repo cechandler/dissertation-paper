@@ -86,7 +86,6 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 | Var 6   | 582-594  | \eighthNote{} = 66                   | Andante mesto                     |
 |         |          |                                      |                                   |
 | Var 7   | 595-605  | \eighthNote{} = 64                   | Piu lento                         |
-|         |          |                                      |                                   |
 
 \doublespacing
 
