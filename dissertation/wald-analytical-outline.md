@@ -7,9 +7,32 @@ header-includes:
   - '\usepackage{lilyglyphs}'
 ---
 
-# Introduction, Variation 1, and Variation 2
+## Form
 
-## Section 1
+- series of variations
+- tempo modulations
+- a short section on terminological conventions
+
+  - "Part" for the grouping of related variations
+  - "Section" for Intro, Var 1, Var 5, etc.
+  - "Subsection" for sections inside Intro, Var 1, Var 2
+  - "Subsection" notation: Var1:Sec3 for example
+  - "Element" for associative segments that are re-used across the work
+  - better terms for this? maybe something from Hanninen?
+
+## Spatial layout
+
+- connection to call and response
+- connection to orchestration
+
+## Introduction, Variation 1, and Variation 2
+
+- **re-organize to introduction subsection 1, variation 1 subsection 1, variation 2 subsection 1**
+- **re-organize to introduction subsection 2, variation 1 subsection 2, variation 2 subsection 2**
+- **re-organize to introduction subsection 3, variation 1 subsection 3, variation 2 subsection 3**
+- **re-organize to introduction subsection 4, variation 1 subsection 4, variation 2 subsection 4**
+
+## Subsection 1
 
 ### Main features
 
@@ -28,7 +51,7 @@ header-includes:
 
 ### Changes to elements over Intro, Var 1, Var 2
 
-#### Introduction
+#### Introduction: Subsection 1
 
 - 2 bar intro
 - 4 phrases each repeated once
@@ -93,7 +116,7 @@ header-includes:
 
         - by growing longer, these gestures "shift" earlier
 
-#### Variation 1
+#### Variation 1: Subsection 1
 
 - 2 bar intro
 - no repeated bars
@@ -185,7 +208,7 @@ header-includes:
 
         - by growing shorter, these motives "shift"
 
-#### Variation 2
+#### Variation 2: Subsection 1
 
 - no 2 bar intro
 - no repeated bars
@@ -242,7 +265,7 @@ header-includes:
             1. bass = 24 eighths, 36 eighths, 27 eighths (proportions of section 1 first instance x6); horn = 27 1/5 eighths, 39 4/5 eighths, 18 eighths
             2. cello = 9 eighths, 6 eighths, 18 eighths; bsfl = 3 eighths, 3/5 sixteenths, 12 eighths
 
-## Section 2
+## Subsection 2
 
 ### Main features
 
@@ -262,7 +285,7 @@ header-includes:
 
 ### Changes to elements over Intro, Var 1, Var 2
 
-#### Introduction
+#### Introduction: Subsection 2
 
 - 2 bar intro
 - 4 phrases each repeated once
@@ -286,6 +309,7 @@ header-includes:
 
 - Element 3: perfect fourth call
 
+    - every 10 measures
     - 2 trumpets, bassoon, and bass clarinet
     - cello and bass, viola and English horn
     - remains the same duration throughout: 3 eighths + 1 3:2 quarters (or 7 3:2 quarters)
@@ -354,7 +378,7 @@ header-includes:
             - phrase 3: `<16>` shifts earlier by 1 quarter; `<38>` shifts later by 1 triplet quarter; whole pattern shifts earlier by 2 quarters
             - phrase 4: `<16>` shifts earlier by 1 quarter; `<38>` shifts later by 1 triplet quarter
 
-#### Variation 1
+#### Variation 1: Subsection 2
 
 - no 2 bar intro
 - no repeated bars
@@ -384,7 +408,7 @@ header-includes:
 
     - 2 trumpets `<1378>`
     - cello and bass `<1268>` and piano `<1268>`
-    - remains the same duration throughout: 3 eighths + 1 3:2 quarters (or 7 3:2 quarters)
+    - remains the same duration throughout: 7 3:2 quarters, similar to 7 eighths in the Intro:Sec1
     - no JI temperament
     - seven instances, one every 10 measures, more periodic than intro due to lack of repeats:
 
@@ -458,7 +482,7 @@ header-includes:
                 - displaces left/earlier/towards the central `<27>` dyad at rate of 1 quarter per phrase
                 - moves between the marimba line and harp line with each phrase
 
-#### Variation 2
+#### Variation 2: Subsection 2
 
 - no 2 bar intro
 - no repeated bars
@@ -498,41 +522,181 @@ header-includes:
         5. viola `<04>`, violin 2 `<e6>`; ascending
         6. cello `<51>`, violin 1 `<6e>`; descending
 
-    - Element 4: chromatic line
+- Element 4: chromatic line
 
-        - harp and marimba
-        - simultaneous processes like Var1:Sect2
-        - transposed
-        - eight instances of each:
+    - harp and marimba
+    - simultaneous processes like Var1:Sect2
+    - transposed
+    - eight instances of each:
 
-            - harp
+    - harp
 
-                1. `<61504e>`
-                2. `<015e64>`
-                3. `<46e510>`
-                4. `<05e416>`
-                5. `<4e6150>`
-                6. `<10e654>`
-                7. `<614e50>`
-                8. `<e>`
+        1. `<61504e>`
+        2. `<015e64>`
+        3. `<46e510>`
+        4. `<05e416>`
+        5. `<4e6150>`
+        6. `<10e654>`
+        7. `<614e50>`
+        8. `<e>`
 
-            - marimba
+    - marimba
 
-                1. `<456e01>`
-                2. `<0<e5>416>`
-                3. `<6<14>5e0>`
-                4. `<01e56>`
-                5. `<<456>1e0>`
-                6. `<1605e4>`
-                7. `<56041e>`
-                8. `<e4>`
+        1. `<456e01>`
+        2. `<0<e5>416>`
+        3. `<6<14>5e0>`
+        4. `<01e56>`
+        5. `<<456>1e0>`
+        6. `<1605e4>`
+        7. `<56041e>`
+        8. `<e4>`
 
-        - rhythmic processes:
+- rhythmic processes:
 
-            - three separate layers that pull apart:
+    - three separate layers that pull apart:
 
-                1. earlier: 3 quarters, 2 quarters
-                2. center, every 8 measures, or 16 beats: 6 quintuplet eighths, 4 quintuplet eighths
-                3. later: 3 triplet quarters, 2 triplet quarters
+        1. earlier: 3 quarters, 2 quarters
+        2. center, every 8 measures, or 16 beats: 6 quintuplet eighths, 4 quintuplet eighths
+        3. later: 3 triplet quarters, 2 triplet quarters
 
-            - each layer contains a sequence of four notes which rotates and retrogrades
+    - each layer contains a sequence of four notes which rotates and retrogrades
+
+### Subsection 3
+
+### Subsection 4
+
+- Cascading material in marimba/harp and piano LH/RH
+- Harmonies based on interval cycles and "woven" interlocking voices of the pentatonic 5-34[02469] material from Section 3
+- Consists of four phrases:
+
+    1. 10/16: marimba and harp in sixteenths
+    2. 3/4: piano RH and LH in triplet sixteenths
+    3. 6/16: marimba and harp in sixteenths
+    4. 3/8: piano RH and LH in thirty-seconds
+
+#### Introduction: Subsection 4
+
+- Phrase 1:
+
+    - marimba: contour up; 5-cycle, 1-cycle,
+    - harp: contour down; 1-cycle, 5-cycle, 6-cycle
+    - upper voice: 5-34[02469] `<2579e>`
+    - lower voice: 5-34[02469] `<58t02>`
+    - related by T~3~
+
+- Phrase 2:
+
+    - piano RH: contour down; 5-cycle `<3816e412e482ee828e>`
+    - piano LH: contour up; 1-cycle `<0et987e58755825552>`
+    - four interwoven sets related by T~3~:
+
+        1. soprano voice: 4-22[0247] `<8e13>`
+        2. alto voice: 5-34[02469] `<e2468>`
+        3. tenor voice: 5-34[02469] `<2579e>`
+        4. bass voice: 4-22[0247] `<58t0>`
+
+- Phrase 3:
+
+    - marimba: contour down; 3- 4- and 5-cycle
+    - harp: contour up; 3- 4- and 5-cycle
+    - four interwoven sets related by T~3~:
+
+        1. soprano voice: 4-22[0247] `<8e13>`
+        2. alto voice: 3-7[025] `<e24>`
+        3. tenor voice: 3-7[025] `<257>`
+        4. bass voice: 4-22[0247] `<58t0>`
+
+- Phrase 4:
+
+    - piano RH: contour down; 5-cycle
+    - piano LH: contour up; kind of 1-cycle
+    - four interwoven sets (T~0~I T~3~I T~6~I T~7~I T~9~I T~10~I):
+
+        1. RH soprano voice: 4-22[0247] `<8e13>` harmonized in fifths `<368t>`
+        2. RH alto voice: 5-34[02469] `<e2468>`
+        3. RH tenor voice: 3-7[025] `<8e1>`
+        4. RH bass voice: 3-7[025] `<e24>`
+        5. LH soprano: 5-34[02469] `<2579e>`
+        6. LH alto: 3-7[025] `<357>`
+        7. LH tenor: 3-7[025] `<58t>`
+        8. LH bass: 3-7[025] `<58t>`
+
+#### Variation 1: Subsection 4
+
+- Phrase 1:
+
+    - marimba: contour down; 1-cycle, 5-cycle, 6-cycle
+    - harp: contour up; 5-cycle, 1-cycle, 6-cycle
+    - upper voice: 5-34[02469] `<368t0>`
+    - lower voice: 5-34[02469] `<69e13>`
+    - related by T~3~
+
+- Phrase 2:
+
+    - wider spaced dyads
+
+        - they carry over the 1-cycle and 5-cycle voice leading from the first phrase
+        - E and F# are like upper neighbors to the "in-key" F and G that follow them
+        - also begin a kind of 2-cycle pattern
+        - `<14><36>`
+
+    - piano RH: 4-22[0247] `<0357>`
+
+    - piano LH: 4-22[0247] `<368t>`
+
+    - related by T~3~
+
+- Phrase 3:
+
+    - marimba: contour up; 3- 4- and 5-cycle
+    - harp: contour down; 3- 4- and 5-cycle
+    - upper voice: 4-22[0247] `<0357>`
+    - lower voice: 4-22[0247] `<368t>`
+    - related by T~3~
+    - every 9 notes, there is a "out of key" dyad
+
+        - `<e2><14><36>`
+        - extends the 2-cycle pattern initiated in phrase 1
+
+- Phrase 4:
+
+    - four separate threads:
+
+        1. soprano voice: 2-cycle in perfect fifths; lower = `<0246>`, upper = `<79e1>`
+        2. alto voice: same as phrase 2 and 3; 4-22[0247] `<0357>`
+        3. tenor voice: same as phrase 2 and 3; `<368t>`
+        4. bass voice: 2-cycle `<9e13>`
+
+#### Variation 2: Subsection 4
+
+- Phrase 1:
+- Phrase 2:
+- Phrase 3:
+- Phrase 4:
+
+## Variation 3 and Variation 4
+
+## Variation 5
+
+- More interval cycles: 5-cycle and 6-cycle
+- Two primary motives:
+
+    - ascending repeated figures voiced in fifths
+    - descending dyads of tritones, fourths, and
+
+## Variation 6 and Variation 7
+
+## Connections to other music (good place for this discussion?)
+
+- *Diabelli Variations* and connection to "sudden awakening" instruction at Variation 5
+
+    - I think Abrahamsen is talking about *Diabelli Variation* No. 20
+
+- *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
+
+- *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
+
+    - Concept of doubling (both in orchestration and re-use)
+    - Shrinking movement proportions
+
+- *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)

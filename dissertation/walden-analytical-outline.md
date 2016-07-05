@@ -12,26 +12,10 @@ header-includes:
 - basic info
 
     - four movements, untitled
+    - little interpretative markings
+    - tempo markings in 1995 version
+    - focus on structure in compositional process (Kullberg)
     - decreasing durations
-
-        - make it clear A thinks about ratios like this; it's in the Kullberg article explicitly
-
-- differences between 1978 and 1995 version
-
-    - I:
-
-        - D major chord has more orchestration of horn's sustain
-        - D major chord for trio instead of tutti
-
-    - II:
-
-        - written in 4/8 instead of 4/4
-
-    - III:
-
-    - IV:
-
-        - written in 12/16 and 3/4
 
 - description of movements
 
@@ -63,6 +47,14 @@ header-includes:
     - third movement
 
     - fourth movement
+
+- differences between 1978 and 1995 version
+
+    - I: D major chord has more orchestration of horn's sustain
+    - I: D major chord for trio instead of tutti
+    - II: written in 4/8 instead of 4/4
+    - III:
+    - IV: written in 12/16 and 3/4
 
 ## Process and Techniques
 
@@ -159,3 +151,25 @@ header-includes:
 
     - most unrelated; scalar material suggestive of scalar motion in first and second movements
     - polymeter and various subsets
+
+## Connections to Other Music
+
+- *Winternacht*
+
+    - musical material
+
+        - punctuated gestures
+        - horn call at end of third mvmt close to *Winternacht*'s first and fourth mvmts
+
+            - same articulation and triadic material
+
+        - polyrhythmic acceleration and deceleartion (WN II vs Walden II)
+
+    - formal similarity
+
+        - material returning in another movement
+        - movement picking up where the last left off (can't remember why I said this??)
+
+- *Ten Preludes* and *Flowersongs*: ending with a clearly neo-classical movement
+
+- *Wald*: prepare next section
