@@ -181,42 +181,80 @@ The second statement in the figure highlights how the displacement process unfol
 
 ![Intro:Sec2 Element 4 Rhythmic displacement](../figures/wald-intro-sec2-e4-rd.png){#fig:wald-intro-sec2-e4-rd}
 
-This process becomes more complex in Var1:Sec2 as the harp and marimba groups no longer alternate phrases and instead perform simultaneous displacement processes. The top two staves of Figure @fig:wald-var1-sec2-e4-rd indicate the two composite lines articulated by the marimba and harp, respectively, while the remaining lower staves extract the perfect fourth dyads. Both six-note sequence lines share the `<27>` dyad as a central axis, while the other two dyads again shift earlier and later with each phrase. The `<16>` and `<38>` dyads have two rhythmic subdivision versions, and they displace earlier or later, depending on the dyad, by one value of their subdivision (e.g. quarter or triplet quarter). **note that while the marimba and harp don't alternate phrases they do alternate which line the perform**
+This process becomes more complex in Var1:Sec2 as the harp and marimba groups no longer alternate phrases and instead perform simultaneous displacement processes. The top two staves of Figure @fig:wald-var1-sec2-e4-rd indicate the two composite lines articulated by the marimba and harp, respectively, while the remaining lower staves extract the perfect fourth dyads. Both six-note sequence lines share the `<27>` dyad as a central axis, while the other two dyads again shift earlier and later with each phrase. The `<16>` and `<38>` dyads have two rhythmic subdivision versions, and they displace earlier or later, depending on the dyad, by one value of their subdivision (e.g. quarter or triplet quarter). While Abrahamsen does not alternate the phrases between the harp and marimba, he does alternate the two processes between the two instruments. **more on this**
 
 **should I note the error in the score?**
 
 **note how the dyads form a quarter note sequence and a triplet quarter sequence**
 
+**close up look at voice leading inside six-note sequence for Var1:Sec1 Group I**
+
 ![Var1:Sec2 Element 4 Rhythmic displacement](../figures/wald-var1-sec2-e4-rd.png){#fig:wald-var1-sec2-e4-rd}
 
-Var2:Sec2
+In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes initiated in Var1:Sec2 and expands its development to include variations in pitch ordering and contour. This process contains four separate threads of pitch sequences that Abrahamsen articulates over seven phrases. These four threads again express the 4:5:6 polyrhythmic subdivisions found in Var1:Sec2, but in this instance, the central quintuplet eighth-note layer is harmonized creating a fourth thread. The figure below depicts each of the four lines independently and does not consider the composite ordering. When unwoven in this fashion, it is clear that Abrahamsen has constructed these sequences through retrograde.
 
-<!-- close up look at voice leading inside six-note sequence for Var1:Sec1 Group I -->
+\singlespacing
+
+> **Four Threads**
+>
+> `1: <50166116610561>`
+>
+> `2: <50e44ee44e054e>`
+>
+> `3: <4e4e0516615005e44e5016166150e4e>`
+>
+> `4: <616105e44e5005166150e4e44e50>`
+>
+> **Retrograde Octachords**
+>
+> `3: A    B    C    D`
+>
+> `4: R(C) R(B) R(A) R(?)`
+>
+> Retrograde ordering: `<4e4e0516><6150e4e4><4e500516><615005e4><4e501616><616105e4> || <4e50><6150e4>`
+
+\doublespacing
+
+The quintuplet eighth note threads of `1` and `2` above consist of two hexachords (`<501661>` and `<50e44e>`) mirrored about a central axis. Abrahamsen extends the process in both threads for one phrase beyond the end of the retrograde, suggesting that this process could continue with a new ordering. Threads `3` (quarter) and `4` (triplet quarter) contain retrograde **octachords** that have been separated in time. Thread `3` contains four octachords, highlighted in the figure as `A`, `B`, `C`, and `D`. Thread `4` contains retrograde versions of those same octachords presented in retrograde around the central `B` octachord: `R(C)`, `R(B)`, `R(A)`, `R(?)`.
+
+It is interesting to note that each octachord contains a tetrachord of the same dyad pair. When the octachords are re-ordered into retrograde order (see lower portion of the figure), these tetrachordal dyad pairs rotate in order position throughout the sequence. In the first two octachords they occupy the outer positions, in the second two octachords the middle positions, and in the final two octachords the inner positions. **say this better**
+
+**section 2 conclusion**
 
 ### Subsection 3
 
-> Introduction:
+> **Introduction: Subsection 3**:
 
 > \lilyTimeSignature{12}{8} 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
 
-> Variation 1:
+> Total = 28 measures (repeats included)
+
+> **Variation 1: Subsection 3**:
 
 > \lilyTimeSignature{12}{8} 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
 
-> Variation 2:
+> Total = 24 measures (repeats included)
+
+> **Variation 2: Subsection 3**:
 
 > \lilyTimeSignature{12}{8} 20 mm.
 
+> Total = 20 measures
+
 ### Subsection 4
 
-> Introduction:
+Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12\sixteenthNote{} with each instance:
+
+> **Introduction: Subsection 4**:
 
 > \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 11mm.
 
-> Variation 1:
+> **Variation 1: Subsection 4**:
 
 > \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 7mm.
 
-> Variation 2:
+> **Variation 2: Subsection 4**:
 
 > \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{9}{16} 1mm.
+
+Subsection 4 is defined by four phrases of cascading figures that alternate between marimba and harp dup and piano at each new metrical change. In the same way that fourth element of subsection 2 is a composite of interwoven pitch sequences, so too are the cascading figures a composite sequence. Harmonically, these cascading figures are an expansion of the nearly pentatonic `4-22[0247]`. 

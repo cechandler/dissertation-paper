@@ -563,6 +563,12 @@ header-includes:
 
 ### Subsection 3
 
+#### Main Features
+
+- Polyrhytmic layering 13.5:14:15 eighths in the space of 12 eighths
+- Trumpets and Violins always doubling (except for Variation 2)
+- Other symmetrical pairs start and stop together (e.g. Eng horn and Bassoon)
+
 ### Subsection 4
 
 - Cascading material in marimba/harp and piano LH/RH
