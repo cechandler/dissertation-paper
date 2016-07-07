@@ -5,9 +5,12 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
 OUTPUTDIR=$(BASEDIR)/output
 STYLEDIR=$(BASEDIR)/style
+SCRIPTSDIR=/Volumes/Data/Box Sync/Scripts
 OUTFILE=dissertation
 
 BIBFILE=../citations/abrahamsen.bib
+
+	# --filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 
 help:
 	@echo ' 																			'
