@@ -329,3 +329,8 @@ repeated quartal chord motive compressions and pattern
 | 6      | `<1616>` | `<<50><50>>` | `<e4e4>` |
 | 7      | `<6150>` | `<<4e><61>>` | `<50e4>` |
 | 8      | `<e4e4>` |              |          |
+
+
+
+## Var 5
+Violin I: `<083t 294e6 2950 5083t 4e67 2950 950 3e618 4e627 2950 3e618 94e62 4e62 5083t 294e6>`
