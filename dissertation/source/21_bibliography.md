@@ -5,5 +5,5 @@
 \setlength{\parskip}{8pt}
 \noindent
 
-<!-- ^[*Wald* (2008-09)]  --> <!-- regular citation -->
+<!-- [^*Wald* (2008-09)]  --> <!-- regular citation -->
 <!-- [@Abrahamsen, p. 21] --> <!-- citation from bib file -->
