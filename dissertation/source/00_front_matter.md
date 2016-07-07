@@ -10,10 +10,10 @@ nocite: "[@*]"
 papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
+linestretch: 1
 header-includes:
     - \usepackage{tocbibind}
     - \setcounter{tocdepth}{2}
-    - \usepackage{setspace}
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
@@ -21,8 +21,6 @@ header-includes:
     - \usepackage{url}
     - \setlength\parindent{24pt}
 ...
-
-\singlespacing
 
 # Biographical Sketch
 Here is the biography.
