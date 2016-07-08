@@ -3,9 +3,18 @@ papersize: letter
 geometry: margin=1in
 fontsize: 12pt
 header-includes:
-  - '\usepackage{setspace}'
-  - '\usepackage{lilyglyphs}'
+  - \usepackage{setspace}
+  - \usepackage{lilyglyphs}
 ---
+
+## Differences Between 1978 and 1995 Version
+
+- I: D major chord has more orchestration of horn's sustain
+- I: D major chord for trio instead of tutti
+- II: written in 4/8 instead of 4/4
+- II: second grand pause at mm. 54 in 1995 version
+- III: accelerando portion, mm. 22 bassoon entrance is early and already arpeggiated
+- IV: written in 12/16 and 3/4
 
 ## Form
 
@@ -45,16 +54,13 @@ header-includes:
             - filtering out of motives
 
     - third movement
+	
+		- mechanical processes
 
     - fourth movement
-
-- differences between 1978 and 1995 version
-
-    - I: D major chord has more orchestration of horn's sustain
-    - I: D major chord for trio instead of tutti
-    - II: written in 4/8 instead of 4/4
-    - III:
-    - IV: written in 12/16 and 3/4
+		
+		- neo-classical
+		- polytempo and polyrhythmic
 
 ## Process and Techniques
 
