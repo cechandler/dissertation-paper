@@ -3,8 +3,8 @@ papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 header-includes:
-  - '\usepackage{setspace}'
-  - '\usepackage{lilyglyphs}'
+  - \usepackage{setspace}
+  - \usepackage{lilyglyphs}
 ---
 
 # Front Matter
@@ -180,17 +180,52 @@ header-includes:
 **refer to walden-analytical-outline.md**
 
 - Basic overiew
+ 
+    - four movements, untitled
+    - little interpretative markings
+    - tempo markings in 1995 version
+    - focus on structure in compositional process (Kullberg)
+    - decreasing durations
+
 - Description of movements
 - Relationships between movements
-
-	- Transition to segments
+- Transition to associative segments between movements
 	
 ## Associative Segments
 
-- Perfect fourth
-- [013] and [014589]
-- D major
-- Three octave melody
+- Brief overview of Hanninen terminology
+
+	- segmentation and associative landscapes as a way to track variation
+	- sonic and contextual domains
+
+- Associative segments in *Walden*:
+
+	- Perfect fourth:
+	
+		- horn motive
+		- oboe motive
+        - related to horn call in III
+	
+	- [013]: 
+		
+		- echoing motives in I
+        - three octave melody in I and II
+		- canonic material in I and II
+		- figuration at opening of III
+	
+	- Staccato motive:
+		
+		- homophonic ending of I
+		- punctuated interjections of II
+        - ending of III
+	
+	- D major: 
+		
+		- homophonic ending of I
+		- ending of III and horn call
+		- key area ending of IV
+
+	- [014589]: In Krullberg A says a symmetrical harmony ties it all together?
 
 - Techniques: 
 	
@@ -205,24 +240,65 @@ header-includes:
 
 ## Background
 
-- co-commission
-- world premieres
-- "subtle rhetoric": Julian Anderson on Abrahamsen's music; description of *Wald* and *Schnee*
-- instrumentation and use of bass instruments:
+- Co-commission
+- World premieres
+- "Subtle rhetoric": Julian Anderson on Abrahamsen's music; description of *Wald* and *Schnee*
+- Instrumentation, microtonality, and bass instruments: 
 
     - scordatura harp: detuning D and G
     - double horn in F/Bb: natural harmonics via unadjusted overtones
     - double bass and cello(?): natural harmonics
     - bass trumpet played by the trombone player: valve pulled out
+    - low tessitura of many of the instruments and the quality it imparts
 
-- seating plan introduction
+## Spatial layout
 
-## Terminology
+- Seating plan layout
+- Six groups and detail on how they are arranged:
 
-- Part for clear groupings of Variations based on shared sound, material, or formal scheme
-- Section to refer to one
-- Subsection refers to single part of Introduction, Variation 1, Variation 2
-- Notation to describe subsections is Intro:Sec1 or Var2:Sec1
+    - inner, middle, and outer circles
+    - percussive instruments in center
+    - trios with wind/string/attack layout
+    - rear duos of doubled instruments
+    - front duos of reed timbres and viola (kind of reedy)
+
+- Connection to call and response
+- Connection to orchestration
+- Not always in use or perfectly symmetrical
+
+## Form
+
+- Series of variations
+- Decreasing durations
+- Tempo and descriptive markings
+    
+    - juxtaposition of sections
+    - use of tempo modulations to transition between sections
+    
+- Short section on terminology conventions
+
+    - "Part" for the grouping of related variations based on shared sound, material, or formal scheme
+    - "Section" for Intro, Var 1, Var 5, etc.
+    - "Subsection" for sections inside Intro, Var 1, Var 2
+    - "Subsection" notation: Var1:Sec3 for example
+    - "Element" for associative segments re-used across the work (better terms for this? maybe something from Hanninen?)
+
+## Associative Segments
+
+- Element 1
+- Element 2
+- Element 3
+- Element 4
+- 6-6[012567]
+- 4-22[0247]
+- 5-35[02479]
+
+- Techniques:
+    
+    - Rhythmic displacement/phasing
+    - Rhythmic augmentation and diminution
+    - Repeat signs disrupting periodicity
+    - Melodic truncation
 
 # Conclusion
 
