@@ -177,6 +177,7 @@ header-includes:
         - re-metered movements: II and IV
 		
 ## Form
+
 **refer to walden-analytical-outline.md**
 
 - Basic overiew
@@ -184,7 +185,7 @@ header-includes:
     - four movements, untitled
     - little interpretative markings
     - tempo markings in 1995 version
-    - focus on structure in compositional process (Kullberg)
+    - focus on structure in compositional process (Kullberg discussion)
     - decreasing durations
 
 - Description of movements
@@ -195,7 +196,7 @@ header-includes:
 
 - Brief overview of Hanninen terminology
 
-	- segmentation and associative landscapes as a way to track variation
+	- segmentation and associative organization as a way to track variation
 	- sonic and contextual domains
 
 - Associative segments in *Walden*:
@@ -225,7 +226,7 @@ header-includes:
 		- ending of III and horn call
 		- key area ending of IV
 
-	- [014589]: In Krullberg A says a symmetrical harmony ties it all together?
+	- [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
 
 - Techniques: 
 	
@@ -242,7 +243,11 @@ header-includes:
 
 - Co-commission
 - World premieres
-- "Subtle rhetoric": Julian Anderson on Abrahamsen's music; description of *Wald* and *Schnee*
+- "Subtle rhetoric": Julian Anderson on Abrahamsen's music
+
+    - examples of subtle rhetoric in *Wald* and *Schnee*
+    - transition to instrumentation and microtonality
+
 - Instrumentation, microtonality, and bass instruments: 
 
     - scordatura harp: detuning D and G
@@ -278,27 +283,100 @@ header-includes:
 - Short section on terminology conventions
 
     - "Part" for the grouping of related variations based on shared sound, material, or formal scheme
-    - "Section" for Intro, Var 1, Var 5, etc.
-    - "Subsection" for sections inside Intro, Var 1, Var 2
-    - "Subsection" notation: Var1:Sec3 for example
+    - "Variation" for Intro, Var 1, Var 5, etc.
+    - "Section" for sections inside Intro, Var 1, Var 2
+    - "Section" notation: Var1:Sec3 for example
     - "Element" for associative segments re-used across the work (better terms for this? maybe something from Hanninen?)
 
 ## Associative Segments
 
-- Element 1
-- Element 2
-- Element 3
-- Element 4
-- 6-6[012567]
-- 4-22[0247]
-- 5-35[02479]
+- Segments: 
+
+    - Element 1: twice repeated chord
+    - Element 2: measured and unmeasured tremolo
+    - Element 3: rising fourth/fifth call
+    - Element 4: repeated note response
+    - Element 5: pentatontic polyrhythms
+    - Element 6: cascasing figures
+    - Element 7: melodic segments surrounding Element 6
+    - Night music melody
+
+- Pitch collections:
+    
+    - 6-6[012567]
+    - 5-35[02479]
+    - 4-22[0247]
+    - 3-10[036]: `<825>` in Var2:Sec4 and Var6
+    - 3-3[014]: `<54e>` in Var2:Sec4 and Var6
+    - microtonal pitches: D4-G4 throughout; then Db4-D4-Eb4 Gb4-G4-Ab4 in Var 6 and Var 7
 
 - Techniques:
     
     - Rhythmic displacement/phasing
     - Rhythmic augmentation and diminution
+    - Polyrhythmic accelerando and ritardando
     - Repeat signs disrupting periodicity
     - Melodic truncation
+
+## *Wald* Analysis
+
+### Part A
+
+- Introduction, Variation 1, Variation 2 with four Sections
+- Each Section decreases in duration over Part A
+- Introduce six elements
+- Track element variation over Part A
+- Variation in: harmonic technique, collection, and orchestration
+
+### Part B
+
+- Variation 3 and Variation 4
+
+### Part C
+
+- Variation 5
+
+### Part D
+
+- Variation 6
+    
+    - Re-reads each Section 4 of Part A in reverse order
+    - Cascading figures removed, surrounding melodic segments are present
+    - Durations are the same, but the rhythms fit into the new metrical scheme
+    - Joined by pentatonic percussive line 
+
+- Variation 7
+
+    - Transposes Var6 percussive line
+    - Part A Section 4 material gone except at beginning
+    - Ending feels unresolved; why?
+
+## Connections to Other Music
+
+**it this a good place for this discussion?**
+
+- Beethoven and *Diabelli Variations* 
+
+    - connection to "sudden awakening" instruction at Variation 5
+    - I think Abrahamsen is talking about *Diabelli Variation* No. 20
+    - *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
+
+- *Schnee*
+
+    - Shrinking movement proportions
+    - Symmetrical ensemble layout
+    - Connection to Bach canons and *Contrapunctus* (from Abrahamsen discussion, **need to find source**)
+    - Concept of "doubling"
+        
+        - concept of "Vorsatz" and "Nachsatz" and relationship to horn call[^SchneeQuestionAnswering]
+        - could use Var 6 and Var 7 as another clear example
+        - close re-readings with segments removed
+
+- Schumann's *Waldenszen* 
+    
+    - from program note and hopefully more from Abrahamsen
+    - character pieces / scenes
+    - Abrahamsen's mention of *Wald* subtitle possible as "Scenes from *Walden*"
 
 # Conclusion
 
@@ -353,3 +431,9 @@ header-includes:
 [^BoulezSmallRelationships]: Pierre Boulez interview with Andrew Ford (*Composer to Composer*, pg. 23)
 
 		> Take *Notations*, for example: In these short pieces the design is very clear. But if you go inside, you know, you find so many small relationships, the kitting of each element is so tight that it takes quite a lot of time to see what is really there. For me it is a game of appearance and reality.
+
+[^SchneeQuestionAnswering]: *Schnee* program note on Vorsatz and Nachsatz, or answering and questioning
+        
+        > In Schnee, a few simple and fundamental musical questions are explored. What is a Vorsatz? And what is a Nachsatz? Can a phrase be answering? Or questioning? 
+
+        > The guideline or rule for the canons is very simple: We start out with an answering Vorsatz, followed by a questioning Nachsatz. Throughout the time of the piece, these two are intertwined more and more, as more and more dicht geführt canons, until, at the end, they are interchanged. Now the question and then the answer. The two canons are identical like a painting in two versions, but with different colors. And where the first one does not include the space, the second one does, as well as containing more canonical traces. 
