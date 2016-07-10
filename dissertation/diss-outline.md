@@ -243,6 +243,21 @@ header-includes:
 
 - Co-commission
 - World premieres
+- Title
+    
+    - language and meaning
+    - connection to Schumann and German romanticism
+    - poetic images:
+        
+        - Hunting
+        - Birds flocking
+        - Fairies
+        - Waking from dream
+        - Sunrise
+        - Maybe a hunt
+    
+    - connection to *Walden*
+
 - "Subtle rhetoric": Julian Anderson on Abrahamsen's music
 
     - examples of subtle rhetoric in *Wald* and *Schnee*
@@ -349,7 +364,7 @@ header-includes:
 
     - Transposes Var6 percussive line
     - Part A Section 4 material gone except at beginning
-    - Ending feels unresolved; why?
+    - Ending sounds unresolved harmonically; why?
 
 ## Connections to Other Music
 

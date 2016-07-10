@@ -1,6 +1,6 @@
 ---
 author: Christopher Chandler
-title: "Hans Abrahamsen's Second Period: An Analysis of *Wald*"
+title: "Reduce, Reuse, Recycle"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
 date: December 2016
@@ -20,7 +20,7 @@ header-includes:
     - \usepackage{textcomp}
     - \usepackage{url}
     - \setlength\parindent{24pt}
-...
+---
 
 # Biographical Sketch
 Here is the biography.
@@ -48,5 +48,3 @@ Here is the abstract.
 \listoftables
 
 \newpage
-
-\doublespacing

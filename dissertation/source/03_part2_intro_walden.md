@@ -2,33 +2,27 @@
 
 ## Background and Instrumentation
 
-Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. The reed quintet arrangement has some notable differences from the original, including tempi adjustments, new descriptive markings, re-metered movements, and changes in orchestration. The changes in orchestration will be discussed in greater detail below, but the majority of changes involve Abrahamsen's reassignment of instrumental lines. For instance, while both versions have a clarinet in A, the 1995 version clarinet performs the flute material from the 1978 woodwind quintet, while the alto saxophone in reed quintet performs the clarinet material from the original version. Table @tbl:walden-rearrangement gives an overview of the instrumental reassignments between these two versions. In the following discussions of *Walden*, the score for the original woodwind quintet will be the referenced version except where noted.
-
-\singlespacing
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet. This original version is scored for a standard woodwind quintet of flute, clarinet in A, oboe, French horn, and bassoon. In 1995, Abrahamsen created an arrangement of the piece for the Calefax Reed Quintet scored for oboe d'amore, clarinet in A, bass clarinet in Bb, bassoon, and alto saxophone. The reed quintet arrangement has some notable differences from the original, including tempi adjustments, new descriptive markings, re-metered movements, and changes in orchestration. The changes in orchestration will be discussed in greater detail below, but the majority of changes involve Abrahamsen's reassignment of instrumental lines. For instance, while both versions have a clarinet in A, the 1995 version clarinet performs the flute material from the 1978 woodwind quintet, while the alto saxophone in reed quintet performs the clarinet material from the original version. **too broad, there are several reassignments throughout** Table @tbl:walden-rearrangement gives an overview of the instrumental reassignments between these two versions. In the following discussions of *Walden*, the score for the original woodwind quintet will be the referenced version except where noted.
 
 Table: *Walden* instrumental reassignment between versions. {#tbl:walden-rearrangement}
 
-| Wind Quintet  |                 | Reed Quintet         |
-|:--------------|:----------------|:---------------------|
-| Flute         | \textrightarrow | Clarinet in A        |
-| Oboe          | \textrightarrow | Oboe d'amore         |
-| Clarinet in A | \textrightarrow | Alto Saxophone in Eb |
-| Horn in F     | \textrightarrow | Bass Clarinet in Bb  |
-| Bassoon       | \textrightarrow | Bassoon              |
+| Wind Quintet  |                 | Reed Quintet I. | Reed Quintet II. | Reed Quintet III.         | Reed Quintet IV. |
+|:--------------|:----------------|:----------------|:-----------------|:--------------------------|:-----------------|
+| Flute         | \textrightarrow | Clarinet in A   | A. Sax           | Clar. in Eb               | Clar. in Eb      |
+| Oboe          | \textrightarrow | Oboe d'amore    | Oboe             | Oboe                      | Oboe             |
+| Clarinet in A | \textrightarrow | Alto Saxophone  | Clar. in A       | Bs. Clar. & Bsn. & A. Sax | A. Sax           |
+| Horn in F     | \textrightarrow | Bass Clarinet   | Bs. Clar.        | A. Sax & Bs. Clar.        | Bsn.             |
+| Bassoon       | \textrightarrow | Bassoon         | Bsn.             | Bsn. & Bs. Clar.          | Bs. Clar.        |
 
-\doublespacing
+Abrahamsen's first period works are often inspired by or make references to art, literature, poetry, or other music.[@Ernste] For instance, the first and fourth movements of *Winternacht* (1976-78) are dedicated to Austrian poet Georg Trakl, while the second is inspired by Dutch graphic artist M.C. Escher, and the third, the most neo-classical in nature, is dedicated to Igor Stravinsky. *Walden* is deeply inspired by nature and also connected to the literary work of the same name by Henry David Thoreau.[^Abrahamsen has borrowed titles for other compositions, including *Märchenbilder* (1984) from the viola and piano duo by Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] **this para might go better in Introduction**
 
-Abrahamsen's first period works are often inspired by or make references to art, literature, poetry, or other music.[@Ernste] For instance, the first and fourth movements of *Winternacht* (1976-78) are dedicated to Austrian poet Georg Trakl, while the second is inspired by Dutch graphic artist M.C. Escher, and the third, the most neo-classical in nature, is dedicated to Igor Stravinsky. *Walden* is deeply inspired by nature and also connected to the literary work of the same name by Henry David Thoreau.[^Abrahamsen has borrowed titles for other compositions, including *Märchenbilder* (1984) from the viola and piano duo by Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] These references and allusions provide lenses through which to view Abrahamsen's compositional methods and aesthetic statements. *Walden*'s program note touches on some of these references, including the connection between Thoreau and the kinds of musical material found in the piece:
-
-\singlespacing
+These references and allusions provide lenses through which to view Abrahamsen's compositional methods and aesthetic **statements**. *Walden*'s program note touches on some of these references, including the connection between Thoreau and the kinds of musical material found in the piece:
 
 > The title is taken from the American philosopher and poet Henry David Thoreau's novel from 1854 about living in the woods, which Thoreau did for two years. His stay there was an experiment, an attempt to strip away all the artificial needs imposed by society and rediscover man's lost unity with nature. In that particular sense his novel is a documentation of social inadequacy and a work of poetry (Utopia) as well.
 
 > All thought Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology. His ideas are particularly relevant now that pollution caused by society has reached alarming proportions.
 
 > *Walden* was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream). *Walden* consist of four movements.
-
-\doublespacing
 
 In a 1985 interview with musicologist Erling Kullberg,[@Kullberg] Abrahamsen noted that he found the title of *Walden* after he had completed the piece, which is true for many of his works.[@10StPN Program Note.] Nevertheless, the connection between Thoreau's rejection of excess and Abrahamsen's compositional processes in this piece is a fitting one. Abrahamsen's use of limited harmonic collections, recurring musical gestures, and interconnected movements exemplify these aspects of stripping away and recycling, which not only encourages cohesion but also imparts a strong sense of identity and distinguishability to musical elements.
 
@@ -40,8 +34,6 @@ The qualities of organicism, concretism, and descriptive reflect how the materia
 
 Abrahamsen's compositional process begins with structure, as he believes in order to "make a piece that hangs together as music" one must have a "strong structure that makes it stick together in time."[@Kullberg] *Walden*'s structure is in part shaped by the proportions between movements which successively decrease in duration, a technique he has used in both first and second period works.[^For instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.] Table @tbl:walden-proportions shows this proportional relationship and lists the tempo and movement timings present in the score as well as the timings found in 1994 recording of the Scandinavian Wind Quintet.[@WaldenRec]
 
-\singlespacing
-
 Table: *Walden* movement proportions. {#tbl:walden-proportions}
 
 | Movement | Tempo                  | Duration in Score | Duration on Recording |
@@ -50,8 +42,6 @@ Table: *Walden* movement proportions. {#tbl:walden-proportions}
 | II.      | \eighthNote{} = 76     | 3:10              | 2:51                  |
 | III.     | \quarterNote{} = 52    | 2:30              | 2:33                  |
 | IV.      | \quarterNote{} = 112   | 1:00              | 1:04                  |
-
-\doublespacing
 
 The form of each movement is largely fluid and continuous and does not correspond to traditional, classic formal patterns. The through-composed forms can, however, be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique.
 
@@ -101,8 +91,6 @@ This nine-measure melody undergoes three cycles (mm. 1-9, mm. 10-18, mm. 19-27) 
 
 One final instance of augmentation and diminution in this same passage of the second movement occurs in the oboe's melancholy, expressive melody. From measures 1-26, the oboe performs seven phrases whose proportions compress and expand over time. The phrases consist of three ordered motives: 1) a leaping, descending two-note interval, 2) an angular ascending triadic figure, and 3) a single accented sustained tone. The process of phrase length diminution and augmentation can be seen in Table @tbl:walden-II-ob-pro. As a consequence of this process, phrase three and four, the two most compressed phrases, do not contain instances of the third motive and have truncated versions of the first and second motive.
 
-\singlespacing
-
 Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
 | Phrase |       Duration       |
@@ -114,8 +102,6 @@ Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 |   5    | 9 1/2 \quarterNote{} |
 |   6    | 9 1/2 \quarterNote{} |
 |   7    | 9 1/2 \quarterNote{} |
-
-\doublespacing
 
 **concluding section on oboe augmentation and diminution**
 

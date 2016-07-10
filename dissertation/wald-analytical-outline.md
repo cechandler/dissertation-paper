@@ -3,27 +3,9 @@ papersize: letter
 geometry: margin=1in
 fontsize: 12pt
 header-includes:
-  - '\usepackage{setspace}'
-  - '\usepackage{lilyglyphs}'
+  - \usepackage{setspace}
+  - \usepackage{lilyglyphs}
 ---
-
-## Form
-
-- series of variations
-- tempo modulations
-- a short section on terminological conventions
-
-  - "Part" for the grouping of related variations
-  - "Section" for Intro, Var 1, Var 5, etc.
-  - "Subsection" for sections inside Intro, Var 1, Var 2
-  - "Subsection" notation: Var1:Sec3 for example
-  - "Element" for associative segments that are re-used across the work
-  - better terms for this? maybe something from Hanninen?
-
-## Spatial layout
-
-- connection to call and response
-- connection to orchestration
 
 ## Introduction, Variation 1, and Variation 2
 
@@ -684,25 +666,24 @@ header-includes:
 
 ## Variation 5
 
-- More interval cycles: 5-cycle and 6-cycle
+- Interval cycles: 5-cycle and 6-cycle
 - Two primary motives:
 
     - ascending repeated figures voiced in fifths
-    - descending dyads of tritones, fourths, and
+    - descending dyads of tritones, fourths, fifths, and sometimes thirds
+
+- violin line 083t294e629505083t4e6729509503e6184e62729503e61894e624e625083t294e6
 
 ## Variation 6 and Variation 7
 
-## Connections to other music (good place for this discussion?)
+- Var 6: percussive melody in piano and harp, with some resonators
+- Var 6: segments read in reverse from Var2:Sec4, Var1:Sec4, then Intro:Sec4
+    
+    - material is same duration/length
+    - rhythms changed to fit into metrical scheme
 
-- *Diabelli Variations* and connection to "sudden awakening" instruction at Variation 5
+- Var 7: a re-reading of Var 6, transposed by T~5~
 
-    - I think Abrahamsen is talking about *Diabelli Variation* No. 20
-
-- *Winternacht* and connection to Beethoven's *Moonlight Sonata* (from Ernste)
-
-- *Schnee* and connection to Bach canons and *Contrapunctus* (from discussion of Abrahamsen, **need to find source**)
-
-    - Concept of doubling (both in orchestration and re-use)
-    - Shrinking movement proportions
-
-- *Wald* and connection to Schumann's *Waldenszen* (from program note and hopefully more from **Abrahamsen**)
+    - begins with diminished [036] segments from Var2:Sec4
+    - primarily the percussive line with resonators
+    - other segments have been filtered out

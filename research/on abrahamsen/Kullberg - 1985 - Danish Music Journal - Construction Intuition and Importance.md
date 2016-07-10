@@ -119,33 +119,33 @@ No, it can not be. The music is the dull, if you implement a system completely s
 
 I think so. I think if we talk about music on the way, you do not get hold of what it is that is in music what it is for a personal expression going on. I may have come to write it yourself in a program note. But there was a time a few years ago, where you could not hear a radio concert, without the commentator talked about this ancient music in relation to the contemporary music. How can we talk about a lot of music - from Mahler to Ives forward to Stockhausen and Nørgård.
 
-But it is clear dechiffrerbart that there are some stylistic levels, which clearly refers to something motivic heritage.
+*But it is clear dechiffrerbart that there are some stylistic levels, which clearly refers to something motivic heritage.*
 
 But if it is of the past? .. I guess that what happens in the piece is that the play takes place in a certain time outside its normal past and present - the piece creates its own time to the music. The way I start snippet on is such a very schematic. There clipped from something that is antiquated and something that is different, and the way I displaces the individual things within the play - it's maybe about music from different periods, but at the same time, I am just as concerned with the temporal relationships that piece itself creates .
 
-This means that you may need to be careful not to put people on the trail of some way to perceive it that you in fact not quite going to be at?
+*This means that you may need to be careful not to put people on the trail of some way to perceive it that you in fact not quite going to be at?*
 
 I guess it's true that there is some thing sometimes. It is distinctly a contemporary landscape with new concrete buildings of the Renaissance houses - Renaissance sicilianoer and more pathetic, romantic trumpet fanfares, and one can certainly make a lot of associations also to a blinking mechanical music and an outbreak of a strygerlamento etc.
 
-In this way, one can say that you compose so many gestures into it - if you f. Ex. Just look at the first 2-3 pages of the score - which you get all served both triads and scale exercises siciliano, Bach, etc.
+*In this way, one can say that you compose so many gestures into it - if you f. Ex. Just look at the first 2-3 pages of the score - which you get all served both triads and scale exercises siciliano, Bach, etc.*
 
 I think the more I see it as a kind of dream - it is not really of the past, it is not really music that is contemporary today.
 
-However, there is not a danger to the listener is guided into and perceive music as a catalog of the and the components so that they say: Aha - dream images, siciliano or fanfare, every time they come and in fact merely recognize the people and not what they say to each other?
+*However, there is not a danger to the listener is guided into and perceive music as a catalog of the and the components so that they say: Aha - dream images, siciliano or fanfare, every time they come and in fact merely recognize the people and not what they say to each other?*
 
 Jo. On the other hand - to experience something, one needs to experience a difference and to experience the difference, you have to maybe get hold of the drama people - on that there may be a drama or a plan. And there is you probably need to grab some of those motives or some of those layers.
 
-Looks like it really Wagner's leitmotif technique where there are psychological connotations associated with these small objects, so that you can play ball with them as they come.
+*Looks like it really Wagner's leitmotif technique where there are psychological connotations associated with these small objects, so that you can play ball with them as they come.*
 
 No, well I work almost the Andersens things like proportions, which surfaces - I work with them very structurally. But something else is that when you hear it, then they can start talking to each other.
 
-Now you say you work structurally with it. Is it more or less by chance that there are some connotations with?
+*Now you say you work structurally with it. Is it more or less by chance that there are some connotations with?*
 
 No, of course they're important to me. There, I have of course a certain private motiverden which one can trace in many of my pieces. It is distinctly a musical motifs that have become important to me.
 
 ## Importance
 
-Do you think that music carries constitutes a significant content for now to speak as Susanne K. Langer, or Bo Holten, talking about music and language. One could get the impression when you consider how associative your titles are: "Winter Nacht," "Nacht und Trompeten" - exactly the work is interesting, because there are probably some associations in each of the two words, and there is perhaps something else when you hear them together. It may well be intentional?
+*Do you think that music carries constitutes a significant content for now to speak as Susanne K. Langer, or Bo Holten, talking about music and language. One could get the impression when you consider how associative your titles are: "Winter Nacht," "Nacht und Trompeten" - exactly the work is interesting, because there are probably some associations in each of the two words, and there is perhaps something else when you hear them together. It may well be intentional?*
 
 Yes. I am very concerned about what music seems to mean - and if it does not matter (now I talk only about my own music), then it is not important to me.
 
@@ -169,7 +169,7 @@ No, I do not think you can say it is program music - I would rather say that my 
 
 If we now compare some of the works we have talked about, "Winter Nacht", "Walden," "Nacht und trumpet ',' Märchenbilder ', I think well, you can hear, it's the same composer, even is rather similar - and yet it must be said that there is a world tilforskel of expression. Of course you have a habitus or compose your stories, as you say, but there are probably as design a colossal difference.
 
-Yes. 2\. string quartet and "Nacht und Trompeten" is probably related to each other at a certain level - they have such a large outer drama, while "Märchenbilder 'is a relative of mine' Studies for Piano 'and my horn trio. "Märchenbilder 'is probably my closest score, and I feel in many ways that it summarizes many of the things I've done all the way back to' Stratifications'.
+Yes. 2. string quartet and "Nacht und Trompeten" is probably related to each other at a certain level - they have such a large outer drama, while "Märchenbilder 'is a relative of mine' Studies for Piano 'and my horn trio. "Märchenbilder 'is probably my closest score, and I feel in many ways that it summarizes many of the things I've done all the way back to' Stratifications'.
 
 ## Märchenbilder
 
