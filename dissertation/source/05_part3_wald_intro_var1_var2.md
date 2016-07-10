@@ -6,8 +6,6 @@ Table @tbl:wald-subsectional-proportions highlights a few notable characteristic
 
 Since the four subsections are very similar to one another across the Introduction, Variation 1, and Variation 2, the following discussion will examine each subsection in turn, identifying its principle musical elements, organizational features, and how Abrahamsen approaches varying these aspects across the three sections.
 
-\singlespacing
-
 Table: *Wald* Intro, Var 1, and Var 2 subsectional proportions. {#tbl:wald-subsectional-proportions}
 
 | <!-- blank --> | Subsection 1 | Subsection 2 | Subsection 3 | Subsection 4 |
@@ -15,8 +13,6 @@ Table: *Wald* Intro, Var 1, and Var 2 subsectional proportions. {#tbl:wald-subse
 | Introduction   |     0:45     |     0:48     |     1:00     |     0:36     |
 | Variation 1    |     0:36     |     0:43     |     0:48     |     0:30     |
 | Variation 2    |     0:31     |     0:38     |     0:41     |     0:25     |
-
-\doublespacing
 
 ### Subsection 1
 
@@ -56,8 +52,6 @@ The space between the two attacks of this element as well as the instruments tha
 
 Table @tbl:wald-var1-element1 displays this pattern of rhythmic diminution, where each column beyond the first displays the rhythmic duration between the two attacks for that instance of Element 1. Abrahamsen decreases not only the duration between the two attacks of Element 1 but also the time between each instrument's appearance. For instance, the piano appears in the first, four, sixth, and seventh instances, creating a period of rest between each articulation of two instances, one instance, and zero instances.
 
-\singlespacing
-
 Table: *Wald* Variation 1 pattern of Element 1 instances. {#tbl:wald-var1-element1}
 
 | Instrument   |       One       |       Two       |      Three      |                     Four                     |      Five       |                     Six                      |      Seven      |                    Eight                     |
@@ -69,11 +63,7 @@ Table: *Wald* Variation 1 pattern of Element 1 instances. {#tbl:wald-var1-elemen
 | Bsn + Bs Cl  |                 |                 |                 |                                              |                 |                                              | 9 \eighthNote{} |                                              |
 | Vla + Eng Hn |                 |                 |                 |                                              |                 |                                              | 9 \eighthNote{} |                                              |
 
-\doublespacing
-
 In Variation 2, Abrahamsen decreases
-
-\singlespacing
 
 Table: *Wald* Variation 2 pattern of Element 1 instances. {#tbl:wald-var2-element1}
 
@@ -82,8 +72,6 @@ Table: *Wald* Variation 2 pattern of Element 1 instances. {#tbl:wald-var2-elemen
 | Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
 | Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
 | Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
-
-\doublespacing
 
 **conclusion of Element 1**
 
@@ -145,8 +133,6 @@ The individual elements of Intro:Sec2 differ from those in Intro:Sec1 by harmony
 
 Element 1 again takes on a more substantial role in Var1:Sec2 and Var2:Sec2, occurring at the beginning of every double bar line and following both a pattern of orchestration and duration between attacks. Tables @tbl:wald-var1-ss2-e1 and @tbl:wald-var2-ss2-e1 describe how Element 1 in Var1:Sec2 and Var2:Sec2 rotates between piano, harp, and marimba and alternates between four eighth notes and six eighth notes of duration between attacks. The difference between these two processes is subtle; in Var2:Sec2, the instrumental ordering is slightly changed, the piano is muted, and the durations between attacks have switched.
 
-\singlespacing
-
 Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var1-ss2-e1}
 
 | Instr   |       One       |       Two       |      Three      |      Four       |      Five       |       Six       |      Seven      |      Eight      |      Nine       |
@@ -162,8 +148,6 @@ Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var2-ss2-e1}
 | Piano   | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |
 | Marimba |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 |
 | Harp    |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |
-
-\doublespacing
 
 Element 2 remains closely associated with its corresponding element from subsection 1. It remains scored for the symmetrical violin I and violin II but becomes a sul ponticello tremolo and removes microtonality and subdivision accents. Instead, the violins alternate the two perfect fourth dyads symmetrical around D4-G4 and accents the downbeat every 2 or 3 measures, depending on the double bar grouping (every 2 for 8 measure grouping or every 3 for 9 measure groupings). In Var1:Sec2 the downbeat accents change slightly to accommodate the 8 and 7 measure groupings (3+2+3 for 8 measure groupings or 2+3+2 for 7 measure groupings). Abrahamsen removes Element 2 in this sul ponticello tremolo form and instead recasts it as a spiccato repeated note gesture alternating between double bass and cello. The two strings alternate between sixteenth-note subdivisions for three measures (double bass) and triplet sixteenth-note subdivisions for two measures (cello) throughout the entirety of Var2:Sec2.
 
@@ -193,8 +177,6 @@ This process becomes more complex in Var1:Sec2 as the harp and marimba groups no
 
 In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes initiated in Var1:Sec2 and expands its development to include variations in pitch ordering and contour. This process contains four separate threads of pitch sequences that Abrahamsen articulates over seven phrases. These four threads again express the 4:5:6 polyrhythmic subdivisions found in Var1:Sec2, but in this instance, the central quintuplet eighth-note layer is harmonized creating a fourth thread. The figure below depicts each of the four lines independently and does not consider the composite ordering. When unwoven in this fashion, it is clear that Abrahamsen has constructed these sequences through retrograde.
 
-\singlespacing
-
 > **Four Threads**
 >
 > `1: <50166116610561>`
@@ -212,8 +194,6 @@ In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes i
 > `4: R(C) R(B) R(A) R(?)`
 >
 > Retrograde ordering: `<4e4e0516><6150e4e4><4e500516><615005e4><4e501616><616105e4> || <4e50><6150e4>`
-
-\doublespacing
 
 The quintuplet eighth note threads of `1` and `2` above consist of two hexachords (`<501661>` and `<50e44e>`) mirrored about a central axis. Abrahamsen extends the process in both threads for one phrase beyond the end of the retrograde, suggesting that this process could continue with a new ordering. Threads `3` (quarter) and `4` (triplet quarter) contain retrograde **octachords** that have been separated in time. Thread `3` contains four octachords, highlighted in the figure as `A`, `B`, `C`, and `D`. Thread `4` contains retrograde versions of those same octachords presented in retrograde around the central `B` octachord: `R(C)`, `R(B)`, `R(A)`, `R(?)`.
 

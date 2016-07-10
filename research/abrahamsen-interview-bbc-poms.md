@@ -1,20 +1,14 @@
 <https://www.youtube.com/watch?v=NYfzFI0dgeU>
 
-**BBC**:
+**BBC**: ... 
 
-**HA**:
+**BBC**: Earlier on I asked Abrahamsen to explain the links with *Walden* and describe this new work.
 
-**BBC**:
+**HA**: It's actually a variation work. *Wald* could have the subtitle "Variations" or "A Theme from Walden." The theme is the first 16 bars of this woodwind quintet I wrote in '78. And I borrowed the title from the very famous book by Henry David Thoreau of the 19th century, where he tried to live very simple at Walden Pond. It's a book very full of poetical descriptions of things around the pond. But also full of philosophical and perhaps political thoughts about the relationship being the human being and nature.
 
-**HA**:
+...
 
-**BBC**:
-
-**HA**:
-
-**BBC**:
-
-**HA**:
+The piece is very much about being in the forest and call and response.
 
 **BBC**: There's a very interesting moment at the end of the fifth variation where you instruct the players to play as if there's a "sudden awakening."
 

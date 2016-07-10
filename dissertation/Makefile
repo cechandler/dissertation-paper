@@ -10,24 +10,23 @@ OUTFILE=dissertation
 
 BIBFILE=../citations/abrahamsen.bib
 
-	# --filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
-
 help:
-	@echo ' 																			'
-	@echo 'Makefile for the Markdown thesis       '
-	@echo '                                       '
-	@echo 'Usage:                                 '
-	@echo '   make html		generate a .html file		'
-	@echo '   make pdf		generate a .pdf file  	'
-	@echo '   make docx		generate a .docx file 	'
-	@echo '   make odt		generate a .odt file 		'
-	@echo '   make tex		generate a .tex file 		'
-	@echo ' 																	  	'
+	@echo ''
+	@echo 'Makefile for the Markdown thesis'
+	@echo ''
+	@echo 'Usage:'
+	@echo '   make docx		generate a .docx file'
+	@echo '   make html		generate a .html file'
+	@echo '   make odt		generate a .odt file'
+	@echo '   make pdf		generate a .pdf file'
+	@echo '   make tex		generate a .tex file'
+	@echo ''
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).pdf" \
 	--template="$(STYLEDIR)/template.tex" \
+	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
@@ -40,6 +39,7 @@ tex:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).tex" \
 	--template="$(STYLEDIR)/template.tex" \
+	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \

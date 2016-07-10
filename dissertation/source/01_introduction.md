@@ -14,11 +14,7 @@ Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2
 
 *Ten Sinfonias* (2010) program note:
 
-\singlespacing
-
 > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
-
-\doublespacing
 
 Beginning with *Schnee* (2006-08) and *Wald* (2008-09), Abrahamsen's style crystalized into one based on tightly constrained musical materials, microtonal sonorities, repeating material delineated by repeat signs, frequent changes of meter, tempo modulations, and complex polyrhythms. The two works are drastically different in scope and instrumentation: *Schnee* lasts an hour and is scored for nine musicians, while *Wald* lasts eighteen minutes and is scored for fifteen musicians. Abrahamsen has nonetheless indicated that *Wald* is a "twin piece" to *Schnee*,[@WaldPN Program note] and indeed they share not only the aforementioned characteristics but also clearly articulated forms and symmetrical ensemble seating plans.
 

@@ -265,27 +265,27 @@ Piu lento \newline
 # Material Exchange
 ## Introduction
 
-| Phrase | Order | Instr      | Length                       |
-|:-------|:------|:-----------|:-----------------------------|
-| One    | A     | bass flute | 7 \eighthNote                |
-|        | B     | contrabass | 5.5 \eighthNote              |
-|        | C     | harp       | 6 \eighthNote                |
-|        | D     | horn       | 3 \eighthNote                |
-|        |       |            |                              |
-| Two    | B     | cello      | doubled compared to phrase 1 |
-|        | A     | horn       | 7 \eighthNote                |
-|        | C     | kalimba    | 5 \eighthNote                |
-|        | D     | bass flute | longer compared to phrase 1  |
-|        |       |            |                              |
-| Three  | B     | contrabass | longer compard to phrase 1   |
-|        | C     | harp       | 6 \eighthNote                |
-|        | D     | horn       | doubled compared to phrase 1 |
-|        | A     | bass flute | 7 \eighthNote                |
-|        |       |            |                              |
-| Four   | B     | cello      | doubled compared to phrase 2 |
-|        | D     | bass flute | doubled compared to phrase 2 |
-|        | C     | kalimba    | remains the same             |
-|        | A     | horn       | remains the same             |
+| Phrase   | Order   | Instr        | Length                         |
+| :------- | :------ | :----------- | :----------------------------- |
+| One      | A       | bass flute   | 7 \eighthNote                  |
+|          | B       | contrabass   | 5.5 \eighthNote                |
+|          | C       | harp         | 6 \eighthNote                  |
+|          | D       | horn         | 3 \eighthNote                  |
+|          |         |              |                                |
+| Two      | B       | cello        | doubled compared to phrase 1   |
+|          | A       | horn         | 7 \eighthNote                  |
+|          | C       | kalimba      | 5 \eighthNote                  |
+|          | D       | bass flute   | longer compared to phrase 1    |
+|          |         |              |                                |
+| Three    | B       | contrabass   | longer compard to phrase 1     |
+|          | C       | harp         | 6 \eighthNote                  |
+|          | D       | horn         | doubled compared to phrase 1   |
+|          | A       | bass flute   | 7 \eighthNote                  |
+|          |         |              |                                |
+| Four     | B       | cello        | doubled compared to phrase 2   |
+|          | D       | bass flute   | doubled compared to phrase 2   |
+|          | C       | kalimba      | remains the same               |
+|          | A       | horn         | remains the same               |
 
 ABCD
 BACD
@@ -298,37 +298,37 @@ BDCA
 
 repeated quartal chord motive compressions and pattern
 
-| Instrument              | One             | Two             | Three           | Four                               | Five            | Six                                | Seven           | Eight                              |
-|:------------------------|:----------------|:----------------|:----------------|:-----------------------------------|:----------------|:-----------------------------------|:----------------|:-----------------------------------|
-| Piano                   | 9 \eighthNote{} |                 |                 | 6 \eighthNote{}                    |                 | 3 \eighthNote{} 2/5 \sixteenthNote | 3 \eighthNote{} |                                    |
-| Harp                    |                 | 6 \eighthNote{} |                 | 3 \eighthNote{} 2/5 \sixteenthNote | 3 \eighthNote{} |                                    |                 |                                    |
-| Kalimba                 |                 |                 | 9 \eighthNote{} |                                    |                 | 6 \eighthNote{}                    |                 | 3 \eighthNote{} 2/5 \sixteenthNote |
-| Trumpet + Bass trumpet  |                 |                 |                 |                                    | 9 \eighthNote{} |                                    |                 | 6 \eighthNote{}                    |
-| Bassoon + Bass clarinet |                 |                 |                 |                                    |                 |                                    | 9 \eighthNote{} |                                    |
-| Viola + English horn    |                 |                 |                 |                                    |                 |                                    | 9 \eighthNote{} |                                    |
+| Instrument                | One               | Two               | Three             | Four                                 | Five              | Six                                  | Seven             | Eight                                |
+| :------------------------ | :---------------- | :---------------- | :---------------- | :----------------------------------- | :---------------- | :----------------------------------- | :---------------- | :----------------------------------- |
+| Piano                     | 9 \eighthNote{}   |                   |                   | 6 \eighthNote{}                      |                   | 3 \eighthNote{} 2/5 \sixteenthNote   | 3 \eighthNote{}   |                                      |
+| Harp                      |                   | 6 \eighthNote{}   |                   | 3 \eighthNote{} 2/5 \sixteenthNote   | 3 \eighthNote{}   |                                      |                   |                                      |
+| Kalimba                   |                   |                   | 9 \eighthNote{}   |                                      |                   | 6 \eighthNote{}                      |                   | 3 \eighthNote{} 2/5 \sixteenthNote   |
+| Trumpet + Bass trumpet    |                   |                   |                   |                                      | 9 \eighthNote{}   |                                      |                   | 6 \eighthNote{}                      |
+| Bassoon + Bass clarinet   |                   |                   |                   |                                      |                   |                                      | 9 \eighthNote{}   |                                      |
+| Viola + English horn      |                   |                   |                   |                                      |                   |                                      | 9 \eighthNote{}   |                                      |
 
 ## Variation 1: Section 2 Element 1
 
 repeated quartal chord motive compressions and pattern
 
-| Instr   | One             | Two             | Three           | Four            | Five            | Six             | Seven           | Eight           | Nine            |
-|:--------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|
-| Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
-| Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
-| Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
+| Instr     | One               | Two               | Three             | Four              | Five              | Six               | Seven             | Eight             | Nine              |
+| :-------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
+| Piano     | 4 \eighthNote{}   |                   |                   | 6 \eighthNote{}   |                   |                   | 4 \eighthNote{}   |                   |                   |
+| Harp      |                   | 6 \eighthNote{}   |                   |                   | 4 \eighthNote{}   |                   |                   | 6 \eighthNote{}   |                   |
+| Marimba   |                   |                   | 4 \eighthNote{}   |                   |                   | 6 \eighthNote{}   |                   |                   | 4 \eighthNote{}   |
 
 ## Variation 2: Section 2 pitch rotations
 
-| Phrase | 3q 2q    | 6qe 4qe      | 3tq 2tq  |
-|:-------|:---------|:-------------|:---------|
-| 1      | `<4e4e>` | `<<50><50>>` | `<6161>` |
-| 2      | `<0516>` | `<<e4><16>>` | `<05e4>` |
-| 3      | `<6150>` | `<<61><4e>>` | `<4e50>` |
-| 4      | `<05e4>` | `<<e4><16>>` | `<0516>` |
-| 5      | `<4e50>` | `<<61><4e>>` | `<6150>` |
-| 6      | `<1616>` | `<<50><50>>` | `<e4e4>` |
-| 7      | `<6150>` | `<<4e><61>>` | `<50e4>` |
-| 8      | `<e4e4>` |              |          |
+| Phrase   | 3q 2q      | 6qe 4qe        | 3tq 2tq    |
+| :------- | :--------- | :------------- | :--------- |
+| 1        | `<4e4e>`   | `<<50><50>>`   | `<6161>`   |
+| 2        | `<0516>`   | `<<e4><16>>`   | `<05e4>`   |
+| 3        | `<6150>`   | `<<61><4e>>`   | `<4e50>`   |
+| 4        | `<05e4>`   | `<<e4><16>>`   | `<0516>`   |
+| 5        | `<4e50>`   | `<<61><4e>>`   | `<6150>`   |
+| 6        | `<1616>`   | `<<50><50>>`   | `<e4e4>`   |
+| 7        | `<6150>`   | `<<4e><61>>`   | `<50e4>`   |
+| 8        | `<e4e4>`   |                |            |
 
 
 
