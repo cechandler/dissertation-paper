@@ -660,19 +660,25 @@ header-includes:
 - Phrase 1:
 - Phrase 2:
 - Phrase 3:
-- Phrase 4:
+- Phrase 4: **removed**
 
 ## Variation 3 and Variation 4
 
 ## Variation 5
 
-- Interval cycles: 5-cycle and 6-cycle
-- Two primary motives:
+- Three sections
+- Interval cycles
 
-    - ascending repeated figures voiced in fifths
+    - 5-cycle and 6-cycle
+    - ascending repeated figures voiced in fifths, sixths
     - descending dyads of tritones, fourths, fifths, and sometimes thirds
+    - violin line 083t294e629505083t4e6729509503e6184e62729503e61894e624e625083t294e6
 
-- violin line 083t294e629505083t4e6729509503e6184e62729503e61894e624e625083t294e6
+- Subsection 1: 
+
+- Subsection 2: 
+
+- Subsection 3:
 
 ## Variation 6 and Variation 7
 

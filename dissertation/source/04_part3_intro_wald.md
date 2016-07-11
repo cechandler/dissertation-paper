@@ -4,15 +4,17 @@
 
 Abrahamsen completed *Wald* in 2009 on a co-commission from the Asko|Schönberg Ensemble (Netherlands) and the BBC for the Birgmingham Contemporary Music Group (United Kingdom). Asko/Schönberg and conductor Reinbert de Leeuw gave the world premiere on January 14, 2010 at the Muziekgebouw aan't IJ in Amsterdam, while the BCMG with George Benjamin conducting gave the UK premiere during the 2010 BBC Proms on August 6 at the Royal Albert Hall in London. 
 
-The title, the German word for "forest" or "woods," shares the first four letters of his first period woodwind quintet *Walden*. Abrahamsen draws upon German, Danish, English, and occassionally Italian for his titles, and he has said that "the language of the title means a lot to me and to which associations it arouses the listener. There may, for instance, be a world of difference between a "Traumlied," a "Drømmesang," and a "Dream Song."[@10StPN] **The associations...** 
-
-In an interview with the BBC prior to the UK premiere of *Wald*, Abrahamsen described the work's connection with *Walden* and mentioned that it could bear a subtitle of "Variations" or "A Theme from Walden."
+The title is the German word for "forest" or "woods" and shares the first four letters of Abrahamsen's first period woodwind quintet. In an interview with the BBC prior to the UK premiere of *Wald*, Abrahamsen noted that it could bear the subtitle of "Variations" or "A Theme from Walden." Abrahamsen often draws upon a variety of languages for his titles, including German, Danish, English, and occassionally Italian. He has said, "the language of the title means a lot to me and to which associations it arouses the listener. There may, for instance, be a world of difference between a *Traumlied*, a *Drømmesang*, and a *Dream Song*."[@10StPN] Beyond the word play made possible by the German title, *Wald* contains associations with the ethos and musical literature of German Romanticism. **Schumann's Waldszenen**
 
 The piece is scored for a sinfonietta ensemble of fifteen musicians: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass. **more on the use of unique doublings** The musicians are seated in a non-standard semi-circle configuration of four groups of duos and two groups of trios with the piano occupying the central position outside of any group. Figure @fig:wald-seating-plan shows the tree-like diagram of this seating plan. This seating arrangement is intimately connected with the way Abrahamsen handles orchestration and the transference of material over the course of the work and will be discussed in greater detail later on.
 
 **more on the broader implications/suggestions of this seating arrangement and its tree-like shape**
 
-![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=60%}
+## Spatial Layout
+
+Abrahamsen's arrangement of the 15 musicians into a semi-circle of six symmetrical groups guides his approach to orchestration. Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups.
+
+![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=50%}
 
 ## Form 
 
@@ -101,7 +103,3 @@ The introduction establishes the primary motivic and harmonic material, while va
 ### Harmony
 
 **some brief language on microtonality throughout *Wald* so it's expected when it comes up in discussion during the analysis**
-
-### Spatial Layout
-
-Abrahamsen's arrangement of the 15 musicians into a semi-circle of six symmetrical groups guides his approach to orchestration. Throughout the variations, the six groups exchange musical ideas in a way that is balanced and symmetrical: phrases performed by one group of instruments are answered by phrases from the corresponding symmetrical groups. A brief examination of the first sections of the introduction (measures 1-36) illustrates this process.
