@@ -88,6 +88,8 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |         |          |                                      |                                   |
 | Var 7   | 595-605  | \eighthNote{} = 64                   | Piu lento                         |
 
+**The Variations have varying degrees of difference between each other**
+
 This table highlights variations and sections that are musically connected by these indications, but does not describe the full extent of their relationships. There are interrelated sections and variations across the piece that are not captured by this table. The entire form of the work can be grouped in the following way:
 
 > Part A: Introduction, Variation 1, Variation 2
