@@ -25,6 +25,7 @@ header-includes:
     - tempo markings in 1995 version
     - focus on structure in compositional process (Kullberg)
     - decreasing durations
+    - number of sections decreases each movement
 
 - description of movements
 
@@ -60,7 +61,7 @@ header-includes:
     - fourth movement
 		
 		- neo-classical
-		- polytempo and polyrhythmic
+		- polyrhythmic layers
 
 ## Process and Techniques
 

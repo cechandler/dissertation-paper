@@ -195,7 +195,7 @@ header-includes:
 	
 ## Associative Segments
 
-- Brief overview of Hanninen terminology
+- Brief overview of Hanninen terminology?
 
 	- segmentation and associative organization as a way to track variation
 	- sonic and contextual domains

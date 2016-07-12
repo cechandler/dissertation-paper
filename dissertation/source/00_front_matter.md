@@ -20,6 +20,8 @@ header-includes:
     - \usepackage{textcomp}
     - \usepackage{url}
     - \setlength\parindent{24pt}
+    - \lilyGlobalOptions{scale=0.85}
+    - \lilyOpticalSize{26}
 ---
 
 # Biographical Sketch

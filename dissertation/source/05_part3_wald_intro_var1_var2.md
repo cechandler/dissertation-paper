@@ -1,3 +1,4 @@
+
 ## Part A
 
 The Introduction, Variation 1, and Variation 2 form Part A of *Wald* due to their similarity in subsections, musical elements, and compositional techniques. The Introduction contains four juxtaposed subsections each of which are subsequently revisited and varied in Variation 1 and 2. The variation subsections contains the same or similar descriptive markings (e.g. "Allegro con brio" in all three first subsections) as well as slightly adjusted tempi (e.g. \quarterNoteDotted{} = 88, \quarterNoteDotted{} = 92, and \quarterNoteDotted{} = 94, respectively). These aspects are clearly outlined in Table @tbl:wald-form. Variation 2 is the most varied of these three sections, where the Introduction and Variation 1 being very close re-readings of one another and the variation process starting in earnest with Variation 2.
