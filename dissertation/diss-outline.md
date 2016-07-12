@@ -147,6 +147,7 @@ header-includes:
     - instrumentation
     - title and inspiration
 
+        - brief background on Thoreau and *Walden*
         - program note: relationship to nature: cyclical, organicism, flowering, decay
         - Abrahamsen on how he found the title from Thoreau's book after he completed *Walden*[^WaldenTitleFoundAfter]
         - Abrahamsen has said this is true for many pieces[^TitlesComeAfter]

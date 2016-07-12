@@ -27,6 +27,7 @@ pdf:
 	-o "$(OUTPUTDIR)/$(OUTFILE).pdf" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
 	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
