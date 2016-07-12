@@ -1,4 +1,5 @@
 \pagenumbering{arabic}
+\doublespacing
 
 # Introduction
 
@@ -8,7 +9,7 @@ A precocious composer, Abrahamsen had written a well-received body of work by ag
 
 Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti. **more on later first period works and how they are not like New Simplicity**
 
-The musical style of Abrahamsen's second period is deeply informed by the groundwork he laid during the period of his "fermata." He returned to his older works and reorchestrated them for alternate ensembles; for instance, Abrahamsen created a reed quintet version of the woodwind quintet *Walden* in 1995. He arranged and orchestrated works by Charles Ives, Carl Nielsen, Per Nørgård, and Maurice Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra. Most importantly, Abrahamsen found inspiration in a set of canons by J.S. Bach[^BWV 1072-1078.] that he arranged with a distinctly Minimalist aesthetic. These canons would have a significant impact on several post-fermata works.
+The musical style of Abrahamsen's second period is deeply informed by the groundwork he laid during the period of his "fermata." He returned to his older works and reorchestrated them for alternate ensembles; for instance, Abrahamsen created a reed quintet version of the woodwind quintet *Walden* in 1995. He arranged and orchestrated works by Charles Ives, Carl Nielsen, Per Nørgård, and Maurice Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra. Most importantly, Abrahamsen found inspiration in a set of canons by J.S. Bach^[BWV 1072-1078.] that he arranged with a distinctly Minimalist aesthetic. These canons would have a significant impact on several post-fermata works.
 
 Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2000); this piece initiated a fertile period of artistic synthesis that combined the practice of returning to previous works (and referencing other composers' works) with new innovations in compositional technique. In this second period, Abrahamsen returned to previous works in two ways: first, arranging earlier works for larger ensembles, and second, expanding upon a germinal motive from an earlier work. For instance, in *Four Pieces for Orchestra* (2004), Abrahamsen recasts the first four movements of his *Ten Studies for Piano* (1984-98) for orchestral forces, while the final movement of the *Piano Concerto* is an arrangement of the eighth movement of *Ten Studies*. *Air* (2006), for solo accordion, is a reworking and development of material from his first piece for accordion, *Canzone* (1978), and *Air* further serves as a point of departure for the *String Quartet No. 3* (2008).[@SQ3PN Program note]
 
