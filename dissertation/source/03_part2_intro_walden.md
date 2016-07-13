@@ -45,7 +45,7 @@ Table: *Walden* movement proportions. {#tbl:walden-proportions}
 | III.       | `quarterNote` = 52      | 2:30            | 2:33                 |
 | IV.        | `quarterNote` = 112     | 1:00            | 1:04                 |
 
-The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique.
+The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique. **one paragraph on overall compositional design discussing decreasing number of sectional divions across movements and D major at the ends of movements**
 
 The first movement of *Walden* contains three dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning of the movement is harmonically ambiguous and heterophonic in texture, but by the end, the quintet is grouped into subsets (and eventually tutti) performing harmonically clear and homophonic music. The form can be segmented into four sections. The first features a call and response pattern transformed over four phrases via a process of rhythmic displacement. The second section consists of a legato three-voice mensuration canon, while the third section is a variation on this canon paired with an interjecting staccato gesture in the horn and bassoon. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated D major chord.
 
@@ -61,11 +61,21 @@ The diagram in Figure @fig:walden-formal-overview gives an overview of each move
 
 ## Musical Materials and Recycling
 
-Abrahamsen's process of variation invovles several facets. First, the explicit reuse of material surrounded by new material. Second, the transformation of ideas through the domains of pitch, rhythm or __something else__.
+Abrahamsen's use of limited musical elements, inter-movement relationships, and strict compositional processes are defining characteristics of *Walden*. Abrahamsen recycles several musical elements throughout the four movements of *Walden*. 
 
-Throughout *Walden*, Abrahamsen reuses several 
+Relationships between movements come from similar compositional designs or the presence of recycled elements. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. **come back to this, not saying it quite as clear as possible** His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration. Figure @fig:walden-recycled-elements identifies three recycled elements that appear in some or all of the movements. Element *A* is a motive that comes in two forms: an ascending perfect fourth labeled *A/a* and a descending perfect fourth labeled *A/b*. Element *B* is another germinal motive that Abrahamsen presents in several manifestations (which will be detailed later) yet is always harmonically defined by `3-2[013]`. Element *C* is a puncutated staccato motive appearing most prominently in the first, second, and third movements.
 
-Abrahamsen's use of strict processes, limited musical materials, and inter-movement relationships are defining characteristics of *Walden*. These processes and compositional techniques pertain to the domains of rhythm (displacement, augmentation, diminution/compression, consistency in subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An examination of these aspects will illustrate the economy of musical materials associated with Abrahamsen's work in general but will additionally provide a foundation from which to make comparisons to *Wald*.
+<!-- In some cases, these elements are identifiable motives or melodies that express a clear identity. They maintain the same set class, similar rhythms, and similar compositional techniques are used to organize them.  -->
+
+![*Walden* recycled musical elements A-C](../figures/temporary.png){#fig:walden-recycled-elements}
+
+Each of these elements are qualitatively minimalistic and distinguished by subtle differences in realization; as Abrahamsen mentions, much of their "superfluous material has been peeled away." Abrahamsen organizes these elements through the use of strict processes and compositional techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each element, the context in which they appear, and the way Abrahamsen varies them throughout *Walden* will illustrate the economy of musical materials associated with Abrahamsen's work as a whole and will additionally provide a foundation from which to make comparisons to the materials and variation techniques present in *Wald*.
+
+### Element *A*
+
+### Element *B*
+
+### Element *C*
 
 ### Augmentation, Diminution, Canon, and Retrograde
 
@@ -97,15 +107,15 @@ One final instance of augmentation and diminution in this same passage of the se
 
 Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
-| Phrase |       Duration       |
-|:------:|:--------------------:|
-|   1    |  15 `quarterNote`   |
-|   2    | 9 1/2 `quarterNote` |
-|   3    | 6 1/2 `quarterNote` |
-|   4    | 4 1/3 `quarterNote` |
-|   5    | 9 1/2 `quarterNote` |
-|   6    | 9 1/2 `quarterNote` |
-|   7    | 9 1/2 `quarterNote` |
+| Phrase   | Duration               |
+| :------: | :--------------------: |
+| 1        | 15 `quarterNote`       |
+| 2        | 9 1/2 `quarterNote`    |
+| 3        | 6 1/2 `quarterNote`    |
+| 4        | 4 1/3 `quarterNote`    |
+| 5        | 9 1/2 `quarterNote`    |
+| 6        | 9 1/2 `quarterNote`    |
+| 7        | 9 1/2 `quarterNote`    |
 
 **concluding section on oboe augmentation and diminution**
 
