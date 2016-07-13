@@ -6,7 +6,7 @@ Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet
 
 Unlike much of Abrahamsen's other music, the original version of *Walden* contains remarkably little interpretative markings beyond isolated instances of descriptions like *lontano*, *giocoso*, or *calmo*. The reed quintet version adds tempo markings like "Moderato fluente," "Alla marcia," "Andante," and "Allegretto giocoso" (first through fourth movements, respectively). The lack of textual description in the original version as well as the traditional tempo markings of the arrangement underscore the strong vein of neo-classicism that runs throughout Abrahamsen's first period works.
 
-The most significant modifications between the two versions are meter and orchestration. In the second movement, Abrahamsen changed the original meter of \lilyTimeSignature{4}{4} and tempo of \eighthNote{} = 76 to a meter of \lilyTimeSignature{4}{8} to better reflect the underlying pulse. The complexity of the original version's fourth movement is simplified in the arrangement. While notated in \lilyTimeSignature{4}{4}, the original contains two polyrhythmic layers of \lilyTimeSignature{6}{8} and \lilyTimeSignature{3}{4} groupings indicated through brackets that often extend over bar lines. Abrahamsen re-notates the reed quintet arrangement in \lilyTimeSignature{3}{4} and \lilyTimeSignature{12}{16} to more clearly articulate the three-against-four polyrhythm inherent in the movement. Abrahamsen's re-metering of this movement also facilitates a metric modulation between the third and fourth movements, which are played attaca in this arrangement.
+The most significant modifications between the two versions are meter and orchestration. In the second movement, Abrahamsen changed the original meter of `4/4` and tempo of `eighthNote` = 76 to a meter of `4/8` to better reflect the underlying pulse. The complexity of the original version's fourth movement is simplified in the arrangement. While notated in `4/4`, the original contains two polyrhythmic layers of `6/8` and `3/4` groupings indicated through brackets that often extend over bar lines. Abrahamsen re-notates the reed quintet arrangement in `3/4` and `12/16` to more clearly articulate the three-against-four polyrhythm inherent in the movement. Abrahamsen's re-metering of this movement also facilitates a metric modulation between the third and fourth movements, which are played attaca in this arrangement.
 
 The majority of changes in orchestration involve Abrahamsen's reassignment of instrumental lines. For movements I, II, and IV, Abrahamsen assigns each instrument of the original quintet to another instrument in the reed quintet. For instance, both versions have a clarinet in A, but in the first movement of the 1995 quintet, the clarinet in A performs the flute material from the 1978 quintet, while the alto saxophone performs the clarinet in A material from the original. The third movement contains the most exceptions to this arrangement process. Abrahamsen reassigns the original the clarinet, horn, and bassoon material amongst multiple reed instruments rather than one for the duration of the movement. Table @tbl:walden-rearrangement gives an overview of the instrumental arrangement between these two versions. In all the subsequent discussions of *Walden*, the score for the original woodwind quintet will be the referenced version except where noted.
 
@@ -40,10 +40,10 @@ Table: *Walden* movement proportions. {#tbl:walden-proportions}
 
 | Movement   | Tempo                    | Score Duration  | Recording Duration   |
 | :--------- | :----------------------- | :-------------- | :------------------- |
-| I.         | \quarterNote{} = 63-66   | 3:35            | 2:57                 |
-| II.        | \eighthNote{} = 76       | 3:10            | 2:51                 |
-| III.       | \quarterNote{} = 52      | 2:30            | 2:33                 |
-| IV.        | \quarterNote{} = 112     | 1:00            | 1:04                 |
+| I.         | `quarterNote` = 63-66   | 3:35            | 2:57                 |
+| II.        | `eighthNote` = 76       | 3:10            | 2:51                 |
+| III.       | `quarterNote` = 52      | 2:30            | 2:33                 |
+| IV.        | `quarterNote` = 112     | 1:00            | 1:04                 |
 
 The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique.
 
@@ -53,13 +53,15 @@ The second movement is a close variation of the first. In contrast to the develo
 
 The third movement segments neatly into two sections with a short "coda" that crossfades seamlessly out of the second section. The two primary sections both employ rhythmic procedures of augmentation and diminution or compression. The polyrhythmic and heterophonic first section, quite similar to the opening of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968)[@Thomas, p. 272], gradually slows down over ten measures, while the second section accelerates over sixteen measures. At the climax, the oscillating figures characterizing the second section's accelerando compress into a mechanical sixteenth-note pattern. The return of the first movement's oboe motive initiates the disintegration of this pattern, and begins the crossfade to the "coda" containing a muted, triadic horn call evoking allusions to hunting and the forest. **change the language about the "coda" to reflect the reduction in sections across movements?**
 
-*Walden*'s fleeting minute-long, polytonal finale is notated in \lilyTimeSignature{4}{4} yet contains a composite texture of a duo for flute and bassoon in \lilyTimeSignature{3}{4} and a trio for oboe, clarinet, and horn in \lilyTimeSignature{6}{8}. The curious choice of \lilyTimeSignature{4}{4} for the base meter perhaps connects to the "ghost-like music of the past" that Abrahamsen mentions in his program note; it is as if this music is entering from a distant place and poetically realized by having it not conform to the given meter. The two subsets begin in distant tonal key centers, C# minor in the duo and Eb major in the trio. They modulate toward one another and eventually join in D major by the end. Despite their harmonic arrival, the duo and trio retain a sensation of occupying different worlds. Their clear and balanced classical phrasing never quite coincides, and the movement ends abruptly, mid-phrase "like a music box cutting out."[@Thomas, p. 268]
+*Walden*'s fleeting minute-long, polytonal finale is notated in `4/4` yet contains a composite texture of a duo for flute and bassoon in `3/4` and a trio for oboe, clarinet, and horn in `6/8`. The curious choice of `4/4` for the base meter perhaps connects to the "ghost-like music of the past" that Abrahamsen mentions in his program note; it is as if this music is entering from a distant place and poetically realized by having it not conform to the given meter. The two subsets begin in distant tonal key centers, C# minor in the duo and Eb major in the trio. They modulate toward one another and eventually join in D major by the end. Despite their harmonic arrival, the duo and trio retain a sensation of occupying different worlds. Their clear and balanced classical phrasing never quite coincides, and the movement ends abruptly, mid-phrase "like a music box cutting out."[@Thomas, p. 268]
 
-The diagram in Figure @fig:walden-formal-overview gives an overview of each movement including significant sectional divisions and characteristic features. **transition?**
+The diagram in Figure @fig:walden-formal-overview gives an overview of each movement including significant sectional divisions and characteristic features. **needs transition**
 
 ![Formal overview of *Walden*](../figures/walden-formal-overview.png){#fig:walden-formal-overview}
 
 ## Musical Materials and Recycling
+
+Abrahamsen's process of variation invovles several facets. First, the explicit reuse of material surrounded by new material. Second, the transformation of ideas through the domains of pitch, rhythm or __something else__.
 
 Throughout *Walden*, Abrahamsen reuses several 
 
@@ -97,13 +99,13 @@ Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
 | Phrase |       Duration       |
 |:------:|:--------------------:|
-|   1    |  15 \quarterNote{}   |
-|   2    | 9 1/2 \quarterNote{} |
-|   3    | 6 1/2 \quarterNote{} |
-|   4    | 4 1/3 \quarterNote{} |
-|   5    | 9 1/2 \quarterNote{} |
-|   6    | 9 1/2 \quarterNote{} |
-|   7    | 9 1/2 \quarterNote{} |
+|   1    |  15 `quarterNote`   |
+|   2    | 9 1/2 `quarterNote` |
+|   3    | 6 1/2 `quarterNote` |
+|   4    | 4 1/3 `quarterNote` |
+|   5    | 9 1/2 `quarterNote` |
+|   6    | 9 1/2 `quarterNote` |
+|   7    | 9 1/2 `quarterNote` |
 
 **concluding section on oboe augmentation and diminution**
 

@@ -28,7 +28,8 @@ pdf:
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
-	--filter pandoc-include \
+	--filter "$(SCRIPTSDIR)/pandoc-timesig.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-notes.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -41,7 +42,6 @@ tex:
 	-o "$(OUTPUTDIR)/$(OUTFILE).tex" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
-	--filter pandoc-include \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -54,7 +54,7 @@ docx:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).docx" \
 	--reference-docx="$(STYLEDIR)/reference.docx" \
-	--filter pandoc-include \
+	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
@@ -66,7 +66,7 @@ odt:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).odt" \
 	--reference-odt="$(STYLEDIR)/reference.odt" \
-	--filter pandoc-include \
+	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \

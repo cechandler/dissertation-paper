@@ -39,54 +39,54 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 
 | Section | Measures | Tempo                                | Descriptive markings              |
 |:--------|:---------|:-------------------------------------|:----------------------------------|
-| Intro   | 1-36     | Tempo I \quarterNoteDotted{} = 88    | Allegro con brio                  |
+| Intro   | 1-36     | Tempo I `quarterNoteDotted` = 88    | Allegro con brio                  |
 |         |          |                                      | "wie aus der Ferne"               |
 |         |          |                                      | ("as from a distance")            |
-|         | 37-72    | Tempo II \halfNote{} = 66            | Poco meno ma maestoso             |
+|         | 37-72    | Tempo II `halfNote` = 66            | Poco meno ma maestoso             |
 |         |          |                                      | poco grottesco e ironico          |
-|         | 73-90    | Tempo III \quarterNoteDotted{} = 100 | Allegro vivace e agitato          |
+|         | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato          |
 |         |          |                                      | "aufgeregt" ("excited")           |
-|         | 91-108   | Tempo IV \eighthNote{} = 88          | Meno mosso, soave e fluente       |
+|         | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente       |
 |         |          |                                      |                                   |
-| Var 1   | 109-170  | Tempo I \quarterNoteDotted{} = 92    | Allegro con brio                  |
+| Var 1   | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                  |
 |         |          |                                      | ma un poco piu mosso              |
 |         |          |                                      | ancora "wie aus der Ferne"        |
 |         |          |                                      | (yet "as from a distance")        |
-|         | 171-237  | Tempo II \halfNote{} = 77            | Poco meno maestoso                |
+|         | 171-237  | Tempo II `halfNote` = 77            | Poco meno maestoso                |
 |         |          |                                      | ma un poco piu mosso              |
 |         |          |                                      | ma poco lamentoso                 |
-|         | 238-253  | Tempo III \quarterNoteDotted{} = 100 | Allegro vivace e piu agitato      |
+|         | 238-253  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e piu agitato      |
 |         |          |                                      | "sehr aufgeregt" ("very excited") |
-|         | 254-267  | Tempo IV \eighthNote{} = 88          | Meno mosso, soave e fluente       |
+|         | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente       |
 |         |          |                                      |                                   |
-| Var 2   | 268-321  | Tempo I \quarterNoteDotted{} = 94    | Allegro con brio                  |
+| Var 2   | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                  |
 |         |          |                                      | ma sempre poco piu mosso          |
-|         | 322-381  | Tempo II \halfNote{} = 82            | Un poco meno                      |
+|         | 322-381  | Tempo II `halfNote` = 82            | Un poco meno                      |
 |         |          |                                      | ma ancora piu mosso               |
 |         |          |                                      | lamentoso e melancolico           |
-|         | 382-401  | Tempo III \quarterNoteDotted{} = 100 | Allegro vivace e agitato          |
+|         | 382-401  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato          |
 |         |          |                                      | "wieder aufgeregt"                |
 |         |          |                                      | ("excited again")                 |
-|         | 402-408  | Tempo IV \eighthNote{} = 88          | Meno mosso, soave e fluente       |
+|         | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente       |
 |         |          |                                      |                                   |
-| Var 3   | 409-442  | \halfNote{} = 32                     | Adagio misterioso ("Nachtmusik")  |
+| Var 3   | 409-442  | `halfNote` = 32                     | Adagio misterioso ("Nachtmusik")  |
 |         |          |                                      |                                   |
-| Var 4   | 443-473  | \halfNote{} = 32                     | Stesso tempo                      |
+| Var 4   | 443-473  | `halfNote` = 32                     | Stesso tempo                      |
 |         |          |                                      |                                   |
-| Var 5   | 474-581  | \quarterNoteDotted{} = 64            | Con nuova energia                 |
+| Var 5   | 474-581  | `quarterNoteDotted` = 64            | Con nuova energia                 |
 |         |          |                                      | "Wie ein plötzliches Erwachen"    |
 |         |          |                                      | ("Like a sudden awakening")       |
-|         | 490-521  | \quarterNote{} = 144                 | Vivo furioso                      |
+|         | 490-521  | `quarterNote` = 144                 | Vivo furioso                      |
 |         |          |                                      | ("vielleicht eine Jagd")          |
 |         |          |                                      | ("perhaps a hunting")             |
-|         | 522-561  | \quarterNote{} = 165                 | Presto volante                    |
+|         | 522-561  | `quarterNote` = 165                 | Presto volante                    |
 |         |          |                                      | ("galoppierend, immer vorwärts")  |
 |         |          |                                      | ("galloping, always forward")     |
-|         | 562-581  | \quarterNoteDotted{} = 132           | Più mosso                         |
+|         | 562-581  | `quarterNoteDotted` = 132           | Più mosso                         |
 |         |          |                                      |                                   |
-| Var 6   | 582-594  | \eighthNote{} = 66                   | Andante mesto                     |
+| Var 6   | 582-594  | `eighthNote` = 66                   | Andante mesto                     |
 |         |          |                                      |                                   |
-| Var 7   | 595-605  | \eighthNote{} = 64                   | Piu lento                         |
+| Var 7   | 595-605  | `eighthNote` = 64                   | Piu lento                         |
 
 **The Variations have varying degrees of difference between each other**
 

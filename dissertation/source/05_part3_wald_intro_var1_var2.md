@@ -1,7 +1,7 @@
 
 ## Part A
 
-The Introduction, Variation 1, and Variation 2 form Part A of *Wald* due to their similarity in subsections, musical elements, and compositional techniques. The Introduction contains four juxtaposed subsections each of which are subsequently revisited and varied in Variation 1 and 2. The variation subsections contains the same or similar descriptive markings (e.g. "Allegro con brio" in all three first subsections) as well as slightly adjusted tempi (e.g. \quarterNoteDotted{} = 88, \quarterNoteDotted{} = 92, and \quarterNoteDotted{} = 94, respectively). These aspects are clearly outlined in Table @tbl:wald-form. Variation 2 is the most varied of these three sections, where the Introduction and Variation 1 being very close re-readings of one another and the variation process starting in earnest with Variation 2.
+The Introduction, Variation 1, and Variation 2 form Part A of *Wald* due to their similarity in subsections, musical elements, and compositional techniques. The Introduction contains four juxtaposed subsections each of which are subsequently revisited and varied in Variation 1 and 2. The variation subsections contains the same or similar descriptive markings (e.g. "Allegro con brio" in all three first subsections) as well as slightly adjusted tempi (e.g. `quarterNoteDotted` = 88, `quarterNoteDotted` = 92, and `quarterNoteDotted` = 94, respectively). These aspects are clearly outlined in Table @tbl:wald-form. Variation 2 is the most varied of these three sections, where the Introduction and Variation 1 being very close re-readings of one another and the variation process starting in earnest with Variation 2.
 
 Table @tbl:wald-subsectional-proportions highlights a few notable characteristics of the subsection proportions when measured in number of seconds from the Asko|Schönberg recording.^[N.B. These subsection proportions exhibit the same characteristics when measured from the tempi and meters in the score as well.] Within any given section, the subsection durations follow a particular order when grouped from longest to shortest: subsection 3, 2, 1, and 4. Comparing individual subsections across the Introduction, Variation 1, and Variation 2, each decreases in length with every time, mirroring the way that sectional proportions of *Wald* decrease as a whole. These characteristics produce a gradual accretion of energy over the first three sections, which is then contrasted by the long and comparatively static atmosphere of Part B (Variations 3 and 4).
 
@@ -23,23 +23,23 @@ The first subsection contains several aspects that remain consistent across Part
 
 Elements 1 and 2 undergo the least amount of substantial variation across all three sections, while Elements 3 and 4 are varied more significantly and are essentially one gesture with two parts, intrinsically linked. Element 1 and 2 will be discussed first, and in order to highlight their aspects most coherently, the metrical details of subsection 1 must be addressed first.
 
-Each instance of subsection 1 in Part A is metered in \lilyTimeSignature{3}{8} and contains frequent markings of "3-Taktig" and "2-Taktig," which indicate grouping and phrasing and determine whether a measure is conducted in 3 or 2.^[**Citation for Wald Score** Performance Notes.] Subsection 1, along with the other 3 subsections, contains frequent double bar lines which demarcate important phrasing divisions and instrumental entrances or changes. In the Introduction's subsection 1, these double bar lines are instead repeat signs, which are a characteristic feature of Abrahamsen's second period works beginning with *Schnee*. With these repeat signs and double bar lines as grouping guides, the metrical scheme of subsection 1 across its three instances reveals some clear organization:
+Each instance of subsection 1 in Part A is metered in `3/8` and contains frequent markings of "3-Taktig" and "2-Taktig," which indicate grouping and phrasing and determine whether a measure is conducted in 3 or 2.^[**Citation for Wald Score** Performance Notes.] Subsection 1, along with the other 3 subsections, contains frequent double bar lines which demarcate important phrasing divisions and instrumental entrances or changes. In the Introduction's subsection 1, these double bar lines are instead repeat signs, which are a characteristic feature of Abrahamsen's second period works beginning with *Schnee*. With these repeat signs and double bar lines as grouping guides, the metrical scheme of subsection 1 across its three instances reveals some clear organization:
 
 > **Introduction: Subsection 1**
 
-> \lilyTimeSignature{3}{8} 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||
+> `3/8` 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||
 
 > Total: 70 measures (repeats included)
 
 > **Variation 1: Subsection 1**
 
-> \lilyTimeSignature{3}{8} 2mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
+> `3/8` 2mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
 
 > Total: 62 measures
 
 > **Variation 2: Subsection 1**
 
-> \lilyTimeSignature{3}{8} 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. ||
+> `3/8` 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. ||
 
 > Total: 54 measures
 
@@ -57,12 +57,12 @@ Table: *Wald* Variation 1 pattern of Element 1 instances. {#tbl:wald-var1-elemen
 
 | Instrument   |       One       |       Two       |      Three      |                     Four                     |      Five       |                     Six                      |      Seven      |                    Eight                     |
 |:-------------|:---------------:|:---------------:|:---------------:|:--------------------------------------------:|:---------------:|:--------------------------------------------:|:---------------:|:--------------------------------------------:|
-| Piano        | 9 \eighthNote{} |                 |                 |               6 \eighthNote{}                |                 | 3 \eighthNote{} $\frac{2}{5}$ \sixteenthNote | 3 \eighthNote{} |                                              |
-| Harp         |                 | 6 \eighthNote{} |                 | 3 \eighthNote{} $\frac{2}{5}$ \sixteenthNote | 3 \eighthNote{} |                                              |                 |                                              |
-| Kalimba      |                 |                 | 9 \eighthNote{} |                                              |                 |               6 \eighthNote{}                |                 | 3 \eighthNote{} $\frac{2}{5}$ \sixteenthNote |
-| Trpt 1 and 2 |                 |                 |                 |                                              | 9 \eighthNote{} |                                              |                 |               6 \eighthNote{}                |
-| Bsn + Bs Cl  |                 |                 |                 |                                              |                 |                                              | 9 \eighthNote{} |                                              |
-| Vla + Eng Hn |                 |                 |                 |                                              |                 |                                              | 9 \eighthNote{} |                                              |
+| Piano        | 9 `eighthNote` |                 |                 |               6 `eighthNote`                |                 | 3 `eighthNote` $\frac{2}{5}$ `sixteenthNote` | 3 `eighthNote` |                                              |
+| Harp         |                 | 6 `eighthNote` |                 | 3 `eighthNote` $\frac{2}{5}$ `sixteenthNote` | 3 `eighthNote` |                                              |                 |                                              |
+| Kalimba      |                 |                 | 9 `eighthNote` |                                              |                 |               6 `eighthNote`                |                 | 3 `eighthNote` $\frac{2}{5}$ `sixteenthNote` |
+| Trpt 1 and 2 |                 |                 |                 |                                              | 9 `eighthNote` |                                              |                 |               6 `eighthNote`                |
+| Bsn + Bs Cl  |                 |                 |                 |                                              |                 |                                              | 9 `eighthNote` |                                              |
+| Vla + Eng Hn |                 |                 |                 |                                              |                 |                                              | 9 `eighthNote` |                                              |
 
 In Variation 2, Abrahamsen decreases
 
@@ -70,13 +70,13 @@ Table: *Wald* Variation 2 pattern of Element 1 instances. {#tbl:wald-var2-elemen
 
 | Instr   |       One       |       Two       |      Three      |      Four       | Five            |       Six       |      Seven      |      Eight      |      Nine       |
 |:--------|:---------------:|:---------------:|:---------------:|:---------------:|:----------------|:---------------:|:---------------:|:---------------:|:---------------:|
-| Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
-| Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
-| Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
+| Piano   | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |                 |
+| Harp    |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |
+| Marimba |                 |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |
 
 **conclusion of Element 1**
 
-Abrahamsen scores Element 2 for the two muted violins in Group V which are placed on symmetrical opposite ends of the stage. The material consists of a continuous measured tremolo dyad notated as either a grouping of 6 sixteenth notes or 5:6 quintuplet sixteenth notes. The violins alternate these different subdivisions based on the double bar grouping scheme as well as the internal measure divisions indicated by "3-Taktig" and "2-Taktig." Additionally, in the Introduction and Variation 1, the violins alternate between a D4-G4 dyad and $\frac{1}{6}$^th^ tone flat D4-G4 dyad. For instance in the first subsection of the Introduction during the nine measure repeats, the first violin maintains a rhythm of sixteenth notes while the second violin maintains 5:6 quintuplet sixteenth notes. Within this nine measure repeat, the subdivision is "3-Taktig" so both violins produce a slight accent every three notes producing a subtle phasing in articulation, given the contrasting polyrhythms. Additionally, every three measures violin 1 and 2 switch between the D4-G4 dyad and $\frac{1}{6}$^th^ tone flat D4-G4 dyad. In the eight measure phrases, these characteristics flip: the second violin has the faster sixteenth notes, the subdivision is "2-Taktig," the subtle accents are every other note, and the dyad exchange occurs every two measures instead of three. The only substantial change in this element across the three instances of subsection 1 are that the microtonal dyads disappear in Variation 2 when all of the pitch material changes to Bb3-F4.
+Abrahamsen scores Element 2 for the two muted violins in Group V which are placed on symmetrical opposite ends of the stage. The material consists of a continuous measured tremolo dyad notated as either a grouping of 6 sixteenth notes or 5:6 quintuplet sixteenth notes. The violins alternate these different subdivisions based on the double bar grouping scheme as well as the internal measure divisions indicated by "3-Taktig" and "2-Taktig." Additionally, in the Introduction and Variation 1, the violins alternate between a D4-G4 dyad and $\frac{1}{6}$^th^ tone flat D4-G4 dyad. For instance in the first subsection of the Introduction during the nine measure repeats, the first violin maintains a rhythm of sixteenth notes while the second violin maintains 5:6 quintuplet sixteenth notes. Within this nine measure repeat, the subdivision is "3-Taktig" so both violins produce a slight accent every three notes producing a subtle phasing in articulation, given the contrasting polyrhythms. Additionally, every three measures violin 1 and 2 switch between the D4-G4 dyad and $\frac{1}{6}$^th^ tone flat D4-G4 dyad. In the eight measure phrases, these characteristics flip: the second violin has the faster sixteenth notes, the subdivision is "2-Taktig," the subtle accents are every other note, and the dyad exchange occurs every two measures instead of three. The only substantial change in this element across the three instances of subsection 1 are that the microtonal dyads disappear in Variation 2 when all of the pitch material changes to Bb3 F4.
 
 **conclusion of Element 2 talking about the subtlety of this material**
 
@@ -114,19 +114,19 @@ In the second subsection of Part A, Abrahamsen recasts the previous four element
 
 > **Introduction: Subsection 2**
 
-> \lilyTimeSignature{2}{4} 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
+> `2/4` 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
 
 > Total: 70 measures (repeats included)
 
 > **Variation 1: Subsection 2**
 
-> \lilyTimeSignature{2}{4} 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
+> `2/4` 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
 
 > Total: 67 measures
 
 > **Variation 2: Subsection 2**
 
-> \lilyTimeSignature{2}{4} 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
+> `2/4` 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
 
 > Total: 60 measures
 
@@ -138,21 +138,21 @@ Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var1-ss2-e1}
 
 | Instr   |       One       |       Two       |      Three      |      Four       |      Five       |       Six       |      Seven      |      Eight      |      Nine       |
 |:--------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Piano   | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 |
-| Harp    |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |
-| Marimba |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |
+| Piano   | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |                 |
+| Harp    |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |
+| Marimba |                 |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |
 
 Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var2-ss2-e1}
 
 | Instr   |       One       |       Two       |      Three      |      Four       |      Five       |       Six       |      Seven      |
 |:--------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Piano   | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |
-| Marimba |                 | 4 \eighthNote{} |                 |                 | 6 \eighthNote{} |                 |                 |
-| Harp    |                 |                 | 6 \eighthNote{} |                 |                 | 4 \eighthNote{} |                 |
+| Piano   | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |
+| Marimba |                 | 4 `eighthNote` |                 |                 | 6 `eighthNote` |                 |                 |
+| Harp    |                 |                 | 6 `eighthNote` |                 |                 | 4 `eighthNote` |                 |
 
 Element 2 remains closely associated with its corresponding element from subsection 1. It remains scored for the symmetrical violin I and violin II but becomes a sul ponticello tremolo and removes microtonality and subdivision accents. Instead, the violins alternate the two perfect fourth dyads symmetrical around D4-G4 and accents the downbeat every 2 or 3 measures, depending on the double bar grouping (every 2 for 8 measure grouping or every 3 for 9 measure groupings). In Var1:Sec2 the downbeat accents change slightly to accommodate the 8 and 7 measure groupings (3+2+3 for 8 measure groupings or 2+3+2 for 7 measure groupings). Abrahamsen removes Element 2 in this sul ponticello tremolo form and instead recasts it as a spiccato repeated note gesture alternating between double bass and cello. The two strings alternate between sixteenth-note subdivisions for three measures (double bass) and triplet sixteenth-note subdivisions for two measures (cello) throughout the entirety of Var2:Sec2.
 
-Elements 3 and 4 of subsection 2 form the primary foreground material and undergo similar rotational and rhythmic displacement processes found in subsection 1. In Intro:Sec2 and Var1:Sec2, Element 3 retains is ascending perfect fourth contour but like Elements 1 and 2, it is chromatically harmonized within the `<123678>` collection and includes microtonal inflections in specific instruments. Element 3 maintains a consistent duration of 7 triplet quarter notes; this is akin to the 7 eighth note duration of Element 3 in Intro:Sec1, almost as if a rhythmic translation between sections. Both sections feature Element 1 maintaining a triplet subdivision, the first in a meter of \lilyTimeSignature{3}{8} and then second in \lilyTimeSignature{2}{4}. Throughout Part A, Element 3 in Subsection 2 cycles every ten measures with its periodicity being disrupted by repeat signs in Intro:Sec2. Abrahamsen reduces the number of instruments taking part in Element 3 which each instance. Intro:Sec2 features two families of instruments alternating within each of the four repeated sections: 1) trumpet, bass trumpet, bassoon, bass clarinet, and 2) cello, bass, viola, English horn. Abrahamsen's spatial seating plan again comes into consideration here; the first subset consists of Group I and VI, a left-side group and a symmetrical pair and the second subset reflects this as it includes Group II, a right-side group, and a symmetrical pair from Group III and IV. Var1:Sec2 alternates between two smaller subsets (trumpet/bass trumpet and cello/bass/piano), while Var2:Sec2 again reduces the number of instruments to viola/violin 2 and cello/violin 1.
+Elements 3 and 4 of subsection 2 form the primary foreground material and undergo similar rotational and rhythmic displacement processes found in subsection 1. In Intro:Sec2 and Var1:Sec2, Element 3 retains is ascending perfect fourth contour but like Elements 1 and 2, it is chromatically harmonized within the `<123678>` collection and includes microtonal inflections in specific instruments. Element 3 maintains a consistent duration of 7 triplet quarter notes; this is akin to the 7 eighth note duration of Element 3 in Intro:Sec1, almost as if a rhythmic translation between sections. Both sections feature Element 1 maintaining a triplet subdivision, the first in a meter of `3/8` and then second in `2/4`. Throughout Part A, Element 3 in Subsection 2 cycles every ten measures with its periodicity being disrupted by repeat signs in Intro:Sec2. Abrahamsen reduces the number of instruments taking part in Element 3 which each instance. Intro:Sec2 features two families of instruments alternating within each of the four repeated sections: 1) trumpet, bass trumpet, bassoon, bass clarinet, and 2) cello, bass, viola, English horn. Abrahamsen's spatial seating plan again comes into consideration here; the first subset consists of Group I and VI, a left-side group and a symmetrical pair and the second subset reflects this as it includes Group II, a right-side group, and a symmetrical pair from Group III and IV. Var1:Sec2 alternates between two smaller subsets (trumpet/bass trumpet and cello/bass/piano), while Var2:Sec2 again reduces the number of instruments to viola/violin 2 and cello/violin 1.
 
 Within the harmonic framework of `<123678>`, Abrahamsen varies the harmonic presentation of Element 3 in Intro:Sec2 and Var1:Sec2. Figure @fig:wald-ss2-e3-harm shows the harmonizations of Element 3 across Intro:Sec2 and Var1:Sec2. In this figure, the initial presentations of Element 3 are voiced as chromatic trichords, `<123>` followed by `<678>`, each time. However, in Var1:Sec2, Abrahamsen voices them as `<13>` followed by `<78>` in the odd presentations and `<12>` followed by `<68>` in the even presentations. **Comment on how subtle this is and how he explores interval motion; moves from P4 in Intro:Sec2 to m2/M2 in Var1:Sec2 to M3/P5 in Var2:Sec2** Intervallic voice leading of each instrument...
 
@@ -206,36 +206,36 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 > **Introduction: Subsection 3**:
 
-> \lilyTimeSignature{12}{8} 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
+> `12/8` 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
 
 > Total = 28 measures (repeats included)
 
 > **Variation 1: Subsection 3**:
 
-> \lilyTimeSignature{12}{8} 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
+> `12/8` 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
 
 > Total = 24 measures (repeats included)
 
 > **Variation 2: Subsection 3**:
 
-> \lilyTimeSignature{12}{8} 20 mm.
+> `12/8` 20 mm.
 
 > Total = 20 measures
 
 ### Subsection 4
 
-Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12\sixteenthNote{} with each instance:
+Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
 
 > **Introduction: Subsection 4**:
 
-> \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 11mm.
+> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 11mm.
 
 > **Variation 1: Subsection 4**:
 
-> \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{3}{8} 1mm. \lilyTimeSignature{3}{16} 7mm.
+> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 7mm.
 
 > **Variation 2: Subsection 4**:
 
-> \lilyTimeSignature{10}{16} 1mm. \lilyTimeSignature{3}{4} 1mm. \lilyTimeSignature{6}{16} 4mm. \lilyTimeSignature{9}{16} 1mm.
+> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `9/16` 1mm.
 
 Subsection 4 is defined by four phrases of cascading figures that alternate between marimba and harp dup and piano at each new metrical change. In the same way that fourth element of subsection 2 is a composite of interwoven pitch sequences, so too are the cascading figures a composite sequence. Harmonically, these cascading figures are an expansion of the nearly pentatonic `4-22[0247]`.
