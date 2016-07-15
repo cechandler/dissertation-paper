@@ -29,7 +29,7 @@ pdf:
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
 	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
 	--filter "$(SCRIPTSDIR)/pandoc-timesig.py" \
-	--filter "$(SCRIPTSDIR)/pandoc-notes.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-rhythms.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \

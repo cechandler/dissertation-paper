@@ -73,8 +73,6 @@ Each of these minimalistic elements are distinguished by subtle differences in r
 
 ### Element *A*
 
-
-
 ### Element *B*
 
 ### Element *C*

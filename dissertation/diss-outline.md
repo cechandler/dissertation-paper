@@ -223,7 +223,9 @@ header-includes:
 	
 	- D major: 
 		
-		- homophonic ending of I
+		- this isn't really a segment
+        - more a feature of compositional design in how it appears at multiple endings with a variety of materials
+        - homophonic ending of I
 		- ending of III and horn call
 		- key area ending of IV
 
