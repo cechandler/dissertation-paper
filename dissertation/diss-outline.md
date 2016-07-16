@@ -193,44 +193,82 @@ header-includes:
 - Relationships between movements
 - Transition to associative segments between movements
 	
-## Associative Segments
+## Analysis
+
+## Elements Overview
 
 - Brief overview of Hanninen terminology?
 
-	- segmentation and associative organization as a way to track variation
-	- sonic and contextual domains
+    - segmentation and associative organization as a way to track variation
+    - sonic and contextual domains and criteria
+    - segments: musical segmentations supported by various sonic, contextual, or structural criteria
+    - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
+    - associative set: group of segments that share contextual properties
+        
+        - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
+        - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
+        - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
+    
+    - naming conventions
+        
+        - associative sets with large letters: A, B, X, Y
+        - numerals appended to reflect order in score, A1, A2, B5
+        - in her examples, literal repetition of segments are given new numbers, but with the case of Abrahamsen where there is a lot of repetition, I won't do that
+        - 
 
 - Associative segments in *Walden*:
 
-	- Perfect fourth:
-	
-		- horn motive
-		- oboe motive
+    - Perfect fourth:
+    
+        - horn motive
+        - oboe motive
         - related to horn call in III
-	
-	- [013]: 
-		
-		- echoing motives in I
+    
+    - [013]: 
+        
+        - echoing motives in I
         - three octave melody in I and II
-		- canonic material in I and II
-		- figuration at opening of III
-	
-	- Staccato motive:
-		
-		- homophonic ending of I
-		- punctuated interjections of II
+        - canonic material in I and II
+        - figuration at opening of III
+    
+    - Staccato motive:
+        
+        - homophonic ending of I
+        - punctuated interjections of II
         - ending of III
-	
-	- D major: 
-		
-		- this isn't really a segment
+    
+    - D major: 
+        
+        - this isn't really a segment
         - more a feature of compositional design in how it appears at multiple endings with a variety of materials
         - homophonic ending of I
-		- ending of III and horn call
-		- key area ending of IV
+        - ending of III and horn call
+        - key area ending of IV
 
-	- [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
+    - [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
 
+- Some associative sets sound similar, but how do we know that they are    
+    - It is not about them sounding similar, although they do, it is more about how these soncially similar segments are treated as different ideas by Abrahamsen, evidenced through differences in context, compositional technique, and development.
+
+### Associative Set A
+
+- introduction
+- rhythmic displacement of opening
+- what is a call? a response?
+- connect to horn call at Mvmt III
+- movement IV
+
+### Associative Set B
+### Associative Set C
+### Associative Set D
+
+- connection between D/a and D/c: 14 segments, change on 14th
+    - D/a 14th: mm. 61 loud dynamic and new pitches
+    - D/b 14th: mm. 29, change in rhythmic placement, duration, and inversion
+
+### Conclusion
+
+- Wrap up general comments on variation and techniques used
 - Techniques: 
 	
 	- Rhythmic displacement and phasing

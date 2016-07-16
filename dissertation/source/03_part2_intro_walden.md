@@ -1,5 +1,7 @@
 # Part 2: An Analysis of *Walden*
 
+`A\flat{} B\sharp{} D`
+
 ## Instrumentation and Arrangement
 
 Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet for a standard instrumentation of flute, clarinet in A, oboe, French horn, and bassoon. The work consists of four movements without titles that differ in duration and tempo while maintaining an introspective and restrained atmosphere. In 1995, Abrahamsen created another arrangement for the Calefax Reed Quintet scored for oboe d'amore (doubling oboe), clarinet (doubling A and `Eb`), bass clarinet in `Bb`, alto saxophone, and bassoon. The reed quintet arrangement contains several differences, from smaller adjustments like tempi changes^[The first is slightly faster, while the second movement is slower, and the third and fourth remain the same.] and new descriptive markings to larger adjustments like re-metered movements and orchestration. 
@@ -45,7 +47,7 @@ Table: *Walden* movement proportions. {#tbl:walden-proportions}
 | III.       | `quarterNote` = 52      | 2:30            | 2:33                 |
 | IV.        | `quarterNote` = 112     | 1:00            | 1:04                 |
 
-The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique. **one paragraph on overall compositional design discussing decreasing number of sectional divions across movements and D major at the ends of movements**
+The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique. **one paragraph on overall compositional design discussing decreasing number of sectional divisions across movements and D major at the ends of movements**
 
 The first movement of *Walden* contains three dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning of the movement is harmonically ambiguous and heterophonic in texture, but by the end, the quintet is grouped into subsets (and eventually tutti) performing harmonically clear and homophonic music. The form can be segmented into four sections. The first features a call and response pattern transformed over four phrases via a process of rhythmic displacement. The second section consists of a legato three-voice mensuration canon, while the third section is a variation on this canon paired with an interjecting staccato gesture in the horn and bassoon. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated D major chord.
 
@@ -57,25 +59,69 @@ The third movement segments neatly into two sections with a short "coda" that cr
 
 The diagram in Figure @fig:walden-formal-overview gives an overview of each movement including significant sectional divisions and characteristic features. **needs transition**
 
-![Formal overview of *Walden*](../figures/walden-formal-overview.png){#fig:walden-formal-overview}
+![Formal overview of *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-formal-overview.png){#fig:walden-formal-overview}
 
 ## Musical Materials and Recycling
 
 Abrahamsen's use of limited musical elements, inter-movement relationships, and strict compositional processes are defining characteristics of *Walden*. Abrahamsen recycles several musical elements throughout the four movements of *Walden*. 
 
-Relationships between movements come from similar compositional designs or the presence of recycled elements. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. **come back to this, not saying it quite as clear as possible** His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration. Figure @fig:walden-recycled-elements identifies three recycled elements that appear in some or all of the movements. Element *A* and Element *B* are closely related motives that differ in how Abrahamsen approaches their variation. Element *A* is an ascending perfect fourth horn call and generally retains this profile, while Element *B* is a descending perfect fourth primarily found in the oboe that undergoes greater changes in pitch and rhythm. Element *C* is another germinal motive that Abrahamsen presents in several manifestations (which will be detailed later) yet is always harmonically defined by `3-2[013]`. Element *D* is a puncutated staccato motive appearing most prominently in the first, second, and third movements.
+Relationships between movements come from similar compositional designs or the presence of recycled elements. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. **come back to this, not saying it quite as clear as possible** His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration. Figure @fig:walden-associative-sets-a-d identifies four associative sets that appear in some or all of the movements. Set *A* and Set *B* are closely related motives that differ in how Abrahamsen approaches their variation. Set *A* is an ascending perfect fourth horn call and generally retains this profile, while Set *B* is a descending perfect fourth primarily found in the oboe that undergoes greater changes in pitch and rhythm. Set *C* is another germinal motive that Abrahamsen presents in several manifestations (which will be detailed later) yet is always harmonically defined by `3-2[013]`. Set *D* is a punctuated staccato motive appearing most prominently in the first, second, and third movements.
+
+**FIGURE IS AN EXAMPLE OF PROTOTYPICAL SEGMENTS FROM SET**
 
 <!-- In some cases, these elements are identifiable motives or melodies that express a clear identity. They maintain the same set class, similar rhythms, and similar compositional techniques are used to organize them.  -->
 
-![*Walden* recycled musical elements A-D](../figures/walden-recycled-elements.png){#fig:walden-recycled-elements}
+![*Walden* recycled musical elements A-D](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-sets-a-d.png){#fig:walden-associative-sets-a-d}
+
+It is important to note that Sets *A*, *B*, and *C* share several sonic attributes suggesting they could be manifestations of the same element: simple contours, legato articulation, generally soft dynamic, and presentation as a melodic "calling out" gestures. However, differences in context, development, and orchestration encourages segmentation as separate entities. **more on differences** Their most salient difference is in contour, *A* ascends while *B* descends, and this aspect is at the forefront of their initial introduction. 
 
 Each of these minimalistic elements are distinguished by subtle differences in realization; as Abrahamsen describes, much of their "superfluous material has been peeled away." Abrahamsen organizes these elements through the use of strict processes and techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each element, the context in which they appear, and the way Abrahamsen varies them throughout *Walden* will illustrate the economy of musical materials associated with his work as a whole and will provide a foundation from which to make comparisons to *Wald*.
 
-### Element *A*
+### Associative Sets
 
-### Element *B*
+**short discussion on naming conventions**
 
-### Element *C*
+*The following sections will go over each associative set in turn and identify notable contextual and compositional techniques that shape it. Given the close, interrelated qualities that many of these sets share, it is impractical to discuss the context of one without referring to the others. So earlier sections will mention other sets that have not been yet been discussed in great detail.*
+
+## Analysis
+
+### Associative Set *A*
+
+Despite associative set *A* being the first idea of the piece as well as the material with which Abrahamsen began composing,[@Kullberg] it has the fewest segments and least amount of variation. Figure @fig:walden-set-a-all gives four instances of *A* occurring in the first, third, and fourth movements. Their primary defining features are orchestration for French horn and pitch content of an ascending perfect fourth, usually a `Bb` to `Eb`. *A1/a* and *A1/b* are related by simple melodic extension of an `F` above the principal fourth, creating a harmonically ambiguous sonority. The defining perfect fourth of *A2* is transposed with respect to the initial *A1/a* yet shares its "horn call" allusions as well as the melodic extension of *A1/b*. *A3* is the harmonic foundation of the trio layer in the fourth movement, and it is another instance of melodic extension; this time forming an `Eb` major triad.
+
+![Segments of Associative Set *A*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-a-all.png){#fig:walden-set-a-all}
+
+Abrahamsen structures the opening 20 measures of *Walden* with Elements *A*, *B*, and *C* via a process of rhythmic displacement, or phasing. More commonly associated with American minimalists,^[Abrahamsen has noted Steve Reich as an inspiration or influence before. **find source for this, was it in a program note?**] phasing is a process where one or more voice musical voices gradually move out of an initial rhythmic alignment. Over the first sixteen measures, this process unfolds over four phrases separated by grand pauses. Each phrase contains *A1/a*, the ascending perfect fourth horn call, and different rhythmic configurations of *C1/a* voiced as an ascending minor third in the flute, clarinet, and bassoon. 
+
+![Horn call and responses](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-horn-theme.png){#fig:walden-I-horn-call-resp width=75%}
+
+Over the course of the first section (mm. 1-17), the echoing responses shift in their rhythmic position by fixed amounts causing displacement both with one another and the horn call. The `Bb`-`Eb` horn call consistently enters every five measures within beat four, while with each phrase the bassoon enters five quarter notes earlier, the clarinet four quarter notes, and the flute three quarter notes plus one triplet eighth-note. By the fourth phrase, the horn call is isolated from the responses having rotated to the end (see Figure @fig:walden-I-horn-call-phr4).
+
+![Horn motive phrase four](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-horn-theme-phrase4.png){#fig:walden-I-horn-call-phr4 width=75%}
+
+This process breaks down the initial call and response relationship and raises interesting questions into the importance of ordering. **more on this? what does it say about the process being applied to a horn call motive and the nature about call and response changing order** After the four phrase process completes, Abrahamsen introduces the oboe, the only instrument absent thus far, and proceeds to the next section. This elegant but strict procedure determines not only the unfolding of the first section but also the point at which to move on to new material, as a continuation beyond the fourth phrase would begin the process again.
+
+A second example of rhythmic displacement occurs between measures 5-7 of the third movement. In this passage, there are two separate layers, a polyrhythmic ostinato of F-G-`Ab` in the flute and horn, and a sequence of displaced motives in the oboe, clarinet, and bassoon. The trio articulates a slightly different pair of motives: 1) a rising or falling major second or major third and 2) a single, isolated staccato or tenuto note. The trio repeat their respective motives a different number of times in contrasting rhythmic subdivisions: the clarinet three times in sixteenth-notes, the oboe five times in quintuplet sixteenth-notes, and the bassoon four times in quarter notes. With each repetition, the oboe pattern shifts earlier by one quintuplet sixteenth-note, the clarinet pattern shifts later by one sixteenth-note, and the bassoon pattern shifts earlier by one quarter-note. The motives and displacement process during this passage is displayed in Figure @fig:walden-III-rd. The same process can be found later in the flute and horn between measures 15-17, where for instance, the flute oscillates between two notes that shift earlier by one quintuplet eighth-note with each oscillation.
+
+![Rhythmic displacement in *Walden* III](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:walden-III-rd}
+
+In these two examples of rhythmic displacement in the first and third movements, Abrahamsen's use of the technique serves different purposes. The first illustrates displacement as a macro-level process that shapes the pacing of several phrases, while the second example highlights its micro-level phasing applications that generate shifting textures. **one more concluding sentence**
+
+### Associative Set *B*
+
+<!-- ![Segments of Associative Set *B*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-b-all.png){#fig:walden-set-b-all} -->
+
+### Associative Set *C*
+
+Each instrument articulates their motive within a consistent rhythmic subdivision: the flute and horn in triplet eighths, the clarinet in quintuplet sixteenths, and the bassoon in quarter notes. 
+
+Throughout *Walden* Abrahamsen frequently places instruments in contrasting rhythmic subdivisions **and this is important because**. Figure @fig:walden-I-horn-call-resp shows the first two phrases of *Walden*.
+
+![Segments of Associative Set *C*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-c-all.png){#fig:walden-set-c-all}
+
+### Associative Set *D*
+
+![Segments of Associative Set *D*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-d-all.png){#fig:walden-set-d-all}
 
 ### Augmentation, Diminution, Canon, and Retrograde
 
@@ -83,17 +129,17 @@ Abrahamsen's use of augmentation, diminution, canon, and retrograde often simult
 
 Abrahamsen constructs the second and third sections of the first movement with prolation canons. The first passage, from measures 21-38, has the canon in the trio of flute, clarinet, and bassoon, while the second passage, from measures 42-56, substitutes the oboe for the bassoon. Both passages consist of fourteen instances of three motives separated by short rests: 1) a two-note legato ascending or descending interval (minor 2^nd^, major 2^nd^, or minor 3^rd^), 2) a ascending or descending interval punctuated with a staccato note, or 3) a single sustained pitch (see Figure @fig:walden-I-mm21-38-flute). The first two motives are identifiable by their long-long and long-short profiles, while the third motive, present in only the first canon, functions as a **cadential** point between phrases.
 
-![Flute mm. 21-38 motives and durations](../figures/temporary.png){#fig:walden-I-mm21-38-flute}
+![Flute mm. 21-38 motives and durations](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:walden-I-mm21-38-flute}
 
 The first canon emerges organically from the preceding section's call and response using the same D-F echoing response. The passage can be segmented into three phrases, each concluding with an instance of a longer sustained F. The flute plays the shortest rhythmic durations, the clarinet plays an augmentation of these rhythms, while the bassoon plays an even greater augmentation rhythms.
 
 The trio remains in their separate rhythmic subdivisions carried over from the first section (bassoon in quarters, clarinet in quintuplet sixteenths, flute in triplet eighths), and these subdivisions enable a duration ratio of 1:2:4 for the prolation canon to unfold. For every one quarter note in the bassoon, the flute plays two triplet eighth-notes, and the clarinet play four quintuplet sixteenth-notes. These duration ratios include the short rests between instances of the motives, which are appended to the motivic instance (refer to Figure @fig:walden-I-mm21-38-flute for how the rhythms are segmented). Figure @fig:walden-I-mm21-38-graph plots the durations for each motive and clearly shows the ratio of 1:2:4 maintained for the entirety of the canonic passage.
 
-![*Walden* I. mm. 21-38 prolation canon speeds](../figures/walden-I-mm21-38-graph.png){#fig:walden-I-mm21-38-graph width=65%}
+![*Walden* I. mm. 21-38 prolation canon speeds](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm21-38-graph.png){#fig:walden-I-mm21-38-graph width=65%}
 
 Figure @fig:walden-I-mm42-56-graph shows a corresponding graph for the canon from measures 42-56. This second canon generally maintains the prior augmentation relationship (flute with shortest values, clarinet augmenting flute, oboe augmenting clarinet), but the ratio between voices is not static as before. It begins with nearly the same rhythmic/duration values, but the instruments change rhythmic subdivisions over the course of the passage (e.g. the oboe begins in quarter note divisions at mm. 42, changes to quintuplets in mm. 47, and changes to triplets in mm. 52). There is a general trend toward shorter motive durations over the course of the passage, and this perhaps contributes to an increase in event energy, also enhanced by the staccato repeated notes in the horn and bassoon, and prepares the entrance of the homophonic melody in measure 57.
 
-![*Walden* I. mm. 42-56 prolation canon speeds](../figures/walden-I-mm42-56-graph.png){#fig:walden-I-mm42-56-graph width=65%}
+![*Walden* I. mm. 42-56 prolation canon speeds](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm42-56-graph.png){#fig:walden-I-mm42-56-graph width=65%}
 
 **concluding passage on the differences between these two augmentation canons and why it's important**
 
@@ -101,7 +147,7 @@ Another instance of diminution, canon, and retrograde occurs throughout the seco
 
 This nine-measure melody undergoes three cycles (mm. 1-9, mm. 10-18, mm. 19-27) with each successive cycle filtering out motivic instances. By labeling all motivic instances from 1-14, the second cycle removes all odd-numbered motives, while the third cycle removes all motives but multiples of three (another way to think of this is the second cycle removes every other motive and the third removes every two motives). Figure @fig:walden-II-mm1-27-cycles shows the three flute and bassoon cycles from measures 1-27 and highlights the retrograde and filtering process. While this process is not necessarily a classic rhythmic augmentation, it does create an increasing amount of rest between motives contributing to a sensation of an augmentation. Considering Abrahamsen's usage of the word "decay" in his program note, the process is analogous to a type of decay by removal. It's as if we are presented with a perfect symmetrical flower, and over time the flower decays with the petals falling off one by one.
 
-![*Walden* II. Flute and bassoon mm. 1-27 cyclical retrograde melody](../figures/temporary.png){#fig:walden-II-mm1-27-cycles}
+![*Walden* II. Flute and bassoon mm. 1-27 cyclical retrograde melody](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:walden-II-mm1-27-cycles}
 
 One final instance of augmentation and diminution in this same passage of the second movement occurs in the oboe's melancholy, expressive melody. From measures 1-26, the oboe performs seven phrases whose proportions compress and expand over time. The phrases consist of three ordered motives: 1) a leaping, descending two-note interval, 2) an angular ascending triadic figure, and 3) a single accented sustained tone. The process of phrase length diminution and augmentation can be seen in Table @tbl:walden-II-ob-pro. As a consequence of this process, phrase three and four, the two most compressed phrases, do not contain instances of the third motive and have truncated versions of the first and second motive.
 
@@ -121,35 +167,17 @@ Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-pro}
 
 **conclusion on augmentation, diminution, canon, and retrograde processes**
 
-### Rhythmic Displacement
+## Conclusion
 
-Rhythmic displacement, or phasing, is a process involving a repeated gesture gradually moving out of alignment between instruments. It not only shapes the opening of *Walden* but also serves as the basis for *Wald*. The technique is related to the music of American minimalists, particularly Steve Reich, with which Abrahamsen was familiar.^[**find citation**] In *Walden*, the rhythmic displacement technique takes two forms: 1) phasing over repetitions due to gestures changing rhythmic placement and 2) phasing over repetitions due to polyrhythmic gestures of different length. **Is this last sentence necessary or an accurate description?**
-
-The first movement of *Walden* opens with four phrases separated by grand pauses. All four phrases contain different rhythmic configurations of only two motives, an ascending perfect fourth (`Bb`-`Eb`) horn call and three ascending minor third (D-F) echoing responses in the flute, clarinet, and bassoon. Each instrument articulates their motive within a consistent rhythmic subdivision: the flute and horn in triplet eighths, the clarinet in quintuplet sixteenths, and the bassoon in quarter notes. Throughout *Walden* Abrahamsen frequently places instruments in contrasting rhythmic subdivisions **and this is important because**. Figure @fig:walden-I-hn-call-resp shows the first two phrases of *Walden*.
-
-![Horn call and responses](../figures/walden-I-horn-theme.png){#fig:walden-I-hn-call-resp width=75%}
-
-Over the course of the first section (mm. 1-17), the echoing responses shift in their rhythmic position by fixed amounts causing displacement both with one another and the horn call. The `Bb`-`Eb` horn call consistently enters every five measures within beat four, while with each phrase the bassoon enters five quarter notes earlier, the clarinet four quarter notes, and the flute three quarter notes plus one triplet eighth-note. By the fourth phrase, the horn call is isolated from the responses having rotated to the end (see Figure @fig:walden-I-hn-call-phr4).
-
-![Horn motive phrase four](../figures/walden-I-horn-theme-phrase4.png){#fig:walden-I-hn-call-phr4 width=75%}
-
-This process breaks down the initial call and response relationship and raises interesting questions into the importance of ordering. **more on this? what does it say about the process being applied to a horn call motive and the nature about call and response changing order** After the four phrase process completes, Abrahamsen introduces the oboe, the only instrument absent thus far, and proceeds to the next section. This elegant but strict procedure determines not only the unfolding of the first section but also the point at which to move on to new material, as a continuation beyond the fourth phrase would begin the process again.
-
-A second example of rhythmic displacement occurs between measures 5-7 of the third movement. In this passage, there are two separate layers, a polyrhythmic ostinato of F-G-`Ab` in the flute and horn, and a sequence of displaced motives in the oboe, clarinet, and bassoon. The trio articulates a slightly different pair of motives: 1) a rising or falling major second or major third and 2) a single, isolated staccato or tenuto note. The trio repeat their respective motives a different number of times in contrasting rhythmic subdivisions: the clarinet three times in sixteenth-notes, the oboe five times in quintuplet sixteenth-notes, and the bassoon four times in quarter notes. With each repetition, the oboe pattern shifts earlier by one quintuplet sixteenth-note, the clarinet pattern shifts later by one sixteenth-note, and the bassoon pattern shifts earlier by one quarter-note. The motives and displacement process during this passage is displayed in Figure @fig:walden-III-rd. The same process can be found later in the flute and horn between measures 15-17, where for instance, the flute oscillates between two notes that shift earlier by one quintuplet eighth-note with each oscillation.
-
-![Rhythmic displacement in *Walden* III](../figures/temporary.png){#fig:walden-III-rd}
-
-In these two examples of rhythmic displacement in the first and third movements, Abrahamsen's use of the technique serves different purposes. The first illustrates displacement as a macro-level process that shapes the pacing of several phrases, while the second example highlights its micro-level phasing applications that generate shifting textures. **one more concluding sentence**
-
-## Connections to Other Music
+### Connections to Other Music
 
 As with much of Abrahamsen's music, there are intersections between *Walden*, earlier pieces, and later pieces. Abrahamsen completed *Walden* and *Winternacht* in the same year (1978) and both share similar compositional features. The two works each contain four movements that successively decrease in duration, returning musical material between movements, and a final movement that is polystylistic, polytonal, and clearly references older musical styles. In the case of *Winternacht*, the first movement serves as a "kind of overture"[@Ernste] that foreshadows the music to come in the third and fourth movement. Figure @fig:wn-returning-material shows one example of this from the first and third movements. The first movement contains a section where Stravinskian rhythms articulated in the strings crossfade with material from a previous section. The same material, recast in a different tempo and meter, serves as the basis for the third movement. The way in which this and other sections return throughout *Winternacht* is like the difference between a door being temporarily opened and catching a glimpse of a room versus being inside the room.
 
-![*Winternacht* Material from Movement I Returning in Movement III](../figures/wn-returning-material.png){#fig:wn-returning-material}
+![*Winternacht* Material from Movement I Returning in Movement III](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wn-returning-material.png){#fig:wn-returning-material}
 
 An additional connection between *Winternacht* and *Walden* can be heard in the presence of a similar horn call in both works. Figure @fig:triadic-horn-calls compares the two. The triadic nature of this horn motive calls to mind a natural horn, or more specifically a German *Jagd Horn* (hunting horn). In his dissertation on Ligeti's *Hamburg Concerto*, composer Anthony Cheung discusses
 
-![*Winternacht* and *Walden* Triadic Horn Calls](../figures/temporary.png){#fig:triadic-horn-calls}
+![*Winternacht* and *Walden* Triadic Horn Calls](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:triadic-horn-calls}
 
 *Walden* does not have large sections of music that return in the same fashion as in *Winternacht*. Instead several movements contain recurring gestures or otherwise similar material that retain particular musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending `F#`-`C#` perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27. Another case can be found in the close relationship between the ending of the first movement and beginning of the second movement. Towards the end of the first movement, a `C#` and E staccato repeated-note gesture appears in the bassoon and French horn while a new homophonic texture and melody arises in the trio of flute, oboe, and clarinet. The staccato repeated-note gesture grows in assertiveness and abruptly cuts off this melody and transforms into a tutti punctuated chord articulated by the entire quintet. In a way, the second movement picks up where this prior melody left off. Abrahamsen presents it directly at the beginning of the second movement transposed a perfect fifth lower and shortly thereafter the staccato `C#` and E gesture returns in the clarinet and horn.
 
