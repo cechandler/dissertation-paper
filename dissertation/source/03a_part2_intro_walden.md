@@ -14,10 +14,10 @@ Table: Instrumental arrangement between versions. {#tbl:walden-rearrangement}
 
 | Wind Quintet    |                 | Reed Quintet I.   | Reed Quintet II.   | Reed Quintet III.   | Reed Quintet IV.   |
 | :-------------- | :-------------- | :---------------- | :----------------- | :------------------ | :----------------- |
-| Flute           | \textrightarrow | Cl. in A          | Al. Sax            | Cl. in `Eb`         | Cl. in `Eb`        |
+| Flute           | \textrightarrow | Cl. in `A`        | Al. Sax            | Cl. in `Eb`         | Cl. in `Eb`        |
 | Oboe            | \textrightarrow | Ob. d'amore       | Oboe               | Oboe                | Oboe               |
-| Cl. in A        | \textrightarrow | Al. Sax.          | Cl. in A           | multiple            | Al. Sax            |
-| Horn in F       | \textrightarrow | Bs. Cl.           | Bs. Cl.            | multiple            | Bsn.               |
+| Cl. in `A`      | \textrightarrow | Al. Sax.          | Cl. in `A`         | multiple            | Al. Sax            |
+| Horn in `F`     | \textrightarrow | Bs. Cl.           | Bs. Cl.            | multiple            | Bsn.               |
 | Bassoon         | \textrightarrow | Bsn.              | Bsn.               | multiple            | Bs. Cl.            |
 
 ## Background

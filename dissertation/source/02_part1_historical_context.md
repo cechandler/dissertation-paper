@@ -17,3 +17,5 @@ This dissertation will be using an associative orientation to guide the segmenta
 **discussion of Hanninen's theory and naming conventions to be used in analysis parts**
 
 *The following sections will go over each associative set in turn and identify notable contextual and compositional techniques that shape it. Given the close, interrelated qualities that many of these sets share, it is impractical to discuss the context of one without referring to the others. So earlier sections will mention other sets that have not been yet been discussed in great detail.*
+
+**footnote about Bernstein's substantial review of Hanninen book**
