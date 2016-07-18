@@ -259,6 +259,19 @@ header-includes:
 - movement IV
 
 ### Associative Set B
+
+- associative subsets:
+
+    - *B/a*: eighth/quarter division dyad
+    - *B/b*: quintuplet division dyad
+    - *B/c*: triplet division dyad
+
+        - Hanninen might call *B/a-c* populations given their proximity in time and how they are bound together through process
+
+    - *B/d*: major third interrupting dyad; similar to Ligeti thing
+    - *B/e*: sustained dyad after *B/d* in I mm. 39-40 and II mm. 29-30
+    - *B/f*: multi-octave melody, suggests *B/a-c* 
+
 ### Associative Set C
 ### Associative Set D
 
@@ -375,6 +388,8 @@ header-includes:
     - Melodic truncation
 
 ## *Wald* Analysis
+
+- main argument: variations in *Wald* are not primarily driven by significant variation or transformation of the segments or motives but rather changing the compositional technique or process guidng the organization of the set or segment
 
 ### Part A
 
