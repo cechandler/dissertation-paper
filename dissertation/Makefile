@@ -30,6 +30,7 @@ pdf:
 	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
 	--filter "$(SCRIPTSDIR)/pandoc-timesig.py" \
 	--filter "$(SCRIPTSDIR)/pandoc-rhythms.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-dynamics.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
