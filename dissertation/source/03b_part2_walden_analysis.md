@@ -46,7 +46,9 @@ This process breaks down the initial call and response relationship and raises i
 
 ### Associative Set *B*
 
-<!-- ![Segments of Associative Set *B*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-b-all.png){#fig:walden-set-b-all} -->
+Associative set *B* represents the largest and most pervasive group of segments in *Walden*. Its six associative subsets are a strong driving force shaping the sensation of materials having been reduced to very minimal qualities. This is due not only to their prevalence but also to the high degree of association between subsets. Each subset shares associative qualities with one another through simple contours, legato articulation, dynamic profile, and groupings of primarily two notes. They remain distinct, however, in the purposes they serve throughout the work: *B/a*, *B/b*, and *B/c* generate polyrhythmic, heterophonic textures, *B/d* interjects or announces important formal moments, *B/e* produces dissonant resonances, and *B/f* projects a permutational melody.
+
+![Segments of Associative Set *B*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-b-all.png){#fig:walden-set-b-all}
 
 Each instrument articulates their motive within a consistent rhythmic subdivision: the flute and horn in triplet eighths, the clarinet in quintuplet sixteenths, and the bassoon in quarter notes. 
 
@@ -132,7 +134,9 @@ Subsets *D/a* and *D/c* associate through attack point, staccato articulation, a
 
 Like subset *D/b*, the nine segments of *D/e* occur toward the ending of the third movement in mm. 27-29. Abrhamsen scores the staccato segments in both the flute and bassoon, displaced by one sixteenth note. These segments associate with subsets *D/b* in their rhythmic location, punctuated quality, and wide bandwidth, yet they diverge in pitch content, grace notes, and `fff` dynamic level. The material emerges quite seamlessly out of the preceding section's long rhythmic accelerando, and while the subsets of *D/d* do not end the movement, there is a notable connection between *D/d* and the horn call segments of *A/c* that do end the movement. Abrahamsen shapes *A/c* through a process of truncation where successive segments have fewer notes than the previous. This reduction of attacks to 2 and 1 note segments by end creates a sort associative morphing where segments of *A/c*, which at first related closely to set *A*, slowly take on properties characteristic of set *D*. So again while *D/d* does not conclude the movement as does *D/b*, the change in properties of *A/c* as well as the sprase texture of the ending creates parallels in the associative landscapes of the first and third movements.
 
-In terms of associative landscape, Abrahamsen uses the four subsets of *D* for different purposes. Segments of *D/b* and *D/d* are found at the ends of movements; they **do something**. He uses subsets of *D/a* and *D/d* to increase tension and rhythmic propulsion over time, while in *D/c* these qualities are **thwarted/cancelled/inverted** despite its high degree of association with them. **conclusion**
+In terms of associative landscape, Abrahamsen uses the four subsets of *D* for different purposes. Segments of *D/b* and *D/d* are found at the ends of movements; they **do something**. He uses subsets of *D/a* and *D/d* to increase tension and rhythmic propulsion over time, while in *D/c* these qualities are **thwarted/cancelled/inverted** despite its high degree of association with them. **something about the staccato quality of D associating with the staccato articulations throughout the last movement**
+
+**conclusion**
 
 ## Connections
 
