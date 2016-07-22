@@ -151,3 +151,14 @@
     - five individual sonic criteria: S~1-pitch~, S~1-dynamics~, S~1-timbre~, S~1-articulation~, S~1-duration~
     - S~1~ criteria "locate notes first and foremost along a temporal continuum"
     - S~2~ criteria use a different continuum, like pitch, dynamics, or timbre
+    - S~1-duration~ segments according to *distance* between attack points; S~2-duration~ segments by note values
+
+### Contextual Criteria
+
+- Repetition: equivalence, and similarity
+
+    - literal repetition: repetition in all musical dimensions simultaneously
+    - equivalence: repetition with transformation; where transformation can be described as a set of operations forming a mathematical group
+    - similarity: equivalence with transformation where transformation is not restricted to a mathematical group
+
+- Formal aspects

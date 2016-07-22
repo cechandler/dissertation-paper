@@ -7,15 +7,11 @@ Danish composer Hans Abrahamsen’s piece for large ensemble, *Wald* (2009), is 
 
 A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979) and he was a prominent figure associated with the Danish "New Simplicity" movement. This movement, largely a reaction against Darmstadt serialism, sought to "establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Ernste, p. 8] Abrahamsen's pieces of this first period, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. **Ten Preludes as example of New Simplicity**
 
-Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti. **more on later first period works and how they are not like New Simplicity**
+Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti. **more on later first period works and how they differ from New Simplicity**
 
 The musical style of Abrahamsen's second period is deeply informed by the groundwork he laid during the period of his "fermata." He returned to his older works and reorchestrated them for alternate ensembles; for instance, Abrahamsen created a reed quintet version of the woodwind quintet *Walden* in 1995. He arranged and orchestrated works by Charles Ives, Carl Nielsen, Per Nørgård, and Maurice Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra. Most importantly, Abrahamsen found inspiration in a set of canons by J.S. Bach^[BWV 1072-1078.] that he arranged with a distinctly Minimalist aesthetic. These canons would have a significant impact on several post-fermata works.
 
 Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2000); this piece initiated a fertile period of artistic synthesis that combined the practice of returning to previous works (and referencing other composers' works) with new innovations in compositional technique. In this second period, Abrahamsen returned to previous works in two ways: first, arranging earlier works for larger ensembles, and second, expanding upon a germinal motive from an earlier work. For instance, in *Four Pieces for Orchestra* (2004), Abrahamsen recasts the first four movements of his *Ten Studies for Piano* (1984-98) for orchestral forces, while the final movement of the *Piano Concerto* is an arrangement of the eighth movement of *Ten Studies*. *Air* (2006), for solo accordion, is a reworking and development of material from his first piece for accordion, *Canzone* (1978), and *Air* further serves as a point of departure for the *String Quartet No. 3* (2008).[@SQ3PN Program note]
-
-*Ten Sinfonias* (2010) program note:
-
-> Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
 
 Beginning with *Schnee* (2006-08) and *Wald* (2008-09), Abrahamsen's style crystalized into one based on tightly constrained musical materials, microtonal sonorities, repeating material delineated by repeat signs, frequent changes of meter, tempo modulations, and complex polyrhythms. The two works are drastically different in scope and instrumentation: *Schnee* lasts an hour and is scored for nine musicians, while *Wald* lasts eighteen minutes and is scored for fifteen musicians. Abrahamsen has nonetheless indicated that *Wald* is a "twin piece" to *Schnee*,[@WaldPN Program note] and indeed they share not only the aforementioned characteristics but also clearly articulated forms and symmetrical ensemble seating plans.
 
@@ -23,8 +19,18 @@ While *Schnee* has gained greater notoriety, due in part to its dramatic hour-lo
 
 ## Abrahamsen and the Horn
 
-It is important to note that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. In the first ever public performance of his own music in 1969, Abrahamsen performed a piece called *October* on horn and piano using both instruments with his left hand and played "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
+As both *Walden* and *Wald* feature horn material, it is worth noting that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. In the first ever public performance of his own music in 1969, Abrahamsen performed a piece called *October* on horn and piano using both instruments with his left hand and played "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
 
 Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Most notable is his *Six Pieces* (1984), for horn, violin, and piano, which he wrote as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN]
 
-Beyond Abrahamsen's personal and musical relationship with the horn, the instrument has historical and referential aspects connect it to his music and heritage. **more on horn's connection to German/Danish culture, German romanticism, and hunting**
+**Back to *Walden* and *Wald***
+
+*Ten Sinfonias* (2010) program note:
+
+> Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
+
+- Connect the quote above to how Abrahamsen does not re-visit the rhythmic displacement element at all in *Walden* yet does so for many other elements
+
+<!-- Discussion of *Walden* should emp processes/materials that do get re-interpreted over the course of the piece
+- Then the transition to *Wald* focuses on how he dramatically explodes this previously "unexplored" idea
+ -->
