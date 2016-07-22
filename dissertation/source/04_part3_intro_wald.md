@@ -13,104 +13,74 @@ The musicians are seated in a non-standard semi-circle configuration of four gro
 
 ![*Wald* seating plan.](../figures/wald-seating-plan.png){#fig:wald-seating-plan width=50%}
 
-The seating arrangement creates a distinct left and right side of the ensemble that mirror one another. For Groups III and IV, this the mirroring is even reflected in the order of the instruments within the group. The outer seats contain a wind-powered instrument, the middle seats a string, and the inner seats an attack based instrument. The arrangement is intimately connected to the way Abrahamsen handles orchestration and transfers musical material between groups. He does this in a way that is generally balanced and symmetrical where phrases performed by one group of instruments will be answered by phrases from a corresponding mirror group. For instance, in the second sections of Part A, the middle circle's marimba (Group III) and harp (Group IV) alternate percussive, chromatic lines while their inner circle counterparts (Group I for the marimba, Group II for the harp) sustain the pitches of their attacks. **conclusion**
+The seating arrangement creates a distinct left and right side of the ensemble that mirror one another. For Groups III and IV, this the mirroring is even reflected in the order of the instruments within the group. The outer seats contain a wind-powered instrument, the middle seats a string, and the inner seats an attack based instrument. The arrangement is intimately connected to the way Abrahamsen handles orchestration and transfers musical material between groups. He does this in a way that is generally balanced and symmetrical where phrases performed by one group of instruments will be answered by phrases from a corresponding mirror group. For instance, in the second sections of Part A, the middle circle's marimba (Group III) and harp (Group IV) exchange percussive, chromatic lines while their inner circle counterparts (Group I for the marimba, Group II for the harp) sustain the pitches of their attacks. The relationship between orchestration and seating arrangement is not always active or perfectly symmetrical but nonetheless shapes a significant part of *Wald*.
 
 ## Form 
 
-<!-- The two works are musically related as Abrahamsen's use of  and Abrahamsen noted in an interview with the BBC prior to the UK premiere of *Wald*, it could bear the subtitle of "Variations" or "A Theme from *Walden*."  -->
+In an interview with the BBC prior to its UK premiere, Abrahamsen noted that *Wald* could bear the subtitle of "Variations" or "A Theme from *Walden*." The form of the work consists of an introduction and seven variations whose principle thematic material comes from the first sixteen measures of *Walden*. Like *Walden* and *Schnee*, which Abrahamsen also identifies as a "twin piece,"[@WaldPN Program Note] the eight sections of *Wald* decrease in duration over the course of the work. The compression of proportions at the variation-level is somewhat obscured both by particular variations containing several subdivisions and by related variations that group together as parts forming a larger structure. For instance, the subdivisions within the Introduction, Variation 1, and Variation 2 encourage a more granular listening experience that makes perceiving the long-range compression difficult at first. But rather than pointing to any sort of deficiency in Abrahamsen's form, this multi-level proportion structure instead allows one to engage with *Wald* on the subdivision-, variation-, or part-level. 
 
-The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table @tbl:wald-proportions, measured from the only commercially released recording by Asko|Schönberg Ensemble,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, as seen earlier in *Walden*.
-
-Table: *Wald* Formal Proportions. {#tbl:wald-proportions}
-
-| Section      | Duration |
-|:-------------|:--------:|
-| Introduction |   3:10   |
-| Variation 1  |   2:38   |
-| Variation 2  |   2:16   |
-| Variation 3  |   2:28   |
-| Variation 4  |   1:59   |
-| Variation 5  |   1:39   |
-| Variation 6  |   1:31   |
-| Variation 7  |   1:18   |
-
-The variations are juxtaposed with little to no transitional material. Their boundaries and subsections within variations are clearly demarcated in the score through the use of different tempi, meters, descriptive markings, and double bar lines. Table @tbl:wald-form gives a comprehensive list of every tempo change and descriptive marking that accompanies a new subsection or variation.
+Abrahamsen juxtaposes the various sections with little to no transitional material. Their boundaries are clearly demarcated both sonically by abrupt changes in dynamics, timbre, texture, and register as well as visually in the score by different tempi, meters, descriptive markings, and double bar lines. Table @tbl:wald-form details the many sections within *Wald* by providing a comprehensive list of every tempo change and descriptive marking that accompanies a variation or subdivision. It also gives the durations for individual variations (measured from the only commercially released recording by Asko|Schönberg Ensemble[@WaldRec]) and identifies the variations that group together as Parts (evident through explicitly returning tempo and descriptive markings).
 
 Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 
-| Section   | Measures   | Tempo                                  | Descriptive markings                |
-| :-------- | :--------- | :------------------------------------- | :---------------------------------- |
-| Intro     | 1-36       | Tempo I `quarterNoteDotted` = 88       | Allegro con brio                    |
-|           |            |                                        | "wie aus der Ferne"                 |
-|           |            |                                        | ("as from a distance")              |
-|           | 37-72      | Tempo II `halfNote` = 66               | Poco meno ma maestoso               |
-|           |            |                                        | poco grottesco e ironico            |
-|           | 73-90      | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e agitato            |
-|           |            |                                        | "aufgeregt" ("excited")             |
-|           | 91-108     | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
-|           |            |                                        |                                     |
-| Var 1     | 109-170    | Tempo I `quarterNoteDotted` = 92       | Allegro con brio                    |
-|           |            |                                        | ma un poco piu mosso                |
-|           |            |                                        | ancora "wie aus der Ferne"          |
-|           |            |                                        | (yet "as from a distance")          |
-|           | 171-237    | Tempo II `halfNote` = 77               | Poco meno maestoso                  |
-|           |            |                                        | ma un poco piu mosso                |
-|           |            |                                        | ma poco lamentoso                   |
-|           | 238-253    | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e piu agitato        |
-|           |            |                                        | "sehr aufgeregt" ("very excited")   |
-|           | 254-267    | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
-|           |            |                                        |                                     |
-| Var 2     | 268-321    | Tempo I `quarterNoteDotted` = 94       | Allegro con brio                    |
-|           |            |                                        | ma sempre poco piu mosso            |
-|           | 322-381    | Tempo II `halfNote` = 82               | Un poco meno                        |
-|           |            |                                        | ma ancora piu mosso                 |
-|           |            |                                        | lamentoso e melancolico             |
-|           | 382-401    | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e agitato            |
-|           |            |                                        | "wieder aufgeregt"                  |
-|           |            |                                        | ("excited again")                   |
-|           | 402-408    | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
-|           |            |                                        |                                     |
-| Var 3     | 409-442    | `halfNote` = 32                        | Adagio misterioso ("Nachtmusik")    |
-|           |            |                                        |                                     |
-| Var 4     | 443-473    | `halfNote` = 32                        | Stesso tempo                        |
-|           |            |                                        |                                     |
-| Var 5     | 474-581    | `quarterNoteDotted` = 64               | Con nuova energia                   |
-|           |            |                                        | "Wie ein plötzliches Erwachen"      |
-|           |            |                                        | ("Like a sudden awakening")         |
-|           | 490-521    | `quarterNote` = 144                    | Vivo furioso                        |
-|           |            |                                        | ("vielleicht eine Jagd")            |
-|           |            |                                        | ("perhaps a hunting")               |
-|           | 522-561    | `quarterNote` = 165                    | Presto volante                      |
-|           |            |                                        | ("galoppierend, immer vorwärts")    |
-|           |            |                                        | ("galloping, always forward")       |
-|           | 562-581    | `quarterNoteDotted` = 132              | Più mosso                           |
-|           |            |                                        |                                     |
-| Var 6     | 582-594    | `eighthNote` = 66                      | Andante mesto                       |
-|           |            |                                        |                                     |
-| Var 7     | 595-605    | `eighthNote` = 64                      | Piu lento                           |
+| Part  | Section   | Duration | Measures   | Tempo                                  | Descriptive markings                |
+| :---  | :-------- | :------- | :--------- | :------------------------------------- | :---------------------------------- |
+| **A** | Intro     | 3:10     | 1-108      |                                        |                                     |
+|       |           |          | 1-36       | Tempo I `quarterNoteDotted` = 88       | Allegro con brio                    |
+|       |           |          |            |                                        | "wie aus der Ferne"                 |
+|       |           |          |            |                                        | ("as if from a distance")           |
+|       |           |          | 37-72      | Tempo II `halfNote` = 66               | Poco meno ma maestoso               |
+|       |           |          |            |                                        | poco grottesco e ironico            |
+|       |           |          | 73-90      | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e agitato            |
+|       |           |          |            |                                        | "aufgeregt" ("excited")             |
+|       |           |          | 91-108     | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
+|       |           |          |            |                                        |                                     |
+|       | Var 1     | 2:38     | 109-267    |                                        |                                     |
+|       |           |          | 109-170    | Tempo I `quarterNoteDotted` = 92       | Allegro con brio                    |
+|       |           |          |            |                                        | ma un poco piu mosso                |
+|       |           |          |            |                                        | ancora "wie aus der Ferne"          |
+|       |           |          |            |                                        | (still "as if from a distance")     |
+|       |           |          | 171-237    | Tempo II `halfNote` = 77               | Poco meno maestoso                  |
+|       |           |          |            |                                        | ma un poco piu mosso                |
+|       |           |          |            |                                        | ma poco lamentoso                   |
+|       |           |          | 238-253    | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e piu agitato        |
+|       |           |          |            |                                        | "sehr aufgeregt"                    |
+|       |           |          |            |                                        | ("very excited")                    |
+|       |           |          | 254-267    | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
+|       |           |          |            |                                        |                                     |
+|       | Var 2     | 2:16     | 268-408    |                                        |                                     |
+|       |           |          | 268-321    | Tempo I `quarterNoteDotted` = 94       | Allegro con brio                    |
+|       |           |          |            |                                        | ma sempre poco piu mosso            |
+|       |           |          | 322-381    | Tempo II `halfNote` = 82               | Un poco meno                        |
+|       |           |          |            |                                        | ma ancora piu mosso                 |
+|       |           |          |            |                                        | lamentoso e melancolico             |
+|       |           |          | 382-401    | Tempo III `quarterNoteDotted` = 100    | Allegro vivace e agitato            |
+|       |           |          |            |                                        | "wieder aufgeregt"                  |
+|       |           |          |            |                                        | ("excited again")                   |
+|       |           |          | 402-408    | Tempo IV `eighthNote` = 88             | Meno mosso, soave e fluente         |
+|       |           |          |            |                                        |                                     |
+| **B** | Var 3     | 2:28     | 409-442    | `halfNote` = 32                        | Adagio misterioso                   |
+|       |           |          |            |                                        | "Nachtmusik"                        |
+|       |           |          |            |                                        |                                     |
+|       | Var 4     | 1:59     | 443-473    | `halfNote` = 32                        | Stesso tempo                        |
+|       |           |          |            |                                        |                                     |
+| **C** | Var 5     | 1:39     | 474-581    |                                        |                                     |
+|       |           |          | 474-489    | `quarterNoteDotted` = 64               | Con nuova energia                   |
+|       |           |          |            |                                        | "Wie ein plötzliches Erwachen"      |
+|       |           |          |            |                                        | ("Like a sudden awakening")         |
+|       |           |          | 490-521    | `quarterNote` = 144                    | Vivo furioso                        |
+|       |           |          |            |                                        | "vielleicht eine Jagd"              |
+|       |           |          |            |                                        | ("perhaps a hunting")               |
+|       |           |          | 522-561    | `quarterNote` = 165                    | Presto volante                      |
+|       |           |          |            |                                        | "galoppierend, immer vorwärts"      |
+|       |           |          |            |                                        | ("galloping, always forward")       |
+|       |           |          | 562-581    | `quarterNoteDotted` = 132              | Più mosso                           |
+|       |           |          |            |                                        |                                     |
+| **D** | Var 6     | 1:31     | 582-594    | `eighthNote` = 66                      | Andante mesto                       |
+|       |           |          |            |                                        |                                     |
+|       | Var 7     | 1:18     | 595-605    | `eighthNote` = 64                      | Piu lento                           |
+|       |           |          |            |                                        |                                     |
 
-**The Variations have varying degrees of difference between each other**
+Part A consists of the Introduction, Variation 1, and Variation 2, and it takes up almost half of *Wald*'s duration. It establishes the principle compositional techniques and associative sets through three sequences of four highly associative sections. The four sections differ in tempo, harmony, density of activity, and associative set development. Mirroring the variation-level compression, the proportions of the four sections also decrease with each sequence. Part B, containing Variations 3 and 4, contrasts with the first part through its quiet, calm, and introverted statis and lack of sectional subdivisions. The two variations are bound together not only by slow tempo but also by the mysterious and winding low melody scored for cello, double bass, and timpani. Part C only includes Variation 5 but it functions as the climax, with the loudest, most chaotic, and texturally dense music. It divides into three sections; the first suddenly breaks the pensive atmosphere of Part B, while the second and third consist of a build up in galloping rhythms and energy. Finally, the last two variations of Part D combine new material alongside literal repetitions of segments from the fourth sections of Part A.
 
-This table highlights variations and sections that are musically connected by these indications, but does not describe the full extent of their relationships. There are interrelated sections and variations across the piece that are not captured by this table. The entire form of the work can be grouped in the following way:
-
-> Part A: Introduction, Variation 1, Variation 2
->
-> Part B: Variation 3 and Variation 4
->
-> Part C: Variation 5
->
-> Part D: Variation 6 and Variation 7
-
-The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
-
-- Short section on terminology conventions
-
-    - "Part" for the grouping of related variations based on shared sound, material, or formal scheme
-    - "Variation" for Intro, Var 1, Var 5, etc.
-    - "Section" for sections inside Intro, Var 1, Var 2
-    - "Section" short hand notation: Var1:Sec3, for example
-    - "Element" for associative segments re-used across the work (better terms for this? maybe something from Hanninen?)
-
-### Harmony
-
-**some brief language on general harmonic language throughout; especially going over how large sections of music use the same collections (ie. sections of Part A)**
+Throughout the following analysis of *Wald*, the term part will be used to refer to those variation groupings listed in Table @tbl:wald-form. Variation will of course be used to refer to an individual variation instance, while section will refer to those subdivisions within a variation. Given the close re-reading relationship between the variations of Part A, a convenient short-hand notation of Intro:Sec1 or Var2:Sec1 will be used to clearly specify the section at hand. Phrases like "the fourth sections of Part A" will apply to Intro:Sec4, Var1:Sec4, and Var2:Sec4.
