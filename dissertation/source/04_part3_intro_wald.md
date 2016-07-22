@@ -1,3 +1,4 @@
+
 # Part 3: An Analysis of *Wald*
 
 ## Background and Instrumentation
@@ -16,7 +17,7 @@ The seating arrangement creates a distinct left and right side of the ensemble t
 
 ## Form 
 
-The two works are musically related as Abrahamsen's use of  and Abrahamsen noted in an interview with the BBC prior to the UK premiere of *Wald*, it could bear the subtitle of "Variations" or "A Theme from *Walden*." 
+<!-- The two works are musically related as Abrahamsen's use of  and Abrahamsen noted in an interview with the BBC prior to the UK premiere of *Wald*, it could bear the subtitle of "Variations" or "A Theme from *Walden*."  -->
 
 The form of *Wald* consists of an introduction and seven variations whose successive durations decrease over the course of the work. The listing of durations in Table @tbl:wald-proportions, measured from the only commercially released recording by Asko|Schönberg Ensemble,[@WaldRec] shows that this decrease is not linear but illustrates Abrahamsen's affinity for compressing global proportions, as seen earlier in *Walden*.
 
@@ -102,6 +103,14 @@ This table highlights variations and sections that are musically connected by th
 
 The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 contain the quietest, calmest, and most introverted music, while Variation 5 functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
+- Short section on terminology conventions
+
+    - "Part" for the grouping of related variations based on shared sound, material, or formal scheme
+    - "Variation" for Intro, Var 1, Var 5, etc.
+    - "Section" for sections inside Intro, Var 1, Var 2
+    - "Section" short hand notation: Var1:Sec3, for example
+    - "Element" for associative segments re-used across the work (better terms for this? maybe something from Hanninen?)
+
 ### Harmony
 
-**some brief language on microtonality throughout *Wald* so it's expected when it comes up in discussion during the analysis**
+**some brief language on general harmonic language throughout; especially going over how large sections of music use the same collections (ie. sections of Part A)**
