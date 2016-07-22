@@ -85,11 +85,19 @@ header-includes:
 
 # Part One: Historical Context
 
-## Intertexuality/Intermusicality
+## Historical Context of Reworking Material
 
-- Not sure if this is needed, but might make point about A's work being highly referential
-- Abrahamsen in dialogue with self and other composers
+- Parody music:
 
+    - From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
+
+- Historical pieces arranged from smaller works:
+
+    - Mussorgsky's *Pictures at an Exhibition* (suite of 10 piano pieces, like A's *Ten Studies*)
+
+- Intertexuality/Intermusicality: Abrahamsen in dialogue with self and other composers
+    
+    - Not sure if this is needed, but might make point about A's work being highly referential
     - Allusions in the *Piano Concerto* [^ConcertoAllusions]
     - Mikhail Bakhtin and *The Dialogic Imagination*: conception of dialogue between past and present[^BakhtinDialogic]
     - "In discussing the richly allusive poetry of Virgil's *Georgics*, R. F. Thomas distinguished six categories of allusive reference, which are applicable to a wider cultural sphere. These types are:"[^ThomasAllusion]
@@ -101,17 +109,7 @@ header-includes:
         5. **Apparent Reference**: "which seems clearly to recall a specific model but which on closer inspection frustrates that intention"; and
         6. **Multiple Reference or Conflation**: which refers in various ways simultaneously to several sources, fusing and transforming the cultural traditions.
 
-## Historical Context of Reworking Material
-
-- Parody music:
-
-    - From Wikipedia on parody: "During the Renaissance, a prevailing view of the balance between originality and homage to earlier artists was summed up by Sir Philip Sidney in his Defence of Poesy as "Art, Imitation and Exercise". Art, one's personal skills and talents, was expected to follow Imitation, the life or works of great predecessors, and the two must combine in Exercise, the synthesis of Art and Imitation."
-
-- Historical pieces arranged from smaller works:
-
-    - Mussorgsky's *Pictures at an Exhibition* (suite of 10 piano pieces, like A's *Ten Studies*)
-
-## Composers Reinvented After Crises and Breaks:
+## Composers who reinvented after crises and breaks:
 
 - Arnold Schoenberg
 - Franco Donatoni
@@ -128,42 +126,66 @@ header-includes:
 
     - needing a fragment (from *Composer to Composer*): "Now I always use a fragment given to me, or the fragment of another score. I need a fragment. Something that can develop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 
-## Contemporary Context
+## Contemporary composers well known for frequently reworking material
 
-- 20th Century Composers that frequently rework older material:
 - Luciano Berio
 - Toru Takemitsu
 - Toshio Hosokawa
 - Pierre Boulez
 - Franco Donatoni
 
+## Overview of Hanninen Theory
+
+- Why use *Theory of Musical Analysis*
+- Hanninen terminology
+
+    - segmentation and associative organization as a way to track variation
+    - sonic and contextual domains and criteria
+    - segments: musical segmentations supported by various sonic, contextual, or structural criteria
+    - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
+    - associative set: group of segments that share contextual properties
+        
+        - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
+        - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
+        - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
+    
+- Naming conventions
+    
+    - associative sets with large letters: A, B, X, Y
+    - numerals appended to reflect order in score, A1, A2, B5
+    - subsets of associative sets have slash notation: A/a, B/c, D/b
+    - footnote about increasing numbers even for literal repetition
+
 # Part Two: An Analysis of *Walden*
 
 ## Background
+
+- title and inspiration
+
+    - brief background on Thoreau and *Walden*
+    - program note: relationship to nature: cyclical, organicism, flowering, decay
+    - Abrahamsen on how he found the title from Thoreau's book after he completed *Walden*[^WaldenTitleFoundAfter]
+    - Abrahamsen has said this is true for many pieces[^TitlesComeAfter]
+    - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
+
+        - <https://en.wikipedia.org/wiki/Concrete_art>
+        - <https://en.wikipedia.org/wiki/De_Stijl>
+        - how is this connected? maybe in the strictness of technique?
+
+- **questions**
+
+    - date and place of premiere
+    - date and place of reed quintet version premiere
+    - considerations when translating the arrangement
+
+## Instrumentation
 
 - Woodwind Quintet
 
     - commission from Funen Wind Quintet
     - instrumentation
-    - title and inspiration
 
-        - brief background on Thoreau and *Walden*
-        - program note: relationship to nature: cyclical, organicism, flowering, decay
-        - Abrahamsen on how he found the title from Thoreau's book after he completed *Walden*[^WaldenTitleFoundAfter]
-        - Abrahamsen has said this is true for many pieces[^TitlesComeAfter]
-        - Abrahamsen's interesting mention of concretism, which is connected to the art movement that seems to eschew references to natures in favor of abstraction
-
-            - <https://en.wikipedia.org/wiki/Concrete_art>
-            - <https://en.wikipedia.org/wiki/De_Stijl>
-            - how is this connected? maybe in the strictness of technique?
-
-    - **questions**
-
-        - date and place of premiere
-        - date and place of reed quintet version premiere
-        - considerations when translating the arrangement
-
-- Arrangement for Reed Quintet
+- Reed Quintet Arrangement
 
     - rearranged for the Calefax Reed Quintet in 1995
     - it's an example of re-working during "fermata" period
@@ -195,57 +217,41 @@ header-includes:
 	
 ## Analysis
 
-## Elements Overview
+## Associative Sets Overview
 
-- Brief overview of Hanninen terminology?
+- Set *A*
 
-    - segmentation and associative organization as a way to track variation
-    - sonic and contextual domains and criteria
-    - segments: musical segmentations supported by various sonic, contextual, or structural criteria
-    - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
-    - associative set: group of segments that share contextual properties
-        
-        - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
-        - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
-        - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
-    
-    - naming conventions
-        
-        - associative sets with large letters: A, B, X, Y
-        - numerals appended to reflect order in score, A1, A2, B5
-        - in her examples, literal repetition of segments are given new numbers, but with the case of Abrahamsen where there is a lot of repetition, I won't do that
-        - 
+    - perfect fourth
+    - primarily in horn
+    - horn call in III
 
-- Associative segments in *Walden*:
+- Set *B*
 
-    - Perfect fourth:
-    
-        - horn motive
-        - oboe motive
-        - related to horn call in III
-    
-    - [013]: 
-        
-        - echoing motives in I
-        - three octave melody in I and II
-        - canonic material in I and II
-        - figuration at opening of III
-    
-    - Staccato motive:
-        
-        - homophonic ending of I
-        - punctuated interjections of II
-        - ending of III
-    
-    - D major: 
-        
-        - this isn't really a segment
-        - more a feature of compositional design in how it appears at multiple endings with a variety of materials
-        - homophonic ending of I
-        - ending of III and horn call
-        - key area ending of IV
+    - echoing motives in I
+    - canonic material in I and II
+    - three octave melody in I and II
+    - figuration at opening of III ?
+    - `3-2[013]`
 
-    - [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
+- Set *C*
+
+    - oboe motive
+
+- Set *D*:
+    
+    - homophonic ending of I
+    - punctuated interjections of II
+    - ending of III
+
+- D major: 
+    
+    - this isn't really a segment
+    - more a feature of compositional design in how it appears at multiple endings with a variety of materials
+    - homophonic ending of I
+    - ending of III and horn call
+    - key area ending of IV
+
+- [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
 
 - Some associative sets sound similar, but how do we know that they are    
     - It is not about them sounding similar, although they do, it is more about how these soncially similar segments are treated as different ideas by Abrahamsen, evidenced through differences in context, compositional technique, and development.
@@ -260,27 +266,36 @@ header-includes:
 
 ### Associative Set B
 
-- associative subsets:
+- *B/a*: eighth/quarter division dyad
+- *B/b*: quintuplet division dyad
+- *B/c*: triplet division dyad
 
-    - *B/a*: eighth/quarter division dyad
-    - *B/b*: quintuplet division dyad
-    - *B/c*: triplet division dyad
+    - Hanninen might call *B/a-c* populations given their proximity in time and how they are bound together through process
 
-        - Hanninen might call *B/a-c* populations given their proximity in time and how they are bound together through process
-
-    - *B/d*: major third interrupting dyad; similar to Ligeti thing
-    - *B/e*: sustained dyad after *B/d* in I mm. 39-40 and II mm. 29-30
-    - *B/f*: multi-octave melody, suggests *B/a-c* 
+- *B/d*: major third interrupting dyad; similar to Ligeti thing
+- *B/e*: multi-octave melody, suggests *B/a-c* 
+- ~~*B/e*: sustained dyad after *B/d* in I mm. 39-40 and II mm. 29-30~~
 
 ### Associative Set C
+
+- *C/a*:
+- *C/b*:
+- *C/c*:
+
 ### Associative Set D
 
+- *D/a*:
+- *D/b*:
+- *D/c*:
+- *D/d*:
 - connection between D/a and D/c: 14 segments, change on 14th
+
     - D/a 14th: mm. 61 loud dynamic and new pitches
     - D/b 14th: mm. 29, change in rhythmic placement, duration, and inversion
 
 ### Conclusion
 
+- Overview of associative landscape
 - Wrap up general comments on variation and techniques used
 - Techniques: 
 	
@@ -369,6 +384,18 @@ header-includes:
     - Element 6: cascasing figures
     - Element 7: melodic segments surrounding Element 6
     - Night music melody
+    - Variation 5:
+    
+        - First and second section:
+
+            - Falling segment = 
+            - Repeated note segment = element 2?
+        
+        - Third Section:
+
+            - Element 5
+            - Element 1 repeated chord?
+            - Element 2 = piano rhythm?
 
 - Pitch collections:
     
