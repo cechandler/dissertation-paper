@@ -43,6 +43,10 @@ tex:
 	-o "$(OUTPUTDIR)/$(OUTFILE).tex" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-timesig.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-rhythms.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-dynamics.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \

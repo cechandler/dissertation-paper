@@ -125,8 +125,17 @@ header-includes:
 | Var 7   | mm. 595-605 |                                    |                                   |
 |         | 595         | \eighthNote = 64                   | Piu lento                         |
 
+# Part Level Duration Proportions
+
+| Part   | Duration    |
+| :----: | :---------: |
+| A      | 8:04        |
+| B      | 4:27        |
+| C      | 1:39        |
+| D      | 2:49        |
 
 # Timings from Recording
+
 |   Section    | Duration |
 |:------------:|:--------:|
 | Introduction |   3:10   |
@@ -139,6 +148,7 @@ header-includes:
 | Variation 7  |   1:18   |
 
 # Related Pieces
+
 | Work                         | Related Work                                      |
 |:-----------------------------|:--------------------------------------------------|
 | *Ten Preludes* (1973)        | *Ten Sinfonias* (2010)                            |
