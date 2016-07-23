@@ -429,6 +429,7 @@ header-includes:
 ### Part B
 
 - Variation 3 and Variation 4
+- Var 3: symmetrical pitch ordering at interval level after third phrase to end
 
 ### Part C
 
