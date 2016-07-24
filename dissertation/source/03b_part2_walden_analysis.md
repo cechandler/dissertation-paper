@@ -1,4 +1,5 @@
-## Associative Set Overview
+
+## Associative Sets
 
 **revise this whole opening section to describe how certain segments/sets appear across movements and also highly associate with one another, contributing to the sensation of interrelated movements. but Abrahamsen treats them as different entities despite their associations**
 
