@@ -372,30 +372,57 @@ header-includes:
     - "Section" notation: Var1:Sec3 for example
     - "Element" for associative segments re-used across the work (better terms for this? maybe something from Hanninen?)
 
-## Associative Segments
+## Associative Sets
 
-- Segments: 
-
-    - Element 1: twice repeated chord
-    - Element 2: measured and unmeasured tremolo
-    - Element 3: rising fourth/fifth call
-    - Element 4: repeated note response
-    - Element 5: pentatontic polyrhythms
-    - Element 6: cascasing figures
-    - Element 7: melodic segments surrounding Element 6
-    - Night music melody
-    - Variation 5:
+- Set *F*
     
-        - First and second section:
+    - *F/a*: twice repeated chord
+    - *F/b*: repeated note in Var6 and Var7
 
-            - Falling segment = 
-            - Repeated note segment = element 2?
-        
-        - Third Section:
+- Set *G*
 
-            - Element 5
-            - Element 1 repeated chord?
-            - Element 2 = piano rhythm?
+    - *G/a*: quintuplet and sextuplet measured and unmeasured tremolo
+    - *G/b*: repeated note alternation in Var2
+
+- Set *H*: rising fourth/fifth call
+- Set *J*
+
+    - *J/a-c* are subdivided for convenience
+    - *J/a*: repeated note response, voice 1
+    - *J/b*: repeated note response, voice 2
+    - *J/c*: repeated note response, static rhythm voice
+    - *J/d*: chromatic fourth layer 1
+    - *J/e*: chromatic fourth layer 2
+
+- Set *K*: pentatontic polyrhythms
+- Set *L*: cascading figures
+
+    - 11 segments
+
+- Set *M*
+    
+    - melodic segments surrounding set *L*
+    - numerous subsets
+    - *M/a*: 3-note seg; bs cl and vla, 
+    - *M/b*: 3-4-note seg; bs cl and vla, downward contour
+    - *M/c*: 2-note seg with two voices, <08><3t>
+    - *M/d*: large leap then oscillation; 1 and 2 have full seg, 3 and 4 only oscillation, 5-x only large leap
+    - *M/e*: swell and punctuation
+
+- Set *N*: Night music melody
+
+- Variation 5:
+
+    - First and second section:
+
+        - Falling segment = 
+        - Repeated note segment = element 2?
+    
+    - Third Section:
+
+        - flute = set *K*
+        - repeated chord = set *F*?
+        - piano rhythm = set *G*?
 
 - Pitch collections:
     
@@ -422,8 +449,8 @@ header-includes:
 
 - Introduction, Variation 1, Variation 2 with four Sections
 - Each Section decreases in duration over Part A
-- Introduce six elements
-- Track element variation over Part A
+- Introduce subsets
+- Track associative subset variation over Part A
 - Variation in: harmonic technique, collection, and orchestration
 
 ### Part B
