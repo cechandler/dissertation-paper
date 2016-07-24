@@ -1,5 +1,7 @@
 
-## Part A
+## Analysis
+
+### Part A
 
 The Introduction, Variation 1, and Variation 2 form Part A of *Wald* based on the similarity of their four sections, associative sets, and shared compositional techniques. The Introduction and Variation 1 can be thought of as a sub-unit inside Part A. They are highly associative and primarily differ in how Abrahamsen varies the duration proportions of associative subsets. Variation 2 contains more substanial changes in subset proportions, as well as variations in harmonic collection, texture, and orchestration. Variations 1 and 2 are clearly both variations on the material from the Introduction, but the degree of difference is much greater for Variation 2. 
 
@@ -17,7 +19,7 @@ Section 1 is shaped by the same rhythmic displacement process and call and respo
 
 Throughout Part A (and *Wald* as a whole), Abrhamsen exerts tight controls over the harmonic dimension of his music, and a general overview of the collections in play will be useful before examining the section by section subset organization. Sections 1 and 3 contain extremely transparent harmonic collections, while in Sections 2 and 4 contain superimpositions of these austere collections to create more complex harmonies. The first section only consists of a single instance of interval class `5` and just intonation, flattened 1/6-th shadings of the interval. In Intro:Sec1 and Var1:Sec1, the interval is `D4`-`G4`, and in Var2:Sec1, it is `Bb3`-`F4`, a pitch class relationship of T~0~I. The second section is defined by set class `6-6[012567]`, and Abrahamsen articulates them as three layers of perfect fourths related by semitone. Intro:Sec2 and Var1:Sec2 maintain the same collection of `{1,2,3,6,7,8}`, while Var2:Sec2 is related by T~10~, `{T,0,1,4,5,6}`. The third section is solely based on a pentatonic subset of set class `4-22[0247]`. In the returning sequences of Section 3, Abrahamsen transposes Intro:Sec3's initial set of `{2,5,7,9}` by T~1~ and T~9~ in Var1:Sec3 and Var2:Sec3, respectively. The fouth section features numerous superimpositions of `4-22[0247]` forming a variety of supersets. Abrahamsen applies the same transpositions scheme of T~1~ and T~9~ to the returning segments in Var1:Sec4 and Var2:Sec4.
 
-### Section 1
+#### Section 1
 
 The first subsection contains several aspects that remain consistent across Part A: highly organized proportions, symmetrical call and response patterns, microtonal temperaments, and rhythmic displacement as a primary technique. There are four elements that characterize the first subsection: 1) a twice-articulated D4-G4 dyad, 2) a continuous measured tremolo of D4-G4 dyad, 3) an ascending perfect fourth call, and 4) a thrice-articulated repeated note response. See Figure @fig:wald-ss1-elements for an example of each element. Many of these same elements are slightly varied and carried over into subsection 2 but that will be discussed in detail further below.
 
@@ -108,7 +110,7 @@ In the two instances of Element 4 in Variation 2 (for bass/cello and horn/bass f
 
 **Subsection 1 conclusion**
 
-### Subsection 2
+#### Subsection 2
 
 In the second subsection of Part A, Abrahamsen recasts the previous four elements in a more chromatic language and louder dynamic context. Like the first subsection, Variation 1 is close re-reading of the Introduction, while Variation 2 is further removed and contains changes in harmony and **density**. Again, Abrahamsen controls the metrical scheme of each subsection 2 by alternating double bar line groupings that differ by one measure. Unlike Var2:Sec1, the final instance of subsection 2 does not settle into equally grouped phrases:
 
@@ -204,7 +206,7 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 **section 2 conclusion**
 
-### Subsection 3
+#### Subsection 3
 
 > **Introduction: Subsection 3**:
 
@@ -224,7 +226,7 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 > Total = 20 measures
 
-### Subsection 4
+#### Subsection 4
 
 Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
 
