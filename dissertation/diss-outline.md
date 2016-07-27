@@ -217,6 +217,10 @@ header-includes:
 	
 ## Analysis
 
+- Hanninen *Theory of Recontextualization* (pg. 66): 
+    
+    - This suggests a mechanism (or explanation) for the phenomenal transformation of repetition: when a change-in-context changes the set of relations active between the thing and its context in an important way, the sound of the thing is transformed. 
+
 ## Associative Sets Overview
 
 - Set *A*

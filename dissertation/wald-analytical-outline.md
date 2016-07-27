@@ -7,13 +7,6 @@ header-includes:
   - \usepackage{lilyglyphs}
 ---
 
-## Introduction, Variation 1, and Variation 2
-
-- **re-organize to introduction subsection 1, variation 1 subsection 1, variation 2 subsection 1**
-- **re-organize to introduction subsection 2, variation 1 subsection 2, variation 2 subsection 2**
-- **re-organize to introduction subsection 3, variation 1 subsection 3, variation 2 subsection 3**
-- **re-organize to introduction subsection 4, variation 1 subsection 4, variation 2 subsection 4**
-
 ## Subsection 1
 
 ### Main features
