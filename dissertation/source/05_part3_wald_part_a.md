@@ -3,78 +3,78 @@
 
 ### Part A
 
-The Introduction, Variation 1, and Variation 2 form Part A of *Wald* based on the similarity of their four sections, associative sets, and shared compositional techniques. The Introduction and Variation 1 can be thought of as a sub-unit inside Part A. They are highly associative and primarily differ in how Abrahamsen varies the duration proportions of associative subsets. Variation 2 contains more substanial changes in subset proportions, as well as variations in harmonic collection, texture, and orchestration. Variations 1 and 2 are clearly both variations on the material from the Introduction, but the degree of difference is much greater for Variation 2. 
+The Introduction, Variation 1, and Variation 2 form Part A of *Wald* based on the similarity of their four sections, associative sets, and shared compositional techniques. The Introduction and Variation 1 can be thought of as a sub-unit inside Part A. They are highly associative and primarily differ in how Abrahamsen varies the duration proportions of associative subsets. Variation 2 contains more substanial changes in subset proportions, as well as variations in harmonic collection, texture, and orchestration. Variations 1 and 2 are clearly both variations on the material from the Introduction, but the degree of difference is much greater for Variation 2.
 
-From the scope of structure, table @tbl:wald-sectional-proportions highlights two notable characteristics of the section-level proportions: 1) they mirror the variation-level proportional compression by decreasing in duration from variation to variation,^[Measurements are in seconds taken from the Asko|Schönberg recording. When calculated from the tempi and meters listed in the score, the proportions still exhibit the same characteristics as well.] and 2) within any given variation, the sectional durations follow a particular ordering from longest to shortest, section 3, 2, 1, and 4. 
+From the scope of structure, table @tbl:wald-sectional-proportions highlights two notable characteristics of the section-level proportions: 1) they mirror the variation-level proportional compression by decreasing in duration from variation to variation,^[Measurements are in seconds taken from the Asko|Schönberg recording. When calculated from the tempi and meters listed in the score, the proportions still exhibit the same characteristics as well.] and 2) within any given variation, the sectional durations follow a particular ordering from longest to shortest, section 3, 2, 1, and 4.
 
 Table: *Wald* Intro, Var 1, and Var 2 sectional proportions. {#tbl:wald-sectional-proportions}
 
-| <!-- blank -->   | Section 1   | Section 2   | Section 3   | Section 4   |
-| :--------------- | :---------: | :---------: | :---------: | :---------: |
-| Introduction     | 0:45        | 0:48        | 1:00        | 0:36        |
-| Variation 1      | 0:36        | 0:43        | 0:48        | 0:30        |
-| Variation 2      | 0:31        | 0:38        | 0:41        | 0:25        |
+| <!-- blank --> | Section 1 | Section 2 | Section 3 | Section 4 |
+|:---------------|:---------:|:---------:|:---------:|:---------:|
+| Introduction   |   0:45    |   0:48    |   1:00    |   0:36    |
+| Variation 1    |   0:36    |   0:43    |   0:48    |   0:30    |
+| Variation 2    |   0:31    |   0:38    |   0:41    |   0:25    |
 
-Section 1 is shaped by the same rhythmic displacement process and call and response material from first movement of *Walden*. Section 2 is a close re-reading of Section 1 with louder dynamics, chromatic harmony, and different associative subsets. Section 3 features a web of polyrhythmic segments of set *K* evoking the "agitated flocks of birds" mentioned in the program note, while Section 4 contains a short sequence of cascading segments in the harp, marimba, and piano paired with sustained lines in the woodwinds and strings. 
+Section 1 is shaped by the same rhythmic displacement process and call and response material from first movement of *Walden*. Section 2 is a close re-reading of Section 1 with louder dynamics, chromatic harmony, and different associative subsets. Section 3 features a web of polyrhythmic segments of set *K* evoking the "agitated flocks of birds" mentioned in the program note, while Section 4 contains a short sequence of cascading segments in the harp, marimba, and piano paired with sustained lines in the woodwinds and strings.
 
-Throughout Part A (and *Wald* as a whole), Abrhamsen exerts tight controls over the harmonic dimension of his music, and a general overview of the collections in play will be useful before examining the section by section subset organization. Sections 1 and 3 contain extremely transparent harmonic collections, while in Sections 2 and 4 contain superimpositions of these austere collections to create more complex harmonies. The first section only consists of a single instance of interval class `5` and just intonation, flattened 1/6-th shadings of the interval. In Intro:Sec1 and Var1:Sec1, the interval is `D4`-`G4`, and in Var2:Sec1, it is `Bb3`-`F4`, a pitch class relationship of T~0~I. The second section is defined by set class `6-6[012567]`, and Abrahamsen articulates them as three layers of perfect fourths related by semitone. Intro:Sec2 and Var1:Sec2 maintain the same collection of `{1,2,3,6,7,8}`, while Var2:Sec2 is related by T~7~I, `{T,0,1,4,5,6}`. The third section is solely based on a pentatonic subset of set class `4-22[0247]`. In the returning sequences of Section 3, Abrahamsen transposes Intro:Sec3's initial set of `{2,5,7,9}` by T~1~ and T~9~ in Var1:Sec3 and Var2:Sec3, respectively. The fouth section features numerous superimpositions of `4-22[0247]` forming a variety of supersets. Abrahamsen applies the same transpositions scheme of T~1~ and T~9~ to the returning segments in Var1:Sec4 and Var2:Sec4.
+Throughout Part A (and *Wald* as a whole), Abrahamsen exerts tight controls over the harmonic dimension of his music, and a general overview of the collections in play will be useful before examining the section by section subset organization. Sections 1 and 3 contain extremely transparent harmonic collections, while in Sections 2 and 4 superimpose the same minimal collections to create more complex harmonies. The first section only consists of a single instance of interval class `5` and just intonation, flattened 1/6-th shadings of the interval. In Intro:Sec1 and Var1:Sec1, the interval is `D4`-`G4`, and in Var2:Sec1, it is `Bb3`-`F4`, a pitch class relationship of T~0~I. The second section is defined by set class `6-6[012567]`, and Abrahamsen articulates them as three layers of perfect fourths related by semitone. Intro:Sec2 and Var1:Sec2 maintain the same collection of `{1,2,3,6,7,8}`, while Var2:Sec2 is related by T~7~I, `{T,0,1,4,5,6}`. The third section is solely based on a pentatonic subset of set class `4-22[0247]`. In the returning sequences of Section 3, Abrahamsen transposes Intro:Sec3's initial set of `{2,5,7,9}` by T~1~ and T~9~ in Var1:Sec3 and Var2:Sec3, respectively. The fouth section features numerous superimpositions of `4-22[0247]` forming a variety of supersets. Abrahamsen applies the same transpositions scheme of T~1~ and T~9~ to the returning segments in Var1:Sec4 and Var2:Sec4.
 
 #### Section 1
 
-Abrahamsen constructs the first sections of Part A from associative subsets of *F*, *G*, *H*, and *J*. Sets *F* *G*, and *H* have the fewest associative subsets, while set *J* contains five associative subsets, three of which appear in Section 1. The segments of these four associative sets are largely uniform in character; their primary variation comes in the form of timbre and duration (and harmony but only in Var2:Sec1). See figure @fig:wald-sets-all for prototypical examples of the subsets found in Section 1. Subset *F/a* appears 43 times throughout Part A with 17 segments distributed 1, 13, and 3 across the three sequences of Section 1. *F/a* is comprised of a twice-articulated `D4`-`G4` dyad most often scored for piano, harp, or marimba. The only other associative subset within *F* does not appear until Variations 6 and 7. The two subsets of set *G* associate through their function as a background texture of repeated notes sounding continuously through Section 1. *G/a* is scored for the two violins that articulate sixteenth-note or quintuplet sixteenth-note measured-tremolo dyads, and subset *G/b*, only appearing in Var2:Sec2, consists of a spiccato, detached single-note rearticulation in the cello and bass. Set *H* is the main ascending perfect fourth horn "theme" from *Walden*, now scored for bass flute and French horn. It appears 4, 6, and 1 times during the three sequences of Section 1. Three of the five subsets of *J* complete the remainder of the material forming Section 1 with 4, 7, and 2 appearances. Like the three subsets *B/a-c* in *Walden*, subsets *J/a-c* sound heterophonic instances of the same dyad and are differentiated here for their consistency in subdivision and for convenience. 
+Abrahamsen constructs the first sections of Part A from associative subsets of *F*, *G*, *H*, and *J*. Sets *F* *G*, and *H* have the fewest associative subsets, while set *J* contains five associative subsets, three of which appear in Section 1. The segments of these four associative sets are largely uniform in character; their primary variation comes in the form of timbre and duration (and harmony but only in Var2:Sec1). See figure @fig:wald-sets-all for prototypical examples of the subsets found in Section 1. Subset *F/a* appears 43 times throughout Part A with 17 segments distributed 1, 13, and 3 across the three sequences of Section 1. *F/a* is comprised of a twice-articulated `D4`-`G4` dyad most often scored for piano, harp, or marimba. The only other associative subset within *F* does not appear until Variations 6 and 7. The two subsets of set *G* associate through their function as a background texture of repeated notes sounding continuously through Section 1. *G/a* is scored for the two violins that articulate sixteenth-note or quintuplet sixteenth-note measured-tremolo dyads, and subset *G/b*, only appearing in Var2:Sec2, consists of a spiccato, detached single-note rearticulation in the cello and bass. Set *H* is the main ascending perfect fourth horn "theme" from *Walden*, now scored for bass flute and French horn. It appears 4, 6, and 1 times during the three sequences of Section 1. Three of the five subsets of *J* complete the remainder of the material forming Section 1 with 4, 7, and 2 appearances. Like the three subsets *B/a-c* in *Walden*, subsets *J/a-c* sound heterophonic instances of the same dyad and are differentiated here for their consistency in subdivision and for convenience.
 
 Abrahamsen consistently uses several organizing principles to shape the segments of *F*, *G*, *H*, and *J*: metrical groupings delineated by repeat signs and double bar lines, phrase alternation between symmetrically seated groups, and augmentation and diminution of subset duration. Metrical subdivision plays a subtle but pervasive role throughout *Wald* where frequent markings of "3-Taktig" and "2-Taktig" indicate phrasing subdivisions and whether a measure is conducted in 3 or 2.^[**Citation for *Wald* Score** Performance Notes.] Abrahamsen connects these markings to surface-level details like alternations of harmony and patterns of accents in the two violins of subset *G/a*. Beyond metrical subdivisions, Abrahamsen frames passages of music by grouping measures in discrete, alternating units. For instance, the figure **below** illustrates how Section 1 is organized in alternating groups of measures that differ by one and by Var2:Sec1 converge to equal groupings of six measures. The decreasing duration of these sections shown in Table @tbl:wald-sectional-proportions comes in part from Abrahamsen removing eight measures from each sequence.
 
 > Introduction: Section 1
-> 
+>
 > `3/8` 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||
-> 
+>
 > Total: 70 measures (repeats included)
-> 
+>
 > Variation 1: Section 1
-> 
+>
 > `3/8` 2mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
-> 
+>
 > Total: 62 measures
-> 
+>
 > Variation 2: Section 1
-> 
+>
 > `3/8` 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. ||
-> 
+>
 > Total: 54 measures
- 
+
 <!-- ![*Wald* Section 1 Metrical Grouping](){#fig:wald-sec1-meter} -->
 
 **Alternation structures and ways A varies things during the repeat**
 
-Abrahamsen begins *Wald* with subets *F/a* and *G/a* and ties them closely to this framework of grouped measures. In Intro:Sec1, the singular *F/a* segment appears in mm. 1-2 prior to the beginning of the repeating measures, while in Var1:Sec1 and Var2:Sec2, Abrahamsen places the segments on the downbeats following double bar lines thereby pacing the appearances of *F/a*. Additionally he often changes the "Taktig" subdivision based on the grouping, and this is linked to subtle changes in harmony or accent pattern in *G/a*. For instance in Intro:Sec1 and Var2:Sec2, he alternates between 2- and 3-Taktig every double bar grouping, and in Var2:Sec1, the alternation occurs more frequently depending on the number of grouped measures (e.g. 2+3+2 for 7 and 3+2+3 for 8).
+Abrahamsen begins *Wald* with subsets *F/a* and *G/a* and ties them closely to this framework of grouped measures. In Intro:Sec1, the singular *F/a* segment appears in mm. 1-2 prior to the beginning of the repeating measures, while in Var1:Sec1 and Var2:Sec2, Abrahamsen places the segments on the downbeats following double bar lines thereby pacing the appearances of *F/a*. Additionally he often changes the "Taktig" subdivision based on the grouping, and this is linked to subtle changes in harmony or accent pattern in *G/a*. For instance in Intro:Sec1 and Var2:Sec2, he alternates between 2- and 3-Taktig every double bar grouping, and in Var2:Sec1, the alternation occurs more frequently depending on the number of grouped measures (e.g. 2+3+2 for 7 and 3+2+3 for 8).
 
 Examining the 17 segments of *F/a* across Part A reveals diversity in the instruments performing the dyad and the duration between its two articulations. The Introduction's single segment will serve as a model to compare to Variation 1 and 2. The pianist articulates the subset by directly striking the strings with marimba mallets and adds some resonance with the sostenuto pedal. The duration between attacks is three eighth notes which situates the figure on the downbeats of the first and second measure. Here *F/a* serves an **initiating** role as it demarcates the beginning of the piece, and Abrahamsen's placement of *F/a* at the start of Section 2, where it abruptly triggers new material, further supports this role. During Var1:Sec1 and Var2:Sec1, Abrahamsen distributes segments of *F/a* throughout the section, moving it from an **initiating** role to a **pacing** role. Table @tbl:wald-var1-sec1-f-a and @tbl:wald-var2-sec1-f-a shows the pattern of instrumentation and duration compression underlying these two sections. Each column displays one or more segments of *F/a* and the duration between the two attacks. In Var1:Sec1, Abrahamsen decreases not only the attack duration but also the time between each instrument's appearance. For instance, the piano appears in the first, four, sixth, and seventh instances, creating a decreasing period of rest between each piano segment. In Var2:Sec1, the pattern becomes cyclical rather than compressed and mirrors the stability of the equal six-measure groupings.
 
 Table: Variation 1 Section 1 *F/a* Pattern. {#tbl:wald-var1-sec1-f-a}
 
-| Instrument     | m. 111           | m. 119           | m. 126           | m. 134                               | m. 141           | m. 149                              | m. 156           | m. 164                              |
-| :------------- | :--------------- | :--------------- | :--------------- | :----------------------------------- | :--------------- | :---------------------------------- | :--------------- | :---------------------------------- |
-| Piano          | 9 `eighthNote`   |                  |                  | 6 `eighthNote`                       |                  | 3 `eighthNote` 2/5 `sixteenthNote`  | 3 `eighthNote`   |                                     |
-| Harp           |                  | 6 `eighthNote`   |                  | 3 `eighthNote` 2/5 `sixteenthNote`   | 3 `eighthNote`   |                                     |                  |                                     |
-| Kalimba        |                  |                  | 9 `eighthNote`   |                                      |                  | 6 `eighthNote`                      |                  | 3 `eighthNote` 2/5 `sixteenthNote`  |
-| 2 Trpts        |                  |                  |                  |                                      | 9 `eighthNote`   |                                     |                  | 6 `eighthNote`                      |
-| Bsn + Bs Cl    |                  |                  |                  |                                      |                  |                                     | 9 `eighthNote`   |                                     |
-| Vla + Eng Hn   |                  |                  |                  |                                      |                  |                                     | 9 `eighthNote`   |                                     |
+| Instrument   | m. 111         | m. 119         | m. 126         | m. 134                             | m. 141         | m. 149                             | m. 156         | m. 164                             |
+|:-------------|:---------------|:---------------|:---------------|:-----------------------------------|:---------------|:-----------------------------------|:---------------|:-----------------------------------|
+| Piano        | 9 `eighthNote` |                |                | 6 `eighthNote`                     |                | 3 `eighthNote` 2/5 `sixteenthNote` | 3 `eighthNote` |                                    |
+| Harp         |                | 6 `eighthNote` |                | 3 `eighthNote` 2/5 `sixteenthNote` | 3 `eighthNote` |                                    |                |                                    |
+| Kalimba      |                |                | 9 `eighthNote` |                                    |                | 6 `eighthNote`                     |                | 3 `eighthNote` 2/5 `sixteenthNote` |
+| 2 Trpts      |                |                |                |                                    | 9 `eighthNote` |                                    |                | 6 `eighthNote`                     |
+| Bsn + Bs Cl  |                |                |                |                                    |                |                                    | 9 `eighthNote` |                                    |
+| Vla + Eng Hn |                |                |                |                                    |                |                                    | 9 `eighthNote` |                                    |
 
 Table: Variation 2 Section 1 *F/a* Pattern. {#tbl:wald-var2-sec1-f-a}
 
-| Instr     | m. 268           | m. 286           | m. 304           |
-| :-------- | :--------------- | :--------------- | :--------------- |
-| Piano     | 9 `eighthNote`   |                  |                  |
-| Marimba   |                  | 6 `eighthNote`   |                  |
-| Harp      |                  |                  | 9 `eighthNote`   |
+| Instr   | m. 268         | m. 286         | m. 304         |
+|:--------|:---------------|:---------------|:---------------|
+| Piano   | 9 `eighthNote` |                |                |
+| Marimba |                | 6 `eighthNote` |                |
+| Harp    |                |                | 9 `eighthNote` |
 
-Abrahamsen's spatial arrangement of these segments is one final quality to consider. A comparison of the seating arrangement in Figure @fig:wald-seating-plan with the patterns in Table @tbl:wald-var1-sec1-f-a shows that the segments emanate from the center of the ensemble, spread to the outer and inner circles in Variation 1, and then contract back to the center of the ensemble in Variation 2. 
+Abrahamsen's spatial arrangement of these segments is one final quality to consider. A comparison of the seating arrangement in Figure @fig:wald-seating-plan with the patterns in Table @tbl:wald-var1-sec1-f-a shows that the segments originate from the center of the ensemble, propogate to the outer and inner circles in Variation 1, and then contract back to the center of the ensemble in Variation 2. **closing transition**
 
 Alongside subset *F/a*, the two symmetrically seated violins of Group V alternate two versions of *G/a*, which consists of a continuous, polyrhythmic measured tremolo notated as either a grouping of 6 sixteenth-notes or 5:6^[Five sixteenth-notes in the space of six sixteenth-notes.] quintuplet sixteenth-notes. Given the continuity of this material, it does not sonically segment into discrete units; it acts more as a continuous background texture containing understated contextual details. Following each repeat sign or double bar line, the violins exchange the two polyrhythmic variants, and at each change between 2- and 3-Taktig, they switch between the equally tempered `D4`-`G4` dyad and the 1/6^th^ tone flat dyad.^[During Var2:Sec1 when the pitch collection inverts to `Bb3`-`F4` there is no harmonic exchange.] Additionally, at each subdivision marking, the violins begin accenting every 2 or 3 sixteenth-notes (depending on the active "Taktig"), which produces phasing in articulation due to the polyrhythmic segments.
 
-The variation of subsets *F/a* and *G/a* is remarkably subtle. Despite the austere pitch and rhythm environments, Abrahamsen varies them in duration, orchestration, spatial location, and articulation. These qualities might not always be salient, especially during a first listening, but they nonetheless show a composer whose meticulous attention to nuance extends to the smallest details.
+The variation of subsets *F/a* and *G/a* is remarkably subtle. Despite the austere pitch and rhythm environments, Abrahamsen varies them contextually through duration, orchestration and spatial location, and articulation. These qualities might not always be salient, especially during a first listening, but they nonetheless show a composer whose meticulous attention to nuance extends to the smallest details.
 
 Sets *H* and *J* occupy the foreground levels of activity in Section 1......
 
@@ -136,19 +136,19 @@ Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var1-ss2-e1}
 
 Table: Variation 2 Section 2 *F/a* Pattern. {#tbl:wald-var2-sec2-f-a}
 
-| Instr     | One              | Two              | Three            | Four             | Five              | Six              | Seven            | Eight            | Nine             |
-| :-------- | :--------------- | :--------------- | :--------------- | :--------------- | :---------------- | :--------------- | :--------------- | :--------------- | :--------------- |
-| Piano     | 4 `eighthNote`   |                  |                  | 6 `eighthNote`   |                   |                  | 4 `eighthNote`   |                  |                  |
-| Harp      |                  | 6 `eighthNote`   |                  |                  | 4 `eighthNote`    |                  |                  | 6 `eighthNote`   |                  |
-| Marimba   |                  |                  | 4 `eighthNote`   |                  |                   | 6 `eighthNote`   |                  |                  | 4 `eighthNote`   |
+| Instr   | One            | Two            | Three          | Four           | Five           | Six            | Seven          | Eight          | Nine           |
+|:--------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+| Piano   | 4 `eighthNote` |                |                | 6 `eighthNote` |                |                | 4 `eighthNote` |                |                |
+| Harp    |                | 6 `eighthNote` |                |                | 4 `eighthNote` |                |                | 6 `eighthNote` |                |
+| Marimba |                |                | 4 `eighthNote` |                |                | 6 `eighthNote` |                |                | 4 `eighthNote` |
 
 Table: Var1:Sec2 Element 1 Pattern. {#tbl:wald-var2-ss2-e1}
 
-| Instr     | One              | Two              | Three            | Four             | Five             | Six              | Seven            |
-| :-------- | :--------------- | :--------------- | :--------------- | :--------------- | :--------------- | :--------------- | :--------------- |
-| Piano     | 6 `eighthNote`   |                  |                  | 4 `eighthNote`   |                  |                  | 6 `eighthNote`   |
-| Marimba   |                  | 4 `eighthNote`   |                  |                  | 6 `eighthNote`   |                  |                  |
-| Harp      |                  |                  | 6 `eighthNote`   |                  |                  | 4 `eighthNote`   |                  |
+| Instr   | One            | Two            | Three          | Four           | Five           | Six            | Seven          |
+|:--------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+| Piano   | 6 `eighthNote` |                |                | 4 `eighthNote` |                |                | 6 `eighthNote` |
+| Marimba |                | 4 `eighthNote` |                |                | 6 `eighthNote` |                |                |
+| Harp    |                |                | 6 `eighthNote` |                |                | 4 `eighthNote` |                |
 
 
 Element 2 remains closely associated with its corresponding element from subsection 1. It remains scored for the symmetrical violin I and violin II but becomes a sul ponticello tremolo and removes microtonality and subdivision accents. Instead, the violins alternate the two perfect fourth dyads symmetrical around D4-G4 and accents the downbeat every 2 or 3 measures, depending on the double bar grouping (every 2 for 8 measure grouping or every 3 for 9 measure groupings). In Var1:Sec2 the downbeat accents change slightly to accommodate the 8 and 7 measure groupings (3+2+3 for 8 measure groupings or 2+3+2 for 7 measure groupings). Abrahamsen removes Element 2 in this sul ponticello tremolo form and instead recasts it as a spiccato repeated note gesture alternating between double bass and cello. The two strings alternate between sixteenth-note subdivisions for three measures (double bass) and triplet sixteenth-note subdivisions for two measures (cello) throughout the entirety of Var2:Sec2.
