@@ -120,7 +120,7 @@ Var2:Sec1 contains a greater degree of difference in pitch and rhythm than those
 
 **Section 1 conclusion**
 
-#### Subsection 2
+#### Section 2
 
 In the second subsection of Part A, Abrahamsen recasts the previous four elements in a more chromatic language and louder dynamic context. Like the first subsection, Variation 1 is close re-reading of the Introduction, while Variation 2 is further removed and contains changes in harmony and **density**. Again, Abrahamsen controls the metrical scheme of each subsection 2 by alternating double bar line groupings that differ by one measure. Unlike Var2:Sec1, the final instance of subsection 2 does not settle into equally grouped phrases:
 
@@ -217,7 +217,7 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 **section 2 conclusion**
 
-#### Subsection 3
+#### Section 3
 
 > **Introduction: Subsection 3**:
 
@@ -237,7 +237,7 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 > Total = 20 measures
 
-#### Subsection 4
+#### Section 4
 
 Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
 
