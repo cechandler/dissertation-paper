@@ -21,6 +21,8 @@ In an interview with the BBC prior to its UK premiere, Abrahamsen noted that *Wa
 
 Abrahamsen juxtaposes the various sections with little to no transitional material. Their boundaries are clearly demarcated both sonically by abrupt changes in dynamics, timbre, texture, and register as well as visually in the score by different tempi, meters, descriptive markings, and double bar lines. Table @tbl:wald-form details the many sections within *Wald* by providing a comprehensive list of every tempo change and descriptive marking that accompanies a variation or subdivision. It also gives the durations for individual variations (measured from the only commercially released recording by Asko|Schönberg Ensemble[@WaldRec]) and identifies the variations that group together as Parts (evident through explicitly returning tempo and descriptive markings).
 
+**include sentence about metric modulations between sections**
+
 Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 
 | Part  | Section   | Duration | Measures   | Tempo                                  | Descriptive markings                |

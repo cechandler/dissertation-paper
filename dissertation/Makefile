@@ -5,7 +5,7 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
 OUTPUTDIR=$(BASEDIR)/output
 STYLEDIR=$(BASEDIR)/style
-SCRIPTSDIR=/Volumes/Data/Box Sync/Scripts
+SCRIPTSDIR=/Volumes/Data/Dropbox/Scripts
 OUTFILE=dissertation
 
 BIBFILE=../citations/abrahamsen.bib
@@ -27,10 +27,7 @@ pdf:
 	-o "$(OUTPUTDIR)/$(OUTFILE).pdf" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
-	--filter "$(SCRIPTSDIR)/pandoc-accidentals.py" \
-	--filter "$(SCRIPTSDIR)/pandoc-timesig.py" \
-	--filter "$(SCRIPTSDIR)/pandoc-rhythms.py" \
-	--filter "$(SCRIPTSDIR)/pandoc-dynamics.py" \
+	--filter "$(SCRIPTSDIR)/pandoc-diss-filter.py" \
 	--filter pandoc-fignos \
 	--filter pandoc-tablenos \
 	--filter pandoc-citeproc \
