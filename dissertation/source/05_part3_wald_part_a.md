@@ -196,7 +196,7 @@ This process becomes more complex in Var1:Sec2 as the harp and marimba groups no
 
 In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes initiated in Var1:Sec2 and expands its development to include variations in pitch ordering and contour. This process contains four separate threads of pitch sequences that Abrahamsen articulates over seven phrases. These four threads again express the 4:5:6 polyrhythmic subdivisions found in Var1:Sec2, but in this instance, the central quintuplet eighth-note layer is harmonized creating a fourth thread. The figure below depicts each of the four lines independently and does not consider the composite ordering. When unwoven in this fashion, it is clear that Abrahamsen has constructed these sequences through retrograde.
 
-> **Four Threads**
+> Four Threads
 >
 > `1: <50166116610561>`
 >
@@ -206,7 +206,7 @@ In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes i
 >
 > `4: <616105e44e5005166150e4e44e50>`
 >
-> **Retrograde Octachords**
+> Retrograde Octachords
 >
 > `3: A    B    C    D`
 >
@@ -222,19 +222,19 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 #### Section 3
 
-> **Introduction: Subsection 3**:
+> Introduction: Subsection 3:
 
 > `12/8` 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
 
 > Total = 28 measures (repeats included)
 
-> **Variation 1: Subsection 3**:
+> Variation 1: Subsection 3:
 
 > `12/8` 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
 
 > Total = 24 measures (repeats included)
 
-> **Variation 2: Subsection 3**:
+> Variation 2: Subsection 3:
 
 > `12/8` 20 mm.
 
@@ -244,15 +244,15 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
 
-> **Introduction: Subsection 4**:
+> Introduction: Subsection 4:
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 11mm.
 
-> **Variation 1: Subsection 4**:
+> Variation 1: Subsection 4:
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 7mm.
 
-> **Variation 2: Subsection 4**:
+> Variation 2: Subsection 4:
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `9/16` 1mm.
 
