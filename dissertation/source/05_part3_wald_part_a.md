@@ -53,7 +53,7 @@ Examining the 17 segments of *F/a* across Part A reveals diversity in the instru
 
 Table: Var1:Sec1 *F/a* Pattern. {#tbl:wald-var1-sec1-f-a}
 
-| Instrument     | m. 111          | m. 119          | m. 126          | m. 134                              | m. 141          | m. 149                              | m. 156          | m. 164                              |
+| Measures       | 111             | 119             | 126             | 134                                 | 141             | 149                                 | 156             | 164                                 |
 | :------------- | :-------------: | :-------------: | :-------------: | :---------------------------------: | :-------------: | :---------------------------------: | :-------------: | :---------------------------------: |
 | Piano          | 9 `eighthNote`  |                 |                 | 6 `eighthNote`                      |                 | 3 `eighthNote` 2/5 `sixteenthNote`  | 3 `eighthNote`  |                                     |
 | Harp           |                 | 6 `eighthNote`  |                 | 3 `eighthNote` 2/5 `sixteenthNote`  | 3 `eighthNote`  |                                     |                 |                                     |
@@ -64,7 +64,7 @@ Table: Var1:Sec1 *F/a* Pattern. {#tbl:wald-var1-sec1-f-a}
 
 Table: Var2:Sec1 *F/a* Pattern. {#tbl:wald-var2-sec1-f-a}
 
-| Instr     | m. 268          | m. 286          | m. 304          |
+| Measures  | 268             | 286             | 304             |
 | :-------- | :-------------: | :-------------: | :-------------: |
 | Piano     | 9 `eighthNote`  |                 |                 |
 | Marimba   |                 | 6 `eighthNote`  |                 |
@@ -152,7 +152,7 @@ Abrahamsen continues to tie the segments of *F/a* and *G/a* to changes in metric
 
 Table: Var1:Sec2 *F/a* Duration Pattern. {#tbl:wald-var1-sec2-f-a}
 
-| Instr     | m. 171           | m. 178           | m. 186           | m. 193           | m. 201           | m. 208           | m. 216           | m. 223           | m. 231          |
+| Measures  | 171              | 178              | 186              | 193              | 201              | 208              | 216              | 223              | 231             |
 | :-------- | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: | :-------------: |
 | Piano     | 8 `eighthNote`   |                  |                  | 12 `eighthNote`  |                  |                  | 8 `eighthNote`   |                  |                 |
 | Harp      |                  | 12 `eighthNote`  |                  |                  | 8 `eighthNote`   |                  |                  | 12 `eighthNote`  |                 |
@@ -160,7 +160,7 @@ Table: Var1:Sec2 *F/a* Duration Pattern. {#tbl:wald-var1-sec2-f-a}
 
 Table: Var2:Sec2 *F/a* Duration Pattern. {#tbl:wald-var2-sec2-f-a}
 
-| Instr    | m. 322          | m. 330          | m. 337          | m. 345          | m. 352          | m. 360          | m. 367          |
+| Measures | 322             | 330             | 337             | 345             | 352             | 360             | 367             |
 | :------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Piano    | 12 `eighthNote` |                 |                 | 8 `eighthNote`  |                 |                 | 12 `eighthNote` |
 | Marimba  |                 | 8 `eighthNote`  |                 |                 | 12 `eighthNote` |                 |                 |
@@ -168,13 +168,27 @@ Table: Var2:Sec2 *F/a* Duration Pattern. {#tbl:wald-var2-sec2-f-a}
 
 Subset *G/a* remains closely associated with the segments from Section 1 through its continued background texture role, yet contains a few subtle differences in timbre and articulation. Still scored for Group V, the two violins exchange perfect fourth dyads symmetrical around `D4`-`G4` as unmeasured tremoli with sul ponticello bow placement. Abrahamsen places downbeat accents every 2 or 3 measures depending on the "Taktig," rather than more frequently with the Section 1 measured tremoli. In Var1:Sec2, he notates this more explicitly with marcato sixteenth-notes tied to tremoli. Subset *G/b* takes the place of *G/a* in Var2:Sec2. It is disjunct from *G/a* in instrumentation, articulation, and pitch. *G/b* moves spatially forward from the outer Group V to the middle Group III and IV cello and double bass. The two strings exchange spiccato, detached, repeated single-note segments of sixteenth-note subdivisions for three measures (double bass) and triplet sixteenth-note subdivisions for two measures (cello). 
 
-Elements 3 and 4 of subsection 2 form the primary foreground material and undergo similar rotational and rhythmic displacement processes found in subsection 1. In Intro:Sec2 and Var1:Sec2, Element 3 retains is ascending perfect fourth contour but like Elements 1 and 2, it is chromatically harmonized within the `<123678>` collection and includes microtonal inflections in specific instruments. Element 3 maintains a consistent duration of 7 triplet quarter notes; this is akin to the 7 eighth note duration of Element 3 in Intro:Sec1, almost as if a rhythmic translation between sections. Both sections feature Element 1 maintaining a triplet subdivision, the first in a meter of `3/8` and then second in `2/4`. Throughout Part A, Element 3 in Subsection 2 cycles every ten measures with its periodicity being disrupted by repeat signs in Intro:Sec2. Abrahamsen reduces the number of instruments taking part in Element 3 which each instance. Intro:Sec2 features two families of instruments alternating within each of the four repeated sections: 1) trumpet, bass trumpet, bassoon, bass clarinet, and 2) cello, bass, viola, English horn. Abrahamsen's spatial seating plan again comes into consideration here; the first subset consists of Group I and VI, a left-side group and a symmetrical pair and the second subset reflects this as it includes Group II, a right-side group, and a symmetrical pair from Group III and IV. Var1:Sec2 alternates between two smaller subsets (trumpet/bass trumpet and cello/bass/piano), while Var2:Sec2 again reduces the number of instruments to viola/violin 2 and cello/violin 1.
+**factor in repeats as segments in the counts for previous sections!**
 
-Within the harmonic framework of `<123678>`, Abrahamsen varies the harmonic presentation of Element 3 in Intro:Sec2 and Var1:Sec2. Figure @fig:wald-ss2-e3-harm shows the harmonizations of Element 3 across Intro:Sec2 and Var1:Sec2. In this figure, the initial presentations of Element 3 are voiced as chromatic trichords, `<123>` followed by `<678>`, each time. However, in Var1:Sec2, Abrahamsen voices them as `<13>` followed by `<78>` in the odd presentations and `<12>` followed by `<68>` in the even presentations. **Comment on how subtle this is and how he explores interval motion; moves from P4 in Intro:Sec2 to m2/M2 in Var1:Sec2 to M3/P5 in Var2:Sec2** Intervallic voice leading of each instrument...
+Abrahamsen distributes set *H* in 8, 7, and 6 segments across the three sequences of Section 2. The segments are uniform in attack point and set class but diverse in timbre, dynamics, voice leading, contour, and spatial orientation. *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. The change to pizzicato articulation in Var2:Sec2 negates the previously consistent duration but preserves the attack points. Table @tbl:wald-sec2-h-attr displays how attributes change from odd to even phrases within sections as well as from variation to variation. Var2:Sec2 contains noticeable disjunctions in dynamics and contour, continuting the trend of Variation 2 having a greater degree of change than Variation 1. In Intro:Sec2 and Var1:Sec2, Abrahamsen alternates phrases between symmterical groups of instruments; odd phrases contain a left-side group (I) and an outer circle symmetrical pair (VI), while even phrases balance this with a right-side group (II) and a middle circle symmetrical pair (III and IV). Over the three Section 2 sequences, segments of *H* move from timbral diversity in the Introduction to timbral uniformity in Variation 2.
 
-![Intro:Sec2 and Var1:Sec2 Harmonization of Element 3](../figures/temporary.png){#fig:wald-ss2-e3-harm}
+Table: Section 2 *H* Attributes. {#tbl:wald-sec2-h-attr}
 
-**m. 208 collision between *F/a* and *J/d***
+|              | Intro:Sec2                  | Var1:Sec2               | Var2:Sec2                |
+| :----------- | :-------------------------- | :---------------------- | :----------------------- |
+| Articulation | Accent, Legato              | Marcato                 | Pizzicato accent         |
+| Dynamics     | `mf` - `fff`                | `mf` - `fff`            | `p`                      |
+| Set Class    | `6-6[012567]`               | `4-16[0157]`            | `4-16[0157]`             |
+| Contour      | <01>                        | <01>                    | Odd: <01>                |
+|              |                             |                         | Even: <10>               |
+| Group        | Odd: I, VI                  | Odd: VI                 | Odd: II (Vla), V (Vn 2)  |
+|              | Even: II, III (Vc), IV (Db) | Even: III (Vc), IV (Db) | Even: III (Vc), V (Vn 1) |
+
+Throughout Section 2, Abrahamsen presents two subsets of the `6-6[012567]` collection as well as a diversity of linear intervallic motion in segments of *H*. Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. In Intro:Sec2, Abrahamsen uses the full collection presented as two chromatic trichords where linear motion solely consists of a perfect fourth. The defining linear perfect fourth of *H* is not present in Var1:Sec2 and Var2:Sec2, and instead Abrahamsen articulates *H* as an ascending (or descending) majord third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite the absence of the linear perfect fourth, segments of *H* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*.
+
+![Voice leading in Section 2 *H*](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl}
+
+Segments of *H* and *J* undergo similar rotational and rhythmic displacement processes found in Section 1. 
 
 Element 4 of subsection 2 is associated with Element 4 of subsection 1 in that it undergoes a rotational process with the periodic Element 3. However, Abrahamsen's realization of Element 4 in subsection 2 is more rhythmically complex and not based on repeated note echoing responses like subsection 1. Instead Element 4 consists of a six-note sequence of three intertwined chromatic perfect fourths that rhythmically displace earlier and later in time at different speeds. Abrahamsen scores the alternating statements for symmetrical trios, odd statements by Group IV's harp and the Group II duo and even statements by Group III's marimba and the Group I duo. The harp and marimba percussively articulate each note of the sequence, while the individual instruments within Group I and II perform non-intersecting trichordal segmentations of the six-note sequence. **The voice leading of these trichordal segmentations is different for each statement for each instrument, and this characteristic will be examined in greater detail below.**
 
@@ -185,6 +199,8 @@ The second statement in the figure highlights how the displacement process unfol
 ![Intro:Sec2 Element 4 Rhythmic displacement](../figures/wald-intro-sec2-e4-rd.png){#fig:wald-intro-sec2-e4-rd}
 
 This process becomes more complex in Var1:Sec2 as the harp and marimba groups no longer alternate phrases and instead perform simultaneous displacement processes. The top two staves of Figure @fig:wald-var1-sec2-e4-rd indicate the two composite lines articulated by the marimba and harp, respectively, while the remaining lower staves extract the perfect fourth dyads. Both six-note sequence lines share the `<27>` dyad as a central axis, while the other two dyads again shift earlier and later with each phrase. The `<16>` and `<38>` dyads have two rhythmic subdivision versions, and they displace earlier or later, depending on the dyad, by one value of their subdivision (e.g. quarter or triplet quarter). While Abrahamsen does not alternate the phrases between the harp and marimba, he does alternate the two processes between the two instruments. **more on this**
+
+**m. 208 collision between *F/a* and *J/d***
 
 **should I note the error in the score?**
 
