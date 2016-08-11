@@ -184,73 +184,66 @@ Table: Section 2 *H* Attributes. {#tbl:wald-sec2-h-attr}
 | Group        | Odd: I, VI                  | Odd: VI                 | Odd: II (Vla), V (Vn 2)  |
 |              | Even: II, III (Vc), IV (Db) | Even: III (Vc), IV (Db) | Even: III (Vc), V (Vn 1) |
 
-Throughout Section 2, Abrahamsen presents two subsets of the `6-6[012567]` collection as well as a diversity of linear intervallic motion in segments of *H*. Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. In Intro:Sec2, Abrahamsen uses the full collection presented as two chromatic trichords where linear motion solely consists of a perfect fourth. The defining linear perfect fourth of *H* is not present in Var1:Sec2 and Var2:Sec2, and instead Abrahamsen articulates *H* as an ascending (or descending) majord third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite the absence of the linear perfect fourth, segments of *H* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*.
+Throughout Section 2, Abrahamsen presents two subsets of the `6-6[012567]` collection as well as a diversity of linear intervallic motion in segments of *H*. Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. In Intro:Sec2, Abrahamsen uses the full collection presented as two chromatic trichords where linear motion solely consists of a perfect fourth. The defining linear perfect fourth of *H* is not present in Var1:Sec2 and Var2:Sec2, and instead Abrahamsen articulates *H* as an ascending (or descending) majord third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite the absence of the linear perfect fourth, segments of *H* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*. **more on how h keeps its identity despite losing the defining perfect fourth interval?**
 
-![Voice leading in Section 2 *H*](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl}
+![Voice leading in Section 2 *H* segments](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl}
 
-Segments of *H* and *J* undergo similar rotational and rhythmic displacement processes found in Section 1. 
+Set *J* contains three principle subsets throughout the second sections of Part A. Subsets *J/d* and *J/f* are variations on the *J/a* and *J/b* subsets from Section 1; they continue the displacement relationship with *H* and develop through augmentation and diminution. Compared to the *J* segments from Section 1, *J/d* and *J/f* contain more attacks and greater rhythmic complexity, but like *J/a* and *J/b*, they are very similar subsets (sonically and contextually) but are differentiated here primarily for convenience. Both *J/d* and *J/f* consist of a six-note sequence of three intertwined chromatic perfect fourths, scored segments for the symmetrical and spatially central harp and marimba. During Intro:Sec2, the two instruments alternate statements of *J/d*, but in Var1:Sec2 and Var2:Sec2, Abrahamsen superimposes *J/d* and *J/f*. In both Intro:Sec2 and Var1:Sec2, the Group I and II duos articulate subset *J/e*, which sustain the pitches articulated in the percussive *J/d* and *J/f* segments and support them through resonance. The segments of *J/e* are non-intersecting trichordal partitions of the six-note sequence whose voice leading is different for each segment for each instrument.
 
-Element 4 of subsection 2 is associated with Element 4 of subsection 1 in that it undergoes a rotational process with the periodic Element 3. However, Abrahamsen's realization of Element 4 in subsection 2 is more rhythmically complex and not based on repeated note echoing responses like subsection 1. Instead Element 4 consists of a six-note sequence of three intertwined chromatic perfect fourths that rhythmically displace earlier and later in time at different speeds. Abrahamsen scores the alternating statements for symmetrical trios, odd statements by Group IV's harp and the Group II duo and even statements by Group III's marimba and the Group I duo. The harp and marimba percussively articulate each note of the sequence, while the individual instruments within Group I and II perform non-intersecting trichordal segmentations of the six-note sequence. **The voice leading of these trichordal segmentations is different for each statement for each instrument, and this characteristic will be examined in greater detail below.**
+In Section 1, Abrahamsen controls the rhythmic displacement process of *J/a* and *J/b* by adding or subtracting rhythmic values so that the segments themselves grow longer (Intro:Sec1) or shorter (Var1:Sec1) in duration. In Section 2, the rhythmically intertwined chromatic perfect fourths of *J/d* and *J/f* do not change in duration but instead pull apart earlier and later in time at different polyrhythmic speeds. Figure @fig:wald-intro-sec2-jd-rd shows the first two segments of *J/d* in Intro:Sec2. The top stave indicates the six-note segment found in the harp and marimba while the lower three staves tease apart the three superimposed perfect fourths, which project a composite polyrhythm of 4 against 5 against 6 (e.g. quarters vs. quintuplet eighths vs. triplet quarters) and remain consistent in duration (e.g. 3 and 2 quarters vs. 6 and 4 quintuplet eighths vs. 3 and 2 triplet quarters).
 
-In subsection 1, Abrahamsen controls the rhythmic displacement process of Element 4 by adding or subtracting rhythmic values from the repeated-note gestures. In other words rhythmic displacement occurs because the motives themselves grow longer (Intro:Sec1) or shorter (Var1:Sec1) in duration. In subsection 2, the rhythmically intertwined chromatic perfect fourths of Element 4 do not change in duration but instead pull apart at different polyrhythmic speeds. Figure @fig:wald-intro-sec2-e4-rd shows the first two statements of Element 4 in Intro:Sec2. The top stave indicates the composite six-note sequence of `<123678>` while the lower three staves tease apart the overlapping perfect fourths. The first statement of Figure @fig:wald-intro-sec2-e4-rd highlights how these perfect fourths remain in different subdivisions (e.g. quarters vs. quintuplet eighths vs. triplet quarters) and maintain consistent rhythmic durations (e.g. 3 quarters plus 2 quarters) throughout all subsection 2 instances. These different subdivisions create a global polyrhythm of 4:5:6 (eighths vs. quintuplet eighths vs. triplet eighths).
+![Intro:Sec2 *J/d* rhythmic displacement](../figures/wald-intro-sec2-jd-rd.png){#fig:wald-intro-sec2-jd-rd}
 
-The second statement in the figure highlights how the displacement process unfolds in Intro:Sec2. The `<27>` dyad consistently cycles every eight measures and always remains on the downbeat. Its periodicity is obscured by the way in which the `<16>` and `<38>` dyads pull apart from this central location. At the rate of 1 quarter note per repetition, the `<16>` dyad shifts earlier in the cycle, while the `<38>` dyad shifts later by 1 triplet quarter. In the Introduction, this process occurs for each time of the four repeated phrases.
+The second segment of figure @fig:wald-intro-sec2-jd-rd highlights how the displacement process unfolds during Intro:Sec2. The `D4`-`G4` dyad occupies the central position in the rhythmic sequence, mirroring its central position in the `6-6` collection. It cycles every eight measures, always remaining on the downbeat while the `C#4`-`F#4` dyad shifts earlier and `Eb4`-`Ab4` shifts later at a rate of 1 quarter note and 1 triplet quarter, respectively, per segment. 
 
-![Intro:Sec2 Element 4 Rhythmic displacement](../figures/wald-intro-sec2-e4-rd.png){#fig:wald-intro-sec2-e4-rd}
+This process occurs for each of the four repeated phrases in Intro:Sec2 and becomes more complex in Var1:Sec2. Abrahamsen no longer alternates phrases between the harp and marimba but instead presents simultaneous segments of *J/d* and *J/f* which do alternate between the instruments. Segments of *J/d* are related to Intro:Sec2 by literal repetition and are differentiated from the initially more rhythmically spread out *J/f* segments. Figure @fig:wald-var1-sec2-j-process shows the sixteen segments of *J/d* and *J/f* articulated simultaneously by the harp and marimba during Var1:Sec2. Both *J/d* and *J/f* segments share the constant `D4`-`G4` central axis and contain one quarter note subdivision and one triplet quarter subdivision each of `C#4`-`F#4` and `Eb4`-`Ab4` dyads. The quarter note divisions in both lines shift earlier, and the triplet quarter divisions shift later by one value of their subdivion with each phrase. As evident in Figure @fig:wald-var1-sec2-j-process, *J/d* segments go through a process of rhythmic augmentation, while *J/f* segments rhythmically compress and then expand.^[N.B. The second segment of *J/f* in Figure @fig:wald-var1-sec2-j-process corresponds to the mm. 182-86 in the harp. In the score, measure 182 is notated incorrectly with the `C#4` falling on the second beat of the measure instead of the downbeat, but it is listed correctly in this figure.] **note how the dyads form one 4-note quarter note sequence and one 4-note triplet quarter sequence**
 
-This process becomes more complex in Var1:Sec2 as the harp and marimba groups no longer alternate phrases and instead perform simultaneous displacement processes. The top two staves of Figure @fig:wald-var1-sec2-e4-rd indicate the two composite lines articulated by the marimba and harp, respectively, while the remaining lower staves extract the perfect fourth dyads. Both six-note sequence lines share the `<27>` dyad as a central axis, while the other two dyads again shift earlier and later with each phrase. The `<16>` and `<38>` dyads have two rhythmic subdivision versions, and they displace earlier or later, depending on the dyad, by one value of their subdivision (e.g. quarter or triplet quarter). While Abrahamsen does not alternate the phrases between the harp and marimba, he does alternate the two processes between the two instruments. **more on this**
+![Var1:Sec2 *J/d* and *J/f* rhythmic processes](../figures/wald-var1-sec2-set-j-process.png){#fig:wald-var1-sec2-j-process}
 
-**m. 208 collision between *F/a* and *J/d***
+Supporting this strict rhythmic process in *J/d* and *J/f*, the Group I and II duos sustain segments of *J/e* and highlight a secondary process containing permutational qualities. Group I always sustains the Group III marimba's segments, while Group II does the same for the Group IV harp. The duos project non-intersecting trichord partitions of the `6-6[012567]` collection, which Abrahamsen organizes by having the duo alternate notes. Each instrument's sequence of eight segments, shown in Table @tbl:wald-var1-sec2-je, is diverse in trichord ordering with only `<123>` and `<678>` appearing more than once in a given instrument. These repetitions, highlighted in bold in the table, only appear after *J/f* segments reach their most rhythmically compressed form in m. 208, as seen in the bass clarinet's two-note ordering in Table @tbl:wald-var1-sec2-je's fifth segment. Additionally, these moments of repeated trichord orderings correspond to collisions between segments *F/a* and *J/d* or *J/f* beginning in m. 208, 223, and 231 (see Figure @fig:wald-var1-sec2-fa-jf-collisions).
 
-**should I note the error in the score?**
+Table: Var1:Sec2 permutational *J/e* segments. {#tbl:wald-var1-sec2-je}
 
-**note how the dyads form a quarter note sequence and a triplet quarter sequence**
+|          |         | 1       | 2       | 3       | 4       | 5       | 6           | 7           | 8           |
+| :-----   | :------ | :------ | :------ | :------ | :------ | :------ | :------     | :------     | :------     |
+| Group I  | Bsn     | `<678>` | `<167>` | `<238>` | `<123>` | `<368>` | **`<123>`** | `<216>`     | **`<123>`** |
+|          | Bs Cl   | `<123>` | `<238>` | `<167>` | `<678>` | `<17>`  | **`<678>`** | `<387>`     | **`<678>`** |
+|          |         |         |         |         |         |         |             |             |             |
+| Group II | Vla     | `<137>` | `<678>` | `<167>` | `<268>` | `<123>` | `<286>`     | **`<123>`** | `<876>`     |
+|          | Eng Hn  | `<268>` | `<123>` | `<238>` | `<137>` | `<678>` | `<317>`     | **`<678>`** | `<321>`     |
 
-**close up look at voice leading inside six-note sequence for Var1:Sec1 Group I**
+![Collisions between *F/a* and *J/f* in Var1:Sec2](../figures/wald-var1-sec2-fa-jf-collisions.png){#fig:wald-var1-sec2-fa-jf-collisions}
 
-![Var1:Sec2 Element 4 Rhythmic displacement](../figures/wald-var1-sec2-e4-rd.png){#fig:wald-var1-sec2-e4-rd}
+In the final displacement process in Var2:Sec2, Abrahamsen repeats segments of *J/d* and *J/f* from Var1:Sec2 and preserves the rhythmic displacement but imposes variations in pitch ordering and contour. Figure @fig:wald-sec2-j-polyrhythm-layers compares the second phrase of *J/d* and *J/f* segments from Var1:Sec2 and Var2:Sec2. The top two staves shows the composite six-note sequence, while the lower staves unravel the intertwined perfect fourths. Var1:Sec2 segments contain three polyrhythmic layers (quarter, quintuplet eighth, and triplet quarter) where the pitch ordering of dyads remains fixed, but in Var2:Sec2, Abrahamsen harmonizes the quintuplet eighth dyad, creating four layers of pitch sequences constructed by retrograde. Table @tbl:wald-var2-sec2-pitch-order below shows each of the four pitch layers independently and divides them into two- and four-note paritions for seven total phrases of *J* subsets. The point of retrograde occurs between the third and fourth phrases, placing its end after the sixth phrase. Abrahamsen continues the process in all four layers for one phrase beyond the end of the retrograde, suggesting that this process could keep going with a new ordering. The quintuplet eighth layers consist of a hexachord mirrored about the central axis. The quarter and triplet quarter layers contain a sequence of three tetrachords whose retrograde switches to the other voice at the point of symmetry (ie. the retrograde of the quarter note layer's third tetrachord is present in the triplet quarter). 
 
-In Var2:Sec2, Abrahamsen builds on the two simultaneous displacement processes initiated in Var1:Sec2 and expands its development to include variations in pitch ordering and contour. This process contains four separate threads of pitch sequences that Abrahamsen articulates over seven phrases. These four threads again express the 4:5:6 polyrhythmic subdivisions found in Var1:Sec2, but in this instance, the central quintuplet eighth-note layer is harmonized creating a fourth thread. The figure below depicts each of the four lines independently and does not consider the composite ordering. When unwoven in this fashion, it is clear that Abrahamsen has constructed these sequences through retrograde.
+![Polyrhythmic layers in Var1:Sec2 vs. Var2:Sec2](../figures/wald-sec2-j-polyrhythm-layers.png){#fig:wald-sec2-j-polyrhythm-layers}
 
-> Four Threads
->
-> `1: <50166116610561>`
->
-> `2: <50e44ee44e054e>`
->
-> `3: <4e4e0516615005e44e5016166150e4e>`
->
-> `4: <616105e44e5005166150e4e44e50>`
->
-> Retrograde Octachords
->
-> `3: A    B    C    D`
->
-> `4: R(C) R(B) R(A) R(?)`
->
-> Retrograde ordering: `<4e4e0516><6150e4e4><4e500516><615005e4><4e501616><616105e4> || <4e50><6150e4>`
+Table: Var2:Sec2 pitch ordering. {#tbl:wald-var2-sec2-pitch-order}
 
-The quintuplet eighth note threads of `1` and `2` above consist of two hexachords (`<501661>` and `<50e44e>`) mirrored about a central axis. Abrahamsen extends the process in both threads for one phrase beyond the end of the retrograde, suggesting that this process could continue with a new ordering. Threads `3` (quarter) and `4` (triplet quarter) contain retrograde **octachords** that have been separated in time. Thread `3` contains four octachords, highlighted in the figure as `A`, `B`, `C`, and `D`. Thread `4` contains retrograde versions of those same octachords presented in retrograde around the central `B` octachord: `R(C)`, `R(B)`, `R(A)`, `R(?)`.
+| Layer             | Pitch Sequence                             |
+| :---------------- | :----------------------------------------- |
+| Quintuplet eighth | `<50   16   61   16   61   05   61>`       |
+| Quintuplet eighth | `<50   e4   4e   e4   4e   05   4e>`       |
+| Quarter           | `<4e4e 0516 6150 05e4 4e50 1616 6150 e4e>` |
+| Triplet Quarter   | `<6161 05e4 4e50 0516 6150 e4e4 4e50>`     |
 
-It is interesting to note that each octachord contains a tetrachord of the same dyad pair. When the octachords are re-ordered into retrograde order (see lower portion of the figure), these tetrachordal dyad pairs rotate in order position throughout the sequence. In the first two octachords they occupy the outer positions, in the second two octachords the middle positions, and in the final two octachords the inner positions. **say this better**
-
-**section 2 conclusion**
+**Section 2 conclusion**
 
 #### Section 3
 
-> Introduction: Subsection 3:
+> Introduction: Section 3
 
 > `12/8` 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
 
 > Total = 28 measures (repeats included)
 
-> Variation 1: Subsection 3:
+> Variation 1: Section 3
 
 > `12/8` 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
 
 > Total = 24 measures (repeats included)
 
-> Variation 2: Subsection 3:
+> Variation 2: Section 3
 
 > `12/8` 20 mm.
 
@@ -260,15 +253,15 @@ It is interesting to note that each octachord contains a tetrachord of the same 
 
 Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
 
-> Introduction: Subsection 4:
+> Introduction: Section 4
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 11mm.
 
-> Variation 1: Subsection 4:
+> Variation 1: Section 4
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 7mm.
 
-> Variation 2: Subsection 4:
+> Variation 2: Section 4
 
 > `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `9/16` 1mm.
 
