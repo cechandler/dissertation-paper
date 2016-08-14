@@ -9,6 +9,7 @@ proposal/output/*.pdf
 research/timeline.md
 research/log.md
 templates/**
+scores/**
 
 # odt and docx locked and temp files
 .~lock*
