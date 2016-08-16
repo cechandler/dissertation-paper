@@ -17,13 +17,15 @@ The methodology to examine the recurring associative sets in *Walden* and *Wald*
     - segments: musical segmentations supported by various sonic, contextual, or structural criteria
     - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
     - associative set: group of segments that share contextual properties
-        
+
         - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
         - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
         - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
-    
+
+    - define global properties
+
 - Naming conventions
-    
+
     - associative sets with large letters: A, B, X, Y
     - numerals appended to reflect order in score, A1, A2, B5
     - subsets of associative sets have slash notation: A/a, B/c, D/b
