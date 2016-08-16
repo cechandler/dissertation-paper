@@ -13,7 +13,7 @@ fontsize: 12pt
 linestretch: 1
 header-includes:
     - \usepackage{tocbibind}
-    - \setcounter{tocdepth}{2}
+    - \setcounter{tocdepth}{3}
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
