@@ -25,25 +25,7 @@ Abrahamsen constructs the first sections of Part A from associative subsets of *
 
 Abrahamsen consistently uses several organizing principles to shape the segments of *F*, *G*, *H*, and *J*: metrical groupings delineated by repeat signs and double bar lines, phrase alternation between symmetrically seated groups, and augmentation and diminution of subset duration. Metrical subdivision plays a subtle but pervasive role throughout *Wald* where frequent markings of "3-Taktig" and "2-Taktig" indicate phrasing subdivisions and whether a measure is conducted in 3 or 2.^[**Citation for *Wald* Score** Performance Notes.] Abrahamsen connects these markings to surface-level details like alternations of harmony and patterns of accents in the two violins of subset *G/a*. Beyond metrical subdivisions, Abrahamsen frames passages of music by grouping measures in discrete, alternating units. For instance, the figure **below** illustrates how Section 1 is organized in alternating groups of measures that differ by one and by Var2:Sec1 converge to equal groupings of six measures. The decreasing duration of these sections shown in Table @tbl:wald-sectional-proportions comes in part from Abrahamsen removing eight measures from each sequence.
 
-> Introduction: Section 1
->
-> `3/8` 2 mm. ||: 9mm. :||: 8mm. :||: 9mm. :||: 8mm. :||
->
-> Total: 70 measures (repeats included)
->
-> Variation 1: Section 1
->
-> `3/8` 2mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
->
-> Total: 62 measures
->
-> Variation 2: Section 1
->
-> `3/8` 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. || 6mm. ||
->
-> Total: 54 measures
-
-<!-- ![*Wald* Section 1 Metrical Grouping](){#fig:wald-sec1-meter} -->
+![*Wald* Section 1 Metrical Grouping](../figures/wald-part-a-meter-sec1.png){#fig:wald-meter-sec1}
 
 **Alternation structures and ways A varies things during the repeat**
 
@@ -128,25 +110,7 @@ Abrahamsen articulates these associative sets and subsets within a fixed harmoni
 
 Many of the same organizing principles in Section 1 shape Section 2 segments: clear groupings of measures, phrase alternation between symmetrical instruments, and displacement processes. The entirety of Section 2 is notated in `2/4`, and again Abrahamsen partitions it into groups of measures that differ by one (see Figure **below**). Like Section 1, Var1:Sec2 is a close re-reading of Intro:Sec2, while Var2:Sec2 is characterized by more substantial changes in harmony and density. Unlike Var2:Sec1, Var2:Sec2 does not settle into groupings of equal measures. 
 
-> Introduction: Section 2
-
-> `2/4` 2 mm. ||: 8mm. :||: 9mm. :||: 8mm. :||: 9mm. :||
-
-> Total: 70 measures (repeats included)
-
-> Variation 1: Section 2
-
-> `2/4` 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
-
-> Total: 67 measures
-
-> Variation 2: Section 2
-
-> `2/4` 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. || 8mm. || 7mm. ||
-
-> Total: 60 measures
-
-<!-- ![*Wald* Section 2 Metrical Grouping](){#fig:wald-sec2-meter} -->
+![*Wald* Section 2 Metrical Grouping](../figures/wald-part-a-meter-sec2.png){#fig:wald-meter-sec2}
 
 Abrahamsen continues to tie the segments of *F/a* and *G/a* to changes in metrical groupings and rhythmic subdivisions. *F/a* appears only at the onset of Intro:Sec2; its first appearance in m. 37, a staccato punctuation on the keys of the piano, creates a clear formal demarcation between the two sections. Subsequent segments throughout Var1:Sec2 and Var2:Sec2 begin on the downbeats following double bar lines, and show stable, cyclical patterning of the duration between attacks as in Var2:Sec1 (see Tables @tbl:wald-var1-sec2-f-a and @tbl:wald-var2-sec2-f-a). Abrahamsen rotates *F/a* segments between the spatially central trio of attack-based instruments of piano (played normally and muted), harp, and marimba, and always presents them as a `6-6[012567]` simultaneity.
 
@@ -231,38 +195,37 @@ Table: Var2:Sec2 pitch ordering. {#tbl:wald-var2-sec2-pitch-order}
 
 #### Section 3
 
-> Introduction: Section 3
+Abrahamsen shapes the associative landscape of Section 1 and 2 through four highly associative sets (*F*, *G*, *H*, and *J*). In Section 3, Abrahamsen contrasts this landscape by focusing on one associative set, *K*. The first six measures of Intro:Sec3 and Var1:Sec3 do include segments of *F/a*, but the weight of the 
 
-> `12/8` 1 mm. ||: 2mm. :||: 3mm. :|| 4mm. ||: 3mm. :||: 2mm. :|| 3mm.
+![*Wald* Section 3 Metrical Grouping](../figures/wald-part-a-meter-sec3.png){#fig:wald-meter-sec3}
 
-> Total = 28 measures (repeats included)
+- Shifting of repeat signs between Intro:Sec3 and Var1:Sec3: 
 
-> Variation 1: Section 3
+`01 ||: 02     03 :||: 04      05     06 :|| 07 08     09     10 ||: 11     12 13 :||: 14 15 :|| 16 17 18 ||`
 
-> `12/8` 2mm. ||: 2mm. :||: 1mm. :|| 1mm. ||: 2mm. :|| 1mm. ||: 1mm. :|| 1mm. ||: 2mm. :|| 3mm. ||
+`01     02 ||: 03      04 :||: 05 :|| 06 ||: 07 08 :|| 09 ||: 10 :|| 11 ||: 12 13 :||            16 17 18 ||`
 
-> Total = 24 measures (repeats included)
+- Var2:Sec3 segment exchange:
 
-> Variation 2: Section 3
+`BFl: K5      K8 K7`
+`Vlc: K6      K7 K8`
+`Hrn: K7 K8   K5`
+`Db : K8 K7   K6`
 
-> `12/8` 20 mm.
+`Bsn: K1 K2 K1 K3 K4`
+`BCl: K2 K1 K2 K4 K3`
+`Vla: K3 K4    K2 K1 K2`
+`EHn: K4 K3    K1 K2 K1`
 
-> Total = 20 measures
+`K1: 7 7:4 segments`
+`K2: 5 5:4 segments`
+`K3: 3 8th segments`
+`K4: 7 14:12 segments`
 
 #### Section 4
 
-Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12`sixteenthNote` with each instance:
+Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12 `sixteenthNote` with each instance:
 
-> Introduction: Section 4
-
-> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 11mm.
-
-> Variation 1: Section 4
-
-> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 7mm.
-
-> Variation 2: Section 4
-
-> `10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `9/16` 1mm.
+![*Wald* Section 4 Metrical Grouping](../figures/wald-part-a-meter-sec4.png){#fig:wald-meter-sec4 width=60%}
 
 Subsection 4 is defined by four phrases of cascading figures that alternate between marimba and harp dup and piano at each new metrical change. In the same way that fourth element of subsection 2 is a composite of interwoven pitch sequences, so too are the cascading figures a composite sequence. Harmonically, these cascading figures are an expansion of the nearly pentatonic `4-22[0247]`.
