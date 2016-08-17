@@ -386,7 +386,7 @@ header-includes:
 - Set *G*
 
     - *G/a*: quintuplet and sextuplet measured and unmeasured tremolo
-    - *G/b*: repeated note alternation in Var2
+    - *G/b*: repeated note alternation in Var2:Sec2
 
 - Set *H*: rising fourth/fifth call
 - Set *J*
