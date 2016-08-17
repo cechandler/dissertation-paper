@@ -5,7 +5,7 @@
 
 *Walden* is deeply inspired by nature and, like other first period works, directly references a work from another artistic medium.^[Ernste (2006) points out that Abrahamsen often references art, literature, poetry, or other music in his first period works. For instance, Abrahamsen dedicates the first and fourth movements of *Winternacht* (1976-78) to Austrian poet Georg Trakl, the second to Dutch graphic artist M.C. Escher, and the third, the most neo-classical in nature, to Igor Stravinsky. This practice extends to borrowing titles too, including *Märchenbilder* and *Trauemlieder* from Robert Schumann and *let me tell you* (2014) from the novel by Paul Griffiths.] The title is taken from the literary work of the same name by 19^th^-century author Henry David Thoreau. Thoreau's work is a poetic and introspective reflection on self-reliance, simplicity, and society. It documents his two-year experiment living in austere conditions at Walden Pond in Concord, Massachusetts. Abrahamsen's program note for *Walden* touches on the connection to Thoreau as well as the kinds of musical material found in the piece:
 
-> The title is taken from the American philosopher and poet Henry David Thoreau’s novel from 1854 about living in the woods, which Thoreau did for two years. His stay there was an experiment, an attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature. In that particular sense his novel is a documentation of social inadequacy and a work of poetry (Utopia) as well. All though Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology. 
+> The title is taken from the American philosopher and poet Henry David Thoreau’s novel from 1854 about living in the woods, which Thoreau did for two years. His stay there was an experiment, an attempt to strip away all the artificial needs imposed by society and rediscover man’s lost unity with nature. In that particular sense his novel is a documentation of social inadequacy and a work of poetry (Utopia) as well. All though Thoreau himself never completed any actual social analysis he was way ahead of his own time in his perception of the economy and cyclic character of Nature, today known as ecology.
 >
 > *Walden* was written in a style of re-cycling and "new simplicity." A lot of superfluous material has been peeled away in order to give space to different qualities such as identity and clarity. Various layers are encountered in the quintet such as the organic (growth, flowering, decay), concretism (mechanical patterns) and finally the descriptive (distant horn calls and other ghost-like music of the past enter our consciousness like a dream).
 
@@ -15,7 +15,7 @@ The qualities of organicism, concretism, and descriptive reflect how the materia
 
 ## Instrumentation and Arrangement
 
-Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet for a standard instrumentation of flute, clarinet in A, oboe, French horn, and bassoon. The work consists of four movements without titles that differ in duration and tempo while maintaining an introspective and restrained atmosphere. In 1995, Abrahamsen created another arrangement for the Calefax Reed Quintet scored for oboe d'amore (doubling oboe), clarinet (doubling A and `Eb`), bass clarinet in `Bb`, alto saxophone, and bassoon. The reed quintet arrangement contains several differences, from smaller adjustments like tempi changes^[The first is slightly faster, while the second movement is slower, and the third and fourth remain the same.] and new descriptive markings to larger adjustments like re-metered movements and orchestration. 
+Abrahamsen composed *Walden* in 1978 on a commission from the Funen Wind Quintet for a standard instrumentation of flute, clarinet in A, oboe, French horn, and bassoon. The work consists of four movements without titles that differ in duration and tempo while maintaining an introspective and restrained atmosphere. In 1995, Abrahamsen created another arrangement for the Calefax Reed Quintet scored for oboe d'amore (doubling oboe), clarinet (doubling A and `Eb`), bass clarinet in `Bb`, alto saxophone, and bassoon. The reed quintet arrangement contains several differences, from smaller adjustments like tempi changes^[The first is slightly faster, while the second movement is slower, and the third and fourth remain the same.] and new descriptive markings to larger adjustments like re-metered movements and orchestration.
 
 Unlike much of Abrahamsen's other music, the original version of *Walden* contains remarkably little interpretative markings beyond isolated instances of descriptions like *lontano*, *giocoso*, or *calmo*. The reed quintet version adds tempo markings like "Moderato fluente," "Alla marcia," "Andante," and "Allegretto giocoso" (first through fourth movements, respectively). The lack of textual description in the original version as well as the traditional tempo markings of the arrangement underscore the strong vein of neo-classicism that runs throughout Abrahamsen's first period works.
 
@@ -25,13 +25,13 @@ The majority of changes in orchestration involve Abrahamsen's reassignment of in
 
 Table: Instrumental arrangement between versions. {#tbl:walden-rearrangement}
 
-| Wind Quintet    |                 | Reed Quintet I.   | Reed Quintet II.   | Reed Quintet III.   | Reed Quintet IV.   |
-| :-------------- | :-------------- | :---------------- | :----------------- | :------------------ | :----------------- |
-| Flute           | \textrightarrow | Cl. in `A`        | Al. Sax            | Cl. in `Eb`         | Cl. in `Eb`        |
-| Oboe            | \textrightarrow | Ob. d'amore       | Oboe               | Oboe                | Oboe               |
-| Cl. in `A`      | \textrightarrow | Al. Sax.          | Cl. in `A`         | multiple            | Al. Sax            |
-| Horn in `F`     | \textrightarrow | Bs. Cl.           | Bs. Cl.            | multiple            | Bsn.               |
-| Bassoon         | \textrightarrow | Bsn.              | Bsn.               | multiple            | Bs. Cl.            |
+| Wind Quintet |      | Reed Quintet I. | Reed Quintet II. | Reed Quintet III. | Reed Quintet IV. |
+|:-------------|:-----|:----------------|:-----------------|:------------------|:-----------------|
+| Flute        | `->` | Cl. in `A`      | Al. Sax          | Cl. in `Eb`       | Cl. in `Eb`      |
+| Oboe         | `->` | Ob. d'amore     | Oboe             | Oboe              | Oboe             |
+| Cl. in `A`   | `->` | Al. Sax.        | Cl. in `A`       | multiple          | Al. Sax          |
+| Horn in `F`  | `->` | Bs. Cl.         | Bs. Cl.          | multiple          | Bsn.             |
+| Bassoon      | `->` | Bsn.            | Bsn.             | multiple          | Bs. Cl.          |
 
 ## Form
 
@@ -39,20 +39,20 @@ Abrahamsen's compositional process begins with structure, as he believes in orde
 
 Table: *Walden* movement proportions. {#tbl:walden-proportions}
 
-| Movement   | Tempo                    | Score Duration  | Recording Duration   |
-| :--------- | :----------------------- | :-------------- | :------------------- |
-| I.         | `quarterNote` = 63-66   | 3:35            | 2:57                 |
-| II.        | `eighthNote` = 76       | 3:10            | 2:51                 |
-| III.       | `quarterNote` = 52      | 2:30            | 2:33                 |
-| IV.        | `quarterNote` = 112     | 1:00            | 1:04                 |
+| Movement | Tempo                 | Score Duration | Recording Duration |
+|:---------|:----------------------|:---------------|:-------------------|
+| I.       | `quarterNote` = 63-66 | 3:35           | 2:57               |
+| II.      | `eighthNote` = 76     | 3:10           | 2:51               |
+| III.     | `quarterNote` = 52    | 2:30           | 2:33               |
+| IV.      | `quarterNote` = 112   | 1:00           | 1:04               |
 
 The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique. **one paragraph on overall compositional design (associative landscape) discussing decreasing number of sectional divisions across movements and D major at the ends of movements**
 
 The first movement of *Walden* contains three dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning of the movement is harmonically ambiguous and heterophonic in texture, but by the end, the quintet is grouped into subsets (and eventually tutti) performing harmonically clear and homophonic music. The form can be segmented into four sections. The first features a call and response pattern transformed over four phrases via a process of rhythmic displacement. The second section consists of a legato three-voice mensuration canon, while the third section is a variation on this canon paired with an interjecting staccato gesture in the horn and bassoon. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato gesture before abruptly transitioning into a tutti repeated D major chord.
 
-The second movement is a close variation of the first. In contrast to the development and organic growth of the first movement, the second is about transformation through decay and subtraction. Over the course of three nine-measure phrases, Abrahamsen recasts three motives from the first movement in a precise cyclical configuration using retrograde procedures: 1) the three-octave melody, 2) the horn and bassoon's staccato punctuation gesture, and 3) the oboe's `F#` `C#` melodic motive. The music unfolds seamlessly over these three cycles, and with each successive cycle, Abrahamsen filters specific elements from the texture in accordance with a strict process. 
+The second movement is a close variation of the first. In contrast to the development and organic growth of the first movement, the second is about transformation through decay and subtraction. Over the course of three nine-measure phrases, Abrahamsen recasts three motives from the first movement in a precise cyclical configuration using retrograde procedures: 1) the three-octave melody, 2) the horn and bassoon's staccato punctuation gesture, and 3) the oboe's `F#` `C#` melodic motive. The music unfolds seamlessly over these three cycles, and with each successive cycle, Abrahamsen filters specific elements from the texture in accordance with a strict process.
 
-The third movement segments neatly into two sections with the second containing a short "coda" that crossfades seamlessly out of the climactic material of the piece. The two primary sections both employ rhythmic procedures of augmentation and diminution or compression. The polyrhythmic and heterophonic first section, quite similar to the opening of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968)[@Thomas, p. 272], gradually slows down over ten measures, while the second section accelerates over sixteen measures. At the climax, the oscillating figures characterizing the second section's accelerando compress into a mechanical sixteenth-note pattern. The return of the first movement's oboe motive initiates the disintegration of this pattern, and begins the crossfade containing a muted, triadic horn call evoking allusions to hunting and the forest. 
+The third movement segments neatly into two sections with the second containing a short "coda" that crossfades seamlessly out of the climactic material of the piece. The two primary sections both employ rhythmic procedures of augmentation and diminution or compression. The polyrhythmic and heterophonic first section, quite similar to the opening of the eighth movement of Ligeti's *Ten Pieces for Wind Quintet* (1968)[@Thomas, p. 272], gradually slows down over ten measures, while the second section accelerates over sixteen measures. At the climax, the oscillating figures characterizing the second section's accelerando compress into a mechanical sixteenth-note pattern. The return of the first movement's oboe motive initiates the disintegration of this pattern, and begins the crossfade containing a muted, triadic horn call evoking allusions to hunting and the forest.
 
 <!-- **change the language about the "coda" to reflect the reduction in sections across movements?** -->
 
