@@ -4,28 +4,39 @@ Abrahamsen contrasts the relative diversity of Section 1 and 2's associative lan
 
 Abrahamsen's textural treatment of *K* segments as well as their sonic attributes of staccato articulation and agitated single-note repetition allude to the phrase that he mentions in his program note: "flocks of birds that when agitated take off." The spatial orchestration of *K* segments further suggests this movement of birds. Consider the first nine measures of Intro:Sec3 (mm. 73-81) which introduces a patterned movement of segments. Abrahamsen orchestrates *K* segments in clear symmetry, starting from the outer edges of the middle circle (bass flute and horn), moving them to the outer instruments of the inner circle (bassoon and English horn), then to the inner instruments of the inner circle (bass clarinet and viola), then to the outer circle duos (2 trumpets and 2 violins), and finally back to the outer edges of the middle circle (see Figure @fig:wald-sec3-k-mvmt). There is some additional brief back and forth movement between these groups arising from the repeat signs, but the generalized circular pattern of these segments remains consistent in Intro:Sec3, Var1:Sec3, and Var5:Sec3. The absence of the segments' spatial movement in Var2:Sec3 is purposeful. The same groups of instruments still articulate segments of *K* but do so continuously, and instead of orchestrating them spatially, Abrahamsen exchanges literal repetitions between symmetrical groups, which will be detailed below.
 
-![Intro:Sec3 spatial movement of *K* segments](../figures/wald-part-a-sec-3-k-movement.png){#fig:wald-sec3-k-mvmt width=70%}
+![Intro:Sec3 spatial movement of *K* segments](../figures/wald-part-a-sec3-k-movement.png){#fig:wald-sec3-k-mvmt width=70%}
 
-Beyond these global sonic and spatial properties, associative set *K*'s set class `4-22[0247]` and narrow perfect fifth bandwidth complete the description of shared attributes. While set *K* does not contain any subsets, its members are diverse in length (ranging between 4-19 eighth notes), contour, and polyrhythmic subdivision. Figure @fig:wald-set-k-examples gives two prototypical examples of *K* segments and one reduction, which describes a representative contour. Despite the unique contours of both examples, Abrahamsen generally emphasizes scalar motion and skip-step patterns. Broadly speaking the representative contour is a descent from the upper boundary to the lower boundary and describes the trajectory of many *K* segments (in addition to its retrograde form which is not depicted in Figure @fig:wald-set-k-examples). The contour diversity arises from Abrahamsen's mixture of short patterns and repeated notes, which disrupt clarity in shape.
+Beyond these global sonic and spatial properties, associative set *K*'s set class `4-22[0247]` and narrow perfect fifth bandwidth complete the description of shared attributes. While set *K* does not contain any subsets, its members are diverse in length (ranging between 4-19 eighth notes), contour, and polyrhythmic subdivision. Figure @fig:wald-set-k-examples gives two prototypical examples of *K* segments and one reduction, which describes a representative contour. Despite the unique contours of both examples, Abrahamsen generally emphasizes scalar motion and skip-step patterns. Broadly speaking the representative contour of a descent from the upper boundary to the lower boundary, in addition to its retrograde form which is not depicted in Figure @fig:wald-set-k-examples, describes the trajectory of many *K* segments. The contour diversity arises from Abrahamsen's mixture of short patterns and repeated notes, which disrupt clarity in shape.
 
 ![*Wald* Associative Set *K* Examples](../figures/temporary.png){#fig:wald-set-k-examples}
 
-Abrahamsen divides Section 3's `12/8` foundation into 2-, 3-, and 4-equal groupings and places polyrhythms within those divisions. For instance, when dividing `12/8` into half (2 groupings of 6 eighth notes), Abrahamsen frequently places 7 and 9 eighth notes within those 6 or when dividing `12/8` into thirds (3 groupings of 4 eighth notes), he uses 5:4 polyrhythms. When examined from the level of the entire measure of 12 eighth notes, Abrahamsen uses polyrhythms of 20:12, 18:12, 16:12, 15:12, 14:12, and 13.5:12. On occasion, he chains subdivisions in such a way as to produce an accelerando or ritardando.
+Abrahamsen divides Section 3's `12/8` foundation into 2-, 3-, and 4-equal divisions and places *K* segments in polyrhythms within those divisions. For instance, when dividing `12/8` in half (2 groupings of 6 eighth notes), Abrahamsen frequently places 7 and 9 eighth notes within those 6, or when dividing `12/8` into thirds, he uses 5:4 polyrhythms. Throughout PartA:Sec3, Abrahamsen uses polyrhythms of 20:12, 18:12, 16:12, 15:12, 14:12, and 13.5:12, often presenting multiple divisions simultaneously and chaining subdivisions to produce a notated accelerando or ritardando. For instance, in mm. 73-75 of Intro:Sec3, Abrahamsen articulates the four layers of *K* segments in polyrhythms of 15:12, 14:12, 13.5:12 (notated as 9:8), and 12:12 (or no polyrhythm), and during this passage the English horn moves between three of those speeds, giving a rhythmically fluid and flexible line that ritards then accelerates.
 
-![*Wald* Section 3 Metrical Grouping](../figures/wald-part-a-meter-sec3.png){#fig:wald-meter-sec3}
+Despite the sonic, rhythmic, and spatial diversity of the individual segments of *K*, Abrahamsen is economical with their associative organization. Intro:Sec3 and Var1:Sec3 contain 18 and 16 measures with 4 and 5 groups of repeated passages, respectively. Var1:Sec3's 16 measures contain closely related varied repetitions of segments related by T~1~, and the two-measure reduction corresponds to a straightforward removal of the 14^th^ and 15^th^ measures of Intro:Sec3. Abrahamsen alters the organization of these segments in Var1:Sec3 by changing the measures enclosed by repeat signs. The top portion of Figure @fig:wald-sec3-repeat-signs displays two score excerpts of the first three measures of Intro:Sec3 (mm. 73-75) and Var1:Sec3 (mm. 238-40). In Intro:Sec3, the first repeated passage consists of the second and third measure, while in Var1:Sec3, the repeat signs enclose the third and fourth measure. The bottom portion of Figure @fig:wald-sec3-repeat-signs diagrams how Abrahamsen has altered the repeat signs across Variation 1 and removed two measures at the end of the section.
 
-- Shifting of repeat signs between Intro:Sec3 and Var1:Sec3:
+![*Wald* Intro:Sec3 and Var1:Sec3 repeat sign movement](../figures/wald-part-a-sec3-repeat-signs.png){#fig:wald-sec3-repeat-signs}
 
-`01 ||: 02     03 :||: 04      05     06 :|| 07 08     09     10 ||: 11     12 13 :||: 14 15 :|| 16 17 18 ||`
+**something on the varied repetition of these segments and how the repeat signs don't necessarily change their context but rather their configuration or organization**
 
-`01     02 ||: 03      04 :||: 05 :|| 06 ||: 07 08 :|| 09 ||: 10 :|| 11 ||: 12 13 :||            16 17 18 ||`
+Var2:Sec3 presents one final instance of economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two groups of four instruments. The two symmetrical groups consist of the Group I duo, Group II duo, Group III (bass flute and cello), and Group IV (horn and bass).
 
 - Var2:Sec3 segment exchange:
 
-`BFl: K5      K8 K7`
-`Vlc: K6      K7 K8`
-`Hrn: K7 K8   K5`
-`Db : K8 K7   K6`
+`BFl: K1       K4 K3`
+`Vlc: K2       K3 K4`
+`Hrn: K3 K4    K1`
+`Db : K4 K3    K2`
+
+`Bsn: K1 K2 K1 K3 K4`
+`BCl: K2 K1 K2 K4 K3`
+`Vla: K3 K4    K2 K1 K2`
+`EHn: K4 K3    K1 K2 K1`
+
+
+`BFl: K5       K8 K7`
+`Vlc: K6       K7 K8`
+`Hrn: K7 K8    K5`
+`Db : K8 K7    K6`
 
 `Bsn: K1 K2 K1 K3 K4`
 `BCl: K2 K1 K2 K4 K3`
@@ -36,6 +47,8 @@ Abrahamsen divides Section 3's `12/8` foundation into 2-, 3-, and 4-equal groupi
 `K2: 5 5:4 segments`
 `K3: 3 8th segments`
 `K4: 7 14:12 segments`
+
+<!-- ![*Wald* Section 3 Metrical Grouping](../figures/wald-part-a-meter-sec3.png){#fig:wald-meter-sec3} -->
 
 #### Section 4
 
