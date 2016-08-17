@@ -231,7 +231,8 @@ $endfor$
     \thispagestyle{empty}
     \begin{center}
         \parindent=0pt
-        {\large\expandafter{$if(title)$$title$$endif$}} \\
+        {\large{$if(title)$$title$$endif$}} \\ [8pt]
+        {\large{$if(subtitle)$$subtitle$$endif$}} \\
         \vskip 18pt
         by \\ [8pt]
         $if(author)$$author$$endif$ \\ [8pt]
@@ -253,21 +254,6 @@ $endfor$
     \newpage
     \pagestyle{fancy}
 }
-
-% $if(title)$
-% \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
-% $endif$
-% $if(subtitle)$
-% \providecommand{\subtitle}[1]{}
-% \subtitle{$subtitle$}
-% $endif$
-% $if(author)$
-% \author{$for(author)$$author$$sep$ \and $endfor$}
-% $endif$
-% $if(institute)$
-% \institute{$for(institute)$$institute$$sep$ \and $endfor$}
-% $endif$
-% \date{$date$}
 
 \begin{document}
   \pagenumbering{roman}
