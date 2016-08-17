@@ -18,35 +18,29 @@ Despite the sonic, rhythmic, and spatial diversity of the individual segments of
 
 **something on the varied repetition of these segments and how the repeat signs don't necessarily change their context but rather their configuration or organization**
 
-Var2:Sec3 presents one final instance of economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two groups of four instruments. The two symmetrical groups consist of the Group I duo, Group II duo, Group III (bass flute and cello), and Group IV (horn and bass).
+Var2:Sec3 presents one final instance of Abrahamsen's economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two symmetrical groupings of instruments. The two instrumental subsets each contain four symmetrically spaced instruments; Group III and IV's bass flute, cello, horn, and bass form one group, and the duos of Group I and II form the other. The eight sequences continuously "spin out" *K* segments of various lengths moving at different polyrhythmic speeds that divide the `12/8` meter into 5, 7, 12, 14, 15, and 21 equal divisions. The segments are separated by brief rests corresponding the their respective speeds. Labelling these eight sequences *K1* through *K8*^[**This is not exactly using Hanninen's naming conventions in the right way. Should I modify?**], Table @tbl:wald-var2-sec3-rotations displays Abrahamsen's rotation and literal repetition of these sequences across the twenty measures of Var2:Sec3.
 
-- Var2:Sec3 segment exchange:
+Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
 
-`BFl: K1       K4 K3`
-`Vlc: K2       K3 K4`
-`Hrn: K3 K4    K1`
-`Db : K4 K3    K2`
+| Group | Instr | Rotation Sequence   |
+|:------|:------|:--------------------|
+|       |       | `10 mm.   10 mm.`   |
+| III   | BFl:  | `K1       K4 K3`    |
+|       | Vlc:  | `K2       K3 K4`    |
+| IV    | Hrn:  | `K3 K4    K1`       |
+|       | Db :  | `K4 K3    K2`       |
+|       |       |                     |
+| I     | Bsn:  | `K5 K6 K5 K7 K8`    |
+|       | BCl:  | `K6 K5 K6 K8 K7`    |
+| II    | Vla:  | `K7 K8    K6 K5 K6` |
+|       | EHn:  | `K8 K7    K5 K6 K5` |
 
-`Bsn: K1 K2 K1 K3 K4`
-`BCl: K2 K1 K2 K4 K3`
-`Vla: K3 K4    K2 K1 K2`
-`EHn: K4 K3    K1 K2 K1`
-
-
-`BFl: K5       K8 K7`
-`Vlc: K6       K7 K8`
-`Hrn: K7 K8    K5`
-`Db : K8 K7    K6`
-
-`Bsn: K1 K2 K1 K3 K4`
-`BCl: K2 K1 K2 K4 K3`
-`Vla: K3 K4    K2 K1 K2`
-`EHn: K4 K3    K1 K2 K1`
-
-`K1: 7 7:4 segments`
-`K2: 5 5:4 segments`
-`K3: 3 8th segments`
-`K4: 7 14:12 segments`
+<!--
+`K5: 7 7:4 segments`
+`K6: 5 5:4 segments`
+`K7: 3 8th segments`
+`K8: 7 14:12 segments`
+-->
 
 <!-- ![*Wald* Section 3 Metrical Grouping](../figures/wald-part-a-meter-sec3.png){#fig:wald-meter-sec3} -->
 
