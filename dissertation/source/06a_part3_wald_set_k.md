@@ -18,7 +18,7 @@ Despite the sonic, rhythmic, and spatial diversity of the individual segments of
 
 **something on the varied repetition of these segments and how the repeat signs don't necessarily change their context but rather their configuration or organization**
 
-Var2:Sec3 presents one final instance of Abrahamsen's economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two symmetrical groupings of instruments. The two instrumental subsets each contain four symmetrically spaced instruments; Group III and IV's bass flute, cello, horn, and bass form one group, and the duos of Group I and II form the other. The eight sequences continuously "spin out" *K* segments of various lengths moving at different polyrhythmic speeds that divide the `12/8` meter into 5, 7, 12, 14, 15, and 21 equal divisions. The segments are separated by brief rests corresponding the their respective speeds. Labelling these eight sequences *K1* through *K8*^[**This is not exactly using Hanninen's naming conventions in the right way. Should I modify?**], Table @tbl:wald-var2-sec3-rotations displays Abrahamsen's rotation and literal repetition of these sequences across the twenty measures of Var2:Sec3.
+Var2:Sec3 presents one final contrasting instance of Abrahamsen's economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two symmetrical groupings of instruments. The two instrumental subsets each contain four symmetrically spaced instruments; Group III and IV's bass flute, cello, horn, and bass form one group, and the duos of Group I and II form the other. The eight sequences continuously "spin out" *K* segments of various lengths moving at different polyrhythmic speeds that divide the `12/8` meter into 5, 7, 12, 14, 15, and 21 equal divisions. The segments are separated by brief rests corresponding to their respective speeds.
 
 Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
 
@@ -35,19 +35,24 @@ Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
 | II    | Vla:  | `K7 K8    K6 K5 K6` |
 |       | EHn:  | `K8 K7    K5 K6 K5` |
 
-<!--
-`K5: 7 7:4 segments`
-`K6: 5 5:4 segments`
-`K7: 3 8th segments`
-`K8: 7 14:12 segments`
--->
+Labelling these eight sequences *K1* through *K8*^[**This is not exactly using Hanninen's naming conventions in the right way. Should I modify?**], Table @tbl:wald-var2-sec3-rotations displays Abrahamsen's rotation and literal repetition of these sequences across the twenty measures of Var2:Sec3. The vertical alignment of *K1-8* indicate times when instruments change *K* segments simultaneously, most notably occurring at the half-way point of Var2:Sec3 where everyone begins a new sequence. Over the course of the section, instruments of Group I and II articulate each of the four *K* segments once, while each instrument of Group III and IV performs three out of the four segments.
+
+**Associative set K conclusion**
 
 <!-- ![*Wald* Section 3 Metrical Grouping](../figures/wald-part-a-meter-sec3.png){#fig:wald-meter-sec3} -->
 
-#### Section 4
+### Associative Set *L* and *M*
 
-Subsection 4, the shortest of them all, concludes each section of Part A. Abrahamsen continues to control the structure of subsections through metrical schemes. Subsection 4 differs from the preceding subsections by texture and changes in meter. All earlier subsections are defined by their single time signature, while subsection 4 contains a sequence of five metrical changes where the last time signature is truncated by 12 `sixteenthNote` with each instance:
+Section 4, the shortest of *Wald*, concludes each section of Part A and introduces associative sets *L* and *M*. Both *L* and *M* distinctly contrast previous subsets through their diversity in registral bandwidth. For the most part, Abrahamsen confines sets and subsets of *F* through *K* to a narrow perfect fifth tessitura. But with *L* and *M*, he distributes their segments in more varied registral spaces and articulates them with wider intervallic voice leading.
 
-![*Wald* Section 4 Metrical Grouping](../figures/wald-part-a-meter-sec4.png){#fig:wald-meter-sec4 width=60%}
+Associative set *L* contains eleven segments, which Abrahamsen distributes four, four, and three times across PartA:Sec4. While *L* segments are diverse in rhythmic speed, contour, and duration, they share several global properties, including `pp` dynamic, legato articulation, orchestration for harp and marimba or piano, and superimposed layers of set class `5-34[02469]`. Like associative subsets *J/d*, *J/e*, and *J/f*, set *L* and subsets of *M* share a relationship where the monodic segments of *M* draw their pitches and contour from the more harmonically and rhythmically active segments of *L*. Unlike subset *J/e*, which is inherently linked to *J/d* and *J/f*, literal repetitions of *M* segments return in Variations 6 and 7 without *L*. *M* contains three subsets diverse in contour, pitch content, rhythm, and duration. *M/a* is a legato three- or four-note melodic segment for the bass clarinet and viola. The three-note segments project all six contour permutations. *M/b* is a two-note segment presented in two voices characterized by `pp` dynamic, legato phrasing, and set class `4-22[0247]` **double check all segs for this**. With the exception of two segments in the bass flute and horn in Var1:Sec4, Abrahamsen scores *M/b* primarily for the cello, bass, and two violins. Segments of subset *M/c* contains two parts, major seventh downward leaps followed an oscillation of interval class `5` or `6`. Abrahamsen presents the two parts of segment together in Var1:Sec4 and separated in Var1:Sec4 and Var2:Sec4. Figure @fig:wald-sets-lm gives examples of these sets and subsets.
 
-Subsection 4 is defined by four phrases of cascading figures that alternate between marimba and harp dup and piano at each new metrical change. In the same way that fourth element of subsection 2 is a composite of interwoven pitch sequences, so too are the cascading figures a composite sequence. Harmonically, these cascading figures are an expansion of the nearly pentatonic `4-22[0247]`.
+![Associative sets and subsets of *L* and *M*](../figures/temporary.png){#fig:wald-sets-lm}
+
+The associative organization of *L* and *M* in PartA:Sec4 is linked to Section 4's contrasting metrical structure. Instead of maintaining a single meter, Section 4 contains five metrical changes where the last is successively truncated with each variation (see Figure @fig:wald-meter-sec4). Through this framework, the first four changes of meter are accompanied by the cascading segments of *L*, which alternate between the fused marimba and harp duo and piano. Var1:Sec4 and Var2:Sec4 segments are varied repetitions of Intro:Sec4 segments, differing by inverted contour, transposition, and number of superimposed layers. **say this better**
+
+![*Wald* Section 4 Metrical Grouping](../figures/wald-part-a-meter-sec4.png){#fig:wald-meter-sec4 width=50%}
+
+In the same way that Abrahamsen treats *J/d* and *J/f* segments as superimposed chromatic transpositions of set *H* perfect fourths, Abrahamsen layers set *K*'s generalized contour and set class to construct *L* segments. The four eliding phrases of *L* segments grow from one to four canonic layers containing one of three set classes: 1) the set *K* `4-22[0247]`, 2) a pentatonic superset `5-34[02469]`, and 3) a trichordal subset `3-7[025]`. Figure @fig:wald-sec4-k-in-l displays Intro:Sec4's four phrases containing *L* segments; the top staves give the separate voices of the marimba and harp duo and piano, while the lower staves unravel the interwoven and imbedded *K* segments. In both phrases containing the marimba and harp, the instrument's individual line 
+
+![Segments of *K* embedded in set *L*](../figures/wald-intro-sec4-set-l.png){#fig:wald-sec4-k-in-l}
