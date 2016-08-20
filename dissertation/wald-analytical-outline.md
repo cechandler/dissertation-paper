@@ -622,9 +622,7 @@ header-includes:
         - `<14><36>`
 
     - piano RH: 4-22[0247] `<0357>`
-
     - piano LH: 4-22[0247] `<368t>`
-
     - related by T~3~
 
 - Phrase 3:
@@ -667,9 +665,9 @@ header-includes:
     - descending dyads of tritones, fourths, fifths, and sometimes thirds
     - violin line 083t294e629505083t4e6729509503e6184e62729503e61894e624e625083t294e6
 
-- Subsection 1: 
+- Subsection 1:
 
-- Subsection 2: 
+- Subsection 2:
 
 - Subsection 3:
 
@@ -677,7 +675,7 @@ header-includes:
 
 - Var 6: percussive melody in piano and harp, with some resonators
 - Var 6: segments read in reverse from Var2:Sec4, Var1:Sec4, then Intro:Sec4
-    
+
     - material is same duration/length
     - rhythms changed to fit into metrical scheme
 
