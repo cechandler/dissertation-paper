@@ -10,8 +10,8 @@ header-includes:
     - \usepackage{url}
 ---
 
-
 # Formal boundaries
+
 | Section | Measures    | Tempo                              | Descriptive markings              |
 |:--------|:------------|:-----------------------------------|:----------------------------------|
 | Intro   | mm. 1-108   |                                    |                                   |
@@ -73,6 +73,7 @@ header-includes:
 
 
 # Compressed table
+
 | Section | Measures    | Tempo                              | Descriptive markings              |
 |:--------|:------------|:-----------------------------------|:----------------------------------|
 | Intro   | mm. 1-108   |                                    |                                   |
@@ -365,3 +366,23 @@ ORD:| A  1  3  A  1  2  8  3  A  1  8  3  A  1  2  8  3  9  A  1  8  3  A  1  2 
 `01 ||: 02     03 :||: 04      05     06 :|| 07 08     09     10 ||: 11     12 13 :||: 14 15 :|| 16 17 18 ||`
 
 `01     02 ||: 03      04 :||: 05 :|| 06 ||: 07 08 :|| 09 ||: 10 :|| 11 ||: 12 13 :||            16 17 18 ||`
+
+| Group | Instr | Rotation Sequence   |
+|:------|:------|:--------------------|
+|       |       | `10 mm.   10 mm.`   |
+| III   | BFl:  | `K1       K4 K3`    |
+|       | Vlc:  | `K2       K3 K4`    |
+| IV    | Hrn:  | `K3 K4    K1`       |
+|       | Db :  | `K4 K3    K2`       |
+|       |       |                     |
+| I     | Bsn:  | `K5 K6 K5 K7 K8`    |
+|       | BCl:  | `K6 K5 K6 K8 K7`    |
+| II    | Vla:  | `K7 K8    K6 K5 K6` |
+|       | EHn:  | `K8 K7    K5 K6 K5` |
+
+<!--
+`K5: 7 7:4 segments`
+`K6: 5 5:4 segments`
+`K7: 3 8th segments`
+`K8: 7 14:12 segments`
+-->
