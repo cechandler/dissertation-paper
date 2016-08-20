@@ -96,7 +96,7 @@ header-includes:
     - Mussorgsky's *Pictures at an Exhibition* (suite of 10 piano pieces, like A's *Ten Studies*)
 
 - Intertexuality/Intermusicality: Abrahamsen in dialogue with self and other composers
-    
+
     - Not sure if this is needed, but might make point about A's work being highly referential
     - Allusions in the *Piano Concerto* [^ConcertoAllusions]
     - Mikhail Bakhtin and *The Dialogic Imagination*: conception of dialogue between past and present[^BakhtinDialogic]
@@ -144,13 +144,13 @@ header-includes:
     - segments: musical segmentations supported by various sonic, contextual, or structural criteria
     - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
     - associative set: group of segments that share contextual properties
-        
+
         - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
         - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
         - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
-    
+
 - Naming conventions
-    
+
     - associative sets with large letters: A, B, X, Y
     - numerals appended to reflect order in score, A1, A2, B5
     - subsets of associative sets have slash notation: A/a, B/c, D/b
@@ -198,13 +198,13 @@ header-includes:
     - significant differences between two pieces
 
         - re-metered movements: II and IV
-		
+
 ## Form
 
 **refer to walden-analytical-outline.md**
 
 - Basic overiew
- 
+
     - four movements, untitled
     - little interpretative markings
     - tempo markings in 1995 version
@@ -214,12 +214,12 @@ header-includes:
 - Description of movements
 - Relationships between movements
 - Transition to associative segments between movements
-	
+
 ## Analysis
 
-- Hanninen *Theory of Recontextualization* (pg. 66): 
-    
-    - This suggests a mechanism (or explanation) for the phenomenal transformation of repetition: when a change-in-context changes the set of relations active between the thing and its context in an important way, the sound of the thing is transformed. 
+- Hanninen *Theory of Recontextualization* (pg. 66):
+
+    - This suggests a mechanism (or explanation) for the phenomenal transformation of repetition: when a change-in-context changes the set of relations active between the thing and its context in an important way, the sound of the thing is transformed.
 
 ## Associative Sets Overview
 
@@ -242,20 +242,20 @@ header-includes:
     - oboe motive
 
 - Set *D*:
-    
+
     - homophonic ending of I
     - punctuated interjections of II
     - ending of III
 
-- D major: 
-    
+- D major:
+
     - this isn't really a segment
     - more a feature of compositional design in how it appears at multiple endings with a variety of materials
     - homophonic ending of I
     - ending of III and horn call
     - key area ending of IV
 
-- [014589]: In Krullberg A says a symmetrical harmony ties it all together? 
+- [014589]: In Krullberg A says a symmetrical harmony ties it all together?
 
 - Some associative sets sound similar, but how do we know that they are    
     - It is not about them sounding similar, although they do, it is more about how these soncially similar segments are treated as different ideas by Abrahamsen, evidenced through differences in context, compositional technique, and development.
@@ -277,7 +277,7 @@ header-includes:
     - Hanninen might call *B/a-c* populations given their proximity in time and how they are bound together through process
 
 - *B/d*: major third interrupting dyad; similar to Ligeti thing
-- *B/e*: multi-octave melody, suggests *B/a-c* 
+- *B/e*: multi-octave melody, suggests *B/a-c*
 - ~~*B/e*: sustained dyad after *B/d* in I mm. 39-40 and II mm. 29-30~~
 
 ### Associative Set C
@@ -301,8 +301,8 @@ header-includes:
 
 - Overview of associative landscape
 - Wrap up general comments on variation and techniques used
-- Techniques: 
-	
+- Techniques:
+
 	- Rhythmic displacement and phasing
 	- Rhythmic augmentation and diminution
 	- Rhythmic subdivision
@@ -317,18 +317,18 @@ header-includes:
 - Co-commission
 - World premieres
 - Title
-    
+
     - language and meaning
     - connection to Schumann and German romanticism
     - poetic images:
-        
+
         - Hunting
         - Birds flocking
         - Fairies
         - Waking from dream
         - Sunrise
         - Maybe a hunt
-    
+
     - connection to *Walden*
 
 - "Subtle rhetoric": Julian Anderson on Abrahamsen's music
@@ -336,7 +336,7 @@ header-includes:
     - examples of subtle rhetoric in *Wald* and *Schnee*
     - transition to instrumentation and microtonality
 
-- Instrumentation, microtonality, and bass instruments: 
+- Instrumentation, microtonality, and bass instruments:
 
     - scordatura harp: detuning D and G
     - double horn in F/Bb: natural harmonics via unadjusted overtones
@@ -364,10 +364,10 @@ header-includes:
 - Series of variations
 - Decreasing durations
 - Tempo and descriptive markings
-    
+
     - juxtaposition of sections
     - use of tempo modulations to transition between sections
-    
+
 - Short section on terminology conventions
 
     - "Part" for the grouping of related variations based on shared sound, material, or formal scheme
@@ -379,7 +379,7 @@ header-includes:
 ## Associative Sets
 
 - Set *F*
-    
+
     - *F/a*: twice repeated chord
     - *F/b*: repeated note in Var6 and Var7
 
@@ -404,14 +404,20 @@ header-includes:
     - 11 segments
 
 - Set *M*
-    
+
     - melodic segments surrounding set *L*
     - numerous subsets
-    - *M/a*: 3-note seg; bs cl and vla, 
-    - *M/b*: 3-4-note seg; bs cl and vla, downward contour
-    - *M/c*: 2-note seg with two voices, <08><3t>
-    - *M/d*: large leap then oscillation; 1 and 2 have full seg, 3 and 4 only oscillation, 5-x only large leap
+    - *M/a*: 3-4-note seg; bs cl and vla, of (nearly) all contours (<102> missing)
+    - *M/b*: 2-note seg with two voices, <08><3t>
+    - *M/c*: large leap then oscillation; 1 and 2 have full seg, 3 and 4 only oscillation, 5-x only large leap
     - *M/e*: swell and punctuation
+
+<012> +
+<021> +
+<120> +
+<102>
+<210> +
+<201> +
 
 - Set *N*: Night music melody
 
@@ -419,9 +425,9 @@ header-includes:
 
     - First and second section:
 
-        - Falling segment = 
+        - Falling segment =
         - Repeated note segment = element 2?
-    
+
     - Third Section:
 
         - flute = set *K*
@@ -429,7 +435,7 @@ header-includes:
         - piano rhythm = set *G*?
 
 - Pitch collections:
-    
+
     - 6-6[012567]
     - 5-35[02479]
     - 4-22[0247]
@@ -438,7 +444,7 @@ header-includes:
     - microtonal pitches: D4-G4 throughout; then Db4-D4-Eb4 Gb4-G4-Ab4 in Var 6 and Var 7
 
 - Techniques:
-    
+
     - Rhythmic displacement/phasing
     - Rhythmic augmentation and diminution
     - Polyrhythmic accelerando and ritardando
@@ -469,11 +475,11 @@ header-includes:
 ### Part D
 
 - Variation 6
-    
+
     - Re-reads each Section 4 of Part A in reverse order
     - Cascading figures removed, surrounding melodic segments are present
     - Durations are the same, but the rhythms fit into the new metrical scheme
-    - Joined by pentatonic percussive line 
+    - Joined by pentatonic percussive line
 
 - Variation 7
 
@@ -485,7 +491,7 @@ header-includes:
 
 **it this a good place for this discussion?**
 
-- Beethoven and *Diabelli Variations* 
+- Beethoven and *Diabelli Variations*
 
     - connection to "sudden awakening" instruction at Variation 5
     - I think Abrahamsen is talking about *Diabelli Variation* No. 20
@@ -497,13 +503,13 @@ header-includes:
     - Symmetrical ensemble layout
     - Connection to Bach canons and *Contrapunctus* (from Abrahamsen discussion, **need to find source**)
     - Concept of "doubling"
-        
+
         - concept of "Vorsatz" and "Nachsatz" and relationship to horn call[^SchneeQuestionAnswering]
         - could use Var 6 and Var 7 as another clear example
         - close re-readings with segments removed
 
-- Schumann's *Waldenszen* 
-    
+- Schumann's *Waldenszen*
+
     - from program note and hopefully more from Abrahamsen
     - character pieces / scenes
     - Abrahamsen's mention of *Wald* subtitle possible as "Scenes from *Walden*"
@@ -563,7 +569,7 @@ header-includes:
 		> Take *Notations*, for example: In these short pieces the design is very clear. But if you go inside, you know, you find so many small relationships, the kitting of each element is so tight that it takes quite a lot of time to see what is really there. For me it is a game of appearance and reality.
 
 [^SchneeQuestionAnswering]: *Schnee* program note on Vorsatz and Nachsatz, or answering and questioning
-        
-        > In Schnee, a few simple and fundamental musical questions are explored. What is a Vorsatz? And what is a Nachsatz? Can a phrase be answering? Or questioning? 
 
-        > The guideline or rule for the canons is very simple: We start out with an answering Vorsatz, followed by a questioning Nachsatz. Throughout the time of the piece, these two are intertwined more and more, as more and more dicht geführt canons, until, at the end, they are interchanged. Now the question and then the answer. The two canons are identical like a painting in two versions, but with different colors. And where the first one does not include the space, the second one does, as well as containing more canonical traces. 
+        > In Schnee, a few simple and fundamental musical questions are explored. What is a Vorsatz? And what is a Nachsatz? Can a phrase be answering? Or questioning?
+
+        > The guideline or rule for the canons is very simple: We start out with an answering Vorsatz, followed by a questioning Nachsatz. Throughout the time of the piece, these two are intertwined more and more, as more and more dicht geführt canons, until, at the end, they are interchanged. Now the question and then the answer. The two canons are identical like a painting in two versions, but with different colors. And where the first one does not include the space, the second one does, as well as containing more canonical traces.
