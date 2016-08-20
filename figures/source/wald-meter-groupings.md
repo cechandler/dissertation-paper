@@ -82,8 +82,20 @@ Total: 73 `sixteenthNote`
 
 Total: 55 `sixteenthNote`
 
-<!-- 
+<!--
 =10+(3*4)+(6*4)+(3*2)+(3*11)
 =10+(3*4)+(6*4)+(3*2)+(3*7)
-=10+(3*4)+(6*4)+9 
+=10+(3*4)+(6*4)+9
 -->
+
+<!-- ~~~
+**Introduction: Section 4**
+`10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 11mm.
+Total: 85 `sixteenthNote`
+**Variation 1: Section 4**
+`10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `3/8` 1mm. `3/16` 7mm.
+Total: 73 `sixteenthNote`
+**Variation 2: Section 4**
+`10/16` 1mm. `3/4` 1mm. `6/16` 4mm. `9/16` 1mm.
+Total: 55 `sixteenthNote`
+~~~ -->
