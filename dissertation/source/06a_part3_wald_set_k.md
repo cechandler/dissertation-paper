@@ -61,10 +61,4 @@ Throughout PartA:Sec4, Abrahamsen surrounds *L* segments with subsets of *M* tha
 
 ![Associative landscape of *M* segments in Part A](../figures/temporary.png){#fig:wald-sec4-m-segs}
 
-Abrahamsen recasts segments of *L* and *M* in Variation 6 in a varied repetition of *M*'s associative landscape. Despite differences between PartA:Sec4 and Variation 6 in tempo (`eighthNote`=88 vs. `eighthNote`=66) and metrical structure (five meter changes vs. alternations of `9/8` and `8/8`), literal repetitions of *M/a* and *M/b* return with the exact same rhythms and durations between segments as PartA:Sec4 but with notational modifications accommodating the new metrical context. The associative landscape of *M* subsets is organized by retrograde; Abrahamsen re-reads *M* subsets from Var2:Sec4 in mm. 582-84, from Var1:Sec4 in mm. 585-89, and from Intro:Sec4 in mm. 589-94.
-
-<!-- Abrahamsen's distribution of *M* subsets in this configuration returns in  shapes his use of literal repetitions of the segments in Variation 6. -->
-
-M/a M/b
-M/a M/c(full) M/c(2nd) M/b
-M/a M/c(1st)
+Abrahamsen recasts segments of *L* and *M* in Variation 6 in a retrograde repetition of *M*'s PartA:Sec4 associative landscape. Despite differences between PartA:Sec4 and Variation 6 in tempo (`eighthNote`=88 vs. `eighthNote`=66) and metrical structure (five meter changes vs. alternations of `9/8` and `8/8`), literal repetitions of *M/a* and *M/b* return with the same rhythms and durations between segments as PartA:Sec4 but with notational adjustments accommodating the new metrical context. The segments of *M/a* and *M/b* do not occur in retrograde but rather Abrahamsen re-reads the subsets' variation order in retrograde; Var2:Sec4 subsets occur from mm. 582-84, Var1:Sec4 from mm. 585-89, and from Intro:Sec4 from mm. 589-94.
