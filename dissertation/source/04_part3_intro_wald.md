@@ -89,7 +89,7 @@ Throughout the following analysis of *Wald*, the term part will be used to refer
 
 ## Associative Sets
 
-Like *Walden*, *Wald*'s many sets and subsets associate with one another through several sonic and contextual criteria. This **does something to the music**. There are eight principle associative sets containing varying sizes of subsets that constitute the majority of *Wald*'s musical material. The eight sets have been labeled *F*, *G*, *H*, *J*, *K*, *L*, *M*, and *N* in accordance with the order in which they appear in the score. Abrahamsen introduces the majority of these sets during the four sections of Part A, and the remaining parts contain subsets within these eight.
+Like *Walden*, *Wald*'s many sets and subsets associate with one another through several sonic and contextual criteria. This **does something to the music**. There are seven principle associative sets containing varying sizes of subsets that constitute the majority of *Wald*'s musical material. The seven sets have been labeled *F*, *G*, *H*, *J*, *K*, *L*, and *M*, in accordance with the order in which they appear in the score. Abrahamsen introduces the majority of these sets during the four sections of Part A, and the remaining parts contain subsets within these seven.
 
 ![*Wald* Associative Sets](../figures/wald-associative-sets-all.png){#fig:wald-sets-all width=85%}
 
