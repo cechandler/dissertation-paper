@@ -1,6 +1,7 @@
 # gitignore settings for dissertation #
 figures/source/*.aif
 figures/source/*.logicx
+figures/source/wald-timings.logicx/**
 dissertation/*.pdf
 dissertation/output/**
 esm-docs/**
