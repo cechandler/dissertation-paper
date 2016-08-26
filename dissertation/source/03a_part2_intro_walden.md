@@ -60,4 +60,6 @@ The third movement segments neatly into two sections with the second containing 
 
 The diagram in Figure @fig:walden-formal-overview gives an overview of each movement including significant sectional divisions and characteristic features. **needs transition**
 
+**Formal overivew needs filling out for I, II, and III. The diagram for IV needs to be altered so that phrase letters don't clash with associative set names**
+
 ![Formal overview of *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-formal-overview.png){#fig:walden-formal-overview}
