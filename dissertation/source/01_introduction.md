@@ -3,7 +3,9 @@
 
 # Introduction
 
-Danish composer Hans Abrahamsen's piece for large ensemble, *Wald* (2009), is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). *Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
+Danish composer Hans Abrahamsen's piece for large ensemble, *Wald* (2009), is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). This return to an older work is a common element
+
+*Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
 
 A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979) and he was a prominent figure associated with the Danish "New Simplicity" movement. This movement, largely a reaction against Darmstadt serialism, sought to "establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Ernste, p. 8] Abrahamsen's pieces of this first period, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. **Ten Preludes as example of New Simplicity**
 
@@ -33,7 +35,7 @@ Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Mos
 
 <!-- Discussion of *Walden* should emp processes/materials that do get re-interpreted over the course of the piece
 - Then the transition to *Wald* focuses on how he dramatically explodes this previously "unexplored" idea
--->
+ -->
 
 *Fire Stykker for Orchestra* (2004) program note:
 
