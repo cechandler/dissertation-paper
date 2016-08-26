@@ -1,7 +1,7 @@
 
 # Part 1: Historical Context and Methodology
 
-## Recontextualization
+## Historical Context of Reworking
 
 Here it goes.
 
