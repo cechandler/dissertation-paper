@@ -678,6 +678,9 @@ header-includes:
 
     - material is same duration/length
     - rhythms changed to fit into metrical scheme
+    - M/a M/b
+    - M/a M/c(full) M/c(2nd) M/b
+    - M/a M/c(1st)
 
 - Var 7: a re-reading of Var 6, transposed by T~5~
 
