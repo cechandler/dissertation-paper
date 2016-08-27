@@ -1,10 +1,8 @@
-
 # Part 1: Historical Context and Methodology
 
 ## Historical Context of Reworking
 
 Here it goes.
-
 
 ## Hanninen's Theory of Musical Analysis
 
