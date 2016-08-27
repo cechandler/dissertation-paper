@@ -1,4 +1,3 @@
-
 ## Analysis
 
 ### Part A
