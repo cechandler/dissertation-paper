@@ -1,13 +1,12 @@
-
 ## Associative Sets
 
 **revise this whole opening section to describe how certain segments/sets appear across movements and also highly associate with one another, contributing to the sensation of interrelated movements. but Abrahamsen treats them as different entities despite their associations**
 
 **an examination of each associative set in turn will demonstrate the attributes of these segments and they ways they associate across sets but also demonstrate how A treats them in different ways leading them to my reading of them being separate sets**
 
-Abrahamsen's use of limited musical elements, inter-movement relationships, and strict compositional processes are defining characteristics of *Walden*. Abrahamsen recycles several musical elements throughout the four movements of *Walden*. 
+Abrahamsen's use of limited musical elements, inter-movement relationships, and strict compositional processes are defining characteristics of *Walden*. Abrahamsen recycles several musical elements throughout the four movements of *Walden*.
 
-In *Walden*, Abrahamsen's economy of materials is evident through ... Relationships between movements come from similarities in compositional design or the reuse of associative sets. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration. 
+In *Walden*, Abrahamsen's economy of materials is evident through ... Relationships between movements come from similarities in compositional design or the reuse of associative sets. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration.
 
 Figure @fig:walden-associative-sets-a-d displays four typical segments of associative sets *A*, *B*, *C*, and *D* which constituent the principle musical material of *Walden*.
 
@@ -17,7 +16,7 @@ Set *A* and Set *C* are closely related segments that differ in how Abrahamsen a
 
 As Abrahamsen notes in his program note, "superfluous material has been peeled away." It is important to note that sets *A*, *B*, and *C* share several criteria within the sonic domain suggesting they could be manifestations of the same associative set: simple contours, legato articulation, generally soft dynamic, and presentation as a melodic "calling out" gestures. However, contextual differences encourage their segmentation as separate entities. Each of these minimalistic elements are distinguished by subtle differences in realization;  Abrahamsen organizes these elements through the use of strict processes and techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each element, the context in which they appear, and the way Abrahamsen varies them throughout *Walden* will illustrate the economy of musical materials associated with his work as a whole and will provide a foundation from which to make comparisons to *Wald*.
 
-**more on differences** 
+**more on differences**
 
 <!-- Their most salient difference is in contour, *A* ascends while *B* descends, and this aspect is at the forefront of their initial introduction.  -->
 
@@ -33,7 +32,7 @@ These associative subsets are bound together by sonic criteria and various conte
 
 **transition to discussing A/a in the opening**
 
-Abrahamsen structures the opening twenty measures of *Walden* with associative sets *A*, *B*, and *C* via a process of rhythmic displacement, or phasing. More commonly associated with American minimalists,^[Abrahamsen has noted Steve Reich as an inspiration or influence before. **find source for this, was it in a program note?**] phasing is a process where one or more voice musical voices gradually move out of an initial rhythmic alignment. Over the first sixteen measures, this process unfolds over four phrases separated by grand pauses. Each phrase contains a literal repetition of *A/a* and different rhythmic configurations of an ascending `D`-`F` minor 3^rd^ in the flute, clarinet, and bassoon. These different rhythmically subdivided segments are instances of *B/a*, *B/b*, and *B/c*, and they will be discussed in greater detail in the section on associative set *B*. 
+Abrahamsen structures the opening twenty measures of *Walden* with associative sets *A*, *B*, and *C* via a process of rhythmic displacement, or phasing. More commonly associated with American minimalists,^[Abrahamsen has noted Steve Reich as an inspiration or influence before. **find source for this, was it in a program note?**] phasing is a process where one or more voice musical voices gradually move out of an initial rhythmic alignment. Over the first sixteen measures, this process unfolds over four phrases separated by grand pauses. Each phrase contains a literal repetition of *A/a* and different rhythmic configurations of an ascending `D`-`F` minor 3^rd^ in the flute, clarinet, and bassoon. These different rhythmically subdivided segments are instances of *B/a*, *B/b*, and *B/c*, and they will be discussed in greater detail in the section on associative set *B*.
 
 ![Horn call and responses](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-horn-theme.png){#fig:walden-I-horn-call-resp width=75%}
 
@@ -41,9 +40,9 @@ This call and response texture is evident in the first two phrases shown in Figu
 
 ![Horn motive phrase four](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-horn-theme-phrase4.png){#fig:walden-I-horn-call-phr4 width=75%}
 
-This process breaks down the initial call and response relationship and raises interesting questions into the importance of ordering. 
+This process breaks down the initial call and response relationship and raises interesting questions into the importance of ordering.
 
-**more on this? what does it say about the process being applied to a horn call motive and the nature about call and response changing order** 
+**more on this? what does it say about the process being applied to a horn call motive and the nature about call and response changing order**
 
 **more on the other associative subsets and the functions they occupy in their movements landscapes**
 
@@ -55,7 +54,7 @@ Associative set *B* represents the largest and most pervasive group of segments 
 
 ![Segments of Associative Set *B*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-b-all.png){#fig:walden-set-b-all}
 
-Subsets *B/a*, *B/b*, and *B/c* each contain several global properties: two note groupings separated by a short rest, small melodic bandwidth between a minor 2^nd^ and minor 3^rd^, legato articulation, and occasional staccato punctuation on the second note. They consist of the same ordered pitch content projecting the set class `3-2[013]`, but they rhythmically subdivide into different layers: *B/a* subdivides in eighth notes, *B/b* in quintuplet sixteenths, and *B/c* in triplet eighths. Given the near identical nature of these segments and the difficulty in perceiving the subtlety of these rhythmic subdivisions, one might group all of these segments into one large subset.^[**Hanninen might also call these populations. Find citation and expand.**] But, as a matter of convenience and as a way to clearly distinguish between the different polyrhythmic layers that remain more or less consistent, I have grouped them into three subsets. 
+Subsets *B/a*, *B/b*, and *B/c* each contain several global properties: two note groupings separated by a short rest, small melodic bandwidth between a minor 2^nd^ and minor 3^rd^, legato articulation, and occasional staccato punctuation on the second note. They consist of the same ordered pitch content projecting the set class `3-2[013]`, but they rhythmically subdivide into different layers: *B/a* subdivides in eighth notes, *B/b* in quintuplet sixteenths, and *B/c* in triplet eighths. Given the near identical nature of these segments and the difficulty in perceiving the subtlety of these rhythmic subdivisions, one might group all of these segments into one large subset.^[**Hanninen might also call these populations. Find citation and expand.**] But, as a matter of convenience and as a way to clearly distinguish between the different polyrhythmic layers that remain more or less consistent, I have grouped them into three subsets.
 
 From measures 21-38, Abrahamsen places the first canon in the trio of flute, clarinet, and bassoon, while in the second passage, from measures 42-56, he substitutes the oboe for the bassoon. Both passages consist of fourteen segments of each subset *B/a-c*. Figure @fig:walden-I-mm21-38-canon shows labeled *B/c* segments of the flute in the first canon grouped into three phrases. Abrahamsen constructs the pitch order of the first and second phrase canon by retrograde, where the sustained single-note `F` acts as both a point of symmetry and a cadential point concluding phrases. The melody has a permutational quality about it, and upon closer examination, the canon expresses all possible non-repeating combinations of two- and three-note groupings. For the two-note groupings, the central `F` is not included in a grouping, and for the three-note groupings, the `F` is both the last member of a grouping and the first member of the next grouping.
 
@@ -91,37 +90,37 @@ The second movement is a study in periodicity and cyclical organization built on
 
 ### Associative Set *C*
 
-Associative set *C* consists of three subsets differentiated by **some quality that differentiates them**. Figure @fig:walden-set-c-all displays three prototypical members of set *C* each containing different degrees of variation within their subset segments. As with sets *A* and *B*, these three subsets contain global properties grouping them together: orchestration for oboe, emphasis on a descending perfect fourth (usually `F#` to `C#`), and downward contour. *A* associates strongly with *C* through contextual criteria like simple contour and emphasis on a perfect fourth, but Abrahamsen's treatment of these two sets suggest they are separate musical elements. 
+Associative set *C* consists of three subsets differentiated by **some quality that differentiates them**. Figure @fig:walden-set-c-all displays three prototypical members of set *C* each containing different degrees of variation within their subset segments. As with sets *A* and *B*, these three subsets contain global properties grouping them together: orchestration for oboe, emphasis on a descending perfect fourth (usually `F#` to `C#`), and downward contour. *A* associates strongly with *C* through contextual criteria like simple contour and emphasis on a perfect fourth, but Abrahamsen's treatment of these two sets suggest they are separate musical elements.
 
 *C/a* is the most diverse and varied segment occurring in 13 segments throughout *Walden*. Segments of *C/a* are characterized by the downward leap, and while each segment of *C/a* is uniform in this contour, they are diverse in intervallic content. Abrahamsen presents *C/a* segments in perceptually salient ways, and these instances will be discussed in greater detail below. Subset *C/b* associates with *C/a* through characteristics like an emphasis on pitch classes `F#` and `C#` and an overall downward trajectory but is contextually distinct by its location in the third movement. *C/c* retains the descending perfect fourth, but this intervallic space has been filled in with scale tones corresponding to the local key area of the fourth movement in which the segment occurs. In a way, this is analogous to how the Abrahamsen linearly extends the lower boundary perfect fourth in set *A*; instead with the case of *C/c* this extension is turned inward rather than outward, filling in the perfect fourth interval.
 
 ![Segments of Associative Set *C*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-c-all.png){#fig:walden-set-c-all width=85%}
 
-The thirteen segments of *C/a* represent a significant and recognizable recurring oboe motive in *Walden*. Its first five segments appearing in the first movement from measures 18-40 are related by literal repetition. Abrahamsen introduces the oboe for the first time with *C/a1* at the conclusion of the first section's rhythmic displacement process. The answering of the horn's *A/a* segment with the oboe's *C/a* segment encourages a close association between the two, but Abrahamsen's continued return to subset *C/a* and development of the subset differentiate it. Repeating every five measures or twenty quarter notes, the oboe and horn remain bound in a call and response of literal repetitions in segments *C/a1-5* and *A/a5-8*. This periodic relationship contrasts with the heterophony produced by the set *B* prolation canons of the trio described earlier. 
+The thirteen segments of *C/a* represent a significant and recognizable recurring oboe motive in *Walden*. Its first five segments appearing in the first movement from measures 18-40 are related by literal repetition. Abrahamsen introduces the oboe for the first time with *C/a1* at the conclusion of the first section's rhythmic displacement process. The answering of the horn's *A/a* segment with the oboe's *C/a* segment encourages a close association between the two, but Abrahamsen's continued return to subset *C/a* and development of the subset differentiate it. Repeating every five measures or twenty quarter notes, the oboe and horn remain bound in a call and response of literal repetitions in segments *C/a1-5* and *A/a5-8*. This periodic relationship contrasts with the heterophony produced by the set *B* prolation canons of the trio described earlier.
 
 ![Segments of Set *C/a*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-c-a.png){#fig:walden-set-c-a}
 
-As mentioned previously, the second movement is a close re-reading of associative sets and segments from the first movement. Subset *C/a* figures prominently here and projects a melancholy, expressive foreground melody over the course of seven phrases. Abrahamsen's periodic organization of *C/a* segments in the first movement is absent in the second, and instead, he shapes appearances of the subset through rhythmic augmentation and diminution. 
+As mentioned previously, the second movement is a close re-reading of associative sets and segments from the first movement. Subset *C/a* figures prominently here and projects a melancholy, expressive foreground melody over the course of seven phrases. Abrahamsen's periodic organization of *C/a* segments in the first movement is absent in the second, and instead, he shapes appearances of the subset through rhythmic augmentation and diminution.
 
 From measures 1-26, the oboe performs seven phrases whose proportions compress and expand over time. Each phrase begins with an instance of *C/a* followed by a segment of a different associative set *E*. Differences in contour and pitch content encourage separate segmentations. However, the segments of the two sets form a distinct phrase whose total duration compresses and expands (see Table @tbl:walden-II-ob-comp). As a consequence of this process, phrase three and four, the two most compressed phrases, drop the sustained note portion of set *E* and contain truncated versions of the remaining material.
 
 Table: *Walden* II oboe melody phrase durations {#tbl:walden-II-ob-comp}
 
-| Phrase   | Duration               |
-| :------: | :--------------------: |
-| 1        | 15 `quarterNote`       |
-| 2        | 9 1/2 `quarterNote`    |
-| 3        | 6 1/2 `quarterNote`    |
-| 4        | 4 1/3 `quarterNote`    |
-| 5        | 9 1/2 `quarterNote`    |
-| 6        | 9 1/2 `quarterNote`    |
-| 7        | 9 1/2 `quarterNote`    |
+| Phrase |      Duration       |
+|:------:|:-------------------:|
+|   1    |  15 `quarterNote`   |
+|   2    | 9 1/2 `quarterNote` |
+|   3    | 6 1/2 `quarterNote` |
+|   4    | 4 1/3 `quarterNote` |
+|   5    | 9 1/2 `quarterNote` |
+|   6    | 9 1/2 `quarterNote` |
+|   7    | 9 1/2 `quarterNote` |
 
 **Set C/b and C/c at the climax**
 
 ### Associative Set *D*
 
-Associative set *D* contains four subsets present in the first, second, and third movement. Each subset is associative with the others through attributes like rhythmic placement and articulation but distinct in timbre, pitch content, and location or function in the associative landscape. 
+Associative set *D* contains four subsets present in the first, second, and third movement. Each subset is associative with the others through attributes like rhythmic placement and articulation but distinct in timbre, pitch content, and location or function in the associative landscape.
 
 ![Segments of Associative Set *D*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-d-all.png){#fig:walden-set-d-all}
 
@@ -155,4 +154,4 @@ An additional connection between *Winternacht* and *Walden* can be heard in the 
 
 *Walden* does not have large sections of music that return in the same fashion as in *Winternacht*. Instead several movements contain recurring gestures or otherwise similar material that retain particular musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending `F#`-`C#` perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27. Another case can be found in the close relationship between the ending of the first movement and beginning of the second movement. Towards the end of the first movement, a `C#` and E staccato repeated-note gesture appears in the bassoon and French horn while a new homophonic texture and melody arises in the trio of flute, oboe, and clarinet. The staccato repeated-note gesture grows in assertiveness and abruptly cuts off this melody and transforms into a tutti punctuated chord articulated by the entire quintet. In a way, the second movement picks up where this prior melody left off. Abrahamsen presents it directly at the beginning of the second movement transposed a perfect fifth lower and shortly thereafter the staccato `C#` and E gesture returns in the clarinet and horn.
 
-The opening section of the first movement of *Walden* also serves as the germinal material for *Wald* which was written many years later. 
+The opening section of the first movement of *Walden* also serves as the germinal material for *Wald* which was written many years later.
