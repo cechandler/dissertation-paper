@@ -159,23 +159,25 @@ Everything is first and foremost a decrease - on one level. The beginning of "Na
 
 I do not know exactly what that means - it probably means something - but it is also as said organized at the picture: it goes down the tempo while it goes from foreground to background, while something else does the reverse.
 
-The description sounds very very musical. But your titles are the very associative. If we for example. compares with Pelle Gudmundsen-Holm Green - He wrote a play called 'Recycle' - it is not very associative in the title itself, except that it says something about the technique and maybe clean concretistic what it is all about while 'Märchenbilder', ' Nacht und Trompeten "has completely different connotations. You do not mind that the audience just by example. to see the title of a piece in the program are brought onto something?
+*The description sounds very very musical. But your titles are the very associative. If we for example. compares with Pelle Gudmundsen-Holm Green - He wrote a play called 'Recycle' - it is not very associative in the title itself, except that it says something about the technique and maybe clean concretistic what it is all about while 'Märchenbilder', ' Nacht und Trompeten "has completely different connotations. You do not mind that the audience just by example. to see the title of a piece in the program are brought onto something?*
 
 No, I do not mind - on the contrary, I think that perhaps it is the magic of tones that very way you put notes together on can be completely cold-blooded, but what happens to them is unpredictable - it is magical! It creates an image - perhaps many images - is not that what Schumann says of program music, the more pictures it creates, the better - the greater richness of associations and energy.
 
-But your music can probably not be classified as program music - We know that it has this highly constructive starting point. And yet it is the words nor absolute music.
+*But your music can probably not be classified as program music - We know that it has this highly constructive starting point. And yet it is the words nor absolute music.*
 
-No, I do not think you can say it is program music - I would rather say that my music is filled with small figures. It's like some such. Always paint birds in their pictures or a small specific krussedulle. At me it is some certain characters, which I love. It is important for me - to tell musical stories. One does of course not tell them again and again, and from piece to piece. Of course you can also always find new things, but at the same time there are some things that are characteristic, which becomes part of one's way to move on, way of doing things.
+**No, I do not think you can say it is program music - I would rather say that my music is filled with small figures. It's like some such. Always paint birds in their pictures or a small specific krussedulle. At me it is some certain characters, which I love. It is important for me - to tell musical stories. One does of course not tell them again and again, and from piece to piece. Of course you can also always find new things, but at the same time there are some things that are characteristic, which becomes part of one's way to move on, way of doing things.**
 
-If we now compare some of the works we have talked about, "Winter Nacht", "Walden," "Nacht und trumpet ',' Märchenbilder ', I think well, you can hear, it's the same composer, even is rather similar - and yet it must be said that there is a world tilforskel of expression. Of course you have a habitus or compose your stories, as you say, but there are probably as design a colossal difference.
+*If we now compare some of the works we have talked about, "Winter Nacht", "Walden," "Nacht und trumpet ',' Märchenbilder ', I think well, you can hear, it's the same composer, even is rather similar - and yet it must be said that there is a world tilforskel of expression. Of course you have a habitus or compose your stories, as you say, but there are probably as design a colossal difference.*
 
 Yes. 2. string quartet and "Nacht und Trompeten" is probably related to each other at a certain level - they have such a large outer drama, while "Märchenbilder 'is a relative of mine' Studies for Piano 'and my horn trio. "Märchenbilder 'is probably my closest score, and I feel in many ways that it summarizes many of the things I've done all the way back to' Stratifications'.
 
 ## Märchenbilder
 
-There is one thing I would like to ask you with regard to just 'Märchenbilder' - now that we've talked about meaning. I have had quite diverse experience impression of the work by various gennemlytninger, and I have wondered a little about the title. What is it for some adventure, you imagine that we should think about this?
+*There is one thing I would like to ask you with regard to just 'Märchenbilder' - now that we've talked about meaning. I have had quite diverse experience impression of the work by various gennemlytninger, and I have wondered a little about the title. What is it for some adventure, you imagine that we should think about this?*
 
-It is difficult to answer. There must be something in the title?
+It is difficult to answer.
+
+*There must be something in the title?*
 
 We can talk about energy, and forms-and then it may be, it offers some adventure. It fascinated me entitled 'Märchenbilder' - it is a Schumann Title - these are the two words that are included. To start with the second word: images - the music has pictures of music and at the same time there is the adventure, the magic of the tune. And the piece is just like 'Foam' and 'Stratifications' and 'Winternacht' incidentally also: It is divided into sections - 6 sections like 'Walden' getting slower and longer and longer. And then again, these six pictures divided into rates. The first 3 images form the 1st movement. Next 2 pictures 2nd movement, and the last (longest) image forms the last movement. And then there's the - it was something I decided - the 3rd movement should come attacca after the second rate, ie happens a leap in logic. And then there are some very accurate tempokalkulationer. The first rate is 88, and it lasts exactly one minute. 2\. image (which happens more or less a clip) goes faster, the ratio of 4: 6th The relationship back to the 3rd picture that is even longer, going to a little slowed to a pace exactly midway between the two. 2\. picture was paced 132 while the third image is tempo 110\. The relationship between 3rd and 4th picture is again 4: 6th It goes all up to speed, and then again yesterday last movement very quickly. Each image is divided into two - there is a kind of 2-sharing, which dissolves more and more, but it is purely formal. But the whole piece is connected with the beginning. 1\. image contains it all. It starts with a very light, scherzo-like music, and so there is a piano movement with a slower duet between the oboe and trumpet and piano movement is partly a scherzo-like music in rapid 6/16 that start very well but so what happens is that both types of music that suddenly it begins to stiffen - like in dreams. The piano is simply stalling. He sits and plays and plays, and so what happens is that he is being persecuted by the things he has done. Like a gun running in the ring - he, like not getting anywhere. The same is true more or less with the other music. It begins to skip and jump. And then towards the second part of the first picture where it looked like completely freezes in some toto-nemotiver. It is perhaps an image of a bright and scherzoagtig music in several layers, as in a nightmare being pursued by itself and can not get out of the place. And then suddenly cut to the second picture, where you will come on.
 
@@ -201,13 +203,13 @@ It is perhaps no coincidence that the way you talk about your own music, in some
 
 So it is the poetic dimension - that there is something mysterious in the music beyond the mundane. It fascinates me a little - that reality is probably rational, yet there is in every detail something mysterious, something you do not really realize.
 
-Vocal music?
+# Vocal music?
 
-When you have looked at all those associative titles, and we've talked a little about the importance of content and anything that could resemble literary background information in relation to several of your works, one can wonder that there really are so few vocal works . You do not have composed so much for votes, directly involving text. Is it because it is you remotely?
+*When you have looked at all those associative titles, and we've talked a little about the importance of content and anything that could resemble literary background information in relation to several of your works, one can wonder that there really are so few vocal works . You do not have composed so much for votes, directly involving text. Is it because it is you remotely?*
 
 I do not know ... I have not really anything compared to the song. And the words are perhaps too direct for me. It is only in recent years, I think I would be able to write vocal music. My music has been so flat like. It has not been filled with people. I think maybe now that I approach something more dramatic, something more vocally.
 
-One can also imagine that the vocal commitment. The moment there is a story, you just have to continue the phrases they are finished.
+*One can also imagine that the vocal commitment. The moment there is a story, you just have to continue the phrases they are finished.*
 
 It is probably true. It suddenly becomes very real to some specific words.
 
@@ -215,15 +217,15 @@ I think the fact incidentally, that your music so far put up to the lyrical or d
 
 ## Length
 
-Is there anything a tendency in that most of your works - perhaps even all of them -are within a relatively limited in scale? We do not have hour-long symphonies or helaftensoperaer. Often it is somewhat by 10-15 minutes and in a series-form of one kind or another. Are you typically one that composes the short forms?
+*Is there anything a tendency in that most of your works - perhaps even all of them -are within a relatively limited in scale? We do not have hour-long symphonies or helaftensoperaer. Often it is somewhat by 10-15 minutes and in a series-form of one kind or another. Are you typically one that composes the short forms?*
 
 I note that - and of course I thought about it myself. And I can see that there would be something great in being able to make something that lasted 50 minutes - a rate of myself blown up. You know the miniature shape, as you can see in Berg's clarinet / piano pieces by Webern, Beethoven's late bagatelles - it is form, where you play on the association, just touches it and then it said. And much of my music is enough in the way that it takes place at a fast pace, it says something and then it's gone, and so it can live on in the memory. And then there's another thing I've thought of in terms duration. It is very important for my music: brevity is also important for the music is allowed to live that image. At that moment it was far, so it was the music that one can go to listen to in the background. My music insists that you actually can not do it because it suddenly ends. Maybe it's also because I am great care to ensure that each note in what I say is important - I find it very hard to write some places where it just idling. And it makes the course that my music might be very hyper compressed. It takes place very quickly - even when it's slow.
 
-Now you mentioned yourself Berg and Webern. Some of it with brevity with them about their material situation was as it was. When Webern must choose its toner, it is clear that every note means a lot. Is it the parallelism that apply?
+*Now you mentioned yourself Berg and Webern. Some of it with brevity with them about their material situation was as it was. When Webern must choose its toner, it is clear that every note means a lot. Is it the parallelism that apply?*
 
 It's enough. Each tone, I choose affects - and while it is small processes.
 
-Under the 'Märchenbilder can experience - when you now even say that every note is very important - that it goes mad fast, and there is fiendishly many tones are just passing revue. They have hardly the same meaning as when Webern they are pointilistiske patterns?
+*Under the 'Märchenbilder can experience - when you now even say that every note is very important - that it goes mad fast, and there is fiendishly many tones are just passing revue. They have hardly the same meaning as when Webern they are pointilistiske patterns?*
 
 No, they probably do not. The piece can be enough not compare with Webern. So the piece is very short, because it is part of the expression in it.
 
