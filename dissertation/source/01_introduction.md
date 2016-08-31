@@ -3,7 +3,25 @@
 
 # Introduction
 
-Danish composer Hans Abrahamsen’s piece for large ensemble, *Wald* (2009), is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). *Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
+Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). Separated by thirty years, the two works are representative of different periods of his creative output. *Walden* is situated in the middle of his first period, a time characterized by early associations with neo-classicism and later "New Simplicity" and polystylism. *Wald* is positioned well into his second period, which began at the turn of the century when he returned to composition after nearly a decade of silence between 1992 to 2000.
+
+The two works offer many insights into Abrahamsen's compositional development within these periods.
+
+Two common features between both creative periods are Abrahamsen's economy of materials and referential qualities. Abrahamsen is not a minimalist but the efficiency that he
+
+*Walden* and *Wald* share the same germinal opening idea: a repeating call and response phrase that gradually goes out of phase.
+
+Abrahamsen's reuse of material from a previous work is a characteristic common to both periods but which became more pronounced in the second period.
+
+<!-- a time characterized by the arrival at a personal and mature voice stemming from a  -->
+
+<!-- innovations in rhythm **something**, referential qualities, and renewed energy, -->
+
+<!-- from the end of his ... "New Simplicity" and  first period before a transition to ...., lasting from the 1970s until the 1990s. *Wald* comes after nearly a decade .... from the **descriptors** second period, beginning near the turn of the century after almost a decade of silence.  -->
+
+and inspiration from natural sources.
+
+*Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
 
 A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979) and he was a prominent figure associated with the Danish "New Simplicity" movement. This movement, largely a reaction against Darmstadt serialism, sought to "establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Ernste, p. 8] Abrahamsen's pieces of this first period, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism, neo-romanticism, and collage-like polystylism. **Ten Preludes as example of New Simplicity**
 
@@ -29,13 +47,13 @@ Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Mos
 
 > Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
 
-Connect the quote above to how Abrahamsen does not re-visit the rhythmic displacement element at all in *Walden* yet does so for many other elements
+- Connect the quote above to how Abrahamsen does not re-visit the rhythmic displacement element at all in *Walden* yet does so for many other elements
 
 <!--
-- Discussion of *Walden* should emp processes/materials that do get re-interpreted over the course of the piece
-- Then the transition to *Wald* focuses on how he dramatically explodes this previously "unexplored" idea
+Discussion of *Walden* should emp processes/materials that do get re-interpreted over the course of the piece
+Then the transition to *Wald* focuses on how he dramatically explodes this previously "unexplored" idea
 -->
 
 *Fire Stykker for Orchestra* (2004) program note:
 
-> The results are not so much ‘arrangements’ of the four piano studies, more recompositions. A helpful comparison might be made with certain painters: Cézanne, portraying the same mountain from different angles; or Monet, obsessively returning to Rouen Cathedral in different lights and weather conditions. Abrahamsen himself remembers an important visit to the Munch Museum in Oslo, where he saw how Munch painted the same subject over and over again, **‘investigating it in many different ways from the small black-and-white sketch to the huge painting. For me it is the same. I have been haunted by these pieces for years and have been challenged to re-investigate the material to understand why.’**
+> The results are not so much ‘arrangements’ of the four piano studies, more recompositions. A helpful comparison might be made with certain painters: Cézanne, portraying the same mountain from different angles; or Monet, obsessively returning to Rouen Cathedral in different lights and weather conditions. **Abrahamsen himself remembers an important visit to the Munch Museum in Oslo, where he saw how Munch painted the same subject over and over again, ‘investigating it in many different ways from the small black-and-white sketch to the huge painting. For me it is the same. I have been haunted by these pieces for years and have been challenged to re-investigate the material to understand why.’**
