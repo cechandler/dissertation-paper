@@ -3,30 +3,44 @@
 
 # Introduction
 
-Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on the opening of his earlier piece for woodwind quintet entitled *Walden* (1978). Separated by thirty years, the two works are representative of Abrahamsen's two periods creative output. *Walden* is situated in the middle of his first period, a time characterized by associations with neo-classicism, "New Simplicity," and polystylism. *Wald* comes well into his second period, which began at the turn of the century when he returned to composition after nearly a decade of silence between 1992 to 2000. The same germinal idea opens both works: a repeating call and response phrase whose voices gradually go out of phase. Abrahamsen develops this idea in different directions with both works. The reuse, recasting, or otherwise referencing of earlier music (his own or others) is a characteristic common to both periods but which became more pronounced in the second period.
+Outline
+- built on Walden
+- germinal idea
+- reuse is common in works
+- motivations for doing it: hidden opportunities and haunted by earlier works
+- more pronounced in second period
+- connect to trajectory of two periods
+- different ways he has reused throughout life
 
-The two works offer many insights into Abrahamsen's compositional development within these periods.
+Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on his earlier piece for woodwind quintet entitled *Walden* (1978). The same germinal idea opens both works: a repeating call and response gesture whose voices gradually go out of phase. Abrahamsen's realization and development of this idea differs between the pieces, but this approach of reusing, recasting, or otherwise referencing earlier music (his own or others) is a common characteristic in his music. His creative output can be divided into three periods, thus far. *Walden* is situated in the middle of his first period, which lasted from the early 1970s until 1990 a time characterized by associations with neo-classicism, New Simplicity, and polystylism. Abrahamsen's second period, lasting  *Wald* comes well into his third period, which began at the turn of the century when he returned to composition after years of silence between 1992 and 2000.
 
-Two common features between both creative periods are Abrahamsen's economy of materials and referential qualities. Abrahamsen is not a minimalist but the efficiency that he
 
-Abrahamsen's reuse of material from a previous work
-<!-- a time characterized by the arrival at a personal and mature voice stemming from a  -->
+A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979). He was a prominent figure associated with the Danish New Simplicity movement, which was largely a reaction against Darmstadt serialism. Works falling under the New Simplicity category  favoring the relationship between material and technique, perceptible forms, . As Gavin Thomas indicates in his 1994 profile of Abrahamsen, "New Simplicity is not a style, but an attitude towards style, and its subject matter is defined not by its simplicity (it may *be* simple, but it may also be dense, dissonant and entirely 'modern'), but by its *distance*. It's an aesthetic which has a tendency to take whatever is familiar and to hand and turn it on its head."[@Thomas, p. 268.]
 
-<!-- innovations in rhythm **something**, referential qualities, and renewed energy, -->
 
-<!-- from the end of his ... "New Simplicity" and  first period before a transition to ...., lasting from the 1970s until the 1990s. *Wald* comes after nearly a decade .... from the **descriptors** second period, beginning near the turn of the century after almost a decade of silence.  -->
+Separated by thirty years, the two works are representative of different periods of Abrahamsen's creative output.
 
-and inspiration from natural sources.
 
-*Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
-
-A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979) and was a prominent figure associated with the Danish "New Simplicity" movement, which was a reaction against Darmstadt serialism. As Gavin Thomas indicates in his 1994 profile of Abrahamsen, "New Simplicity is not a style, but an attitude towards style, and its subject matter is defined not by its simplicity (it may *be* simple, but it may also be dense, dissonant and entirely 'modern'), but by its *distance*. It's an aesthetic which has a tendency to take whatever is familiar and to hand and turn it on its head."[@Thomas, p. 268.]
 
 Abrahamsen's first period pieces, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism and collage-like polystylism.
 
 **Ten Preludes as example of New Simplicity**
 
 Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti. **more on later first period works and how they differ from New Simplicity**
+
+The two works offer many insights into Abrahamsen's compositional development within these periods.
+
+Two common features between both creative periods are Abrahamsen's economy of materials and referential qualities.
+
+<!-- a time characterized by the arrival at a personal and mature voice stemming from a  -->
+
+<!-- innovations in rhythm, referential qualities, and renewed energy, -->
+
+<!-- from the end of his ... "New Simplicity" and  first period before a transition to ...., lasting from the 1970s until the 1990s. *Wald* comes after nearly a decade .... from the **descriptors** second period, beginning near the turn of the century after almost a decade of silence.  -->
+
+inspiration from natural sources.
+
+*Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
 
 The musical style of Abrahamsen's second period is deeply informed by the groundwork he laid during the period of his "fermata." He returned to his older works and reorchestrated them for alternate ensembles; for instance, Abrahamsen created a reed quintet version of the woodwind quintet *Walden* in 1995. He arranged and orchestrated works by Charles Ives, Carl Nielsen, Per Nørgård, and Maurice Ravel for ensembles ranging in size from woodwind quintet to chamber orchestra. Most importantly, Abrahamsen found inspiration in a set of canons by J.S. Bach^[BWV 1072-1078.] that he arranged with a distinctly Minimalist aesthetic. These canons would have a significant impact on several post-fermata works.
 
@@ -42,7 +56,7 @@ As both *Walden* and *Wald* feature horn material, it is worth noting that the h
 
 Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Most notable is his *Six Pieces* (1984), for horn, violin, and piano, which he wrote as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN]
 
-**Back to *Walden* and *Wald***
+**Back to *Walden* and *Wald**
 
 *Ten Sinfonias* (2010) program note:
 
