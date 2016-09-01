@@ -12,21 +12,26 @@ Outline
 - connect to trajectory of two periods
 - different ways he has reused throughout life
 
-Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on his earlier piece for woodwind quintet entitled *Walden* (1978). The same germinal idea opens both works: a repeating call and response gesture whose voices gradually go out of phase. Abrahamsen's realization and development of this idea differs between the pieces, but this approach of reusing, recasting, or otherwise referencing earlier music (his own or others) is a common characteristic in his music. His creative output can be divided into three periods, thus far. *Walden* is situated in the middle of his first period, which lasted from the early 1970s until 1990 a time characterized by associations with neo-classicism, New Simplicity, and polystylism. Abrahamsen's second period, lasting  *Wald* comes well into his third period, which began at the turn of the century when he returned to composition after years of silence between 1992 and 2000.
+- reuse and recomposition best understand within the context of his career trajectory
 
+Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on his earlier piece for woodwind quintet entitled *Walden* (1978). The same germinal idea opens both works: a repeating call and response gesture whose voices gradually go out of phase. **more here** This approach of reusing, recomposing, or otherwise referencing earlier music, both his own and others, is a common characteristic and best understood within the context of his three creative periods thus far.
 
-A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979). He was a prominent figure associated with the Danish New Simplicity movement, which was largely a reaction against Darmstadt serialism. Works falling under the New Simplicity category  favoring the relationship between material and technique, perceptible forms, . As Gavin Thomas indicates in his 1994 profile of Abrahamsen, "New Simplicity is not a style, but an attitude towards style, and its subject matter is defined not by its simplicity (it may *be* simple, but it may also be dense, dissonant and entirely 'modern'), but by its *distance*. It's an aesthetic which has a tendency to take whatever is familiar and to hand and turn it on its head."[@Thomas, p. 268.]
+*Walden* is situated in the middle of his first period, lasting from 1970-**1990**. A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979), and his earliest works of this period are characterized by associations with Danish New Simplicity, neo-classicism, and polystylism. Largely a reaction against Darmstadt serialism, New Simplicity was a term drawn from Danish literary criticism[@Ernste, p. 8.] and applied to composers who sought "to 'simplify' (at least in the literal sense) material and technique, to establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Thomas, p. 268.] As **musicologist?** Gavin Thomas indicates in his 1994 profile of Abrahamsen, New Simplicity was less of a style than an attitude towards style, and despite the label, the works need not be simple; they "may *be* simple, but [they] may also be dense, dissonant and entirely 'modern.'"[@Thomas, p. 268.]
 
+During this period, Abrahamsen's works like *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with New Simplicity along with references to music of the past. For instance, *Ten Preludes*
 
-Separated by thirty years, the two works are representative of different periods of Abrahamsen's creative output.
-
-
-
-Abrahamsen's first period pieces, including *Ten Preludes for String Quartet* (1973), *Stratifications* (1975), *Winternacht* (1976-78), and *Walden* (1978), blended the clarity of expression and economy of musical materials associated with "New Simplicity" along with elements of neo-classicism and collage-like polystylism.
-
-**Ten Preludes as example of New Simplicity**
+- references to works of the past *Ten Preludes*, *Winternacht*, and *Walden*
+- reuse of his own *Winternacht* and *Nacht und Trompeten*
 
 Later first period works, like *Six Pieces* (1984) for horn, violin, and piano, and *Märchenbilder* (1984), and *Lied in Fall* (1987) show a greater sense of chromaticism and denser, more granular textures, perhaps revealing the influence of his teacher György Ligeti. **more on later first period works and how they differ from New Simplicity**
+
+<!-- "New Simplicity is not a style, but an attitude towards style, and its subject matter is defined not by its simplicity (it may *be* simple, but it may also be dense, dissonant and entirely 'modern'), but by its *distance*. It's an aesthetic which has a tendency to take whatever is familiar and to hand and turn it on its head."[@Thomas, p. 268.] -->
+
+Abrahamsen's realization and development of this idea differs between the pieces, but   It is a time characterized by associations with  Abrahamsen's second period, lasting  
+
+*Wald* comes well into his third period, which began at the turn of the century when he returned to composition after years of silence between 1992 and 2000.
+
+Separated by thirty years, the two works are representative of different periods of Abrahamsen's creative output.
 
 The two works offer many insights into Abrahamsen's compositional development within these periods.
 
