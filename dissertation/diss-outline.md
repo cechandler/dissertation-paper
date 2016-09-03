@@ -126,6 +126,13 @@ header-includes:
 
     - needing a fragment (from *Composer to Composer*): "Now I always use a fragment given to me, or the fragment of another score. I need a fragment. Something that can develop organically. And then I can go. I have no predetermined idea of the form. The form emerges. The *sense* of form emerges."
 
+- Beethoven: Eroica Symphony and Prometheus Connection
+
+    - Sipe, Thomas
+    - https://www.jstor.org/stable/900498?seq=2#page_scan_tab_contents 
+
+- Bartok: Chromatic Invention?
+
 ## Contemporary composers well known for frequently reworking material
 
 - Luciano Berio
