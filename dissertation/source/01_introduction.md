@@ -3,23 +3,6 @@
 
 # Introduction
 
-<!--
-Outline
-- built on Walden
-- germinal idea
-- reuse is common in works
-- connect to trajectory of creative periods
-- more pronounced in third period
-- reuse and recomposition best understand within the context of his career trajectory
-
-    - different ways he has reused throughout life
-    - first: music of the past, neo-classicism, beginning to use his own
-    - second: arrangements of his own and others
-    - third: new synthesis
-
-- motivations for doing it: hidden opportunities and haunted by earlier works
--->
-
 Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on his earlier piece for woodwind quintet entitled *Walden* (1978). The same germinal idea opens both works: a repeating call and response gesture whose voices gradually go out of phase. This approach of reusing, recomposing, or otherwise referencing earlier music, both his own and others, is a common characteristic of his music and best understood within the context of his three creative periods thus far.
 
 *Walden* is situated in the middle of his first period, lasting from 1970-1987. A precocious composer, Abrahamsen had written a well-received body of work by age 27 (1979), and his earliest works of this period are characterized by associations with Danish New Simplicity, neo-classicism, and polystylism. New Simplicity was a term drawn from Danish literary criticism[@Ernste, p. 8.] and applied to composers who sought "to 'simplify' (at least in the literal sense) material and technique, to establish a perceptible sense of form and to evolve a new relationship with past musical styles and objects."[@Thomas, p. 268.] Gavin Thomas proposes in his 1994 profile of Abrahamsen that New Simplicity was less of a style than an attitude towards style, and despite the label, the works need not be simple; they "may *be* simple, but [they] may also be dense, dissonant and entirely 'modern.'"[@Thomas, p. 268.] Indeed the works of this period like *Ten Preludes for String Quartet* (1973), *Winternacht* (1976-78), and *Walden* (1978), blend this clarity of expression and economy of musical materials along with allusions to historical musical styles. For instance, over ten short movements, *Ten Preludes* gradually moves backward in time from a place of dissonant, chromatic modernism to Baroque pastiche. The final movements of *Winternacht* and *Walden* contain polyrhythmic, polytonal superimpositions of hunting horn calls and Baroque dance rhythms.[@Ernste, p. 6]
