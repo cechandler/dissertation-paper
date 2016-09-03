@@ -61,23 +61,23 @@
 | 2015 | *Left, alone*                      | 18:00    | piano and orchestra                     |
 
 ## List of Arrangements
-| Year | Composer       | Arrangement                      | Duration | Instrumentation                |
-|:-----|:---------------|:---------------------------------|:---------|:-------------------------------|
-| ???? | Bach           | 8 Canons, BWV 1072-78            | 20:00    | fl, cl, vib, gtr, pno, vln, vc |
-| ???? | Schumann       | Kinderszenen, op.15              |          | fl, ob, cl, bn, hn             |
-| 1988 | Nielsen        | Fantasistykker, op. 2            | 6:00     | ob, vn, va, vc                 |
-| 1988 | Satie          | Trois Gymnopedies                | 12:00    | ob and string quartet          |
-| 1989 | Ravel          | Le Tombeau de Couperin           | 20:00    |                                |
-| 1990 | Nielsen        | Three Piano Pieces op. 59 posth. | 10:00    |                                |
-| 1991 | Bach / Rouders | Befiehl du deine Wege            | 5:00     |                                |
-| 1992 | Nørgård        | Surf                             | 5:00     |                                |
-| 1998 | Weyse          | Fire Aftensange                  | 20:00    | mezzo-soprano and orchestra    |
-| 2000 | Nielsen        | Festpræludium                    | 3:00     | large orchestra                |
-| 2010 | Nielsen        | Symfoni Nr. 6                    | 32:00    |                                |
-| 2011 | Debussy        | Children's Corner                | 18:00    |                                |
-| 2012 | Ligeti         | Arc-en-ciel                      | 4:00     |                                |
-| 2012 | Ligeti         | En Suspens                       | 2:15     |                                |
-| 2012 | Nielsen        | Commotio                         | 21:00    |                                |
+| Year | Composer       | Arrangement                 | Duration | Instrumentation                |
+|:-----|:---------------|:----------------------------|:---------|:-------------------------------|
+| ???? | Bach           | *8 Canons* BWV 1072-78      | 20:00    | fl, cl, vib, gtr, pno, vln, vc |
+| ???? | Schumann       | *Kinderszenen* op. 15       |          | fl, ob, cl, bn, hn             |
+| 1988 | Nielsen        | *Fantasistykker* op. 2      | 6:00     | ob, vn, va, vc                 |
+| 1988 | Satie          | *Trois Gymnopedies*         | 12:00    | ob and string quartet          |
+| 1989 | Ravel          | *Le Tombeau de Couperin*    | 20:00    |                                |
+| 1990 | Nielsen        | *Three Piano Pieces* op. 59 | 10:00    |                                |
+| 1991 | Bach / Rouders | *Befiehl du deine Wege*     | 5:00     |                                |
+| 1992 | Nørgård        | *Surf*                      | 5:00     |                                |
+| 1998 | Weyse          | *Fire Aftensange*           | 20:00    | mezzo-soprano and orchestra    |
+| 2000 | Nielsen        | *Festpræludium*             | 3:00     | large orchestra                |
+| 2010 | Nielsen        | *Symfoni Nr. 6*             | 32:00    |                                |
+| 2011 | Debussy        | *Children's Corner*         | 18:00    |                                |
+| 2012 | Ligeti         | *Arc-en-ciel*               | 4:00     |                                |
+| 2012 | Ligeti         | *En Suspens*                | 2:15     |                                |
+| 2012 | Nielsen        | *Commotio*                  | 21:00    |                                |
 
 ## List of Related Works
 | Work or Movement                                  | Related Earlier Work         |
