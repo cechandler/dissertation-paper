@@ -3,6 +3,7 @@
 
 # Introduction
 
+<!--
 Outline
 - built on Walden
 - germinal idea
@@ -17,6 +18,7 @@ Outline
     - third: new synthesis
 
 - motivations for doing it: hidden opportunities and haunted by earlier works
+-->
 
 Danish composer Hans Abrahamsen's *Wald* (2009) is a "series of variations" building on his earlier piece for woodwind quintet entitled *Walden* (1978). The same germinal idea opens both works: a repeating call and response gesture whose voices gradually go out of phase. This approach of reusing, recomposing, or otherwise referencing earlier music, both his own and others, is a common characteristic of his music and best understood within the context of his three creative periods thus far.
 
@@ -30,17 +32,21 @@ The transition between Abrahamsen's first and second period is debatable, but 19
 
 [^SeeAppendix]: See the appendix for a chronological list of works and their instrumentations and durations.
 
-Abrahamsen arranged works by Carl Nielsen, Per Nørgård, Maurice Ravel, Erik Satie, and Robert Schumann for ensembles ranging in size from woodwind quintet to chamber orchestra.[^NewArrangements] He also revisited and orchestrated his older works for alternate ensembles, including the aforementioned *Winternacht* (alt. 1987) and *Walden* (alt. 1995). The most significant discovery for Abrahamsen was a set of canons by Bach, BWV 1072-1078, which he arranged for septet with a distinctly minimalist aesthetic involving numerous repetitions of the canon (e.g. **58 times** in the setting of BWV 1072).[@NYT] This process also included aspects of recomposition; for instance, in his arrangement of Bach's *Befiehl du deine Wege* (1991) for sinfonietta, Abrahamsen begins with a fragment of a melody by Danish composer Paul Rouders and over a series of varied repetitions reveals a setting of Bach's chorale melody.
+Abrahamsen arranged works by Carl Nielsen, Per Nørgård, Maurice Ravel, Erik Satie, and Robert Schumann for ensembles ranging in size from woodwind quintet to chamber orchestra.[^NewArrangements] He also revisited and orchestrated his older works for alternate ensembles, including the aforementioned *Winternacht* (alt. 1987) and *Walden* (alt. 1995). The most significant discovery for Abrahamsen was a set of canons by Bach, BWV 1072-1078, which he arranged for septet with a distinctly minimalist aesthetic involving numerous repetitions of the canon (e.g. 58 times in the setting of BWV 1072).[@NYT] This process also included aspects of recomposition; for instance, in his arrangement of Bach's *Befiehl du deine Wege* (1991) for sinfonietta, Abrahamsen begins with a fragment of a melody by Danish composer Paul Rouders and over a series of varied repetitions reveals a setting of Bach's chorale melody.
 
 [^NewArrangements]: Since 2000, Abrahamsen has continued to make arrangements, including works by Claude Debussy, György Ligeti, and Carl Nielsen.
 
-This period of reflection and contemplation through the practice of arranging older music provided the necessary catalyst for his third period, which began in 2000 with the completion of his *Concerto for Piano and Orchestra* (1999-2000). The musical style of Abrahamsen's third period is deeply informed by the groundwork he laid during the second period "fermata."
+This period of reflection and contemplation through the practice of arranging older music laid important groundwork and catalyzed Abrahamsen's third period, which began in 2000 with the completion of his *Concerto for Piano and Orchestra* (1999-2000). The *Piano Concerto* displays a new freedom in drawing musical material from diverse sources, both his own and others. The first movement begins with material from the third movement of his *Ten Studies for Piano* (1983-98); the second movement's opening piano solo is a literal repetition of a passage from mm. 45-63 in the second movement of *Märchenbilder*; the second and third movement contain quotations from Mahler's fifth symphony and Ligeti's *Horn Trio*; and the fourth movement is an arrangement of the final movement of *Ten Studies*.
+
+<!-- This work and the works which follow it are deeply informed by his approach to reuse and arrangement.  -->
+
+In the third period, Abrahamsen has returned to previous works in two ways: first, arranging earlier works for larger ensembles which involves varying degrees of recomposition, and second, expanding upon a germinal motive from an earlier work. For instance, in *Four Pieces for Orchestra* (2004), Abrahamsen recasts the first four movements of his *Ten Studies for Piano* (1983-98) for orchestral forces. *Air* (2006), for solo accordion, is a reworking and development of material from his first piece for accordion, *Canzone* (1978), and *Air* further serves as a point of departure for the *String Quartet No. 3* (2008).[@SQ3PN Program note]
+
+Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2000); this piece initiated a fertile period of artistic synthesis that combined the practice of returning to previous works (and referencing other composers' works) with new innovations in compositional technique. In this second period,
 
 *Wald* comes well into his third period, which began at the turn of the century when he returned to composition after years of silence between 1992 and 2000.
 
-Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2000); this piece initiated a fertile period of artistic synthesis that combined the practice of returning to previous works (and referencing other composers' works) with new innovations in compositional technique. In this second period, Abrahamsen returned to previous works in two ways: first, arranging earlier works for larger ensembles, and second, expanding upon a germinal motive from an earlier work. For instance, in *Four Pieces for Orchestra* (2004), Abrahamsen recasts the first four movements of his *Ten Studies for Piano* (1984-98) for orchestral forces, while the final movement of the *Piano Concerto* is an arrangement of the eighth movement of *Ten Studies*. *Air* (2006), for solo accordion, is a reworking and development of material from his first piece for accordion, *Canzone* (1978), and *Air* further serves as a point of departure for the *String Quartet No. 3* (2008).[@SQ3PN Program note]
-
-*Wald* offers many insights into Abrahamsen's compositional development, as it not only comes from his second period but also engages with a work from his first period. Abrahamsen's second period began in 1999 when he returned to composing new works after experiencing debilitating writer's block for nearly 10 years. During this time, he was "paralyzed by the white paper" and "felt that his music had become so complex that he no longer had the tools to create what he tried to imagine."[@NYT] While he slowed in producing new compositions, he did not stop working. Throughout this period, which he calls the "fermata"[@Molleson] of his compositional life, Abrahamsen found inspiration in arranging and orchestrating other composers' works as well as his own earlier pieces. This period of reflection and contemplation provided the necessary catalyst for a new stylistic period, one built upon the foundations of his first period but extended beyond it to new territory.
+*Wald* offers many insights into Abrahamsen's compositional development
 
 Beginning with *Schnee* (2006-08) and *Wald* (2008-09), Abrahamsen's style crystalized into one based on tightly constrained musical materials, microtonal sonorities, repeating material delineated by repeat signs, frequent changes of meter, tempo modulations, and complex polyrhythms. The two works are drastically different in scope and instrumentation: *Schnee* lasts an hour and is scored for nine musicians, while *Wald* lasts eighteen minutes and is scored for fifteen musicians. Abrahamsen has nonetheless indicated that *Wald* is a "twin piece" to *Schnee*,[@WaldPN Program note] and indeed they share not only the aforementioned characteristics but also clearly articulated forms and symmetrical ensemble seating plans.
 
