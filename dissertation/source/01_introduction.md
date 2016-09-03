@@ -26,7 +26,7 @@ Abrahamsen's later first period works, like *Märchenbilder* (1984) and *Lied in
 
 <!-- *Ten Studies* (1983-98) is perhaps the most important work of the late first period for the way it served as the source for several works bookending his second period. The first seven of the ten studies were composed between 1983-4^[**citation**] but the set was not completed until 1998 when he began writing his piano concerto. -->
 
-The transition between Abrahamsen's first and second period is debatable, but 1987 seems an appropriate boundary for two reasons. It was the year he completed his last major commission (*Lied in Fall* for the London Sinfonietta) before the *Piano Concerto* in 2000, and it was also year he made an arrangement of *Winternacht* for an alternate septet instrumentation. The second period between 1987-1999 was difficult for Abrahamsen and accompanied by a significant decrease in output. In a 2016 interview with the New York Times, he describes being "paralyzed by the white paper" and "[feeling] that his music had become so complex that he no longer had the tools to create what he tried to imagine." He did complete several short works between 1988-1992,[^SeeAppendix] but throughout this period, which he calls his "fermata,"[@Molleson] his creative crisis stimulated another direction in his relationship with his own and others's music: arrangement.
+The transition between Abrahamsen's first and second period is debatable, but 1987 seems an appropriate boundary for two reasons. It was the year he completed his last major commission (*Lied in Fall* for the London Sinfonietta) before the *Piano Concerto* in 2000, and it was also year he made an arrangement of *Winternacht* for an alternate septet instrumentation. The second period between 1987-1999 was difficult for Abrahamsen and accompanied by a significant decrease in output. In a 2016 interview with the New York Times, he describes being "paralyzed by the white paper" and "[feeling] that his music had become so complex that he no longer had the tools to create what he tried to imagine." He did complete several short works between 1988-1992,[^SeeAppendix] but throughout this period, which he calls his "fermata,"[@Molleson] his creative crisis stimulated another direction in use of previous music: arrangement.
 
 [^SeeAppendix]: See the appendix for a chronological list of works and their instrumentations and durations.
 
@@ -34,19 +34,9 @@ Abrahamsen arranged works by Carl Nielsen, Per Nørgård, Maurice Ravel, Erik Sa
 
 [^NewArrangements]: Since 2000, Abrahamsen has continued to make arrangements, including works by Claude Debussy, György Ligeti, and Carl Nielsen.
 
-This period of reflection and contemplation through the lens of older music provided the necessary catalyst for his third period,
-
-<!-- one built upon the foundations of his first period but extended beyond it to new territory. -->
-
-The musical style of Abrahamsen's third period is deeply informed by the groundwork he laid during the period of his "fermata."
+This period of reflection and contemplation through the practice of arranging older music provided the necessary catalyst for his third period, which began in 2000 with the completion of his *Concerto for Piano and Orchestra* (1999-2000). The musical style of Abrahamsen's third period is deeply informed by the groundwork he laid during the second period "fermata."
 
 *Wald* comes well into his third period, which began at the turn of the century when he returned to composition after years of silence between 1992 and 2000.
-
-<!-- a time characterized by the arrival at a personal and mature voice stemming from a  -->
-
-<!-- innovations in rhythm, referential qualities, and renewed energy, -->
-
-<!-- from the end of his ... "New Simplicity" and  first period before a transition to ...., lasting from the 1970s until the 1990s. *Wald* comes after nearly a decade .... from the **descriptors** second period, beginning near the turn of the century after almost a decade of silence.  -->
 
 Abrahamsen's "fermata" ended with the *Concerto for Piano and Orchestra* (1999-2000); this piece initiated a fertile period of artistic synthesis that combined the practice of returning to previous works (and referencing other composers' works) with new innovations in compositional technique. In this second period, Abrahamsen returned to previous works in two ways: first, arranging earlier works for larger ensembles, and second, expanding upon a germinal motive from an earlier work. For instance, in *Four Pieces for Orchestra* (2004), Abrahamsen recasts the first four movements of his *Ten Studies for Piano* (1984-98) for orchestral forces, while the final movement of the *Piano Concerto* is an arrangement of the eighth movement of *Ten Studies*. *Air* (2006), for solo accordion, is a reworking and development of material from his first piece for accordion, *Canzone* (1978), and *Air* further serves as a point of departure for the *String Quartet No. 3* (2008).[@SQ3PN Program note]
 
