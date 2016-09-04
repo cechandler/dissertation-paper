@@ -21,33 +21,15 @@ The second period's time of reflection and contemplation through the practice of
 
 With *Schnee* (2006-08) and *Wald* (2008-09), Abrahamsen's style and technique crystalized into one characterized by tightly controlled and limited musical materials, microtonal sonorities, repeating material delineated by repeat signs, frequent changes of meter, tempo modulations, and complex polyrhythms. The two works are drastically different in scope and instrumentation: *Schnee* lasts an hour and is scored for nine musicians, while *Wald* lasts eighteen minutes and is scored for fifteen musicians. Abrahamsen has nonetheless indicated that *Wald* is a "twin piece" to *Schnee*,[@WaldPN Program note] and indeed they share not only the aforementioned characteristics but also clearly articulated forms and symmetrical ensemble seating arrangements. While *Schnee* has gained greater notoriety, due in part to its striking length, *Wald* better exemplifies the synthesis of Abrahamsen's third period, where previous materials are recast and further developed with these new compositional resources.
 
-From references and allusions to historical styles, to arrangements of his own and others' past works, and finally to creating new works from his earlier musical material, the trajectory of Abrahamsen's creative output reveals a composer whose relationship with "outside" material has changed over time, as well as a composer continually in dialogue with himself and the works of the past. *Walden* and *Wald* are uniquely situated in this context as representative works of the first and third periods and also intersect with the second period through *Walden*'s alternate arrangement.
+From references and allusions to historical styles, to arrangements of his own and others' past works, and finally to creating new works from his earlier musical material, the trajectory of Abrahamsen's creative output reveals a composer whose relationship with "outside" material has changed over time, as well as a composer continually in dialogue with himself and the works of the past. His motivation for frequently returning to his "previous works and sketches" stems from a desire to explore "hidden opportunities and ways" to develop them into new works that he may not have seen at first.[@10SinfsPN] Abrahamsen connects this practice to the experience of visiting the Munch Museum in Oslo where "he saw how Munch painted the same subject over and over again, 'investigating it in many different ways from the small black-and-white sketch to the huge painting. For me it is the same. I have been haunted by these pieces for years and have been challenged to re-investigate the material to understand why.'"[@FourPiecesPN]
 
-inspiration from natural sources.
+*Walden* and *Wald* are uniquely situated in this context as representative works of the first and third periods and also intersect with the second period through *Walden*'s alternate arrangement. The shared opening horn call and response technique is heard only once at the beginning of *Walden* and not again throughout, so this
 
-## Abrahamsen and the Horn
-
-As both *Walden* and *Wald* feature horn material, it is worth noting that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. In the first ever public performance of his own music in 1969, Abrahamsen performed a piece called *October* on horn and piano using both instruments with his left hand and played "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
-
-Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Most notable is his *Six Pieces* (1984), for horn, violin, and piano, which he wrote as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN]
-
-**mention natrual horn technique in Piano Concerto and the indication of an homage to Ligeti**
-
-**Back to *Walden* and *Wald**
-
-*Ten Sinfonias* (2010) program note:
-
-> Over the years I have found a way of working where I again and again return to my previous works and sketches to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.
-
-- Connect the quote above to how Abrahamsen does not re-visit the rhythmic displacement element at all in *Walden* yet does so for many other elements
+Connect the quote above to how Abrahamsen does not re-visit the rhythmic displacement element at all in *Walden* yet does so for many other elements
 
 <!--
 Discussion of *Walden* should emp processes/materials that do get re-interpreted over the course of the piece
 Then the transition to *Wald* focuses on how he dramatically explodes this previously "unexplored" idea
 -->
-
-*Fire Stykker for Orchestra* (2004) program note:
-
-> The results are not so much ‘arrangements’ of the four piano studies, more recompositions. A helpful comparison might be made with certain painters: Cézanne, portraying the same mountain from different angles; or Monet, obsessively returning to Rouen Cathedral in different lights and weather conditions. **Abrahamsen himself remembers an important visit to the Munch Museum in Oslo, where he saw how Munch painted the same subject over and over again, ‘investigating it in many different ways from the small black-and-white sketch to the huge painting. For me it is the same. I have been haunted by these pieces for years and have been challenged to re-investigate the material to understand why.’**
 
 Of course, Hans Abrahamsen is not the first composer to reuse his own prior materials as the basis for new works. The twentieth century is filled with composers who fit this model and have differing motivations for continually revisiting their own works. Luciano Berio's *Sequenzas* and his recomposition and arrangements if them in his *Chemins*, Pierre Boulez and his incessant reworking of a small body of work over and over again, Toru Takemitsu and his "water theme" which waxes and wanes through a variety of compositions in the 1980s and 1990s, Franco Donatoni whose builds his works off fragments of the previous

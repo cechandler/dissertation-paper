@@ -1,5 +1,12 @@
-
 # Part 2: An Analysis of *Walden*
+
+## Abrahamsen and the Horn
+
+As both *Walden* and *Wald* feature horn material, it is worth noting that the horn has a special significance for Abrahamsen. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand, which left him unable to pursue most instruments with professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. In the first ever public performance of his own music in 1969, Abrahamsen performed a piece called *October* on horn and piano using both instruments with his left hand and played "natural harmonics of the horn directly into the open strings of the grand piano to create resonance" while the pedal was held down by an assistant.[@LeftAlonePN Program note.]
+
+Beyond *Walden* and *Wald*, Abrahamsen has featured the horn in other works. Most notable is his *Six Pieces* (1984), for horn, violin, and piano, which he wrote as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.] *Six Pieces* revisits six movements from the piano work *Ten Studies* where Abrahamsen "tried to 'conjure up' instrumental parts inside the piano movement."[@SixPiecesPN]
+
+**mention natrual horn technique in Piano Concerto and the indication of an homage to Ligeti**
 
 ## Background
 
