@@ -23,7 +23,7 @@ help:
 	@echo ''
 
 pdf:
-	pandoc "$(INPUTDIR)"/*.md \
+	time pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).pdf" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
@@ -36,7 +36,7 @@ pdf:
 	open "$(OUTPUTDIR)/$(OUTFILE).pdf"
 
 tex:
-	pandoc "$(INPUTDIR)"/*.md \
+	time pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).tex" \
 	--template="$(STYLEDIR)/template.tex" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
@@ -53,7 +53,7 @@ tex:
 	open "$(OUTPUTDIR)/$(OUTFILE).tex"
 
 docx:
-	pandoc "$(INPUTDIR)"/*.md \
+	time pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).docx" \
 	--reference-docx="$(STYLEDIR)/reference.docx" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
@@ -65,7 +65,7 @@ docx:
 	open "$(OUTPUTDIR)/$(OUTFILE).docx"
 
 odt:
-	pandoc "$(INPUTDIR)"/*.md \
+	time pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).odt" \
 	--reference-odt="$(STYLEDIR)/reference.odt" \
 	--filter "$(SCRIPTSDIR)/pandoc-linespacing.py" \
@@ -77,7 +77,7 @@ odt:
 	open "$(OUTPUTDIR)/$(OUTFILE).odt"
 
 html:
-	pandoc "$(INPUTDIR)"/*.md \
+	time pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/$(OUTFILE).html" \
 	--template="$(STYLEDIR)/template.html" \
 	--include-in-header="$(STYLEDIR)/style.css" \

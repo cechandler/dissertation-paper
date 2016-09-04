@@ -30,7 +30,7 @@
 | 1985 | *Zwei Schneetänze*                 | 4:00     | 4rec, or fl, cl, vn, vc                 |
 | 1987 | *Lied in Fall*                     | 14:00    | cello and chamber orchestra             |
 | 1987 | *Winternacht*                      | 13:00    | fl, cl, perc, pno, gtr, vn, vc          |
-| 1988 | *Storm og Stille*                  | 3:00     | cello, or vn, va, vc                    |
+| 1988 | *Storm og Stille*                  | 3:00     | cello                                   |
 | 1990 | *Capriccio Bagateller*             | 4:00     | violin                                  |
 | 1990 | *Aarhus Ragtime*                   | 3:00     | chamber orchestra                       |
 | 1990 | *Hymne*                            | 3:00     | cello or viola                          |
@@ -61,41 +61,41 @@
 | 2015 | *Left, alone*                      | 18:00    | piano and orchestra                     |
 
 ## List of Arrangements
-| Year | Arrangement                               | Duration | Instrumentation             |
-|:-----|:------------------------------------------|:---------|:----------------------------|
-|      | Bach: 8 Canons                            | 20:00    |                             |
-|      | Bach: Befiehl du deine Wege               | 5:00     |                             |
-| 2012 | Nielsen: Commotio                         | 21:00    |                             |
-| 1988 | Nielsen: Fantasistykker, op. 2            | 6:00     | ob, vn, va, vc              |
-|      | Nielsen: Festpræludium                    | 3:00     |                             |
-| 2010 | Nielsen: Symfoni Nr. 6                    | 32:00    |                             |
-| 1990 | Nielsen: Three Piano Pieces op. 59 posth. | 10:00    |                             |
-| 1989 | Ravel: Le Tombeau de Couperin             | 20:00    |                             |
-| 2011 | Debussy: Children's Corner                | 18:00    |                             |
-| 1988 | Satie: Trois Gymnopedies                  | 12:00    | ob and string quartet       |
-| 2012 | Ligeti: Arc-en-ciel                       | 4:00     |                             |
-| 2012 | Ligeti: En Suspens                        | 2:15     |                             |
-| ???? | Nørgård: Surf                             | 5:00     |                             |
-|      | Schumann: Kinderszenen, op.15             |          | wind quintet                |
-| 1998 | Weyse: Fire Aftensange                    | 20:00    | mezzo-soprano and orchestra |
+| Year | Composer       | Arrangement                 | Duration | Instrumentation                |
+|:-----|:---------------|:----------------------------|:---------|:-------------------------------|
+| ???? | Bach           | *8 Canons* BWV 1072-78      | 20:00    | fl, cl, vib, gtr, pno, vln, vc |
+| ???? | Schumann       | *Kinderszenen* op. 15       |          | fl, ob, cl, bn, hn             |
+| 1988 | Nielsen        | *Fantasistykker* op. 2      | 6:00     | ob, vn, va, vc                 |
+| 1988 | Satie          | *Trois Gymnopedies*         | 12:00    | ob and string quartet          |
+| 1989 | Ravel          | *Le Tombeau de Couperin*    | 20:00    |                                |
+| 1990 | Nielsen        | *Three Piano Pieces* op. 59 | 10:00    |                                |
+| 1991 | Bach / Rouders | *Befiehl du deine Wege*     | 5:00     |                                |
+| 1992 | Nørgård        | *Surf*                      | 5:00     |                                |
+| 1998 | Weyse          | *Fire Aftensange*           | 20:00    | mezzo-soprano and orchestra    |
+| 2000 | Nielsen        | *Festpræludium*             | 3:00     | large orchestra                |
+| 2010 | Nielsen        | *Symfoni Nr. 6*             | 32:00    |                                |
+| 2011 | Debussy        | *Children's Corner*         | 18:00    |                                |
+| 2012 | Ligeti         | *Arc-en-ciel*               | 4:00     |                                |
+| 2012 | Ligeti         | *En Suspens*                | 2:15     |                                |
+| 2012 | Nielsen        | *Commotio*                  | 21:00    |                                |
 
 ## List of Related Works
-| Work                         | Related Work                                      |
-|:-----------------------------|:--------------------------------------------------|
-| *Flowersongs* (1973)         | *Ten Preludes* (1973) VIII                        |
-| *Flowersongs* (1973)         | *Schnee* (2006-08) Canon 2A                       |
-| *Winternacht* (1976-78) IV   | *Nacht und Trumpeten* (1981)                      |
-| *Ten Preludes* (1973)        | *Ten Sinfonias* (2010)                            |
-| *Six Pieces* (1984) II       | *Concerto for Piano and Orchestra* (1999-2000) I  |
-| *Ten Studies* (1984-98)      | *Six Pieces* (1984)                               |
-| *Ten Studies* (1984-98) I-IV | *Four Pieces for Orchestra* (2004) I-IV           |
-| *Ten Studies* (1984-98) II   | *Concerto for Piano and Orchestra* (1999-2000) I  |
-| *Ten Studies* (1984-98) VIII | *Concerto for Piano and Orchestra* (1999-2000) IV |
-| *Canzone* (1978)             | *Air* (2006)                                      |
-| *Air* (2006)                 | *String Quartet No. 3* (2008)                     |
-| *Walden* (1978) I            | *Wald* (2008-09)                                  |
-| *Schnee* (2006-08)           | *Wald* (2008-09)                                  |
-| *Schnee* (2006-08)           | *Double Concerto* (2010-11) IV                    |
-| *Schnee* (2006-08) Canon 1A  | *let me tell you* (2013) I                        |
-| *Traumlieder* (2009)         | *Six Pieces* (1984)                               |
-| *Liebeslied* (2010)          | *Double Concerto* (2011) I                        |
+| Work or Movement                                  | Related Earlier Work         |
+|:--------------------------------------------------|:-----------------------------|
+| *Nacht und Trumpeten* (1981)                      | *Winternacht* (1976-78) IV   |
+| *Six Pieces* (1984)                               | *Ten Studies* (1984-98)      |
+| *Concerto for Piano and Orchestra* (1999-2000) I  | *Six Pieces* (1984) II       |
+| *Concerto for Piano and Orchestra* (1999-2000) I  | *Ten Studies* (1984-98) II   |
+| *Concerto for Piano and Orchestra* (1999-2000) II | *Märchenbilder* (1984) II    |
+| *Concerto for Piano and Orchestra* (1999-2000) IV | *Ten Studies* (1984-98) VIII |
+| *Four Pieces for Orchestra* (2004) I-IV           | *Ten Studies* (1984-98) I-IV |
+| *Air* (2006)                                      | *Canzone* (1978)             |
+| *String Quartet No. 3* (2008)                     | *Air* (2006)                 |
+| *Schnee* (2006-08) Canon 2A                       | *Flowersongs* (1973)         |
+| *Wald* (2008-09)                                  | *Walden* (1978) I            |
+| *Wald* (2008-09)                                  | *Schnee* (2006-08)           |
+| *Traumlieder* (2009)                              | *Six Pieces* (1984)          |
+| *Ten Sinfonias* (2010)                            | *Ten Preludes* (1973)        |
+| *Double Concerto* (2010-11) I                     | *Liebeslied* (2010)          |
+| *Double Concerto* (2010-11) IV                    | *Schnee* (2006-08)           |
+| *let me tell you* (2013) I                        | *Schnee* (2006-08) Canon 1A  |
