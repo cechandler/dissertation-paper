@@ -1,14 +1,18 @@
 # Part 1: Framework for Analysis
 
-Dora Hanninen's book *A Theory of Musical Analysis: On Segmentation and Associative Organization* provides a rich and flexible interpretative framework that does not constitute a rigid methodology to control the analytical process, but rather acts as a "multidimensional conceptual space" that provides "a relatively neutral but precise and highly flexible language" and "interpretative autonomy."[@Hanninen, p. 4] It is intended to be suggestive, leading, and supportive depending on the analyst's own interests and imagination. This framework is well suited for describing the highly associative musical material within and shared between *Walden* and *Wald*. Hanninen recognizes the importance of contextual details
+Dora Hanninen's book *A Theory of Musical Analysis: On Segmentation and Associative Organization* provides a rich and flexible interpretative framework that is intended to be suggestive, leading, and supportive depending on the analyst's own interests and imagination. It does not constitute a rigid methodology to control the analytical process, but rather acts as a "multidimensional conceptual space" that provides "a relatively neutral but precise and highly flexible language" and "interpretative autonomy."[@Hanninen, p. 4] Hanninen's analytical framework emphasizes the importance of association in music, that is how segments and categories of segments are connected (or disconnected) to one another. It is well-suited for analyzing *Walden* and *Wald* because it provides tools to describe the
 
-**A section here describing why Hanninen's framework is appropriate for Abrahamsen's music**
+describing Abrahamsen's approach to reuse and recontextualization
+
+This framework is well suited for describing the highly associative musical material within and shared between *Walden* and *Wald*. Hanninen recognizes the importance of contextual details. **A section here describing why Hanninen's framework is appropriate for Abrahamsen's music**
 
 The following sections will give an overview of the theory, its important concepts, terms, and notational conventions, as well as musical examples to illustrate these aspects and why it is applicable for the analyses on *Wald* and *Walden*.
 
 ## Terms and Concepts
 
-As the title suggests, Hanninen's framework for musical analysis primarily involves two principle aspects: segmentation and associative organization. Segmentation concerns how musical objects are identified and analytically supported, while associative organization concerns how these segments are categorized into non-hierarchic sets (called associative sets) and ultimately how these sets are distributed in time throughout a passage or whole piece of music (called an associative landscape).[@Hanninen, p. 4] Through these aspects, Hanninen's analytical framework emphasizes the importance of association in music, that is how segments and categories of segments are connected (or disconnected) to one another, and the separation of associative organization and structural organization.
+As the title suggests, Hanninen's framework for musical analysis primarily involves two principle aspects: segmentation and associative organization. Segmentation concerns how musical objects are identified and analytically supported, while associative organization concerns how these segments are categorized into non-hierarchic sets (called associative sets) and ultimately how these sets are distributed in time throughout a passage or whole piece of music (called an associative landscape).[@Hanninen, p. 4]
+
+Through these aspects, Hanninen's analytical framework emphasizes the importance of association in music, that is how segments and categories of segments are connected (or disconnected) to one another, and the separation of associative organization and structural organization.
 
 ![Schematic representation of Hanninen's theory of musical analysis](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/hanninen-schematic.png){#fig:hanninen-schematic}
 
