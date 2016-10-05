@@ -67,7 +67,7 @@ Table: Individual sonic criteria from Hanninen Example 2.8. {#tbl:hanninen-conte
 
 **Example here using contextual criteria to segment a short passage**
 
-Contextual criteria also constitute the foundation of associative sets, which are an atemporal collection of segments associate through one or more contextual criteria. Associative sets are indicated by a capitalized letter or in some cases a short word or fragment that succinctly describes a defining characteristic, for instance set *A*, *X*, or *LEAP*. An indication of *A1* or *X5* references a particular segment within a respective associative set where the number indicates the segment's position in the passage or piece at hand. Large associative sets might contain numerous segments throughout a piece, and in cases where some segments more strongly connect to other segments, they are further specified through associative subsets notated as *A/a* or *A/b*.
+Contextual criteria also constitute the foundation of associative sets, which are an atemporal collection of segments associate through one or more contextual criteria. Associative sets are notated by italicized capital letter or in some cases a short word or fragment that succinctly describes a defining characteristic, for instance set *A*, *X*, or *LEAP*. An indication of *A1* or *X5* references a particular segment within a respective associative set where the number indicates the segment's position in the passage or piece at hand. Large associative sets might contain numerous segments throughout a piece, and in cases where some segments more strongly connect to other segments, they are further specified through associative subsets notated as *A/a* or *A/b*.
 
 **Example here of associative sets and subsets**
 
