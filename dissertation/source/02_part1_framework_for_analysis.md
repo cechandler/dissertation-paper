@@ -4,7 +4,7 @@ Dora Hanninen's book *A Theory of Musical Analysis: On Segmentation and Associat
 
 Given its emphasis on describing the relationship between musical objects, Hanninen's framework is well-suited for analyzing Abrahamsen's approach to material reuse and recontextualization in *Walden* and *Wald*. The following sections give an overview of the theory and its important concepts, terms, and notational conventions. Musical examples illustrate these aspects and underscore its applicability to Abrahamsen's music.
 
-## Terms and Concepts
+## Terminology
 
 Hanninen frames the analytical process through three domains (sonic, contextual, and structural) and five levels (orientations, criteria, segments, associative sets, and associative landscapes). The three domains identify different kinds of musical experience that shape the segmentation and association process, while the five levels describe a movement from conceptualizing about music to the concrete details of the music itself. Hanninen schematically diagrams these components and their intersections in Example 1.1 of her book, shown here in Figure @fig:hanninen-schematic; the three domains are oriented along the top and the five levels run down the lefthand side.
 
@@ -32,7 +32,7 @@ Hanninen establishes straightforward notational conventions for clearly identify
 
 Table: Individual sonic criteria from Hanninen Example 2.5. {#tbl:hanninen-sonic-criteria}
 
-| S Criterion       | Segmentation                                                                                                                         |
+| Sonic Criterion   | Segmentation                                                                                                                         |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | S~1-pitch~        | Pitch interval between events that are temporally adjacent                                                                           |
 | S~1-duration~     | Duration (in beats or seconds) between attack points of events that are temporally adjacent (duration can include sustain and rests) |
@@ -48,9 +48,11 @@ Table: Individual sonic criteria from Hanninen Example 2.5. {#tbl:hanninen-sonic
 | S~2-articulation~ | Articulation proximity; events not (necessarily) temporally adjacent                                                                 |
 | S~2-space~        | Proximity of spatial location; events not (necessarily) temporally adjacent                                                          |
 
-**Example here using sonic criteria to segment a short passage**
+A short passage from the first movement of *Walden* in Figure @fig:walden-sonic-criteria illustrates the use of sonic criteria to segment the musical surface. The passage contains two contrasting layers cleanly differentiated by S~1-timbre\ (fl,\ ob,\ cl)~ vs. S~1-timbre\ (hrn,\ bsn)~, S~1-articulation\ (legato)~ vs S~1-articulation\ (staccato)~, and S~1-dynamic\ (`ppp`)~ vs. S~1-dynamic\ (`mp`-`f`)~. The layer in the horn and bassoon also demonstrates the difference between S~1~ and S~2~ criteria. S~1-dynamic~ parses the passage into four discrete segments due to their different, temporally adjacent dynamic levels. S~2-dynamic~ connects two segments on beat four at the `mf` dynamic level as they are not temporally adjacent but close in proximity. These two segments are further related by S~2-attack\ point~ and contextually by the number of attacks within the segment.
 
-Contextual criteria move the focus from the acoustic properties of a note to groupings of notes, where segmentation is supported through the identification of repetition, equivalence, or similarity between two or more musical objects within a specific context.[@Hanninen, pg. 32] Segments can be related by literal repetition, where all musical dimensions are the same, or varied repetition, involving equivalence and similarity, where some musical dimension remain the same while others do not. Hanninen defines these two terms such that equivalence is repetition plus "transformation within a set of operations that form a mathematical group" and similarity is equivalence with a transformation that is not necessarily part of a mathematical group.[@Hanninen, pg. 33] For example, equivalence might involve a repeated segmented transposed or inverted by a particular interval, whereas similarity would involve a segment's varied repetition by rhythmic fragmentation or some other process not captured by logical operators (e.g. T~n~, T~n~I, R, RI, M, MI, etc.).
+![Sonic criteria segmentation in *Walden* I. mm. 57-59](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-sonic-criteria.png){#fig:walden-sonic-criteria}
+
+Contextual criteria move the focus from the acoustic properties of a note to groupings of notes, where segmentation is supported through the identification of repetition, equivalence, or similarity between two or more musical objects within a specific context.[@Hanninen, pg. 32] Segments can be related by literal repetition, where all musical dimensions are the same, or varied repetition, involving equivalence and similarity, where some musical dimension remain the same while others do not. Hanninen defines these two terms such that equivalence is repetition plus "transformation within a set of operations that form a mathematical group" and similarity is equivalence with a transformation that is not necessarily part of a mathematical group.[@Hanninen, pg. 33] For example, equivalence might involve a repeated segmented transposed or inverted by a interval, whereas similarity would involve a segment's varied repetition by rhythmic fragmentation or some other process not captured by logical operators (e.g. T~n~, T~n~I, R, RI, M, MI, etc.).
 
 Contextual criteria have many subtypes and individual criteria, again denoted by a subscript. Subtypes are characteristics of a grouping of notes that can be used to associate two or more segments, such as pitch set, pitch-class set, set-class, pitch interval, contour, etc. Table @tbl:hanninen-contextual-criteria gives a list of contextual subtypes and an example an individual criterion within it.
 
