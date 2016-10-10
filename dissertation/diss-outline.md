@@ -129,7 +129,7 @@ header-includes:
 - Beethoven: Eroica Symphony and Prometheus Connection
 
     - Sipe, Thomas
-    - https://www.jstor.org/stable/900498?seq=2#page_scan_tab_contents 
+    - https://www.jstor.org/stable/900498?seq=2#page_scan_tab_contents
 
 - Bartok: Chromatic Invention?
 
@@ -527,56 +527,56 @@ header-includes:
 
 [^FlowersongsReworking]: Discussion of reusing ideas from earlier works in *Flowersongs* (1973) program note:
 
-		> I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
+	I cannot help but carry with me to this day the ideas from my early works. For example, there are clear links in this work from the 8th Prelude from *10 Preludes* and to *Canon 2a* from *Schnee* from 2008. This work is written for the wonderful ensemble recherche and it was meeting them that made me consider making a version of *Flowersongs* for flute, oboe and clarinet.
 
 [^TenSinfHiddenOpportunities]: Discussion of reusing ideas from earlier works in *Ten Sinfonias* (2010) program note:
 
-		> Over the years I have found a way of working where I again and again return to my previous works and sketches **to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.**
+	Over the years I have found a way of working where I again and again return to my previous works and sketches **to see if there are hidden opportunities and ways as I did not see then or for that matter, could develop into new works.**
 
-		> A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces -- or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
+	A work which I often return to is my *String Quartet No. 1* subtitled *10 Preludes* from the spring 1973. This piece is in many ways a key work from my early period. It consists of ten short pieces -- or maybe beginnings written in a new simplistic (or minimalistic) and poly-stylistical style.
 
-		> ...
+	...
 
-		> I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
+	I feel myself in family with composers who again and again re-work their pieces from one version to another – say Ravel or Stravinsky. The latter re-thought in 1962, the small simple piano pieces *Les Cinq Doigts* from 1921 for a small orchestra titled *Eight Instrumental Miniatures*. This is just one example. One could go on to mention how Stravinsky transforms and re-thinks his own to say noting about works of other composers.
 
 [^LeftAloneHorn]: From the *Left, alone* program note
 
-		> I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
+	I was born with a right hand that is not fully functional, and though it never prevented me from loving playing the piano as well as I could with this physical limitation, it has obviously given me an alternative focus on the whole piano literature and has given me a close relationship with the works written for the left hand by Ravel and others. This repertoire has been with me since my youth.
 
-		> My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
+	My very first public performance of one of my own works was in autumn 1969. The piece was called *October* and I played the piano with my left hand and the horn, my principal instrument (the only instrument that can be played with only the left hand). Part of the piece requires the performer to play natural harmonics of the horn directly into the open strings of the grand piano to create resonance. The pedal was kept down by an assistant lying on the floor.
 
 [^ConcertoAllusions]: From *Concerto for Piano and Orchestra* program note:
 
-		> Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
+	Characteristically for Hans Abrahamsen's works, one can dig out layer upon layer of earlier pieces from below the surface of the piano concerto. But there are also hidden allusions, as well as obvious references, to the music of other composers. This is clearest in the second movement, where one finds an explicit reference to Mahler - '(Wie Mahler!)' - at a point where the trumpet, fanfare-like, repeats the note C sharp. The third movement has a similar tribute to György Ligeti, who along with Per Nørgård and Pelle Gudmundsen-Holmgreen has been among Hans Abrahamsen's most important teachers.
 
 [^BakhtinDialogic]: From Wikipedia <https://en.wikipedia.org/wiki/Dialogic>:
 
-		> Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
+	Bakhtin contrasts the dialogic and the "monologic" work of literature. The dialogic work carries on a continual dialogue with other works of literature and other authors. It does not merely answer, correct, silence, or extend a previous work, but informs and is continually informed by the previous work. Dialogic literature is in communication with multiple works. This is not merely a matter of influence, for the dialogue extends in both directions, and the previous work of literature is as altered by the dialogue as the present one is. Though Bakhtin's "dialogic" emanates from his work with colleagues in what we now call the "Bakhtin Circle" in years following 1918, his work was not known to the West or translated into English until the 1970s. For those only recently introduced to Bakhtin's ideas but familiar with T. S. Eliot, his "dialogic" is consonant with Eliot's ideas in "Tradition and the Individual Talent," where Eliot holds that "the past should be altered by the present as much as the present is directed by the past".[1] For Bakhtin, the influence can also occur at the level of the individual word or phrase as much as it does the work and even the oeuvre or collection of works. A German cannot use the word "fatherland" or the phrase "blood and soil" without (possibly unintentionally) also echoing (or, Bakhtin would say "refracting") the meaning that those terms took on under Nazism. Every word has a history of usage to which it responds, and anticipates a future response.
 
-		> The term 'dialogic' does not only apply to literature. For Bakhtin, all language -- indeed, all thought -- appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
+	The term 'dialogic' does not only apply to literature. For Bakhtin, all language -- indeed, all thought -- appears as dialogical. This means that everything anybody ever says always exists in response to things that have been said before and in anticipation of things that will be said in response. In other words, we do not speak in a vacuum. All language (and the ideas which language contains and communicates) is dynamic, relational and engaged in a process of endless redescriptions of the world.
 
-		> Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
+	Bakhtin also emphasized certain uses of language that maximized the dialogic nature of words, and other uses that attempted to limit or restrict their polyvocality. At one extreme is novelistic discourse, particularly that of a Dostoevsky (or Mark Twain) in which various registers and languages are allowed to interact and respond to each other. At the other extreme would be the military order (or "1984" newspeak) which attempts to minimize all orientations of the work toward the past or the future, and which prompts no response but obedience.
 
-		> When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
+	When scholars, like Julia Kristeva, in the late 1970s and early 1980s, rediscovered Bakhtin, his work seemed to fit with the then-nascent concepts of "intertextuality". And European social psychologists applied Bakhtin's work to the study of human social experience, preferring it as a more dynamic alternative to Cartesian monologicality.
 
 [^ThomasAllusion]: <https://en.wikipedia.org/wiki/Allusion#Academic_analysis_of_the_concept_of_allusions> R. F. Thomas, "Virgil's *Georgics* and the art of reference" *Harvard Studies in Classical Philology* 90 (1986) pp 171–98
 
 [^WaldenTitleFoundAfter]: Kullberg, 1985
 
-		> Hm! .. It is no more literary than that it is a title I found out after I had written the piece. So I rediscovered some qualities in my music, as Thoreau had tried to write about in his book "Walden, life in the forest '- that was why I chose the title. So, one can say anything about recycling and something about the cyclical and something about the ecological and poetic dimension etc. - And I liked the title 'Walden', it is something with forest, some pastoral.
+	Hm! .. It is no more literary than that it is a title I found out after I had written the piece. So I rediscovered some qualities in my music, as Thoreau had tried to write about in his book "Walden, life in the forest '- that was why I chose the title. So, one can say anything about recycling and something about the cyclical and something about the ecological and poetic dimension etc. - And I liked the title 'Walden', it is something with forest, some pastoral.
 
 [^TitlesComeAfter]: Program note for *Ten Studies*
 
-		> The language of the title means a lot to me and to which associations it arouses the listener. there may, for instance, be a world of difference between a "Traumlied", a "Drømmesang" and a "Dream Song", for that matter.
+	The language of the title means a lot to me and to which associations it arouses the listener. there may, for instance, be a world of difference between a "Traumlied", a "Drømmesang" and a "Dream Song", for that matter.
 
-		> It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
+	It is true about many of the titles that they have only been found after the pieces had been written; ie, I did not decide to write a boogie-woogie, but the title came as an afterthought at the end of the piece.
 
 [^BoulezSmallRelationships]: Pierre Boulez interview with Andrew Ford (*Composer to Composer*, pg. 23)
 
-		> Take *Notations*, for example: In these short pieces the design is very clear. But if you go inside, you know, you find so many small relationships, the kitting of each element is so tight that it takes quite a lot of time to see what is really there. For me it is a game of appearance and reality.
+	Take *Notations*, for example: In these short pieces the design is very clear. But if you go inside, you know, you find so many small relationships, the kitting of each element is so tight that it takes quite a lot of time to see what is really there. For me it is a game of appearance and reality.
 
 [^SchneeQuestionAnswering]: *Schnee* program note on Vorsatz and Nachsatz, or answering and questioning
 
-        > In Schnee, a few simple and fundamental musical questions are explored. What is a Vorsatz? And what is a Nachsatz? Can a phrase be answering? Or questioning?
+    In Schnee, a few simple and fundamental musical questions are explored. What is a Vorsatz? And what is a Nachsatz? Can a phrase be answering? Or questioning?
 
-        > The guideline or rule for the canons is very simple: We start out with an answering Vorsatz, followed by a questioning Nachsatz. Throughout the time of the piece, these two are intertwined more and more, as more and more dicht geführt canons, until, at the end, they are interchanged. Now the question and then the answer. The two canons are identical like a painting in two versions, but with different colors. And where the first one does not include the space, the second one does, as well as containing more canonical traces.
+    The guideline or rule for the canons is very simple: We start out with an answering Vorsatz, followed by a questioning Nachsatz. Throughout the time of the piece, these two are intertwined more and more, as more and more dicht geführt canons, until, at the end, they are interchanged. Now the question and then the answer. The two canons are identical like a painting in two versions, but with different colors. And where the first one does not include the space, the second one does, as well as containing more canonical traces.
