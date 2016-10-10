@@ -60,6 +60,7 @@ Table: Individual sonic criteria from Hanninen Example 2.8. {#tbl:hanninen-conte
 
 | C Subtype    | Description                                    | Example Individual Criterion               |
 |:-------------|:-----------------------------------------------|:-------------------------------------------|
+| C~cseg~      | Pitch contour                                  | C~cseg\ <0132>~                            |
 | C~pitch~     | Pitch set (unordered); pitch segment (ordered) | C~pitch\ {C#3,\ A2}~; C~pitch\ <C#3,\ A2>~ |
 | C~ip~        | Pitch interval (directed and undirected)       | C~ip\ 8~; C~ip\ <81>~; C~ip\ <+8,\ -1>~    |
 | C~pc~        | Pcset (unordered); pcsegment (ordered)         | C~pc\ {9A10}~; C~pc\ <9A10>~               |
@@ -68,40 +69,20 @@ Table: Individual sonic criteria from Hanninen Example 2.8. {#tbl:hanninen-conte
 | C~SC~        | Set class                                      | C~SC\ 3-4[015]~                            |
 | **add more** | **add more**                                   | **add more**                               |
 
-A contextual segmentation of the same passage from *Walden* I. mm. 57-59 in Figure @fig:walden-contextual-criteria reveals a number of associative connections. The segments of the trio layer associate through C~pc\ {79A}~ which Abrahamsen articulates through a mixture of interval classes 1, 2, and 3. Interval class also creates two groups within the five clear sonic segmentations via C~ic\ 2~ and C~ic\ 1~, which is further supported by C~cseg\ <01>~ and C~cseg\ <10>~. The duo layer's four segments associate through C~pitch\ {C#4,\ E4}~;, and the second segment in m. 56 fleetingly associates with the trio layer through C~ic\ 3~. As with the case of S~2-dynamic~, the duo's first and fourth segments also associate through C~rhythm~. Disjunctive and associative orientations and their sonic and contextual criteria require two mindsets as displayed in these readings of the same passage; disjunction parses segments and layers by their differences while association connects segments within and between the layers. Both analytical mindsets will be essential in identifying Abrahamsen's use and reuse of musical material in *Walden* and *Wald*.
+A contextual segmentation of the same passage from *Walden* I. mm. 57-59 in Figure @fig:walden-contextual-criteria reveals a number of associative connections. The segments of the trio layer associate through C~pc\ {79A}~ which Abrahamsen articulates through a mixture of interval classes 1, 2, and 3. Interval class also divides the five clear sonic segmentations into two groups via C~ic\ 2~ and C~ic\ 1~, which is further supported by C~cseg\ <01>~ and C~cseg\ <10>~. The duo layer's four segments associate through C~pitch\ {C#4,\ E4}~, and the second segment in m. 56 fleetingly associates with the trio layer through C~ic\ 3~. As with the case of S~2-dynamic~, the duo's first and fourth segments also associate through C~rhythm~. Disjunctive and associative orientations and their sonic and contextual criteria encourage two mindsets as displayed in these readings of the same passage; disjunction parses segments and layers by their differences while association connects segments within and between the layers. Both orientations will be essential in identifying Abrahamsen's use and reuse of musical material in *Walden* and *Wald*.
 
 ![Contextual criteria segmentation in *Walden* I. mm. 57-59](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-contextual-criteria.png){#fig:walden-contextual-criteria}
 
-Contextual criteria constitute the foundation of associative sets, which are an atemporal collection of segments that associate through one or more contextual criteria. Associative sets are notated by italicized capital letter or in some cases a short word or fragment that succinctly describes a defining characteristic, for instance set *A*, *X*, or *LEAP*. An indication of *A1* or *X5* references a specific segment within a respective associative set where the number indicates the segment's position in the passage or piece at hand. Large associative sets might contain numerous segments throughout a piece, and in cases where some segments more strongly connect to other segments, they are further specified through associative subsets notated as *A/a* or *A/b*.
+Contextual criteria constitute the foundation of associative sets, which are notated by an italicized capital letter or in some cases a short word succinctly describing a defining characteristic, for instance set *A*, *X*, or *LEAP*. Large associative sets might contain numerous and diverse segments throughout a piece. In these cases, associative subsets are employed as categories of segments that more strongly connect to other segments within the set. Associative subsets are notated with the letter of the associative set followed by a slash and an additional lowercase letter, for instance *A/a* or *A/b*. An indication of *A1* or *A/b2* references a specific segment within an associative set or subset where the number indicates the segment's position in the passage or piece at hand.
 
-**Example here of associative sets and subsets**
+In addition to labelling conventions, Hanninen draws upon graph theory to present several ways of depicting associative organization of segments within sets and subsets.[@Hanninen, pg. 118-123] An *association graph* is one such way that can take several forms but which indicates the contextual criteria binding the segments together. The graph contains nodes that display either musical notation or the associative set/subset name and edges that connect nodes via lines usually labelled with contextual criteria. Figure @fig:walden-set-B-all-map displays an association graph of prototypical segments from *Walden*'s associative set *B*, which contains five subsets. Contextual subtypes C~cseg~ and C~ic~ define the segments of set *B* as indicated by the labelled criteria along the edges between the nodes. The five subsets within set *B* are differentiated by the individual criterion of these subtypes; for instance subsets *B/a*, *B/b*, and *B/c* associate through C~ic\ 3~ and C~cseg\ <01>~ and while some segments of *B/e* share these individual criteria, others associate through different individual criteria, like C~ic\ 1~, C~ic\ 2~, and C~cseg\ <10>~.
 
 ![Contextual criteria supporting associative set B in *Walden* ](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-B-all-map.png){#fig:walden-set-b-all-map}
 
-Associative landscapes are much more individualistic by nature, and Hanninen discusses several possibilities for depicting them through various association maps.[@Hanninen, pgs. 160-163]
+**graph needs to be remade with edges connecting each node**
 
-<!--
-- Why use *Theory of Musical Analysis*: segmentation and associative organization as a way to track variation
-- Hanninen terminology: **discussion of Hanninen's theory and naming conventions to be used in paper**
+Associative landscapes are also depicted graphically through what Hanninen calls association maps. *Association maps* are generally displayed in a two-dimensional diagram with time on the x-axis and sets or subsets arranged on the y-axis.[@Hanninen, pg. 160] Segments appearing within the map can take the form of fragments of musical notation (called cutaway score maps) or intermittent horizontal bars indicating duration (schematic map).^[Hanninen also discusses several other map types, including running text format and various kinds of schematic maps. See pages 160-163.] The maps reveal how segments of associative sets and subsets are configured in time, focusing on their dispositions and distributions that give rise to associative organization.[@Hanninen, pg. 163]
 
-    - sonic and contextual domains and criteria
-    - segments: musical segmentations supported by various sonic, contextual, or structural criteria
-    - associative subset: "a set of two or more (pheno)segments interrelated by contextual criteria" more so than others in the set
-    - associative set: group of segments that share contextual properties
+An example association map of the first sixteen measures of *Walden*'s first movement can be found in Figure @fig:walden-I-schematic-map. The map highlights the phasing process that occurs over four phrases between associative set *A* and the three subsets of set *B*. The external disposition of these two sets shows them rotating in position, while the internal disposition of *B* subsets show them remaining in order but fanning out over time. This useful visual representation of associative organization...
 
-        - "two or more (pheno)-segments bound by contextual criteria into an integrated system that functions as a unit at a higher level" p. 98
-        - "Every segment in an associative set is related to at least one of its consociates by one or more contextual criteria; conversely every contextual criterion that contributes to the set (not just to its individual segments) must support two or more of its segments." p. 98
-        - "Segments of an associative set need not be adjacent in time, register, timbre, loudness, or any other sonic dimension; indeed, they can even come from *different pieces* of music, through quotation or resemblance." p. 98
-
-    - define global properties
-
-- Naming conventions
-
-    - associative sets with large letters: A, B, X, Y
-    - numerals appended to reflect order in score, A1, A2, B5
-    - subsets of associative sets have slash notation: A/a, B/c, D/b
--->
-
-<!-- This dissertation will be using an associative orientation to guide the segmentation process. Segments grouped by "repetition, similarity, or equivalence" and striving for connections between musical objects. -->
-
-<!-- The following sections will go over each associative set in turn and identify notable contextual and compositional techniques that shape it. Given the close, interrelated qualities that many of these sets share, it is impractical to discuss the context of one without referring to the others. So earlier sections will mention other sets that have not been yet been discussed in great detail.* -->
+![Bar graph schematic map of *Walden* I. mm. 1-16](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm1-16-schematic-map.png){#fig:walden-I-schematic-map}
