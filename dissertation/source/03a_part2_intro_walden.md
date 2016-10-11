@@ -6,6 +6,8 @@ The opening of *Walden* and *Wald* feature call and response gestures inspired b
 
 The horn has a special significance for Abrahamsen musically and personally. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand leaving him unable to pursue most instruments to professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. The first ever performance of his own music took place in 1969 with a piece called *October*, for horn and piano. In the performance by the composer, he played both instruments with his left hand and projected "natural harmonics of the horn directly into the open strings of the grand piano to create resonance."[@LeftAlonePN Program note.]
 
+**need to find another place for this section**
+
 ## Background
 
 *Walden* is deeply inspired by nature and, like other first period works, directly references a work from another artistic medium.[^References] The title is taken from the literary work of the same name by 19^th^-century author Henry David Thoreau. Thoreau's work is a poetic and introspective reflection on self-reliance, simplicity, and society. It documents his two-year experiment living in austere conditions at Walden Pond in Concord, Massachusetts. Abrahamsen's program note for *Walden* touches on the connection to Thoreau as well as the kinds of musical material found in the piece:
@@ -46,18 +48,29 @@ Table: Instrumental arrangement between versions. {#tbl:walden-rearrangement}
 
 ## Form
 
-Abrahamsen's compositional process begins with structure, as he believes in order to "make a piece that hangs together as music" one must have a "strong structure that makes it stick together in time."[@Kullberg] The structure of *Walden* is in part shaped by the proportions between movements which successively decrease in duration. Abrahamsen has used this technique of controlling proportion throughout his creative output; for instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* expand over time.[@MarchPN] Table @tbl:walden-proportions shows these decreasing durations as found in the timings listed in the original score as well as the timings of the 1994 recording of the Scandinavian Wind Quintet.[@WaldenRec] The Calefax Reed Quintet recording more closely reflects the listed score durations, but combined with the reed arrangement's adjusted tempi, the second movement ends up being slightly longer than the first.
+Abrahamsen's compositional process begins with structure, as he believes in order to "make a piece that hangs together as music" one must have a "strong structure that makes it stick together in time."[@Kullberg] His approach to controlling the macro-level structure is evident through two elements that successively decrease with each movement: total duration of the movement and number of sectional divisions. Abrahamsen has used the technique of controlling structure through proportion in many works; for instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* increase over time.[@MarchPN] Similarly, the first movement begins with four sections, the second contains three, the third two, and finally, the fourth concludes as a single continuous statement. Abrahamsen delineates sections by changes in texture, harmonic collection, and compositional technique. Table @tbl:walden-structure displays these decreasing durations and measure numbers of section divisions. The two duration columns reflect those listed in the original score as well as the timings of the 1994 recording of the Scandinavian Wind Quintet.[@WaldenRec][^CalefaxRec]
 
-Table: *Walden* movement proportions. {#tbl:walden-proportions}
+[^CalefaxRec]: The Calefax Reed Quintet recording more closely reflects the listed score durations, but combined with the reed arrangement's adjusted tempi, the second movement ends up being slightly longer than the first.
 
-| Movement | Tempo                 | Score Duration | Recording Duration |
-|:---------|:----------------------|:---------------|:-------------------|
-| I.       | `quarterNote` = 63-66 | 3:35           | 2:57               |
-| II.      | `eighthNote` = 76     | 3:10           | 2:51               |
-| III.     | `quarterNote` = 52    | 2:30           | 2:33               |
-| IV.      | `quarterNote` = 112   | 1:00           | 1:04               |
+Table: *Walden* movement proportions. {#tbl:walden-structure}
 
-The sectional divisions of each movement also reveal another global process through which Abrahamsen shapes the structure of *Walden*.
+| Movement | Tempo                 | Score Duration | Recording Duration | Section 1 | Section 2 | Section 3 | Section 4 |
+|:---------|:----------------------|:---------------|:-------------------|:----------|:----------|:----------|:----------|
+| I.       | `quarterNote` = 63-66 | 3:35           | 2:57               | mm. 1-17  | mm. 18-41 | mm. 41-56 | mm. 57-67 |
+| II.      | `eighthNote` = 76     | 3:10           | 2:51               | mm. 1-9   | mm. 10-19 | mm. 20-30 |           |
+| III.     | `quarterNote` = 52    | 2:30           | 2:33               | mm. 1-10  | mm. 10-32 |           |           |
+| IV.      | `quarterNote` = 112   | 1:00           | 1:04               | mm. 1-28  |           |           |           |
+
+<!--
+Table: *Walden* decreasing section divisions. {#tbl:walden-sectional-divisions}
+
+| Movement | Section 1 | Section 2 | Section 3 | Section 4 |
+|:---------|:----------|:----------|:----------|:----------|
+| I.       | mm. 1-17  | mm. 18-41 | mm. 41-56 | mm. 57-67 |
+| II.      | mm. 1-9   | mm. 10-19 | mm. 20-30 |           |
+| III.     | mm. 1-10  | mm. 10-32 |           |           |
+| IV.      | mm. 1-28  |           |           |           |
+-->
 
 <!-- The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. The through-composed forms can be parsed into several sections delineated by changes in texture, harmonic collection, or compositional technique.  -->
 
@@ -75,6 +88,4 @@ The third movement segments neatly into two sections with the second containing 
 
 The diagram in Figure @fig:walden-formal-overview gives an overview of each movement including significant sectional divisions and characteristic features. **needs transition**
 
-**Formal overivew needs filling out for I, II, and III. The diagram for IV needs to be altered so that phrase letters don't clash with associative set names**
-
-![Formal overview of *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-formal-overview.png){#fig:walden-formal-overview}
+<!-- ![Formal overview of *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-formal-overview.png){#fig:walden-formal-overview} -->
