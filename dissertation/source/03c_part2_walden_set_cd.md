@@ -48,20 +48,20 @@ In terms of associative landscape, Abrahamsen uses the four subsets of *D* for d
 
 **conclusion**
 
+<!--
 ## Connections
 
-<!-- ### Connections to Other Music -->
+### Connections to Other Music
 
 As with much of Abrahamsen's music, there are intersections between *Walden*, earlier pieces, and later pieces. Abrahamsen completed *Walden* and *Winternacht* in the same year (1978) and both share similar compositional features. The two works each contain four movements that successively decrease in duration, returning musical material between movements, and a final movement that is polystylistic, polytonal, and clearly references older musical styles. In the case of *Winternacht*, the first movement serves as a "kind of overture"[@Ernste] that foreshadows the music to come in the third and fourth movement. Figure @fig:wn-returning-material shows one example of this from the first and third movements. The first movement contains a section where Stravinskian rhythms articulated in the strings crossfade with material from a previous section. The same material, recast in a different tempo and meter, serves as the basis for the third movement. The way in which this and other sections return throughout *Winternacht* is like the difference between a door being temporarily opened and catching a glimpse of a room versus being inside the room.
 
 ![*Winternacht* Material from Movement I Returning in Movement III](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/winternacht-returning-material.png){#fig:wn-returning-material}
 
-An additional connection between *Winternacht* and *Walden* can be heard in the presence of a similar horn call in both works. Figure @fig:triadic-horn-calls compares the two. The triadic nature of this horn motive calls to mind a natural horn, or more specifically a German *Jagd Horn* (hunting horn). **more on allusions**
-
-<!-- In his dissertation on Ligeti's *Hamburg Concerto*, composer Anthony Cheung discusses -->
+An additional connection between *Winternacht* and *Walden* can be heard in the presence of a similar horn call in both works. Figure @fig:triadic-horn-calls compares the two. The triadic nature of this horn motive calls to mind a natural horn, or more specifically a German *Jagd Horn* (hunting horn). **more on allusions**c
 
 ![*Winternacht* and *Walden* Triadic Horn Calls](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:triadic-horn-calls}
 
 *Walden* does not have large sections of music that return in the same fashion as in *Winternacht*. Instead several movements contain recurring gestures or otherwise similar material that retain particular musical identities. For instance, in measure 18-20 of the first movement, the first entrance of the oboe is a descending `F#`-`C#` perfect fourth. This same musical motive reappears in the second movement in measures 5-6, 15-16, and 24-25, as well as at the climax of the third movement in measures 26-27. Another case can be found in the close relationship between the ending of the first movement and beginning of the second movement. Towards the end of the first movement, a `C#` and E staccato repeated-note gesture appears in the bassoon and French horn while a new homophonic texture and melody arises in the trio of flute, oboe, and clarinet. The staccato repeated-note gesture grows in assertiveness and abruptly cuts off this melody and transforms into a tutti punctuated chord articulated by the entire quintet. In a way, the second movement picks up where this prior melody left off. Abrahamsen presents it directly at the beginning of the second movement transposed a perfect fifth lower and shortly thereafter the staccato `C#` and E gesture returns in the clarinet and horn.
 
 The opening section of the first movement of *Walden* also serves as the germinal material for *Wald* which was written many years later.
+-->
