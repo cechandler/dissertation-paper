@@ -54,12 +54,12 @@ Abrahamsen's compositional process begins with structure, as he believes in orde
 
 Table: *Walden* movement proportions. {#tbl:walden-structure}
 
-|      | Tempo                 | Score Duration | Recording Duration | Section 1 | Section 2 | Section 3 | Section 4 |
-|:-----|:----------------------|:---------------|:-------------------|:----------|:----------|:----------|:----------|
-| I.   | `quarterNote` = 63-66 | 3:35           | 2:57               | mm. 1-17  | mm. 18-41 | mm. 41-56 | mm. 57-67 |
-| II.  | `eighthNote` = 76     | 3:10           | 2:51               | mm. 1-9   | mm. 10-19 | mm. 20-30 |           |
-| III. | `quarterNote` = 52    | 2:30           | 2:33               | mm. 1-10  | mm. 10-32 |           |           |
-| IV.  | `quarterNote` = 112   | 1:00           | 1:04               | mm. 1-28  |           |           |           |
+|      | Tempo                 | Score Duration | Recording Duration | Section One | Section Two | Section Three | Section Four |
+|:-----|:----------------------|:---------------|:-------------------|:------------|:------------|:--------------|:-------------|
+| I.   | `quarterNote` = 63-66 | 3:35           | 2:57               | 1-17        | 18-41       | 41-56         | 57-67        |
+| II.  | `eighthNote` = 76     | 3:10           | 2:51               | 1-9         | 10-19       | 20-30         |              |
+| III. | `quarterNote` = 52    | 2:30           | 2:33               | 1-10        | 10-32       |               |              |
+| IV.  | `quarterNote` = 112   | 1:00           | 1:04               | 1-28        |             |               |              |
 
 <!--
 Table: *Walden* decreasing section divisions. {#tbl:walden-sectional-divisions}
@@ -86,4 +86,4 @@ Abrahamsen shapes the two sections of the third movement through rhythmic proced
 
 The fleeting minute-long, polytonal finale of *Walden* is notated in `4/4` yet contains a composite texture of a duo for flute and bassoon in `3/4` and a trio for oboe, clarinet, and horn in `6/8`. The curious choice of `4/4` for the base meter perhaps connects to the "ghost-like music of the past" that Abrahamsen mentions in his program note; it is as if this music is entering from a distant time and place, suggested by having it not conform to the given meter. The two layers begin in distant tonal key centers, `C#` minor in the duo and `Eb` major in the trio. They modulate toward one another and eventually join in D major by the last three measures. Despite their harmonic arrival, the duo and trio retain a sensation of occupying different worlds. Their clear and balanced classical phrasing never quite coincides, and the movement ends abruptly, mid-phrase "like a music box cutting out."[@Thomas, p. 268]
 
-The first and second movements of *Walden* are closely connected to *Wald* through common compositional techniques, associative sets, and associative organization defined by recontextualization. While the third and fourth movement contain many interesting features, the bulk of the following analytical sections will concentrate only on the material of the first and second movements.
+The tight associative organization of the first and second movements of *Walden* have several conections to *Wald*, including common compositional techniques, similar associative sets, and associative organization defined by recontextualization. While the third and fourth movement contain many interesting features, the bulk of the following analytical sections will concentrate only on the material of the first and second movements in order to establish a foundation from which to make comparisons to *Wald*.
