@@ -1,26 +1,20 @@
 ## Associative Sets
 
-The limited number of associative sets and the overlapping sonic and contextual criteria which support them drive the cohesive and constrained expressivity of *Walden*. Four associative sets constituent the principle musical material for much of the work, especially in the first and second movement. Figure @fig:walden-associative-sets-a-d displays an association graph of prototypical segments for each set labelled *A*, *B*, *C*, and *D*. While each set has a varying number of subsets and segments, these prototypes capture their essential attributes and highlight the subtle criteria distinctions that define their set membership.
-
-<!-- Curved edges on the outer nodes reflect criteria not apparent within this prototype that does occur in several other segments within the set.  -->
-
-As Abrahamsen notes in his program note, "superfluous material has been peeled away." This quality is evident both through these segments' relative plainness but also from the  
-
-Associative sets *A*, *B*, and *C* share several sonic and contextual criteria that suggest they could be manifestations of the same associative set: simple contours, legato articulation, generally soft dynamic, and presentation as a melodic "calling out" gestures. However, contextual differences encourage their segmentation as separate entities. Each of these minimalistic elements are distinguished by subtle differences in realization; Abrahamsen organizes these elements through the use of strict processes and techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each element, the context in which they appear, and the way Abrahamsen varies them throughout *Walden* will illustrate the economy of musical materials associated with his work as a whole and will provide a foundation from which to make comparisons to *Wald*.
-
 <!-- revise this whole opening section to describe how certain segments/sets appear across movements and also highly associate with one another, contributing to the sensation of interrelated movements. but Abrahamsen treats them as different entities despite their associations -->
 
 <!-- an examination of each associative set in turn will demonstrate the attributes of these segments and they ways they associate across sets but also demonstrate how A treats them in different ways leading them to my reading of them being separate sets -->
 
 <!-- In *Walden*, Abrahamsen's economy of materials is evident through ... Relationships between movements come from similarities in compositional design or the reuse of associative sets. These elements have differing degrees of identity clarity; some are recognizable melodies or motives while others are more general, more abstract, associated only by a single shared feature. His process of recycling involves either the explicit reuse an element surrounded by new material or the sonic transformation via a change in pitch, rhythm, or orchestration. -->
 
-Set *A* and Set *C* are closely related segments that differ in how Abrahamsen approaches their variation. Set *A* is an ascending perfect fourth horn call and generally retains this profile, while Set *C* is a descending perfect fourth primarily found in the oboe that undergoes greater changes in pitch and rhythm. Set *B* is primary germinal motive that Abrahamsen presents in many manifestations but harmonically defined by `3-2[013]`. Set *D* is a punctuated staccato motive appearing most prominently in the first, second, and third movements.
+The limited number of associative sets and the overlapping sonic and contextual criteria which support them drive the cohesive and constrained expressivity of *Walden*. Four associative sets constituent the principle musical material for much of the work, especially in the first and second movement. Figure @fig:walden-associative-sets-a-d displays prototypical segments for each set labelled *A*, *B*, *C*, and *D*. <!-- While each set has a varying number of subsets and segments, these prototypes capture the essential characteristics that define their set membership. --> As Abrahamsen notes in his program note, "superfluous material has been peeled away." This quality is evident both through these segments' relative simplicity but also from the number of shared sonic and contextual criteria, like legato articulation, generally soft dynamic, simple contours, and small intervallic leaps (particularly for sets *A*, *B*, and *C*).
+
+<!-- Curved edges on the outer nodes reflect criteria not apparent within this prototype that does occur in several other segments within the set.  -->
+
+Despite their overlapping criteria, Abrahamsen distinguishes the sets through nuanced differences in variation and contextual relationships. For instance, sets *A* and *C* are closely related segments that differ in how Abrahamsen approaches their variation. Set *A* is an ascending perfect fourth horn call and generally retains this profile, while set *C* is a descending perfect fourth primarily found in the oboe that varies in intervallic size and duration. Set *B* is *Walden*'s primary germinal motive that Abrahamsen presents in many manifestations, including canonic textures and melodic homophony. Set *D* is a punctuated staccato motive appearing most prominently in the first and. second movement.
+
+Abrahamsen organizes each of these distilled associative sets through strict processes and techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each associative set, the contexts in which they appear, and the way Abrahamsen varies them through context and transformation will illustrate the economy of musical materials associated with his work and his approach to recontextualization.
 
 ![*Walden* Associative Sets *A*, *B*, *C*, *D*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-sets-a-d.png){#fig:walden-associative-sets-a-d}
-
-**more on differences**
-
-<!-- Their most salient difference is in contour, *A* ascends while *B* descends, and this aspect is at the forefront of their initial introduction.  -->
 
 ## Analysis
 
