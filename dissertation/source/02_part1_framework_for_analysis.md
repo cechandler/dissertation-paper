@@ -85,4 +85,6 @@ An example association map of the first sixteen measures of *Walden*'s first mov
 
 ![Bar graph schematic map of *Walden* I. mm. 1-16](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm1-16-schematic-map.png){#fig:walden-I-schematic-map}
 
+**change graph to reflect removal of B subsets**
+
 In both *Walden* and *Wald*, Abrahamsen is highly economical with his musical material. This sensation of economy arises from musically simple segments that Abrahamsen reuses both in literal and varied repetition. With its focus on identifying segments through sonic and contextual characteristics, categorizing them into sets, and examining their organization over time, Hanninen's theory of musical analysis provides a deep framework for analyzing these aspects.
