@@ -63,7 +63,7 @@ Abrahamsen presents the first canon from measures 21-38 in the flute, clarinet, 
 figure needs C~pitch~, C~SC 3-2[013]~, S~1-rest~, S~1-articulation~, S~1-dynamic~
 -->
 
-![Flute mm. 21-38 motives and durations](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-set-b-c-canon-mm21-34.png){#fig:walden-I-mm21-38-canon}
+![Flute mm. 21-38 motives and durations](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-set-b-c-canon-mm21-34.png){#fig:walden-I-mm21-38-canon width=70%}
 
 In addition to tight construction of phrasing and pitch ordering in the first canon, Abrahamsen uses the trio's contrasting rhythmic subdivisions to create a prolation canon with a ratio of 1:2:4 between the voices. For every one quarter note in the bassoon, the flute plays two triplet eighth-notes, and the clarinet plays four quintuplet sixteenth-notes. This creates a situation where the flutist works through the triplet subdivision segments the quickest, leading to a longer period of rest after the canonic section before moving on to the third section. There is a clever reversal of roles here in the associative landscape of these three *B/a* layers. In the first section's rhythmic displacement process, the order of subset *B/a* segments always goes eighth-note subdivision (bassoon), quintuplet eighth (clarinet), then triplet-eighth (flute), whereas this order is reversed in the second section due to the speeds of the prolation canon.
 
@@ -85,6 +85,6 @@ The second movement is constructed around three cycles containing a decreasing n
 
 Figure @fig:walden-II-mm1-27-cycles shows the three cycles from measures 1-27 and brackets beneath the music highlight the retrograde and filtering process. The increasing amount of space between segments leads to the sensation of a ritardando, and considering Abrahamsen's use of the word "decay" in his program note, this procedure is a kind of disintegration through subtraction. It is as if Abrahamsen initially presents a fully blossomed, symmetrical flower in the first cycle, but over the course of the movement, the flower decays and the petals fall off one by one.
 
-![*Walden* II. Flute and bassoon mm. 1-27 cyclical retrograde melody](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-II-set-b-f-melody.png){#fig:walden-II-mm1-27-cycles}
+![*Walden* II. Flute and bassoon mm. 1-27 cyclical retrograde melody](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-II-set-b-f-melody.png){#fig:walden-II-mm1-27-cycles width=75%}
 
 <!-- The second movement is a study in periodicity and cyclical organization built on the associative sets established in the first movement. Along with *C/a* and *D/c*, subset *B/b* forms the principle material over three sections -->
