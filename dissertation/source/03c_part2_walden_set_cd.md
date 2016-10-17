@@ -50,4 +50,8 @@ Abrahamsen's process of the duration compression in layer one and attack increas
 
 In the second movement, subset *D/a* plays a different function in the associative landscape. Segments in the first and second movement are nearly literal repetitions, as they associate through attack point, S~1-articulation\ (staccato)~, and C~pitch\ {`C#`,\ `E`}~, yet differ in octave and S~1-timbre\ (clarinet,\ horn)~. However, Abrahamsen removes the first movement's qualities of incremental growth and rhythmic propulsion, and instead, he organizes the fourteen segments of *D/a* in a completely periodic and static way. Abrahamsen places *D/a* on every even measure's last sixteenth note, producing a perpetual plodding quality throughout the movement. Despite its periodicity and static nature, Abrahamsen avoids monotony by appending and prepending segments of other associative sets to *D/a*.
 
-**conclusion**
+## Recontextualization
+
+Associative sets *A*, *B*, *C*, and *D* represent the most significant musical material in *Walden* for two reasons. One is how Abrahamsen recontextualizes literal and varied repetitions of these sets' segments between the first and second movement, and two is how he recomposes these sets and their associative organization in *Wald*. Figure @fig:walden-recontext shows a comparative association map of the first and second movements divided by section.
+
+![Recontexualization in *Walden* I and II](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:walden-recontext}
