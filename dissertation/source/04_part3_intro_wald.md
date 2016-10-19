@@ -37,7 +37,6 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |       |         |          | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
 |       |         |          |          |                                     | "aufgeregt" ("excited")         |
 |       |         |          | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-|       |         |          |          |                                     |                                 |
 |       | Var 1   | 2:38     | 109-267  |                                     |                                 |
 |       |         |          | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                |
 |       |         |          |          |                                     | ma un poco piu mosso            |
@@ -50,7 +49,6 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |       |         |          |          |                                     | "sehr aufgeregt"                |
 |       |         |          |          |                                     | ("very excited")                |
 |       |         |          | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-|       |         |          |          |                                     |                                 |
 |       | Var 2   | 2:16     | 268-408  |                                     |                                 |
 |       |         |          | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                |
 |       |         |          |          |                                     | ma sempre poco piu mosso        |
@@ -61,12 +59,9 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |       |         |          |          |                                     | "wieder aufgeregt"              |
 |       |         |          |          |                                     | ("excited again")               |
 |       |         |          | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-|       |         |          |          |                                     |                                 |
 | **B** | Var 3   | 2:28     | 409-442  | `halfNote` = 32                     | Adagio misterioso               |
 |       |         |          |          |                                     | "Nachtmusik"                    |
-|       |         |          |          |                                     |                                 |
 |       | Var 4   | 1:59     | 443-473  | `halfNote` = 32                     | Stesso tempo                    |
-|       |         |          |          |                                     |                                 |
 | **C** | Var 5   | 1:39     | 474-581  |                                     |                                 |
 |       |         |          | 474-489  | `quarterNoteDotted` = 64            | Con nuova energia               |
 |       |         |          |          |                                     | "Wie ein plötzliches Erwachen"  |
@@ -78,9 +73,7 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |       |         |          |          |                                     | "galoppierend, immer vorwärts"  |
 |       |         |          |          |                                     | ("galloping, always forward")   |
 |       |         |          | 562-581  | `quarterNoteDotted` = 132           | Più mosso                       |
-|       |         |          |          |                                     |                                 |
 | **D** | Var 6   | 1:31     | 582-594  | `eighthNote` = 66                   | Andante mesto                   |
-|       |         |          |          |                                     |                                 |
 |       | Var 7   | 1:18     | 595-605  | `eighthNote` = 64                   | Piu lento                       |
 |       |         |          |          |                                     |                                 |
 
@@ -92,7 +85,7 @@ The musical material throughout *Wald* can be categorized into nine associative 
 
 ![*Wald* Associative Sets](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-associative-sets-all.png){#fig:wald-sets-all width=85%}
 
-The external disposition of these sets (that is, how they are distributed with respect to one another) is closely linked to the variation and section divisions of *Wald*. Figure @fig:wald-sets-external-disposition displays an association map for all eight sections. This global perspective does not indicate a detailed view of the number of segments within a given variation but rather shows which sets Abrahamsen activates in a section or variation. 
+The external disposition of these sets (that is, how they are distributed with respect to one another) is closely linked to the variation and section divisions of *Wald*. Figure @fig:wald-sets-external-disposition displays an association map for all eight sections. This global perspective does not indicate a detailed view of the number of segments within a given variation but rather shows which sets Abrahamsen activates in a section or variation.
 
 ![External disposition of sets in *Wald*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-schematic-map-all.png){#fig:wald-sets-external-disposition width=75%}
 
