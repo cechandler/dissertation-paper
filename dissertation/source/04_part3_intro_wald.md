@@ -91,7 +91,7 @@ The external disposition of these sets (that is, how they are distributed with r
 
 Several aspects of associative organization stand out in this figure. First is the recontextualization of associative sets in Part A. Within a given variation, the first two sections clearly reuse the same four associative sets, while the third and fourth section contrast by a reduction in the number of active sets. While not apparent in the graph, set *K* and set *L* share several contextual criteria, which further contributes to the paired recontextualization of sets in Part A. Second, like the second half of variations in Part A, Part B is characterized by very few active associative sets and clearly divided into a pair of variations. Third, Variation 5 is the only significant section that does not have a paired variation. Finally, the return to sets *L* and *M* in Variation 6 and 7 recontextualize the fourth sections of Part A.
 
-The following analysis will primarily focus on sets *F* through *M*, due to Abrahamsen's significant reuse of them throughout the *Wald*. Each set will be examined in turn, describing their characteristics and associative subsets, the landscapes in which they are situated, and the variation techniques Abrahamsen applies to segments.
+The following analysis will focus on sets *F* through *M*, due to Abrahamsen's significant reuse of them throughout the *Wald*. Each set will be examined in turn, describing their characteristics and associative subsets, the landscapes in which they are situated, and the variation techniques Abrahamsen applies to segments.
 
 <!--
 other things possibly worth mentioning:
