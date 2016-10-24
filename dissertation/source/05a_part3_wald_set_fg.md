@@ -1,22 +1,8 @@
 ## Analysis
 
-### Part A
+Like the first and second movement of *Walden*, Abrahamsen recontextualizes associative sets *F*, *G*, *H*, and *J* between the first and second sections of Part A. Both sections exclusively contain these four sets and differ from one another in dynamics, meter, harmonic collection, and orchestration. With each variation, Abrahamsen re-reads the associative organization of the previous variation. Variations 1 and 2 are clearly both variations on the material from the Introduction, but the degree of difference is greater for Variation 2.
 
-#### Structure
-
-The Introduction, Variation 1, and Variation 2 form Part A of *Wald* based on the similarity of their four sections, associative sets, and shared compositional techniques. The Introduction and Variation 1 can be thought of as a sub-unit inside Part A. They are highly associative and primarily differ in how Abrahamsen varies the duration proportions of associative subsets. Variation 2 contains more substanial changes in subset proportions, as well as variations in harmonic collection, texture, and orchestration. Variations 1 and 2 are clearly both variations on the material from the Introduction, but the degree of difference is much greater for Variation 2.
-
-From the scope of structure, table @tbl:wald-sectional-proportions highlights two notable characteristics of the section-level proportions: 1) they mirror the variation-level proportional compression by decreasing in duration from variation to variation,^[Measurements are in seconds taken from the Asko|Schönberg recording. When calculated from the tempi and meters listed in the score, the proportions still exhibit the same characteristics as well.] and 2) within any given variation, the sectional durations follow a particular ordering from longest to shortest, section 3, 2, 1, and 4.
-
-Table: *Wald* Intro, Var 1, and Var 2 sectional proportions. {#tbl:wald-sectional-proportions}
-
-| <!-- blank --> | Section 1 | Section 2 | Section 3 | Section 4 |
-|:---------------|:---------:|:---------:|:---------:|:---------:|
-| Introduction   |   0:45    |   0:48    |   1:00    |   0:36    |
-| Variation 1    |   0:36    |   0:43    |   0:48    |   0:30    |
-| Variation 2    |   0:31    |   0:38    |   0:41    |   0:25    |
-
-Section 1 is shaped by the same rhythmic displacement process and call and response material from first movement of *Walden*. Section 2 is a close re-reading of Section 1 with louder dynamics, chromatic harmony, and different associative subsets. Section 3 features a web of polyrhythmic segments of set *K* evoking the "agitated flocks of birds" mentioned in the program note, while Section 4 contains a short sequence of cascading segments in the harp, marimba, and piano paired with sustained lines in the woodwinds and strings.
+<!-- Section 1 is shaped by rhythmic displacement process and call and response material from first movement of *Walden*. Section 2 is a close re-reading of Section 1 with louder dynamics, chromatic harmony, and different associative subsets. Section 3 features a web of polyrhythmic segments of set *K* evoking the "agitated flocks of birds" mentioned in the program note, while Section 4 contains a short sequence of cascading segments in the harp, marimba, and piano paired with sustained lines in the woodwinds and strings. -->
 
 Throughout Part A (and *Wald* as a whole), Abrahamsen exerts tight controls over the harmonic dimension of his music, and a general overview of the collections in play will be useful before examining the section by section subset organization. Sections 1 and 3 contain extremely transparent harmonic collections, while in Sections 2 and 4 superimpose the same minimal collections to create more complex harmonies. The first section only consists of a single instance of interval class `5` and just intonation, flattened 1/6-th shadings of the interval. In Intro:Sec1 and Var1:Sec1, the interval is `D4`-`G4`, and in Var2:Sec1, it is `Bb3`-`F4`, a pitch class relationship of T~0~I. The second section is defined by set class `6-6[012567]`, and Abrahamsen articulates them as three layers of perfect fourths related by semitone. Intro:Sec2 and Var1:Sec2 maintain the same collection of `{1,2,3,6,7,8}`, while Var2:Sec2 is related by T~7~I, `{E,0,1,4,5,6}`. The third section is solely based on a pentatonic subset of set class `4-22[0247]`. In the returning sequences of Section 3, Abrahamsen transposes Intro:Sec3's initial set of `{2,5,7,9}` by T~1~ and T~9~ in Var1:Sec3 and Var2:Sec3, respectively. The fourth section features numerous superimpositions of `4-22[0247]` forming a variety of supersets. Abrahamsen applies the same transpositions scheme of T~1~ and T~9~ to the returning segments in Var1:Sec4 and Var2:Sec4.
 
@@ -26,7 +12,7 @@ Abrahamsen constructs the first sections of Part A from associative subsets of *
 
 Abrahamsen consistently uses several organizing principles to shape the segments of *F*, *G*, *H*, and *J*: metrical groupings delineated by repeat signs and double bar lines, phrase alternation between symmetrically seated groups, and augmentation and diminution of subset duration. Metrical subdivision plays a subtle but pervasive role throughout *Wald* where frequent markings of "3-Taktig" and "2-Taktig" indicate phrasing subdivisions and whether a measure is conducted in 3 or 2.^[**Citation for *Wald* Score** Performance Notes.] Abrahamsen connects these markings to surface-level details like alternations of harmony and patterns of accents in the two violins of subset *G/a*. Beyond metrical subdivisions, Abrahamsen frames passages of music by grouping measures in discrete, alternating units. For instance, the figure **below** illustrates how Section 1 is organized in alternating groups of measures that differ by one and by Var2:Sec1 converge to equal groupings of six measures. The decreasing duration of these sections shown in Table @tbl:wald-sectional-proportions comes in part from Abrahamsen removing eight measures from each sequence.
 
-![*Wald* Section 1 Metrical Grouping](../figures/wald-part-a-meter-sec1.png){#fig:wald-meter-sec1}
+![*Wald* Section 1 Metrical Grouping](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-meter-sec1.png){#fig:wald-meter-sec1}
 
 **Alternation structures and ways A varies things during the repeat**
 
@@ -36,7 +22,7 @@ Abrahamsen articulates these associative sets and subsets within a fixed harmoni
 
 Many of the same organizing principles in Section 1 shape Section 2 segments: clear groupings of measures, phrase alternation between symmetrical instruments, and displacement processes. The entirety of Section 2 is notated in `2/4`, and again Abrahamsen partitions it into groups of measures that differ by one (see Figure **below**). Like Section 1, Var1:Sec2 is a close re-reading of Intro:Sec2, while Var2:Sec2 is characterized by more substantial changes in harmony and density. Unlike Var2:Sec1, Var2:Sec2 does not settle into groupings of equal measures.
 
-![*Wald* Section 2 Metrical Grouping](../figures/wald-part-a-meter-sec2.png){#fig:wald-meter-sec2}
+![*Wald* Section 2 Metrical Grouping](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-meter-sec2.png){#fig:wald-meter-sec2}
 
 ### Associative Set *F* and *G*
 
