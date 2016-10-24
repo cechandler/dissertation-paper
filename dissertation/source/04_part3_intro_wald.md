@@ -29,36 +29,36 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 | Part  | Section | Duration | Measures | Tempo                               | Descriptive markings            |
 |:------|:--------|:---------|:---------|:------------------------------------|:--------------------------------|
 | **A** | Intro   | 3:10     | 1-108    |                                     |                                 |
-|       |         |          | 1-36     | Tempo I `quarterNoteDotted` = 88    | Allegro con brio                |
+|       |         | 0:45     | 1-36     | Tempo I `quarterNoteDotted` = 88    | Allegro con brio                |
 |       |         |          |          |                                     | "wie aus der Ferne"             |
 |       |         |          |          |                                     | ("as if from a distance")       |
-|       |         |          | 37-72    | Tempo II `halfNote` = 66            | Poco meno ma maestoso           |
+|       |         | 0:48     | 37-72    | Tempo II `halfNote` = 66            | Poco meno ma maestoso           |
 |       |         |          |          |                                     | poco grottesco e ironico        |
-|       |         |          | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
+|       |         | 1:00     | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
 |       |         |          |          |                                     | "aufgeregt" ("excited")         |
-|       |         |          | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+|       |         | 0:36     | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
 |       | Var 1   | 2:38     | 109-267  |                                     |                                 |
-|       |         |          | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                |
+|       |         | 0:36     | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                |
 |       |         |          |          |                                     | ma un poco piu mosso            |
 |       |         |          |          |                                     | ancora "wie aus der Ferne"      |
 |       |         |          |          |                                     | (still "as if from a distance") |
-|       |         |          | 171-237  | Tempo II `halfNote` = 77            | Poco meno maestoso              |
+|       |         | 0:43     | 171-237  | Tempo II `halfNote` = 77            | Poco meno maestoso              |
 |       |         |          |          |                                     | ma un poco piu mosso            |
 |       |         |          |          |                                     | ma poco lamentoso               |
-|       |         |          | 238-253  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e piu agitato    |
+|       |         | 0:48     | 238-253  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e piu agitato    |
 |       |         |          |          |                                     | "sehr aufgeregt"                |
 |       |         |          |          |                                     | ("very excited")                |
-|       |         |          | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+|       |         | 0:30     | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
 |       | Var 2   | 2:16     | 268-408  |                                     |                                 |
-|       |         |          | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                |
+|       |         | 0:31     | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                |
 |       |         |          |          |                                     | ma sempre poco piu mosso        |
-|       |         |          | 322-381  | Tempo II `halfNote` = 82            | Un poco meno                    |
+|       |         | 0:38     | 322-381  | Tempo II `halfNote` = 82            | Un poco meno                    |
 |       |         |          |          |                                     | ma ancora piu mosso             |
 |       |         |          |          |                                     | lamentoso e melancolico         |
-|       |         |          | 382-401  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
+|       |         | 0:41     | 382-401  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
 |       |         |          |          |                                     | "wieder aufgeregt"              |
 |       |         |          |          |                                     | ("excited again")               |
-|       |         |          | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+|       |         | 0:25     | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
 | **B** | Var 3   | 2:28     | 409-442  | `halfNote` = 32                     | Adagio misterioso               |
 |       |         |          |          |                                     | "Nachtmusik"                    |
 |       | Var 4   | 1:59     | 443-473  | `halfNote` = 32                     | Stesso tempo                    |
