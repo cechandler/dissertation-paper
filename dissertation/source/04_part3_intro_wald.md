@@ -77,7 +77,7 @@ Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 |       | Var 7   | 1:18     | 595-605  | `eighthNote` = 64                   | Piu lento                       |
 |       |         |          |          |                                     |                                 |
 
-Throughout the following discussion of *Wald*, the term part will be used to refer to those variation groupings listed in Table @tbl:wald-form. Variation will of course be used to refer to an individual variation instance, while section will refer to those subdivisions within a variation. Given the close re-reading or recontextualization relationship between the variations of Part A, a convenient short-hand notation of Intro:Sec1 or Var2:Sec1 or Var3:Sec1 will be used to clearly specify the section at hand. Phrases like "the fourth sections of Part A" apply to multiple instances of a recurring section (e.g. Intro:Sec4, Var1:Sec4, and Var2:Sec4).
+Throughout the following discussion of *Wald*, the term part will be used to refer to those variation groupings listed in Table @tbl:wald-form. Variation will of course be used to refer to an individual variation instance, while section will refer to those subdivisions within a variation. Given the close re-reading or recontextualization relationship between the variations of Part A, a convenient short-hand notation of Intro:Sec1 or Var2:Sec1 or Var3:Sec1 will be used to clearly specify the section at hand. Phrases like "the fourth sections of Part A" or PartA:Sec4 apply to multiple instances of a recurring section (e.g. Intro:Sec4, Var1:Sec4, and Var2:Sec4).
 
 ## Associative Sets
 
