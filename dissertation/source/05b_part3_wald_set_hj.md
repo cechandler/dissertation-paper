@@ -2,10 +2,6 @@
 
 <!-- From earlier section -->
 
-<!-- Set *H* is the main ascending perfect fourth horn "theme" from *Walden*, now scored for bass flute and French horn. It appears 8, 6, and 1 times during the three sequences of Section 1. Three of the five subsets of *J* complete the remainder of the material forming Section 1 with 8, 7, and 2 appearances. Like the three subsets *B/a-c* in *Walden*, subsets *J/a-c* consist of heterophonic instances of the same dyad and are differentiated here for their consistency in subdivision and for convenience. -->
-
-<!-- , scored segments for the symmetrical and spatially central harp and marimba. -->
-
 <!-- During Intro:Sec2, the two instruments alternate statements of *J/d*, but in Var1:Sec2 and Var2:Sec2, Abrahamsen superimposes *J/d* and *J/f*. In both Intro:Sec2 and Var1:Sec2, the Group I and II duos articulate subset *J/e*, which sustain the pitches articulated in the percussive *J/d* and *J/f* segments and support them through resonance. The segments of *J/e* are non-intersecting trichordal partitions of the six-note sequence whose voice leading is different for each segment for each instrument. -->
 
 <!-- Compared to the *J* segments from Section 1, *J/c* contains more attacks and greater rhythmic complexity, but like *J/a* and *J/b*, they are very similar subsets (sonically and contextually) but are differentiated here primarily for convenience.  -->
@@ -17,16 +13,29 @@ J/c: interlaced chromatic fourths
 J/d: melodic lines
 -->
 
-Sets *H* and *J* occupy the foreground of PartA:Sec1 and PartA:Sec2 and form an imitative call and response pair that displace over successive phrases. This phasing process will be addressed in detail after establishing the sonic and contextual criteria that define *H* and *J* segments. The recontextualization process divides *H* and *J* into two and four associative subsets, respectively, which are split between Sections 1 and 2. Segments of subset *H/a* and *J/a* relate to *A* and *B/a* segments from *Walden* through a variety of criteria. Both *H/a* and *A* share criteria S~2-articulation\ (legato)~, S~2-timbre\ (horn)~, C~cseg\ <01>~, and C~ip\ <+5>~. *H/a* is more timbrally diverse than *A* as it alternates between horn and bass flute, equal temperament and just intonation, and contains ornamentation. *J/a* and *B/a* primarily share similar heterophonic organization and connection to *H/a* and *A* segments as an imitative response that undergoes a strict process. Abrahamsen's reuse of this material from *Walden* does not 
-
-Set *H* is defined by S~2-articulation\ (legato)~, C~ic\ 5~, and C~cseg\ <01>~. Segments of *H* are diverse sonically in timbre, ornamentation, and duration
+Sets *H* and *J* occupy the foreground of PartA:Sec1 and PartA:Sec2 and form an imitative call and response pair that displace over successive phrases. This phasing process will be addressed in detail after establishing the sonic and contextual criteria that define *H* and *J* segments. The recontextualization process divides *H* and *J* into two and four associative subsets, respectively, which are split between Sections 1 and 2. Segments of subset *H/a* and *J/a* relate to *A* and *B/a* segments from *Walden* through a variety of criteria. Both *H/a* and *A* share criteria S~2-articulation\ (legato)~, S~2-timbre\ (horn)~, C~cseg\ <01>~, and C~ip\ <+5>~. *H/a* is more timbrally diverse than *A* as it alternates between horn and bass flute, equal temperament and just intonation, and contains ornamentation. *J/a* and *B/a* primarily share similar heterophonic organization and connection to *H/a* and *A* segments as an imitative response that undergoes a strict process. Abrahamsen's approach to reuse in *Wald* does not begin as a literal rearrangement of material from *Walden*, as he does with other works that reuse earlier material (e.g. *Nacht und Trompeten* and *Six Pieces*). Rather, he starts with material that is noticeably varied and ...
 
 <!-- Set H in Section 1 -->
 
+Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times across PartA:Sec1. Subset *H/a* is relatively uniform in several dimensions: S~2-timbre~, S~2-duration\ (7\ `eighthNote`)~, S~2-articulation\ (legato)~, S~2-dynamics\ (`pp`-`mf`)~, C~seg\ <01>~, and C~ic\ 5~. Variations within these attributes primarily come from orchestration, melodic interval, temperament, and duration. Most notably, Var2:Sec1 contains the most divergent segment stemming from S~2-duration\ (42\ `eighthNote`)~ and C~ip <+7>~.
+
+<!-- Section 1 *H/a* attributes
+
+| Criteria          | Intro:Sec1        | Var1:Sec1         | Var2:Sec1     |
+|:------------------|:------------------|:------------------|:--------------|
+| S~2-articulation~ | Legato            | Legato            | Legato        |
+| S~2-duration~     | 7 eighths         | 7 eighths         | 42 eighths    |
+| S~2-dynamics~     | `pp` - `mf`       | `pp` - `mf`       | `pp`          |
+| C~pitch~          | <`D4`, `G4`>      | <`D4`, `G4`>      | <`Bb3`, `F4`> |
+| C~cseg~           | <01>              | <01>              | <01>          |
+| C~group~          | Odd: III (B. fl.) | Odd: III (B. fl.) | III (B. fl.)  |
+|                   | Even: IV (Hn.)    | Even: IV (Hn.)    |               |
+
+-->
 
 <!-- Set H in Section 2 -->
 
-Abrahamsen distributes set *H* in 8, 7, and 6 segments across the three sequences of Section 2. The segments are uniform in attack point and set class but diverse in timbre, dynamics, voice leading, contour, and spatial orientation. *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. The change to pizzicato articulation in Var2:Sec2 negates the previously consistent duration but preserves the attack points. Table @tbl:wald-sec2-hb-attr displays how attributes change from odd to even phrases within sections as well as from variation to variation. Var2:Sec2 contains noticeable disjunctions in dynamics and contour, continuing the trend of Variation 2 having a greater degree of change than Variation 1. In Intro:Sec2 and Var1:Sec2, Abrahamsen alternates phrases between symmterical groups of instruments; odd phrases contain a left-side group (I) and an outer circle symmetrical pair (VI), while even phrases balance this with a right-side group (II) and a middle circle symmetrical pair (III and IV). Over the three Section 2 sequences, segments of *H* move from timbral diversity in the Introduction to timbral uniformity in Variation 2.
+Subset *H/b* is a varied repetition of *H/a* related by equivalence, and it contains a great deal more diversity in both the number of segments and differences in attributes. Abrahamsen distributes eight, seven, and six segments across the three sequences of Section 2. The segments are uniform in attack point and set class but diverse in timbre, dynamics, voice leading, contour, and spatial orientation. *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. The change to pizzicato articulation in Var2:Sec2 negates the previously consistent duration but preserves the attack points. Table @tbl:wald-sec2-hb-attr displays how attributes change from odd to even phrases within sections as well as from variation to variation. Var2:Sec2 contains noticeable disjunctions in dynamics and contour, continuing the trend of Variation 2 having a greater degree of change than Variation 1. In Intro:Sec2 and Var1:Sec2, Abrahamsen alternates phrases between symmterical groups of instruments; odd phrases contain a left-side group (I) and an outer circle symmetrical pair (VI), while even phrases balance this with a right-side group (II) and a middle circle symmetrical pair (III and IV). Over the three Section 2 sequences, segments of *H* move from timbral diversity in the Introduction to timbral uniformity in Variation 2.
 
 Table: Section 2 *H/b* attributes. {#tbl:wald-sec2-hb-attr}
 
