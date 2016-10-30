@@ -20,6 +20,7 @@ Table: Intro:Sec1 *G* and *H* alternating sonic attributes. {#tbl:wald-sec1-hj-a
 |     | Articulation  | legato               | legato                   |
 |     | Ornamentation | timbre trill         | none (con sordino)       |
 |     | Group         | III: bass flute      | IV: horn                 |
+|     |               |                      |                          |
 | *J* | Temperament   | just intonation      | equal temperament        |
 |     | Articulation  | accent               | accent                   |
 |     | Ornamentation | none                 | flz / salt trem.         |
