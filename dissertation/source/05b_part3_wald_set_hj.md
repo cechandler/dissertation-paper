@@ -17,7 +17,7 @@ Sets *H* and *J* occupy the foreground of PartA:Sec1 and PartA:Sec2 and form an 
 
 <!-- Set H in Section 1 -->
 
-Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times across PartA:Sec1. Subset *H/a* is relatively uniform in several dimensions: S~2-timbre~, S~2-duration\ (7\ `eighthNote`)~, S~2-articulation\ (legato)~, S~2-dynamics\ (`pp`-`mf`)~, C~seg\ <01>~, and C~ic\ 5~. Variations within these attributes primarily come from orchestration, melodic interval, temperament, and duration. Most notably, Var2:Sec1 contains the most divergent segment stemming from S~2-duration\ (42\ `eighthNote`)~ and C~ip <+7>~.
+Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times across PartA:Sec1. Through the three sequences, *H/a* segments stay relatively uniform in several dimensions: S~2-timbre~, S~2-duration\ (7\ `eighthNote`)~, S~2-articulation\ (legato)~, S~2-dynamics\ (`pp`-`mf`)~, C~seg\ <01>~, and C~ic\ 5~. Variations within these attributes primarily come from orchestration, melodic interval, temperament, and duration. Most notably, Var2:Sec1 contains the most divergent segment stemming from S~2-duration\ (42\ `eighthNote`)~ and C~ip <+7>~.
 
 <!-- Section 1 *H/a* attributes
 
@@ -35,7 +35,9 @@ Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times acros
 
 <!-- Set H in Section 2 -->
 
-Subset *H/b* is a varied repetition of *H/a* related by equivalence, and it contains a great deal more diversity in both the number of segments and differences in attributes. Abrahamsen distributes eight, seven, and six segments across the three sequences of Section 2. The segments are uniform in attack point and set class but diverse in timbre, dynamics, voice leading, contour, and spatial orientation. *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. The change to pizzicato articulation in Var2:Sec2 negates the previously consistent duration but preserves the attack points. Table @tbl:wald-sec2-hb-attr displays how attributes change from odd to even phrases within sections as well as from variation to variation. Var2:Sec2 contains noticeable disjunctions in dynamics and contour, continuing the trend of Variation 2 having a greater degree of change than Variation 1. In Intro:Sec2 and Var1:Sec2, Abrahamsen alternates phrases between symmterical groups of instruments; odd phrases contain a left-side group (I) and an outer circle symmetrical pair (VI), while even phrases balance this with a right-side group (II) and a middle circle symmetrical pair (III and IV). Over the three Section 2 sequences, segments of *H* move from timbral diversity in the Introduction to timbral uniformity in Variation 2.
+Subset *H/b* contains greater diversity in both the number of segments and variance in attributes. Abrahamsen distributes thirty-two, seventeen, and twelve segments across the three sequences of Section 2, and many are varied repetitions of *H/a* related by equivalence. In PartA:Sec1, Abrahamsen alternates *H/a* segments between unaccompanied bass flute and horn, while in PartA:Sec2, he harmonizes *H/b* segments, which contributes to the significant increase the subset's cardinality. The diversity of subset *H/b* is captured in Table @tbl:wald-sec2-hb-attr. It indicates how attributes vary not only from odd to even phrases within sections but also from variation to variation. Var2:Sec2 contains noticeable disjunctions in dynamics, duration,[^PizzChange] and contour, which continues the trend of Variation 2 having a greater degree of change than Variation 1. In Intro:Sec2 and Var1:Sec2, Abrahamsen alternates phrases between symmetrical groups of instruments; odd phrases contain a left-side group (I) and an outer circle symmetrical pair (VI), while even phrases balance this with a right-side group (II) and a middle circle symmetrical pair (III and IV). Over the three Section 2 sequences in Part A, *H/b* segments move from timbral diversity in the Introduction to timbral uniformity in Variation 2.
+
+[^PizzChange]: The change to pizzicato articulation in Var2:Sec2 preserves the attack points of prior segments but loses the previously consistent sustained duration. This is reflected in Table @tbl:wald-sec2-hb-attr through the change to S~1-duration~ from S~2-duration~ criteria. S~1-duration~ describes duration between attack points, while S~2-duration~ describes total duration of a segment.
 
 Table: Section 2 *H/b* attributes. {#tbl:wald-sec2-hb-attr}
 
@@ -44,15 +46,17 @@ Table: Section 2 *H/b* attributes. {#tbl:wald-sec2-hb-attr}
 | S~2-articulation~ | Accent, Legato              | Marcato                 | Pizzicato accent                 |
 | S~2-duration~     | 7 triplet eighths           | 7 triplet eighths       | S~1-duration\ (3\ 1/3\ eighths)~ |
 | S~2-dynamics~     | `mf` - `fff`                | `mf` - `fff`            | `p`                              |
-| C~SC~             | `6-6[012567]`               | `4-16[0157]`            | `4-16[0157]`                     |
-| C~cseg~           | <01>                        | <01>                    | Odd: <01>                        |
-|                   |                             |                         | Even: <10>                       |
 | C~group~          | Odd: I, VI                  | Odd: VI                 | Odd: II (Vla), V (Vn 2)          |
 |                   | Even: II, III (Vc), IV (Db) | Even: III (Vc), IV (Db) | Even: III (Vc), V (Vn 1)         |
+| C~cseg~           | <01>                        | <01>                    | Odd: <01>                        |
+|                   |                             |                         | Even: <10>                       |
+| C~SC~             | `6-6[012567]`               | `4-16[0157]`            | `4-16[0157]`                     |
 
 Throughout Section 2, Abrahamsen presents two subsets of the `6-6[012567]` collection as well as a diversity of linear intervallic motion in segments of *H*. Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. In Intro:Sec2, Abrahamsen uses the full collection presented as two chromatic trichords where linear motion solely consists of a perfect fourth. The defining linear perfect fourth of *H* is not present in Var1:Sec2 and Var2:Sec2, and instead Abrahamsen articulates *H* as an ascending (or descending) majord third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite the absence of the linear perfect fourth, segments of *H* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*. **more on how h keeps its identity despite losing the defining perfect fourth interval?**
 
 ![Voice leading in Section 2 *H* segments](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl}
+
+<!-- *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. -->
 
 <!-- Set J -->
 
