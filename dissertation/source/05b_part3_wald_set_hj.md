@@ -17,7 +17,7 @@ Sets *H* and *J* occupy the foreground of PartA:Sec1 and PartA:Sec2 and form an 
 
 <!-- Set H in Section 1 -->
 
-Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times across PartA:Sec1. Through the three sequences, *H/a* segments stay relatively uniform in several dimensions: S~2-timbre~, S~2-duration\ (7\ `eighthNote`)~, S~2-articulation\ (legato)~, S~2-dynamics\ (`pp`-`mf`)~, C~seg\ <01>~, and C~ic\ 5~. Variations within these attributes primarily come from orchestration, melodic interval, temperament, and duration. Most notably, Var2:Sec1 contains the most divergent segment stemming from S~2-duration\ (42\ `eighthNote`)~ and C~ip <+7>~.
+Abrahamsen distributes fifteen segments of *H/a* eight, six, and one times across PartA:Sec1. Through the three sequences, *H/a* segments stay relatively uniform in several dimensions: S~2-timbre~, S~2-duration\ (7\ eighths)~, S~2-articulation\ (legato)~, S~2-dynamics\ (`pp`-`mf`)~, C~seg\ <01>~, and C~ic\ 5~. Variations within these attributes primarily come from orchestration, interval size, temperament, and duration. Most notably, Var2:Sec1 contains the most divergent segment stemming from S~2-duration\ (42\ eighths)~ and C~ip\ <+7>~.
 
 <!-- Section 1 *H/a* attributes
 
@@ -50,11 +50,13 @@ Table: Section 2 *H/b* attributes. {#tbl:wald-sec2-hb-attr}
 |                   | Even: II, III (Vc), IV (Db) | Even: III (Vc), IV (Db) | Even: III (Vc), V (Vn 1)         |
 | C~cseg~           | <01>                        | <01>                    | Odd: <01>                        |
 |                   |                             |                         | Even: <10>                       |
+| C~ip~             | +5                          | +4, +7                  | +4, +7                           |
 | C~SC~             | `6-6[012567]`               | `4-16[0157]`            | `4-16[0157]`                     |
 
-Throughout Section 2, Abrahamsen presents two subsets of the `6-6[012567]` collection as well as a diversity of linear intervallic motion in segments of *H*. Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. In Intro:Sec2, Abrahamsen uses the full collection presented as two chromatic trichords where linear motion solely consists of a perfect fourth. The defining linear perfect fourth of *H* is not present in Var1:Sec2 and Var2:Sec2, and instead Abrahamsen articulates *H* as an ascending (or descending) majord third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite the absence of the linear perfect fourth, segments of *H* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*. **more on how h keeps its identity despite losing the defining perfect fourth interval?**
+Across PartA:Sec2, the variation of C~ip~ in Table @tbl:wald-sec2-hb-attr reveals that not all *H/b* segments contain the ascending perfect fourth that defines Walden's set *A* and most segments of set *H*. In Intro:Sec2, Abrahamsen strongly establishes *H/b* segments as an ascending perfect fourth whose various transpositions form a chromatic realization of set class `6-6[012567]`. However, in Var1:Sec2 and Var2:Sec2, the linear intervallic motion of *H/b* segments consist of an ascending (or descending) major third and perfect fifth. This voice leading motion produces the two `4-16[0157]` subsets possible within the `6-6[012567]` collection: `{0,1,5,7}` and `{0,2,6,7}`. Despite this variation, segments of *H/b* in Var1:Sec2 and Var2:Sec2 still strongly associate sonically through interval class `5` and contextually through the displacement relationship they maintain with segments of associative set *J*.
 
-![Voice leading in Section 2 *H* segments](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl}
+<!-- Figure @fig:wald-sec2-h-vl shows odd and even phrases from each section. -->
+<!-- ![Voice leading in Section 2 *H* segments](../figures/wald-sec2-h-voice-leading.png){#fig:wald-sec2-h-vl} -->
 
 <!-- *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. -->
 
