@@ -68,9 +68,9 @@ Abrahamsen uses subset *J/c* in all three sequences of PartA:Sec2. The subset co
 
 ![Prototypical segments of *H* and *J* subsets](../figures/temporary.png){#fig:wald-hj-prototypes}
 
-Abrahamsen's recontextualization of *H* and *J* segments involves
+Abrahamsen's recontextualization of *H* and *J* segments involves shaping their internal and external dispositions through different realizations of the rhythmic displacement process. Segments displace both internally between the two sets as well as externally with respect to other associative sets. In Intro:Sec1, *H* and *J* segments are bounded by repeat signs, but in the later two variations, they bleed over the boundaries of the double bar groupings. Throughout Var1:Sec1, there are eight double bar divisions (see Figure @fig:wald-meter-sec1-and-2) and thus eight onsets of *F* and changes in *G/a*, as Abrahamsen directly ties them to double bar appearances. However, *H* and *J* have six and seven segments, respectively, and do not adhere to the double bar groupings, thus creating rhythmic displacement with respect to the external disposition of these two associative set groups (*F* and *G* vs. *H* and *J*).
 
-Sets *H* and *J* form an imitative call and response pair that rhythmically displace over successive phrases and alternate both in sonic attributes and spatial symmetry. Sets *H* and *J* not only undergo displacement internally between the two sets but also externally with respect to other sets. In Intro:Sec1, *H* and *J* segments are bounded by repeat signs, but in the later two variations, they bleed over the confines of the double bar groupings. For instance, throughout Var1:Sec1, there are eight double bar divisions (see Figure @fig:wald-meter-sec1-and-2) and thus eight onsets of *F* and changes in *G/a*, as Abrahamsen directly ties them to double bar appearances. However, *H* and *J* have six and seven segments, respectively, and do not adhere to the double bar groupings, thus creating rhythmic displacement with respect to the external disposition of these two associative set groups (*F* and *G* vs. *H* and *J*).
+<!-- The imitative call and response pair formed by the two sets displace over successive phrases and alternate both in sonic attributes and spatial symmetry.  -->
 
 **maybe include figure that shows this through bar graph associative map**
 
