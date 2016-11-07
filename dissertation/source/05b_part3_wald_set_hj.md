@@ -6,13 +6,6 @@
 
 <!-- Compared to the *J* segments from Section 1, *J/c* contains more attacks and greater rhythmic complexity, but like *J/a* and *J/b*, they are very similar subsets (sonically and contextually) but are differentiated here primarily for convenience.  -->
 
-<!--
-J/a: repeated D, repeated G
-J/b: ascending D-G
-J/c: interlaced chromatic fourths
-J/d: melodic lines
--->
-
 Sets *H* and *J* represent the material from *Walden* which Abrahamsen recomposes in *Wald*. Segments of *H* and *J* subsets are not literal rearrangements of segments from *Walden*, which is an approach he uses in other works like *Nacht und Trompeten* and *Six Pieces*. Instead, Abrahamsen recomposes segments that are similar and related by a variety of criteria. For instance, sets *H* and *A* both share criteria like S~2-articulation\ (legato)~, S~2-timbre\ (horn)~, C~cseg\ <01>~, and C~ip\ <+5>~, but *H* segments are more timbrally diverse than *A* as they alternates between several instruments, equal temperament and just intonation, and contain ornamentation. Most importantly, sets *H* and *J* share similar associative landscapes as *A* and *B* where they form an imitative call and response pair that displace over successive phrases. This phasing process will be addressed in detail after establishing the sonic and contextual criteria that define *H* and *J* segments.
 
 <!-- *J/a* and *B/a* primarily share similar heterophonic organization and connection to *H* and *A* segments as an imitative response that undergoes a strict process. -->
@@ -62,9 +55,16 @@ Across PartA:Sec2, the variation of C~ip~ in Table @tbl:wald-sec2-hb-attr reveal
 
 <!-- *H* segments maintain a periodic cycle of ten measures and a duration of seven triplet quarter notes. -->
 
+<!--
+J/a: repeated D, repeated G
+J/b: ascending D-G
+J/c: interlaced chromatic fourths
+J/d: melodic lines
+-->
+
 <!-- Set J -->
 
-Set *J* contains four associative subsets evenly split between Sections 1 and 2. Subsets *J/a* and *J/b* appear in PartA:Sec1 and are sonically associative in pitch, articulation, and temperament yet distinct in duration and rhythmic subdivision. Segments of *J/a* involve three attacks of `D4`, `G4`, `Bb3`, or `F4`, and *J/b* involves two attacks projecting an ascending `D4`-`G4` (or `Bb3`-`F4`). Abrahamsen develops subset *J/a* through rhythmic augmentation and diminution across each segment, while *J/b* remains uniform in most musical dimensions. Subset *J/b* strongly associates with subset *H/a* but is differentiated by both S~2-timbre\ (harp,\ marimba)~ and its role in the displacement process.
+Set *J* contains four associative subsets evenly split between Sections 1 and 2. Subsets *J/a* and *J/b* appear in PartA:Sec1 and are sonically associative in pitch, articulation, and temperament yet distinct in duration and rhythmic subdivision. Segments of *J/a* involve three attacks of `D4`, `G4`, `Bb3`, or `F4`, and *J/b* involves two attacks projecting an ascending `D4`-`G4` (or `Bb3`-`F4`). Abrahamsen develops subset *J/a* through rhythmic augmentation or diminution across each segment, while *J/b* remains uniform in most musical dimensions. Subset *J/b* strongly associates with subset *H/a* but is differentiated by both S~2-timbre\ (harp,\ marimba)~ and its involvement in the displacement process.
 
 Abrahamsen uses subset *J/c* in all three sequences of PartA:Sec2. The subset combines the rhythmic processes shaping *J/a* segments along with three embedded segments of subset *J/b* to create a six-note sequence of chromatic perfect fourths. In both Intro:Sec2 and Var1:Sec2, the Group I and II duos articulate subset *J/d*, which project melodic lines sustaining the pitches articulated in the percussive *J/c* segments. The segments of *J/d* are non-intersecting trichordal partitions of the six-note sequence whose voice leading is different for each segment. Figure @fig:wald-hj-prototypes gives prototypical segments of the six *H* and *J* subsets from Part A.
 
