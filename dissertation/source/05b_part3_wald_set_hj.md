@@ -120,18 +120,15 @@ Table: Var1:Sec2 permutational *J/e* segments. {#tbl:wald-var1-sec2-jd}
 
 <!-- ![Collisions between *F* and *J/c* in Var1:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-var1-sec2-f-jc-collisions.png){#fig:wald-var1-sec2-f-jc-collisions} -->
 
-In the final displacement process in Var2:Sec2, Abrahamsen repeats segments of *J/d* and *J/f* from Var1:Sec2 and preserves the rhythmic displacement but imposes variations in pitch ordering and contour. Figure @fig:wald-sec2-j-polyrhythm-layers compares the second phrase of *J/d* and *J/f* segments from Var1:Sec2 and Var2:Sec2. The top two staves shows the composite six-note sequence, while the lower staves unravel the intertwined perfect fourths. Var1:Sec2 segments contain three polyrhythmic layers (quarter, quintuplet eighth, and triplet quarter) where the pitch ordering of dyads remains fixed, but in Var2:Sec2, Abrahamsen harmonizes the quintuplet eighth dyad, creating four layers of pitch sequences constructed by retrograde. Table @tbl:wald-var2-sec2-pitch-order below shows each of the four pitch layers independently and divides them into two- and four-note paritions for seven total phrases of *J* subsets. The point of retrograde occurs between the third and fourth phrases, placing its end after the sixth phrase. Abrahamsen continues the process in all four layers for one phrase beyond the end of the retrograde, suggesting that this process could keep going with a new ordering. The quintuplet eighth layers consist of a hexachord mirrored about the central axis. The quarter and triplet quarter layers contain a sequence of three tetrachords whose retrograde switches to the other voice at the point of symmetry (ie. the retrograde of the quarter note layer's third tetrachord is present in the triplet quarter).
+In the final variation of this displacement process in Var2:Sec2, Abrahamsen presents literal repetitions of *J/c* segments from Var1:Sec2 with respect to rhythm but varies pitch ordering and contour. Figure @fig:wald-sec2-j-polyrhythm-layers compares the second phrase of *J/c* segments from Var1:Sec2 and Var2:Sec2. Var1:Sec2 segments contain three polyrhythmic layers (quarter, quintuplet eighth, and triplet quarter) where the pitch ordering of dyads remains fixed. In Var2:Sec2, Abrahamsen maintains these three layers but also harmonizes the quintuplet eighth. Teasing out the four individual strands of pitch sequences reveals that Abrahamsen constructed them through retrograde. Table @tbl:wald-var2-sec2-pitch-order displays the four pitch strands grouped into two- and four-note partitions for seven total phrases of *J/c* segments. The point of retrograde occurs between the third and fourth phrases, placing its end after the sixth phrase. Abrahamsen continues the process in all four layers for one phrase beyond the end of the retrograde, suggesting that this process could continue with a new ordering. The quintuplet eighth layers consist of a hexachord mirrored about the central axis. The quarter and triplet quarter layers project a sequence of three tetrachords whose retrograde sequence flips to the other layer at the point of symmetry (ie. the retrograde of the quarter note layer's third tetrachord is present in the triplet quarter's fourth tetrachord).
 
 ![Polyrhythmic layers in Var1:Sec2 vs. Var2:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-sec2-j-polyrhythm-layers.png){#fig:wald-sec2-j-polyrhythm-layers}
 
 Table: Var2:Sec2 pitch ordering. {#tbl:wald-var2-sec2-pitch-order}
 
-| Layer             | Pitch Sequence                             |
+| Strand            | Pitch Sequence                             |
 |:------------------|:-------------------------------------------|
 | Quintuplet eighth | `<50   16   61   16   61   05   61>`       |
 | Quintuplet eighth | `<50   e4   4e   e4   4e   05   4e>`       |
 | Quarter           | `<4e4e 0516 6150 05e4 4e50 1616 6150 e4e>` |
 | Triplet Quarter   | `<6161 05e4 4e50 0516 6150 e4e4 4e50>`     |
-
-
-<!-- In this way, this displacement process more closely resembles the opening of *Walden* where the duration -->
