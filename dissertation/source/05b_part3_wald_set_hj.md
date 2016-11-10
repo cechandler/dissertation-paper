@@ -132,3 +132,5 @@ Table: Var2:Sec2 pitch ordering. {#tbl:wald-var2-sec2-pitch-order}
 | Quintuplet eighth | `<50   e4   4e   e4   4e   05   4e>`       |
 | Quarter           | `<4e4e 0516 6150 05e4 4e50 1616 6150 e4e>` |
 | Triplet Quarter   | `<6161 05e4 4e50 0516 6150 e4e4 4e50>`     |
+
+<!-- Associative landscape in Part A -->
