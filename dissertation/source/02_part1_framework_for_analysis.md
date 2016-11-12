@@ -75,7 +75,7 @@ Contextual criteria constitute the foundation of associative sets, which are not
 
 In addition to labelling conventions, Hanninen draws upon graph theory to present several ways of depicting associative organization of segments within sets and subsets.[@Hanninen, pg. 118-123] An *association graph* is one such way that can take several forms but which indicates the contextual criteria binding the segments together. The graph contains nodes that display either musical notation or the associative set/subset name and edges that connect nodes via lines usually labelled with contextual criteria. Figure @fig:walden-set-b-all-map displays an association graph of prototypical segments from *Walden*'s associative set *B*, which contains five subsets. Contextual subtypes C~cseg~ and C~ic~ define the segments of set *B* as indicated by the labelled criteria along the edges between the nodes. The five subsets within set *B* are differentiated by the individual criterion of these subtypes; for instance subsets *B/a*, *B/b*, and *B/c* associate through C~ic\ 3~ and C~cseg\ <01>~ and while some segments of *B/e* share these individual criteria, others associate through different individual criteria, like C~ic\ 1~, C~ic\ 2~, and C~cseg\ <10>~.
 
-![Contextual criteria supporting associative set B in *Walden* ](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-B-all-map.png){#fig:walden-set-b-all-map}
+![Contextual criteria supporting associative set B in *Walden* ](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-B-all-map.png){#fig:walden-set-b-all-map width=50%}
 
 **graph needs to be remade with edges connecting each node**
 
@@ -84,7 +84,5 @@ Associative landscapes are also depicted graphically through what Hanninen calls
 An example association map of the first sixteen measures of *Walden*'s first movement can be found in Figure @fig:walden-I-schematic-map. The map highlights the phasing process that occurs over four phrases between associative set *A* and the three subsets of set *B*. The external disposition of these two sets shows them rotating in position, while the internal disposition of *B* subsets show them remaining in order but fanning out over time. This visual representation illustrates how association maps can reveal aspects of associative organization in a clear and cogent way.
 
 ![Bar graph schematic map of *Walden* I. mm. 1-16](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm1-16-schematic-map.png){#fig:walden-I-schematic-map}
-
-**change graph to reflect removal of B subsets**
 
 In both *Walden* and *Wald*, Abrahamsen is highly economical with his musical material. This sensation of economy arises from musically simple segments that Abrahamsen reuses both in literal and varied repetition. With its focus on identifying segments through sonic and contextual characteristics, categorizing them into sets, and examining their organization over time, Hanninen's theory of musical analysis provides a deep framework for analyzing these aspects.
