@@ -54,4 +54,4 @@ In the second movement, subset *D/a* plays a different function in the associati
 
 Associative sets *A*, *B*, *C*, and *D* represent the most significant musical material in *Walden* for two reasons. One is how Abrahamsen recontextualizes literal and varied repetitions of these sets' segments between the first and second movement, and two is how he recomposes these sets and their associative organization in *Wald*. Figure @fig:walden-recontext shows a comparative association map of the first and second movements divided by section.
 
-![Recontexualization in *Walden* I and II](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/temporary.png){#fig:walden-recontext}
+![Recontexualization in *Walden* I and II](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-schematic-map-mvmt-I-and-II-composite.png){#fig:walden-recontext width=80%}
