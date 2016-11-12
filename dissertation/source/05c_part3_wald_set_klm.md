@@ -8,7 +8,7 @@ Across PartA:Sec3, associative set *K* is defined by S~1-articulation\ (staccato
 
 Abrahamsen's textural treatment of *K* segments as well as their sonic attributes of staccato articulation and agitated single-note repetition allude to the phrase that he mentions in his program note: "flocks of birds that when agitated take off." The spatial orchestration of *K* segments further suggests this movement of birds. Consider the first nine measures of Intro:Sec3 (mm. 73-81) which introduces a patterned movement of diverse *K* segments. Abrahamsen orchestrates *K* segments in clear symmetry, starting from the outer edges of the middle circle (bass flute and horn), moving them to the outer instruments of the inner circle (bassoon and English horn), then to the inner instruments of the inner circle (bass clarinet and viola), then to the outer circle duos (2 trumpets and 2 violins), and finally back to the outer edges of the middle circle (see Figure @fig:wald-sec3-k-mvmt). There is some additional brief back and forth movement between these groups arising from the repeat signs, but the generalized circular pattern of these segments remains consistent in Intro:Sec3 and Var1:Sec3. The absence of spatial movement in Var2:Sec3 is purposeful. The same groups of instruments still articulate segments of *K* but do so continuously, and instead of orchestrating them spatially, Abrahamsen exchanges literal repetitions between symmetrical groups, which will be detailed below.
 
-![Intro:Sec3 spatial movement of *K* segments](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec3-k-movement.png){#fig:wald-sec3-k-mvmt width=70%}
+![Intro:Sec3 spatial movement of *K* segments](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec3-k-movement.png){#fig:wald-sec3-k-mvmt width=50%}
 
 <!-- Beyond these global sonic and spatial properties,  -->
 
@@ -18,7 +18,7 @@ Within the sonic, rhythmic, and spatial diversity of the individual *K* segments
 
 ![*Wald* Intro:Sec3 and Var1:Sec3 repeat sign movement](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec3-repeat-signs.png){#fig:wald-sec3-repeat-signs}
 
-Var2:Sec3 presents one final contrasting instance of Abrahamsen's economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of *K* segments amongst two symmetrical groupings of instruments. The two instrumental subsets each contain four symmetrically spaced instruments; Group III and IV's bass flute, cello, horn, and bass form one group, and the duos of Group I and II form the other. Each of the eight sequences continuously spin out varying numbers of *K* segments, which form through S~1-rest~, S~1-articulation\ (staccatissimo,\ accent)~, and C~SC\ `4-22[0247]`~. The *K* segments are diverse in length and move at different polyrhythmic speeds that divide the `12/8` meter into 5, 7, 12, 14, 15, and 21 equal divisions.
+Var2:Sec3 presents another contrasting instance of Abrahamsen's economical reuse of *K* segments. Rather than reconfigure varied segments through the adjustment of repeat signs, Abrahamsen rotates literal repetitions of eight sequences of several *K* segments amongst two symmetrical groupings of instruments. The two instrumental subsets each contain four symmetrically spaced instruments; Group III and IV's bass flute, cello, horn, and bass form one group, and the duos of Group I and II form the other. Each of the eight sequences continuously spin out varying numbers of *K* segments, which form through S~1-rest~, S~1-articulation\ (staccatissimo,\ accent)~, and C~SC\ `4-22[0247]`~. The *K* segments are diverse in length and move at different polyrhythmic speeds that divide the `12/8` meter into 5, 7, 12, 14, 15, and 21 equal divisions.
 
 Labelling these eight sequences *K1* through *K8*, Table @tbl:wald-var2-sec3-rotations displays Abrahamsen's rotation and literal repetition of these sequences across the twenty measures of Var2:Sec3. The vertical alignment of *K1-8* indicate moments when instruments change *K* segments simultaneously, most notably occurring at the ten measure half-way point. Over the course of the section, instruments of Group I and II articulate each of the four *K* segments once, while each instrument of Group III and IV performs three out of the four segments.
 
@@ -37,7 +37,9 @@ Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
 | II    | Vla:  | `K7 K8    K6 K5 K6` |
 |       | EHn:  | `K8 K7    K5 K6 K5` |
 
-**Associative set K conclusion: the varied repetition of these segments through repeat signs and rotation don't necessarily change their context but rather their configuration or organization**
+Like PartA:Sec1 and PartA:Sec2, Abrahamsen varies set *K* across Section 3. Whereas the first two sections emphasize variations in proportion and timbre, Section 3 is primarily shaped by the reconfiguration of *K* segments through Abrahamsen's use of repeat signs and rearrangements of literal repetitions. The process does not significantly change their context but rather continues the trajectory of varying segments from variation to variation and recontextualizing associative sets from section to section. An examination of the attributes and organization of associative sets *L* and *M* will further demonstrate how set *K* is recontextualized in PartA:Sec4 and Part D through set *L*.
+
+<!-- Associative set K conclusion: the varied repetition of these segments through repeat signs and rotation don't necessarily change their context but rather their configuration or organization -->
 
 ### Associative Set *L* and *M*
 
