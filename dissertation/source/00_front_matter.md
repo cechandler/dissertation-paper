@@ -1,7 +1,7 @@
 ---
 author: Christopher Chandler
 title: "Reduce, Reuse, Recycle:"
-subtitle: "Associative Organization in Hans Abrahamsen's *Walden* and *Wald*"
+subtitle: "Associative Organization and Variation in Hans Abrahamsen's *Walden* and *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
 date: May 2017
@@ -14,7 +14,7 @@ fontsize: 12pt
 linestretch: 1
 header-includes:
     - \usepackage{tocbibind}
-    - \setcounter{tocdepth}{3}
+    - \setcounter{tocdepth}{2}
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
     - \usepackage{lilyglyphs}
