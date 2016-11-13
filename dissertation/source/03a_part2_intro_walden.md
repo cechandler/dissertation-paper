@@ -1,3 +1,5 @@
+\newpage
+
 # Part 2: An Analysis of *Walden*
 
 ## Abrahamsen and the Horn
