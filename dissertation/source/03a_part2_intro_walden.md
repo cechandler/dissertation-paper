@@ -2,14 +2,6 @@
 
 # Part 2: An Analysis of *Walden*
 
-## Abrahamsen and the Horn
-
-The opening of *Walden* and *Wald* feature call and response gestures inspired by hunting horn calls. Allusive horn calls also appear in *Winternacht* and *Nacht und Trompeten*. Abrahamsen has featured the horn in other works too (albeit not directly related to horn calls), most notably in his *Six Pieces* (1984), for horn, violin, and piano, which he wrote as a companion piece to accompany the Danish premiere of Ligeti's *Horn Trio*.[@SixPiecesPN Program note.]
-
-The horn has a special significance for Abrahamsen musically and personally. He was born with cerebral palsy which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand leaving him unable to pursue most instruments to professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. The first ever performance of his own music took place in 1969 with a piece called *October*, for horn and piano. In the performance by the composer, he played both instruments with his left hand and projected "natural harmonics of the horn directly into the open strings of the grand piano to create resonance."[@LeftAlonePN Program note.]
-
-**need to find another place for this section**
-
 ## Background
 
 *Walden* is deeply inspired by nature and, like other first period works, directly references a work from another artistic medium.[^References] The title is taken from the literary work of the same name by 19^th^-century author Henry David Thoreau. Thoreau's work is a poetic and introspective reflection on self-reliance, simplicity, and society. It documents his two-year experiment living in austere conditions at Walden Pond in Concord, Massachusetts. Abrahamsen's program note for *Walden* touches on the connection to Thoreau as well as the kinds of musical material found in the piece:
@@ -22,7 +14,7 @@ The horn has a special significance for Abrahamsen musically and personally. He 
 
 The connection between Thoreau's rejection of excess and Abrahamsen's economy of materials in this piece is a fitting one. *Walden*'s simple and unadorned musical ideas, limited harmonic palette, recurring segments, and interconnected movements exemplify these aspects of stripping away and recycling. Despite their clear poetic kinship, the inspiration to write *Walden* did not come directly from Thoreau as Abrahamsen discovered the book and decided on the title after completing the piece.[@Kullberg] He was attracted its association with the forest, "something pastoral," and Abrahamsen's discovery of Thoreau's book prompted him to "rediscover some qualities in [his] music, as Thoreau had tried to write about in his book."[@Kullberg]
 
-The qualities mentioned in the program note, organicism, concretism, and descriptive, reflect how the material unfolds in each movement. Organicism is central to the first and second movements where Abrahamsen organizes segments in cyclical configurations and develops them through additive processes like melodic expansion and rhythmic augmentation and diminution. Concretism[^ConcretismDescription] applies perhaps most clearly to the third movement for its use of "mechanical patterns" via heterophonic polyrhythms and oscillating patterns that compress in speed, ascend in register, and coalesce into an interlocking rhythmic texture. The description, "ghost-like music of the past," is relevant to both the pastoral horn calls in the first and third movements as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music.
+The qualities mentioned in the program note, organicism, concretism, and descriptive, reflect how the material unfolds in each movement. Organicism is central to the first and second movements where Abrahamsen develops segments through additive processes like melodic expansion, augmentation, and diminution and organizes segments in cyclical configurations. Concretism[^ConcretismDescription] applies perhaps most clearly to the third movement for its use of "mechanical patterns" via heterophonic polyrhythms and oscillating patterns that compress in speed, ascend in register, and coalesce into an interlocking rhythmic texture. The description, "ghost-like music of the past," is relevant to both the pastoral horn calls in the first and third movements as well as the contrapuntal texture in the fourth movement, which is stylistically reminiscent of Baroque music.
 
 [^ConcretismDescription]: Theo van Doesburg, founder of Art Concret, describes in his 1930 manifesto "The Basis of Concrete Art" a desire to reject "nature's formal properties," "sentimentality," "lyricism, dramaticism, symbolism, etc." Concretism, with its emphasis on abstraction, seems at odds with the nature-inspired *Walden*, but in this context, likely refers to Abrahamsen's use of strict processes and techniques.
 
@@ -36,7 +28,7 @@ Unlike much of Abrahamsen's other music, the original version of *Walden* contai
 
 The most significant modifications in the arrangement are meter and orchestration. In the second movement, Abrahamsen changed the original meter of `4/4` and tempo of `eighthNote` = 76 to a meter of `4/8` in the arrangement to better reflect the underlying pulse. The rhythmic complexity of the original fourth movement is also simplified through re-metering. While notated in `4/4`, the original contains two polyrhythmic layers of `6/8` and `3/4` groupings indicated through brackets that often extend over bar lines. Abrahamsen re-meters the reed quintet arrangement in `3/4` and `12/16` to more clearly articulate the three-against-four polyrhythm inherent in the movement. The re-metering of this movement also facilitates a metric modulation between the third and fourth movements, which are played attacca in this arrangement.
 
-The majority of orchestrational changes involve Abrahamsen's reassignment of instrumental lines. For movements I, II, and IV, Abrahamsen assigns each instrument of the original quintet to another instrument in the reed quintet. For instance, both versions have a clarinet in `A`, but in the first movement of the 1995 quintet, the clarinet performs the flute material from the 1978 quintet, while the alto saxophone performs the original clarinet material. The third movement contains the most exceptions to this arrangement process. Abrahamsen reassigns the original the clarinet, horn, and bassoon material amongst multiple reed instruments rather than one for the duration of the movement. Table @tbl:walden-rearrangement gives an overview of the instrumental arrangement between these two versions. In all the subsequent discussions of *Walden*, the score for the original woodwind quintet will be the referenced version.
+The majority of the changes in orchestration involve Abrahamsen's straightforward reassignment of instrumental lines. For movements I, II, and IV, Abrahamsen assigns each instrument of the original quintet to another instrument in the reed quintet. For instance, both versions have a clarinet in `A`, but in the first movement of the 1995 quintet, the clarinet performs the flute material from the 1978 quintet, while the alto saxophone performs the original clarinet material. The third movement contains several exceptions to this rearrangement process. Abrahamsen reassigns the original the clarinet, horn, and bassoon material amongst multiple reed instruments rather than only one for the duration of the movement. Table @tbl:walden-rearrangement gives an overview of the instrumental arrangement between these two versions. In all the subsequent discussions of *Walden*, the score for the original woodwind quintet will be the referenced version.
 
 Table: Instrumental arrangement between versions. {#tbl:walden-rearrangement}
 
@@ -63,19 +55,6 @@ Table: *Walden* movement proportions. {#tbl:walden-structure}
 | III. | `quarterNote` = 52    | 2:30           | 2:33               | 1-10        | 10-32       |               |              |
 | IV.  | `quarterNote` = 112   | 1:00           | 1:04               | 1-28        |             |               |              |
 
-<!--
-Table: *Walden* decreasing section divisions. {#tbl:walden-sectional-divisions}
-
-| Movement | Section 1 | Section 2 | Section 3 | Section 4 |
-|:---------|:----------|:----------|:----------|:----------|
-| I.       | mm. 1-17  | mm. 18-41 | mm. 41-56 | mm. 57-67 |
-| II.      | mm. 1-9   | mm. 10-19 | mm. 20-30 |           |
-| III.     | mm. 1-10  | mm. 10-32 |           |           |
-| IV.      | mm. 1-28  |           |           |           |
--->
-
-<!-- The form of each movement is largely fluid and continuous and does not correspond to traditional formal patterns. -->
-
 <!-- D major at the ends of movements -->
 
 The first movement of *Walden* contains three dichotomies that play out over the course of the movement: 1) harmonic ambiguity to harmonic clarity, 2) heterophony to homophony, and 3) ensemble as soloists to ensemble as subsets. The beginning of the movement is harmonically ambiguous and heterophonic in texture, but by the end, the quintet is grouped into subsets (and eventually tutti) performing harmonically clear and homophonic music. The first section features a call and response pattern transformed over four phrases via a process of rhythmic displacement. The second section consists of a legato three-voice mensuration canon, while the third section is a variation on this canon paired with an interjecting staccato gesture in the horn and bassoon. Finally, the fourth section introduces a homophonic three-octave melody paired with the increasingly insistent staccato segment before abruptly transitioning into a tutti repeated D major chord.
@@ -88,6 +67,6 @@ Abrahamsen shapes the two sections of the third movement through rhythmic proced
 
 The fleeting minute-long, polytonal finale of *Walden* is notated in `4/4` yet contains a composite texture of a duo for flute and bassoon in `3/4` and a trio for oboe, clarinet, and horn in `6/8`. The curious choice of `4/4` for the base meter perhaps connects to the "ghost-like music of the past" that Abrahamsen mentions in his program note; it is as if this music is entering from a distant time and place, suggested by having it not conform to the given meter. The two layers begin in distant tonal key centers, `C#` minor in the duo and `Eb` major in the trio. They modulate toward one another and eventually join in D major by the last three measures. Despite their harmonic arrival, the duo and trio retain a sensation of occupying different worlds. Their clear and balanced classical phrasing never quite coincides, and the movement ends abruptly, mid-phrase "like a music box cutting out."[@Thomas, p. 268]
 
-The tight associative organization of the first and second movements of *Walden* have several connections to *Wald*, including common compositional techniques, similar associative sets, and associative organization defined by recontextualization. While the third and fourth movement contain many interesting features, the bulk of the following analytical sections will concentrate only on the material of the first and second movements in order to establish a foundation from which to make comparisons to *Wald*.
+The tight associative organization of the first and second movements of *Walden* have several connections to *Wald*, including common compositional techniques, similar associative sets, and associative organization defined by recontextualization. While the third and fourth movement contain many interesting features, the bulk of the following analytical sections will concentrate only on the material of the first and second movements in order to establish a foundation from which to make connections to *Wald*.
 
 <!-- subsets and how they appear throughout the movements; in depth analysis will only focus on mvmts 1 and 2 -->
