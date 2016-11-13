@@ -20,6 +20,7 @@ header-includes:
     - \usepackage{lilyglyphs}
     - \usepackage{textcomp}
     - \usepackage{url}
+    - \usepackage{rotating}
     - \setlength\parindent{24pt}
     - \lilyGlobalOptions{scale=0.85}
     - \lilyOpticalSize{26}
