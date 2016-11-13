@@ -1,3 +1,5 @@
+\new page
+
 # Part 3: An Analysis of *Wald*
 
 ## Background and Instrumentation
