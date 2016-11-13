@@ -1,3 +1,5 @@
+\newpage
+
 # Part 1: Framework for Analysis
 
 Dora Hanninen's book *A Theory of Musical Analysis: On Segmentation and Associative Organization* provides a rich and flexible interpretative framework intended to be suggestive, leading, and supportive depending on the analyst's own interests and imagination. It does not constitute a rigid methodology to control the analytical process, but rather acts as a "multidimensional conceptual space" that provides "a relatively neutral but precise and highly flexible language" and "interpretative autonomy."[@Hanninen, p. 4] As the title suggests, Hanninen's framework primarily involves two principle analytical aspects: segmentation and associative organization. Segmentation concerns how musical objects, or segments, are identified and analytically supported. Associative organization concerns both how segments are categorized into non-hierarchic sets (called associative sets) and ultimately how these sets are distributed in time throughout a passage or whole piece of music (called an associative landscape).[@Hanninen, p. 4]
