@@ -1,4 +1,4 @@
-\new page
+\newpage
 
 # Part 3: An Analysis of *Wald*
 
