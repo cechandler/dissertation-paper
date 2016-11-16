@@ -30,7 +30,7 @@ Hanninen establishes straightforward notational conventions for clearly identify
 
 Table: Individual sonic criteria from Hanninen Example 2.5. {#tbl:hanninen-sonic-criteria}
 
-| S Criterion       | Segmentation                                                                                                                         |
+| Criterion         | Segmentation                                                                                                                         |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | S~1-pitch~        | Pitch interval between events that are temporally adjacent                                                                           |
 | S~1-duration~     | Duration (in beats or seconds) between attack points of events that are temporally adjacent (duration can include sustain and rests) |
@@ -52,7 +52,7 @@ Contextual criteria move the focus from the acoustic properties of a note to gro
 
 Contextual criteria have many subtypes and individual criteria. Subtypes reflect characteristics of a grouping of notes that can be used to associate two or more segments (e.g. pitch set, pitch-class set, set-class, pitch interval, contour, etc), and the individual criteria are the specific qualities of that subtype. Table @tbl:hanninen-contextual-criteria gives a list of contextual subtypes and an example individual criterion within it.
 
-Table: Individual sonic criteria from Hanninen Example 2.8. {#tbl:hanninen-contextual-criteria}
+Table: Individual contextual criteria from Hanninen Example 2.8. {#tbl:hanninen-contextual-criteria}
 
 | Subtype   | Description                                    | Example Individual Criterion               |
 |:----------|:-----------------------------------------------|:-------------------------------------------|
