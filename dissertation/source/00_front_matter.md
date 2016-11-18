@@ -12,6 +12,7 @@ papersize: letter
 geometry: margin=1.25in
 fontsize: 12pt
 linestretch: 1
+mainfont: Times New Roman
 header-includes:
     - \usepackage{tocbibind}
     - \setcounter{tocdepth}{2}
