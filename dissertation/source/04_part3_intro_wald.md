@@ -95,6 +95,8 @@ The musical material throughout *Wald* can be categorized into nine associative 
 
 The external disposition of these sets (that is, how they are distributed with respect to one another) is directly linked to the variation and section divisions of *Wald*. Figure @fig:wald-sets-external-disposition displays a proportional schematic association map for all eight variations. Small breaks between the bar lines indicate the section divisions within a variation. This global perspective does not indicate a detailed view of the number of segments but rather shows which sets Abrahamsen activates in a section or variation.
 
+![External disposition of sets in *Wald*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-schematic-map-all.png){#fig:wald-sets-external-disposition width=90%}
+
 Several aspects of associative organization stand out in this figure. First is the recontextualization and rearrangement of associative sets in Part A. Within a given variation, the first two sections clearly reuse the same four associative sets, while the third and fourth section contrast by a reduction in the number of active sets. While not apparent in the graph, set *K* and set *L* share several contextual criteria, which further contributes to the paired recontextualization of sets in Part A. Second, like the second half of variations in Part A, Part B is characterized by very few active associative sets and clearly divided into a pair of variations. Third, Variation 5 is the only significant section that does not have a paired variation. Finally, the return to sets *L* and *M* in Variation 6 and 7 recontextualize the fourth sections of Part A.
 
 The following analysis will focus exclusively on sets *F* through *M* and the way Abrahamsen organizes and varies them throughout Part A and D. Each set will be examined in turn, with their characteristics and associative subsets described, the landscapes in which they are situated, and the variation techniques Abrahamsen applies to segments.
@@ -104,5 +106,3 @@ other things possibly worth mentioning:
 - part b: associative set reduction is characterized by slow tempo and rate of change
 - but set k in third sections of part a and set o in var 5 also feature one associative set and have significant activity
 -->
-
-![External disposition of sets in *Wald*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-schematic-map-all.png){#fig:wald-sets-external-disposition width=75%}
