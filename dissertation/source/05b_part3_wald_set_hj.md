@@ -72,20 +72,13 @@ Figure @fig:wald-part-a-sec1-landscapes displays three comparative associative l
 
 Abrahamsen's recontextualization of *H* and *J* segments involves shaping their internal and external dispositions through different realizations of the rhythmic displacement process. Segments displace both internally between the two sets as well as externally with respect to other associative sets. In Intro:Sec1, *H* and *J* segments are bounded by repeat signs, which can been in how their segments in Figure @fig:wald-part-a-sec1-landscapes remain within the confines of the subset *G/a* lines, but in the later two variations, they extend over the boundaries of the double bar groupings. Throughout Var1:Sec1, there are eight double bar divisions and thus eight onsets of *F* and changes in *G/a*, as Abrahamsen directly ties them to double bar appearances. However, *H* and *J* have six and seven segments, respectively, and do not adhere to the double bar groupings, thus phasing occurs in the external disposition of these two associative set groups (*F* and *G* vs. *H* and *J*).
 
-![Comparative associative landscape of PartA:Sec1](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-schematic.png){#fig:wald-part-a-sec1-landscapes width=80% sidewaysfigure}
+<!-- ![Comparative associative landscape of PartA:Sec1](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-schematic.png){#fig:wald-part-a-sec1-landscapes width=80% sidewaysfigure} -->
 
 \begin{sidewaysfigure}
 \centering
 \includegraphics[width=1.00000\textwidth]{/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-schematic.png}
 \caption{Comparative associative landscapes of PartA:Sec1\label{fig:wald-part-a-sec1-landscapes}}
 \end{sidewaysfigure}
-
-<!--
-- measure numbers in intro:var1
-- describe f onsets
-- describe breaks in line for g/a
-- original configuration between intro sec1 phrase 1 and var1 sec1 phrase 6
--->
 
 The rhythmic displacement process shaping the disposition of sets *H* and *J* differs from the one opening *Walden*. Instead of shifting metrical placement and preserving duration as he does with sets *A* and *B/a*, Abrahamsen expands and compresses the duration of *J/a* segments to control displacement. The elasticity of *J/a* durations is set against the uniformity of *H/a*, *H/b*, and *J/b* segments. Throughout PartA:Sec1 and PartA:Sec2, these segments remain static in duration (seven eighth notes for *H/a*, seven triplet eighths for *H/b*, six quintuplet divisions for *J/b*) and periodicity (every ten measures for *H* and every eight measures for *J/b*). Their periodic nature is obscured, however, in Intro:Sec1 and Intro:Sec2 by the eight and nine measure repeat signs which produce shorter periods than ten measures on repeats.
 
@@ -107,11 +100,11 @@ Var2:Sec1 contains no phasing process like the prior sequences of Section 1. Ins
 
 <!-- Set J in Section 2 -->
 
-<!-- Abrahamsen controls the internal displacement process of sets *H* and *J* in contrasting ways in PartA:Sec1 and PartA:Sec2.  -->
+<!-- Abrahamsen controls the internal displacement process of sets *H* and *J* in contrasting ways in PartA:Sec1 and PartA:Sec2. -->
 
 Throughout PartA:Sec1, Abrahamsen controls the external disposition of associative sets *H* and *J* through periodicity (subsets *H/a* and *J/b*) and rhythmic processes (subset *J/a*). In PartA:Sec2, Abrahamsen uses the same principles but controls the displacement process through different means. *H/b* and *J/b* segments remain periodic at a rate of ten measures and eight measures, but Abrahamsen embeds the periodic *J/b* segment within *J/c* as one of its three chromatic perfect fourths. Unlike *J/a* segments which undergo augmentation and diminution, the embedded perfect fourths of *J/c* do not change in duration but instead shift earlier and later in time at different polyrhythmic speeds. This process alters the global duration of *J/c* segments and produces a sensation of augmentation and diminution, but its underlying mechanism contrasts with PartA:Sec1.
 
-![Comparative associative landscape of PartA:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec2-schematic.png){#fig:wald-part-a-sec2-landscapes width=80% sidewaysfigure}
+<!-- ![Comparative associative landscape of PartA:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec2-schematic.png){#fig:wald-part-a-sec2-landscapes width=80% sidewaysfigure} -->
 
 \begin{sidewaysfigure}
 \centering
@@ -120,6 +113,8 @@ Throughout PartA:Sec1, Abrahamsen controls the external disposition of associati
 \end{sidewaysfigure}
 
 The harp and marimba alternate statements of *J/c* in Intro:Sec2, the first two of which are shown in Figure @fig:wald-intro-sec2-jc-rd. The top stave displays the composite six-note segment while the lower three staves tease out the three strands of perfect fourths, including the embedded *J/b* segment. These intertwined fourths project a polyrhythm of 4 against 5 against 6 (quarters vs. quintuplet eighths vs. triplet quarters) and remain consistent in duration (3 and 2 quarters vs. 6 and 4 quintuplet eighths vs. 3 and 2 triplet quarters). <!-- Comparing the two phrases in Figure @fig:wald-intro-sec2-jc-rd highlights how the displacement process unfolds across Intro:Sec2. --> The periodic *J/b* segment occupies the central position in the rhythmic sequence, mirroring its central position in the `6-6 [012567]` collection. While subset *J/b* always occurs on the downbeat, the quarter note dyad (`C#4`-`F#4`) shifts earlier and the triplet quarter noter dyad (`Eb4`-`Ab4`) shifts later at a rate of one quarter note and one triplet quarter, respectively, per segment. This process occurs for each of the four repeated phrases in Intro:Sec2.
+
+![First two *J/c* segments in Intro:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-intro-sec2-jc-displacement.png){#fig:wald-intro-sec2-jc-rd}
 
 In Var1:Sec2, the *J/b* segment continues to serve as the central axis of displacement, but Abrahamsen varies the process by appending and prepending additional dyads to the other two chromatic strands such that both contain a sequence of C~pitch\ <`C#4`,`F#4`,`Eb4`,`Ab4`>~. As in the previous section, the quarter note strand shifts earlier while the triplet quarter note strand displaces later with each segment. Abrahamsen no longer alternates segments between the harp and marimba as in Intro:Sec1; rather, he presents two superimposed segments where each instrument articulates not only the central, embedded *J/b* segment but also one dyad from each rhythmic subdivision strand.
 
@@ -148,8 +143,6 @@ Table: Var1:Sec2 permutational *J/d* segments. {#tbl:wald-var1-sec2-jd}
 In the final displacement process in Var2:Sec2, Abrahamsen presents varied repetitions of *J/c* segments from Var1:Sec2 related by similarity. Intro:Var2 and Var1:Sec2 segments contain three polyrhythmic layers (quarter, quintuplet eighth, and triplet quarter) where the pitch ordering of dyads remains fixed. In Var2:Sec2, the rhythms of these three layers remain unchanged, but Abrahamsen varies the pitch ordering, harmonizes the quintuplet eighth, and transforms the `6-6[012567]` harmonic collection by T~7~I.
 
 Comparing the first and second phrases of *J/c* segments from Var2:Sec2 in Figure @fig:wald-sec2-j-polyrhythm-layers illustrates how the individual layers' pitch sequences change and contours invert from segment to segment. Table @tbl:wald-var2-sec2-pitch-order displays the pitch sequence of each layer grouped into two- and four-note partitions constituting the seven total phrases of *J/c* segments. A point of retrograde exists between the third and fourth phrases. The quintuplet eighth layers consist of a hexachord mirrored about the central axis. The quarter and triplet quarter layers project a sequence of three tetrachords whose retrograde sequence flips to the other layer at the point of retrograde (ie. the retrograde of the quarter note layer's third tetrachord is present in the triplet quarter's fourth tetrachord). Abrahamsen continues for one phrase beyond the end of the retrograde suggesting that this process could continue with a new ordering.
-
-<!-- Teasing out the individual layers of pitch sequences reveals that Abrahamsen constructed them through retrograde. -->
 
 ![Polyrhythmic layers in Var1:Sec2 vs. Var2:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-sec2-j-polyrhythm-layers.png){#fig:wald-sec2-j-polyrhythm-layers}
 
