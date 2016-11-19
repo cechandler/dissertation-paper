@@ -8,9 +8,9 @@ In Part A, Abrahamsen shapes the recontextualization of associative sets *F*, *G
 
 Metrical groupings and subdivision plays a subtle but pervasive role throughout *Wald* where frequent markings of "3-Taktig" and "2-Taktig" indicate subdivisions where a measure is conducted in 2 or 3.[@WaldScore Performance Notes.] Abrahamsen connects these markings to surface-level details like changes in harmony and patterns of accents in the two violins of Group V. For instance, during the 3-Taktig subdivision in Intro:Sec1 mm. 3-11, the two violins performing set *G* accent every third note and switch between equal temperament and just intonation every three measures. During 2-Taktig subdivisions, the accents occur every other note and harmony alternates every two measures. These changes in Taktig subdivision stem from how Abrahamsen groups measures in discrete units.
 
-<!-- ![*Wald* Section 1 and Section 2 metrical groupings](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-2-meters.png){#fig:wald-meter-sec1-and-2} -->
+![*Wald* Section 1 and Section 2 metrical groupings](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-2-meters.png){#fig:wald-meter-sec1-and-2}
 
-\begin{figure}[htbp]
+<!-- \begin{figure}[htbp]
 \onehalfspacing
 \textbf{Part A Section 1} \newline
 \lilyTimeSignature{3}{8} 2 mm. ||: 9 mm. :||: 8 mm. :||: 9 mm. :||: 8 mm. :|| \newline
@@ -28,9 +28,9 @@ Total: 67 measures \newline
 \lilyTimeSignature{2}{4} 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. || \newline
 Total: 60 measures \newline
 \caption{\emph{Wald} Section 1 and Section 2 metrical groupings\label{fig:wald-meter-sec1-and-2}}
-\end{figure}
+\end{figure} -->
 
-Figure \ref{fig:wald-meter-sec1-and-2} summarizes the metrical groupings of Sections 1 and 2, which frequently differ by one measure and are bounded by repeat signs or double bar lines. Across groupings, Abrahamsen distributes phrases through antiphonal spatial symmetry and alternates the sonic attributes of segments, like temperament, articulation, and ornamentation. Comparing the metrical groupings of Intro:Sec1 in Figure \ref{fig:wald-meter-sec1-and-2} to the sonic attributes in Table @tbl:wald-sec1-hj-alt-char, Abrahamsen's orchestration of sets *H* and *J* in phrases containing nine measures differ from phrases containing eight measures. In nine-measure phrases, the equally tempered bass flute of Group III performs a timbre trill ornamentation of *H*, while the Group IV trio performs set *J* segments in just intonation (1/6^th^-tone flat) with no ornamentation. These characteristics flip in the even phrases; the French horn of Group IV performs a just intonation unornamented segment of *H*, while the Group III trio performs ornamented *J* segments in equal temperament. Part of Abrahamsen's logic in connecting seating arrangement and orchestration is apparent here, as the detuned harp, bass, and horn of Group IV can idiomatically perform these just intonation pitches.
+Figure @fig:wald-meter-sec1-and-2 summarizes the metrical groupings of Sections 1 and 2, which frequently differ by one measure and are bounded by repeat signs or double bar lines. Across groupings, Abrahamsen distributes phrases through antiphonal spatial symmetry and alternates the sonic attributes of segments, like temperament, articulation, and ornamentation. Comparing the metrical groupings of Intro:Sec1 in Figure @fig:wald-meter-sec1-and-2 to the sonic attributes in Table @tbl:wald-sec1-hj-alt-char, Abrahamsen's orchestration of sets *H* and *J* in phrases containing nine measures differ from phrases containing eight measures. In nine-measure phrases, the equally tempered bass flute of Group III performs a timbre trill ornamentation of *H*, while the Group IV trio performs set *J* segments in just intonation (1/6^th^-tone flat) with no ornamentation. These characteristics flip in the even phrases; the French horn of Group IV performs a just intonation unornamented segment of *H*, while the Group III trio performs ornamented *J* segments in equal temperament. Part of Abrahamsen's logic in connecting seating arrangement and orchestration is apparent here, as the detuned harp, bass, and horn of Group IV can idiomatically perform these just intonation pitches.
 
 <!-- One further subtle detail emerges in the attributes of ornamentation and temperament: the just intonation versions of *J* are unornamented, while the equal temperament versions are ornamented with flutter tongue and tremoli, thus muddying the "clarity" of the equal temperament. -->
 
