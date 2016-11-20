@@ -11,6 +11,11 @@ $if(linestretch)$
   \setstretch{$linestretch$}
 $endif$
 
+$if(endfloat)$
+    \usepackage{endfloat,longtable}
+    \DeclareDelayedFloatFlavour*{longtable}{table}\usepackage{amssymb,amsmath}
+$endif$
+
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
@@ -256,19 +261,19 @@ $endfor$
 }
 
 \begin{document}
-  \pagenumbering{roman}
-  $if(title)$
-    \titlepage
-  $endif$
-  $if(abstract)$
-    \begin{abstract}
-      $abstract$
-    \end{abstract}
-  $endif$
+\pagenumbering{roman}
+$if(title)$
+\titlepage
+$endif$
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
 
-  $for(include-before)$
-    $include-before$
-  $endfor$
+$for(include-before)$
+$include-before$
+$endfor$
 
 % Commented so that order of source files in dissertation folder determines order
   % $if(toc)$
@@ -289,27 +294,27 @@ $endfor$
   %   \listoffigures
   % $endif$
 
-  $body$
+$body$
 
-  $if(natbib)$
-    $if(bibliography)$
-      $if(biblio-title)$
-        $if(book-class)$
-          \renewcommand\bibname{$biblio-title$}
-        $else$
-          \renewcommand\refname{$biblio-title$}
-        $endif$
-      $endif$
-    \bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
-    $endif$
-  $endif$
+$if(natbib)$
+$if(bibliography)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+$endif$
+$endif$
 
-  $if(biblatex)$
-    \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
-  $endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+$endif$
 
-  $for(include-after)$
-    $include-after$
-  $endfor$
+$for(include-after)$
+$include-after$
+$endfor$
 
 \end{document}
