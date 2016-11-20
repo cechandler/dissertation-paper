@@ -10,26 +10,6 @@ Metrical groupings and subdivision plays a subtle but pervasive role throughout 
 
 ![*Wald* Section 1 and Section 2 metrical groupings](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec1-2-meters.png){#fig:wald-meter-sec1-and-2}
 
-<!-- \begin{figure}[htbp]
-\onehalfspacing
-\textbf{Part A Section 1} \newline
-\lilyTimeSignature{3}{8} 2 mm. ||: 9 mm. :||: 8 mm. :||: 9 mm. :||: 8 mm. :|| \newline
-Total: 70 measures (repeats included) \newline
-\lilyTimeSignature{3}{8} 2 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. || \newline
-Total: 62 measures \newline
-\lilyTimeSignature{3}{8} 6 mm. | 6 mm. | 6 mm. | 6 mm. | 6 mm. | 6 mm. | 6 mm. | 6 mm. | 6 mm. || \newline
-Total: 54 measures \newline
-\newline
-\textbf{Part A Section 2}\newline
-\lilyTimeSignature{2}{4} 2  mm. ||: 8 mm. :||: 9 mm. :||: 8 mm. :||: 9 mm. :|| \newline
-Total: 70 measures \newline
-\lilyTimeSignature{2}{4} 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. || \newline
-Total: 67 measures \newline
-\lilyTimeSignature{2}{4} 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. | 8 mm. | 7 mm. || \newline
-Total: 60 measures \newline
-\caption{\emph{Wald} Section 1 and Section 2 metrical groupings\label{fig:wald-meter-sec1-and-2}}
-\end{figure} -->
-
 Figure @fig:wald-meter-sec1-and-2 summarizes the metrical groupings of Sections 1 and 2, which frequently differ by one measure and are bounded by repeat signs or double bar lines. Across groupings, Abrahamsen distributes phrases through antiphonal spatial symmetry and alternates the sonic attributes of segments, like temperament, articulation, and ornamentation. Comparing the metrical groupings of Intro:Sec1 in Figure @fig:wald-meter-sec1-and-2 to the sonic attributes in Table @tbl:wald-sec1-hj-alt-char, Abrahamsen's orchestration of sets *H* and *J* in phrases containing nine measures differ from phrases containing eight measures. In nine-measure phrases, the equally tempered bass flute of Group III performs a timbre trill ornamentation of *H*, while the Group IV trio performs set *J* segments in just intonation (1/6^th^-tone flat) with no ornamentation. These characteristics flip in the even phrases; the French horn of Group IV performs a just intonation unornamented segment of *H*, while the Group III trio performs ornamented *J* segments in equal temperament. Part of Abrahamsen's logic in connecting seating arrangement and orchestration is apparent here, as the detuned harp, bass, and horn of Group IV can idiomatically perform these just intonation pitches.
 
 <!-- One further subtle detail emerges in the attributes of ornamentation and temperament: the just intonation versions of *J* are unornamented, while the equal temperament versions are ornamented with flutter tongue and tremoli, thus muddying the "clarity" of the equal temperament. -->
