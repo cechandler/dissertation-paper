@@ -49,13 +49,13 @@ Section 4 concludes each variation of Part A and introduces associative sets *L*
 
 Segments of *L* and *M* distinctly contrast with previous subsets through their diversity in registral bandwidth. Abrahamsen confines segments of *F* through *K* to the bandwidth of a narrow perfect fourth or fifth. But with *L* and *M*, he distributes their segments in more varied registral spaces and articulates them with wider intervallic voice leading. Figure \ref{fig:wald-register-space-graph} depicts the pitch spaces of all variations and sections within Part A and highlights Section 4's significant registral opening. The y-axis depicts pitch space from `A0` to `C8` while the x-axis shows the active pitches with a given section. This graph highlights Abrahamsen's minimal approach to harmony and use of simple transformation techniques (like transposition and inversion) to shape harmony in successive variations.
 
-<!-- ![Fixed registers in Part A](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-register-space.png){#fig:wald-register-space-graph width=60%} -->
+![Fixed registers in Part A](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-register-space.png){#fig:wald-register-space-graph width=60%}
 
-\begin{sidewaysfigure}
+<!-- \begin{sidewaysfigure}
 \centering
 \includegraphics[width=1.00000\textwidth]{/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-register-space.png}
 \caption{Fixed pitch spaces in Part A\label{fig:wald-register-space-graph}}
-\end{sidewaysfigure}
+\end{sidewaysfigure} -->
 
 In the same way that he treats *J/c* segments as superimposed chromatic transpositions of subset *J/b*, Abrahamsen constructs the pitch space that *L* and *M* segments articulate from a series of transpositions of set *K*'s defining harmonic collection. This is evident in Figure \ref{fig:wald-register-space-graph} as each instance of Section 4 retains the same set *K* pitch space from the previous Section 3 and builds upon it through a chain of transposed and elided set classes `4-22[0247]` and `5-34[02469]`.
 

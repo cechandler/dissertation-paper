@@ -93,7 +93,7 @@ Var2:Sec1 contains no phasing process like the prior sequences of Section 1. Ins
 
 Throughout PartA:Sec1, Abrahamsen controls the external disposition of associative sets *H* and *J* through periodicity (subsets *H/a* and *J/b*) and rhythmic processes (subset *J/a*). In PartA:Sec2, Abrahamsen uses the same principles but controls the displacement process through different means. *H/b* and *J/b* segments remain periodic at a rate of ten measures and eight measures, but Abrahamsen embeds the periodic *J/b* segment within *J/c* as one of its three chromatic perfect fourths. Unlike *J/a* segments which undergo augmentation and diminution, the embedded perfect fourths of *J/c* do not change in duration but instead shift earlier and later in time at different polyrhythmic speeds. This process alters the global duration of *J/c* segments and produces a sensation of augmentation and diminution, but its underlying mechanism contrasts with PartA:Sec1.
 
-![Comparative associative landscape of PartA:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec2-schematic.png){#fig:wald-part-a-sec2-landscapes width=80% sidewaysfigure}
+![Comparative associative landscape of PartA:Sec2](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-part-a-sec2-schematic.png){#fig:wald-part-a-sec2-landscapes width=80%}
 
 <!-- \begin{sidewaysfigure}
 \centering
