@@ -4,7 +4,7 @@ title: "Reduce, Reuse, Recycle:"
 subtitle: "Associative Organization and Variation in Hans Abrahamsen's *Walden* and *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
-date: May 2017
+date: 2017
 bibliography: "../citations/abrahamsen.bib"
 csl: "../citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
@@ -27,6 +27,8 @@ header-includes:
     - \lilyOpticalSize{26}
 ---
 
+\tableofcontents
+
 # Biographical Sketch
 Here is the biography.
 
@@ -42,14 +44,10 @@ Here is the abstract.
 
 \newpage
 
-\tableofcontents
+\listoftables
 
 \newpage
 
 \listoffigures
-
-\newpage
-
-\listoftables
 
 \newpage
