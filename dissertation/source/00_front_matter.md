@@ -6,7 +6,7 @@ adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
 date: 2017
 bibliography: "../citations/abrahamsen.bib"
-csl: "../citations/chicago-note-bibliography.csl"
+csl: "../citations/chicago-author-date.csl"
 nocite: "[@*]"
 papersize: letter
 geometry: margin=1.25in
@@ -30,17 +30,24 @@ header-includes:
 \tableofcontents
 
 # Biographical Sketch
-Here is the biography.
+
+Biography will go here.
+
+<!-- Christopher Chandler is a composer and educator currently living in Richmond, Virginia. He graduated from the University of Richmond in 2008 with a Bachelor of Arts in music and psychology. -->
 
 \newpage
 
 # Acknowledgements
-Here are the acknowledgements.
+
+Acknowledgements will go here.
 
 \newpage
 
 # Abstract
-Here is the abstract.
+
+Abstract will go here.
+
+<!-- This dissertation examines the of Hans Abrahamsen's *Walden* (1978) and *Wald* (2009).  -->
 
 \newpage
 
