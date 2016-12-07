@@ -94,17 +94,17 @@ These variations are juxtaposed with little to no transitional material. Their b
 \onehalfspacing
 \begin{figure}[htbp]
   \begin{quote}
-    Part A: Introduction, Variation 1, Variation 2\\
-    Part B: Variation 3 and Variation 4\\
-    Part C: Variation 5\\
-    Part D: Variation 6 and Variation 7
+    Part I: Introduction, Variation 1, Variation 2\\
+    Part II: Variation 3 and Variation 4\\
+    Part III: Variation 5\\
+    Part IV: Variation 6 and Variation 7
   \end{quote}
 \caption{\emph{Wald} formal groupings.}\label{fig:walden-formal-groupings}
 \end{figure}
 
 \doublespacing
 
-The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 in Part B contain the quietest, calmest, and most introverted music, while Variation 5 in Part C functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 in Part D are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
+The introduction establishes the primary motivic and harmonic material, while variations 1 and 2 are very close re-readings of the introduction with differences in proportion, orchestration, and motivic development. These three sections, grouped as Part A, each contain four subsections differing in tempo, harmony, and activity. Variation 3 and 4 in Part II contain the quietest, calmest, and most introverted music, while Variation 5 in Part C functions as the climax, with the loudest, most chaotic, and texturally dense music. Variations 6 and 7 in Part D are harmonically related to the fourth part of Part A and contain similar harmonic material with different orchestrations.
 
 Abrahamsen's arrangement of the 15 musicians^[Scored for: bass flute, English horn, bass clarinet, bassoon, French horn, trumpet, bass trumpet, percussion, harp, piano, 2 violins, viola, cello, and double bass.] into a semi-circle of six symmetrical groups guides his approach to orchestration. Figure @fig:wald-seating-plan shows the tree-like diagram of the seating plan and indicates the 4 groups of duos and 2 groups of trios with the piano occupying the central position outside of any group.
 
