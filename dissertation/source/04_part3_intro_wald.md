@@ -38,56 +38,56 @@ Abrahamsen juxtaposes the various subdivisions, variations, and parts with littl
 
 Table: *Wald* tempo and descriptive markings {#tbl:wald-form}
 
-| Part  | Section | Duration | Measures | Tempo                               | Descriptive markings            |
-|:------|:--------|:---------|:---------|:------------------------------------|:--------------------------------|
-| **A** | Intro   | 3:10     | 1-108    |                                     |                                 |
-|       |         | 0:45     | 1-36     | Tempo I `quarterNoteDotted` = 88    | Allegro con brio                |
-|       |         |          |          |                                     | "wie aus der Ferne"             |
-|       |         |          |          |                                     | ("as if from a distance")       |
-|       |         | 0:48     | 37-72    | Tempo II `halfNote` = 66            | Poco meno ma maestoso           |
-|       |         |          |          |                                     | poco grottesco e ironico        |
-|       |         | 1:00     | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
-|       |         |          |          |                                     | "aufgeregt" ("excited")         |
-|       |         | 0:36     | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-|       | Var 1   | 2:38     | 109-267  |                                     |                                 |
-|       |         | 0:36     | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                |
-|       |         |          |          |                                     | ma un poco piu mosso            |
-|       |         |          |          |                                     | ancora "wie aus der Ferne"      |
-|       |         |          |          |                                     | (still "as if from a distance") |
-|       |         | 0:43     | 171-237  | Tempo II `halfNote` = 77            | Poco meno maestoso              |
-|       |         |          |          |                                     | ma un poco piu mosso            |
-|       |         |          |          |                                     | ma poco lamentoso               |
-|       |         | 0:48     | 238-253  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e piu agitato    |
-|       |         |          |          |                                     | "sehr aufgeregt"                |
-|       |         |          |          |                                     | ("very excited")                |
-|       |         | 0:30     | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-|       | Var 2   | 2:16     | 268-408  |                                     |                                 |
-|       |         | 0:31     | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                |
-|       |         |          |          |                                     | ma sempre poco piu mosso        |
-|       |         | 0:38     | 322-381  | Tempo II `halfNote` = 82            | Un poco meno                    |
-|       |         |          |          |                                     | ma ancora piu mosso             |
-|       |         |          |          |                                     | lamentoso e melancolico         |
-|       |         | 0:41     | 382-401  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
-|       |         |          |          |                                     | "wieder aufgeregt"              |
-|       |         |          |          |                                     | ("excited again")               |
-|       |         | 0:25     | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
-| **B** | Var 3   | 2:28     | 409-442  | `halfNote` = 32                     | Adagio misterioso               |
-|       |         |          |          |                                     | "Nachtmusik"                    |
-|       | Var 4   | 1:59     | 443-473  | `halfNote` = 32                     | Stesso tempo                    |
-| **C** | Var 5   | 1:39     | 474-581  |                                     |                                 |
-|       |         |          | 474-489  | `quarterNoteDotted` = 64            | Con nuova energia               |
-|       |         |          |          |                                     | "Wie ein plötzliches Erwachen"  |
-|       |         |          |          |                                     | ("Like a sudden awakening")     |
-|       |         |          | 490-521  | `quarterNote` = 144                 | Vivo furioso                    |
-|       |         |          |          |                                     | "vielleicht eine Jagd"          |
-|       |         |          |          |                                     | ("perhaps a hunting")           |
-|       |         |          | 522-561  | `quarterNote` = 165                 | Presto volante                  |
-|       |         |          |          |                                     | "galoppierend, immer vorwärts"  |
-|       |         |          |          |                                     | ("galloping, always forward")   |
-|       |         |          | 562-581  | `quarterNoteDotted` = 132           | Più mosso                       |
-| **D** | Var 6   | 1:31     | 582-594  | `eighthNote` = 66                   | Andante mesto                   |
-|       | Var 7   | 1:18     | 595-605  | `eighthNote` = 64                   | Piu lento                       |
-|       |         |          |          |                                     |                                 |
+| Part    | Section | Duration | Measures | Tempo                               | Descriptive markings            |
+|:--------|:--------|:---------|:---------|:------------------------------------|:--------------------------------|
+| **I**   | Intro   | 3:10     | 1-108    |                                     |                                 |
+|         |         | 0:45     | 1-36     | Tempo I `quarterNoteDotted` = 88    | Allegro con brio                |
+|         |         |          |          |                                     | "wie aus der Ferne"             |
+|         |         |          |          |                                     | ("as if from a distance")       |
+|         |         | 0:48     | 37-72    | Tempo II `halfNote` = 66            | Poco meno ma maestoso           |
+|         |         |          |          |                                     | poco grottesco e ironico        |
+|         |         | 1:00     | 73-90    | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
+|         |         |          |          |                                     | "aufgeregt" ("excited")         |
+|         |         | 0:36     | 91-108   | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+|         | Var 1   | 2:38     | 109-267  |                                     |                                 |
+|         |         | 0:36     | 109-170  | Tempo I `quarterNoteDotted` = 92    | Allegro con brio                |
+|         |         |          |          |                                     | ma un poco piu mosso            |
+|         |         |          |          |                                     | ancora "wie aus der Ferne"      |
+|         |         |          |          |                                     | (still "as if from a distance") |
+|         |         | 0:43     | 171-237  | Tempo II `halfNote` = 77            | Poco meno maestoso              |
+|         |         |          |          |                                     | ma un poco piu mosso            |
+|         |         |          |          |                                     | ma poco lamentoso               |
+|         |         | 0:48     | 238-253  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e piu agitato    |
+|         |         |          |          |                                     | "sehr aufgeregt"                |
+|         |         |          |          |                                     | ("very excited")                |
+|         |         | 0:30     | 254-267  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+|         | Var 2   | 2:16     | 268-408  |                                     |                                 |
+|         |         | 0:31     | 268-321  | Tempo I `quarterNoteDotted` = 94    | Allegro con brio                |
+|         |         |          |          |                                     | ma sempre poco piu mosso        |
+|         |         | 0:38     | 322-381  | Tempo II `halfNote` = 82            | Un poco meno                    |
+|         |         |          |          |                                     | ma ancora piu mosso             |
+|         |         |          |          |                                     | lamentoso e melancolico         |
+|         |         | 0:41     | 382-401  | Tempo III `quarterNoteDotted` = 100 | Allegro vivace e agitato        |
+|         |         |          |          |                                     | "wieder aufgeregt"              |
+|         |         |          |          |                                     | ("excited again")               |
+|         |         | 0:25     | 402-408  | Tempo IV `eighthNote` = 88          | Meno mosso, soave e fluente     |
+| **II**  | Var 3   | 2:28     | 409-442  | `halfNote` = 32                     | Adagio misterioso               |
+|         |         |          |          |                                     | "Nachtmusik"                    |
+|         | Var 4   | 1:59     | 443-473  | `halfNote` = 32                     | Stesso tempo                    |
+| **III** | Var 5   | 1:39     | 474-581  |                                     |                                 |
+|         |         |          | 474-489  | `quarterNoteDotted` = 64            | Con nuova energia               |
+|         |         |          |          |                                     | "Wie ein plötzliches Erwachen"  |
+|         |         |          |          |                                     | ("Like a sudden awakening")     |
+|         |         |          | 490-521  | `quarterNote` = 144                 | Vivo furioso                    |
+|         |         |          |          |                                     | "vielleicht eine Jagd"          |
+|         |         |          |          |                                     | ("perhaps a hunting")           |
+|         |         |          | 522-561  | `quarterNote` = 165                 | Presto volante                  |
+|         |         |          |          |                                     | "galoppierend, immer vorwärts"  |
+|         |         |          |          |                                     | ("galloping, always forward")   |
+|         |         |          | 562-581  | `quarterNoteDotted` = 132           | Più mosso                       |
+| **IV**  | Var 6   | 1:31     | 582-594  | `eighthNote` = 66                   | Andante mesto                   |
+|         | Var 7   | 1:18     | 595-605  | `eighthNote` = 64                   | Piu lento                       |
+|         |         |          |          |                                     |                                 |
 
 Throughout the following discussion of *Wald*, the term Part will be used to refer to those variation groupings listed in Table @tbl:wald-form. Variation will of course be used to refer to an individual variation instance, while section will refer to those subdivisions within a variation. Given the close re-reading or recontextualization relationship between the variations of Part I, a convenient short-hand notation of Intro:Sec1 or Var2:Sec1 or Var3:Sec1 will be used to clearly specify the section at hand. Phrases like "the fourth sections of Part I" or PartI:Sec4 apply to multiple instances of a recurring section (e.g., Intro:Sec4, Var1:Sec4, and Var2:Sec4).
 
