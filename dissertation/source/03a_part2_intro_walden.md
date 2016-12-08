@@ -30,7 +30,7 @@ The most significant modifications in the arrangement are to meter and orchestra
 
 The majority of the changes in orchestration reflect Abrahamsen's straightforward reassignment of instrumental lines. For movements I, II, and IV, Abrahamsen assigns each instrument of the original quintet to another instrument in the reed quintet. For instance, both versions have a clarinet in `A`, but in the first movement of the 1995 quintet, the clarinet performs the flute material from the 1978 quintet, while the alto saxophone performs the original clarinet material. The third movement contains several exceptions to this rearrangement process. Abrahamsen reassigns the original clarinet, horn, and bassoon material among multiple reed instruments for the duration of the movement. Table @tbl:walden-rearrangement gives an overview of the instrumental arrangement between these two versions. In all the subsequent discussions of *Walden*, the score for the original woodwind quintet will be the referenced version.
 
-Table: Instrumental arrangement between versions. {#tbl:walden-rearrangement}
+Table: Instrumental arrangement between versions {#tbl:walden-rearrangement}
 
 | Wind Quintet |      | Reed Quintet I. | Reed Quintet II. | Reed Quintet III. | Reed Quintet IV. |
 |:-------------|:-----|:----------------|:-----------------|:------------------|:-----------------|
@@ -46,7 +46,7 @@ Abrahamsen's compositional process begins with formal structure, since he believ
 
 [^CalefaxRec]: The Calefax Reed Quintet recording more closely reflects the listed score durations, but combined with the reed arrangement's adjusted tempi, the second movement ends up being slightly longer than the first.
 
-Table: *Walden* movement proportions. {#tbl:walden-structure}
+Table: *Walden* movement proportions {#tbl:walden-structure}
 
 |      | Tempo                 | Score Duration | Recording Duration | Section One | Section Two | Section Three | Section Four |
 |:-----|:----------------------|:---------------|:-------------------|:------------|:------------|:--------------|:-------------|
@@ -70,5 +70,3 @@ Abrahamsen shapes the two sections of the third movement through rhythmic proced
 The fleeting minute-long, polytonal finale of *Walden* is notated in `4/4` yet contains a composite texture of a duo for flute and bassoon in `3/4` and a trio for oboe, clarinet, and horn in `6/8`. The curious choice of `4/4` for the base meter perhaps connects to the "ghost-like music of the past" that Abrahamsen mentions in his program note; it is as if this music is entering from a distant time and place, suggested by its nonconformance to the given meter. <!-- **some preparation for the tonality of the fourth movement needed** --> The two layers begin in distant tonal key centers, `C#` minor in the duo and `Eb` major in the trio. They modulate toward one another and eventually join in D major by the last three measures. Despite their harmonic arrival, the duo and trio retain a sensation of occupying different worlds. Their clear and balanced classical phrasing never quite coincides, and the movement ends abruptly, mid-phrase "like a music box cutting out."[@Thomas, p. 268]
 
 The following analysis will detail *Walden*'s four primary associative sets and their various manifestations throughout its four movements. The bulk of the discussion, though, will focus on the segments and associative organization present within the first and second movements. Abrahamsen recontextualizes associative sets between these two movements in ways that directly connect to *Wald*. Additionally, the two works share common compositional techniques and similar associative sets. Examining these aspects will establish a foundation from which to make comparisons to *Wald*.
-
-<!-- perhaps this last para is the place to define recontextualization more directly? -->

@@ -14,7 +14,7 @@ Figure @fig:wald-meter-sec1-and-2 summarizes the metrical groupings of Sections 
 
 <!-- One further subtle detail emerges in the attributes of ornamentation and temperament: the just intonation versions of *J* are unornamented, while the equal temperament versions are ornamented with flutter tongue and tremoli, thus muddying the "clarity" of the equal temperament. -->
 
-Table: Intro:Sec1 *G* and *H* alternating sonic attributes. {#tbl:wald-sec1-hj-alt-char}
+Table: Intro:Sec1 *G* and *H* alternating sonic attributes {#tbl:wald-sec1-hj-alt-char}
 
 | Set | Attribute     | Odd Phrases          | Even Phrases             |
 |:----|:--------------|:---------------------|:-------------------------|
@@ -40,7 +40,7 @@ The Introduction's single segment will serve as a model to compare to Variation 
 
 Tables @tbl:wald-var1-sec1-f and @tbl:wald-var2-sec1-f-a show the pattern of orchestration and duration compression underlying these two variations. Each column displays the measure onset of one or more *F* segments and the duration between its two attacks. Throughout Var1:Sec1, Abrahamsen decreases not only S~1-duration~ but also the duration between an instrument's appearance. For instance, the piano appears in the first, four, sixth, and seventh instances, creating a decreasing period of rest between each piano segment. In Var2:Sec1, the orchestration is less diverse, and the pattern is cyclical rather than compressed, mirroring the stability of the equal six-measure groupings (see Figure \ref{fig:wald-meter-sec1-and-2}).
 
-Table: Var1:Sec1 *F* segment pattern. {#tbl:wald-var1-sec1-f}
+Table: Var1:Sec1 *F* segment pattern {#tbl:wald-var1-sec1-f}
 
 | Measures     |      111       |      119       |      126       |                134                 |      141       |                149                 |      156       |                164                 |
 |:-------------|:--------------:|:--------------:|:--------------:|:----------------------------------:|:--------------:|:----------------------------------:|:--------------:|:----------------------------------:|
@@ -51,7 +51,7 @@ Table: Var1:Sec1 *F* segment pattern. {#tbl:wald-var1-sec1-f}
 | Bsn + Bs Cl  |                |                |                |                                    |                |                                    | 9 `eighthNote` |                                    |
 | Vla + Eng Hn |                |                |                |                                    |                |                                    | 9 `eighthNote` |                                    |
 
-Table: Var2:Sec1 *F* segment pattern. {#tbl:wald-var2-sec1-f-a}
+Table: Var2:Sec1 *F* segment pattern {#tbl:wald-var2-sec1-f-a}
 
 | Measures |      268       |      286       |      304       |
 |:---------|:--------------:|:--------------:|:--------------:|
@@ -61,7 +61,7 @@ Table: Var2:Sec1 *F* segment pattern. {#tbl:wald-var2-sec1-f-a}
 
 Across PartI:Sec2, *F* segments maintain the same initiating and pacing roles within their respective variations. The *F* segment appearing at the onset of Intro:Sec2 in m. 37 creates an abrupt sonic disjunction through S~1-dynamics\ (`f`)~, S~1-timbre~, and S~1-articulation\ (marcato,\ staccato)~, which creates a clear formal demarcation between the two sections. PartI:Sec2 *F* segments differ from those in PartI:Sec1 not only through these sonic attributes but contextually through C~SC\ 6-6[012567]~, presented as three superimposed perfect fourth dyads. Like Var2:Sec1, the segments in these two sections begin on the downbeats following double bar lines, and show stable, cyclical patterning of orchestration and duration between attacks (see Tables @tbl:wald-var1-sec2-f-a and @tbl:wald-var2-sec2-f-a).
 
-Table: Var1:Sec2 *F* segment duration pattern. {#tbl:wald-var1-sec2-f-a}
+Table: Var1:Sec2 *F* segment duration pattern {#tbl:wald-var1-sec2-f-a}
 
 | Measures |      171       |       178       |      186       |       193       |      201       |       208       |      216       |       223       |      231       |
 |:---------|:--------------:|:---------------:|:--------------:|:---------------:|:--------------:|:---------------:|:--------------:|:---------------:|:--------------:|
@@ -69,7 +69,7 @@ Table: Var1:Sec2 *F* segment duration pattern. {#tbl:wald-var1-sec2-f-a}
 | Harp     |                | 12 `eighthNote` |                |                 | 8 `eighthNote` |                 |                | 12 `eighthNote` |                |
 | Marimba  |                |                 | 8 `eighthNote` |                 |                | 12 `eighthNote` |                |                 | 8 `eighthNote` |
 
-Table: Var2:Sec2 *F* segment duration pattern. {#tbl:wald-var2-sec2-f-a}
+Table: Var2:Sec2 *F* segment duration pattern {#tbl:wald-var2-sec2-f-a}
 
 | Measures |       322       |      330       |       337       |      345       |       352       |      360       |       367       |
 |:---------|:---------------:|:--------------:|:---------------:|:--------------:|:---------------:|:--------------:|:---------------:|

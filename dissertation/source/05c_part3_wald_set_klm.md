@@ -20,7 +20,7 @@ Var2:Sec3 presents a contrasting instance of Abrahamsen's economical reuse of *K
 
 Labelling these eight sequences *K1* through *K8*, Table @tbl:wald-var2-sec3-rotations displays Abrahamsen's rotation and literal repetition of these sequences across the twenty measures of Var2:Sec3. The vertical alignment of *K1-8* indicate moments when instruments change *K* segments simultaneously, most notably occurring at the ten measure halfway point. Over the course of the section, instruments of Group I and II articulate each of their four *K* segments once, while each instrument of Group III and IV performs three out of the four segments.
 
-Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
+Table: Var2:Sec3 rotation sequence {#tbl:wald-var2-sec3-rotations}
 
 | Group | Instr | Rotation Sequence   |
 |:------|:------|:--------------------|

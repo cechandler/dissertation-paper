@@ -26,7 +26,7 @@ Subset *H/b* contains greater diversity in both the number of segments and varia
 
 [^PizzChange]: The change to pizzicato articulation in Var2:Sec2 preserves the attack points of prior segments but loses the previously consistent sustained duration. This is reflected in Table @tbl:wald-sec2-hb-attr through the change to S~1-duration~ from S~2-duration~ criteria. S~1-duration~ describes duration between attack points, while S~2-duration~ describes total duration of a segment.
 
-Table: Section 2 *H/b* attributes. {#tbl:wald-sec2-hb-attr}
+Table: Section 2 *H/b* attributes {#tbl:wald-sec2-hb-attr}
 
 |                   | Intro:Sec2                  | Var1:Sec2               | Var2:Sec2                        |
 |:------------------|:----------------------------|:------------------------|:---------------------------------|
@@ -125,7 +125,7 @@ Figure @fig:wald-var1-sec2-j-strands illustrates this orchestration. The upper t
 
 Abrahamsen supports and resonates the expanding and contracting segments through sustained *J/d* segments articulated by the inner circle Group I and II duos. Abrahamsen orchestrates the duos symmetrically where Group I resonates the *J/c* segments of the Group III marimba and Group II does the same for the Group IV harp. *J/d* segments project non-intersecting trichordal partitions of the `6-6[012567]` collection, which Abrahamsen controls by having the duo alternate attacks from the composite two sequences of *J/c*. Each instrument's sequence of eight segments, shown in Table @tbl:wald-var1-sec2-jd, is diverse in trichord ordering, which produces a permutational melodic quality.
 
-Table: Var1:Sec2 permutational *J/d* segments. {#tbl:wald-var1-sec2-jd}
+Table: Var1:Sec2 permutational *J/d* segments {#tbl:wald-var1-sec2-jd}
 
 |          |        | 1       | 2       | 3       | 4       | 5       | 6       | 7       | 8       |
 |:---------|:-------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
@@ -141,7 +141,7 @@ Like *J/d* segments, the pitch ordering of *J/c* segments in PartI:Sec1, Intro:S
 
 A comparison of the first and second phrases of *J/c* segments in Figure @fig:wald-sec2-j-polyrhythm-layers illustrates how the de-interleaved pitch sequences change and invert in contour from segment to segment. Table @tbl:wald-var2-sec2-pitch-order displays the pitch sequence of each layer grouped into two- and four-note partitions constituting the seven total phrases of *J/c* segments. A point of retrograde exists between the third and fourth phrases. The quintuplet eighth layers consist of a hexachord mirrored about this central axis. The quarter and triplet quarter layers project a sequence of three tetrachords whose retrograde sequence flips to the other layer at the point of retrograde (ie. the retrograde of the quarter note layer's third tetrachord is present in the triplet quarter's fourth tetrachord). Like other sections, Abrahamsen continues beyond the end of the retrograde suggesting that this process could continue with a new ordering.
 
-Table: Var2:Sec2 pitch ordering. {#tbl:wald-var2-sec2-pitch-order}
+Table: Var2:Sec2 pitch ordering {#tbl:wald-var2-sec2-pitch-order}
 
 | Layer             | Pitch Sequence                             |
 |:------------------|:-------------------------------------------|

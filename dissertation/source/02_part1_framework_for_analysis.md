@@ -30,7 +30,7 @@ This brief overview of the premises of Hanninen's general theory of musical anal
 
 Hanninen establishes straightforward notational conventions for clearly identifying criteria and associative sets and subsets. The three criteria types are denoted by a single letter, sonic (S), contextual (C), or structural (H), along with a subscript that contains additional information about the criterion within that type. Sonic criteria involve acoustic properties, such as pitch, dynamics, articulation, duration, or timbre, and divide into two subtypes labeled S~1~ and S~2~. Subtype 1 "assume[s] temporal adjacency as a prerequisite for segmentation,"[@Hanninen, pg. 26] while subtype 2 allows segmentations of sonic criteria that are not temporally adjacent but are close in proximity. "Whereas S~1~ criteria locate notes first and foremost along a temporal continuum, S~2~ criteria use some other continuum (e.g., pitch, dynamics, timbre) for this purpose."[@Hanninen, pg. 27] The acoustic properties that underlie the rationale for segmentation are attached to the subscripts: S~1-pitch~, S~1-dynamics~, S~2-duration~, and so forth. Greater specificity can be given in parentheses: S~1-articulation\ (slur)~ or S~2-timbre\ (flute)~. Table @tbl:hanninen-sonic-criteria gives a list of sonic criteria from Hanninen that will be used in the analyses of Parts 2 and 3.
 
-Table: Individual sonic criteria from Hanninen Example 2.5. {#tbl:hanninen-sonic-criteria}
+Table: Individual sonic criteria from Hanninen Example 2.5 {#tbl:hanninen-sonic-criteria}
 
 | Criterion         | Segmentation                                                                                                                         |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ Contextual criteria move the focus from the acoustic properties of a note to gro
 
 Contextual criteria have many subtypes and individual criteria. Subtypes reflect characteristics of a grouping of notes that can be used to associate two or more segments (e.g., pitch set, pitch-class set, set-class, pitch interval, contour, etc), and the individual criteria are the specific qualities of that subtype. Table @tbl:hanninen-contextual-criteria gives a list of contextual subtypes and an example individual criterion within it.
 
-Table: Individual contextual criteria from Hanninen Example 2.8. {#tbl:hanninen-contextual-criteria}
+Table: Individual contextual criteria from Hanninen Example 2.8 {#tbl:hanninen-contextual-criteria}
 
 | Subtype   | Description                                    | Example Individual Criterion                          |
 |:----------|:-----------------------------------------------|:------------------------------------------------------|
@@ -85,7 +85,7 @@ In addition to labelling conventions, Hanninen draws upon graph theory to presen
 
 An example association map depicting the landscape of the first sixteen measures of *Walden*'s first movement can be found in Figure @fig:walden-I-schematic-map. This bar-graph schematic map highlights the phasing process that occurs over four phrases between associative set *A* and the three subsets of set *B*. The external disposition of these two sets shows them exchanging relative order, while the internal disposition of *B* subsets show segments remaining in order but increasing in relative distance. This visual representation illustrates how association maps can reveal aspects of associative organization in a clear and cogent way.
 
-![Bar-graph schematic map of *Walden* I. mm. 1-16](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm1-16-schematic-map.png){#fig:walden-I-schematic-map}
+![Bar-graph schematic map depicting landcsacpe of *Walden* I. mm. 1-16](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-I-mm1-16-schematic-map.png){#fig:walden-I-schematic-map}
 
 In both *Walden* and *Wald*, Abrahamsen is highly economical with segments and associative sets. This economy arises from musically minimal segments that Abrahamsen reuses both in literal and varied repetition. With its focus on identifying segments through sonic and contextual characteristics, categorizing them into sets, and examining their organization over time, Hanninen's theory of musical analysis provides a deep framework for analyzing these aspects in Abrahamsen's two works.
 
@@ -97,7 +97,7 @@ Section on association graphs not used
 An *association graph* is one such way that can take several forms but which indicates the contextual criteria binding the segments together. The graph contains nodes that display either musical notation or the associative set/subset name and edges that connect nodes via lines usually labelled with contextual criteria. Figure @fig:walden-set-b-all-map displays an association graph of prototypical segments from *Walden*'s associative set *B*, which contains five subsets. Contextual subtypes C~cseg~ and C~ic~ define the segments of set *B* as indicated by the labelled criteria along the edges between the nodes. The five subsets within set *B* are differentiated by the individual criterion of these subtypes; for instance subsets *B/a*, *B/b*, and *B/c* associate through C~ic\ 3~ and C~cseg\ <01>~ and while some segments of *B/e* share these individual criteria, others associate through different individual criteria, like C~ic\ 1~, C~ic\ 2~, and C~cseg\ <10>~. -->
 
 <!--
-![Contextual criteria supporting associative set B in *Walden* ](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-B-all-map.png){#fig:walden-set-b-all-map width=50%}
+![Contextual criteria supporting associative set B in *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-set-B-all-map.png){#fig:walden-set-b-all-map width=50%}
 
 graph needs to be remade with edges connecting each node
 -->
