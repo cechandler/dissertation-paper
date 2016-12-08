@@ -6,7 +6,7 @@ adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
 date: 2017
 bibliography: "../citations/abrahamsen.bib"
-csl: "../citations/chicago-author-date.csl"
+csl: "../citations/chicago-note-bibliography.csl"
 nocite: "[@*]"
 papersize: letter
 geometry: margin=1.25in
