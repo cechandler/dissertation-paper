@@ -37,7 +37,7 @@ Table: Var2:Sec3 Rotation Sequence. {#tbl:wald-var2-sec3-rotations}
 
 Like PartI:Sec1 and PartI:Sec2, Abrahamsen varies set *K* across Section 3. Whereas the first two sections emphasize variations in proportion and timbre, Section 3 is primarily shaped by the reconfiguration of *K* segments through repeat signs and rearrangement of literal repetitions. The process does not significantly change their context but rather continues the trajectory of varying segments from variation to variation and recontextualizing associative sets from section to section. An examination of the attributes and organization of associative sets *L* and *M* will further demonstrate how set *K* is recontextualized in PartI:Sec4 and Part IV through set *L*.
 
-### Associative Set *L* and *M*
+### Associative Sets *L* and *M*
 
 Section 4 concludes each variation of Part I and introduces associative sets *L* and *M*, which Abrahamsen also recontextualizes in Part IV. Associative set *L* contains eleven segments, which Abrahamsen distributes four, four, and three times across PartI:Sec4. While *L* segments are diverse in rhythmic speed, contour, and duration, they associate through S~1-dynamic\ (`pp`)~, S~1-legato\ (articulation)~, S~1-timbre\ (harp,\ marimba/piano)~, C~SC\ `4-22[0247]`~, and C~SC\ `5-34[02469]`~. Set *L* and subsets of *M* share a relationship where the monodic segments of *M* draw their pitches and contour from the more harmonically and rhythmically active segments of *L*.
 
