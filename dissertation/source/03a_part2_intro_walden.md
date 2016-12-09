@@ -52,7 +52,7 @@ Table: *Walden* movement proportions {#tbl:walden-structure}
 
 |      | Tempo                 | Score Duration | Recording Duration | Section One | Section Two | Section Three | Section Four |
 |:-----|:----------------------|:---------------|:-------------------|:------------|:------------|:--------------|:-------------|
-| I.   | `quarterNote` = 63-66 | 3:35           | 2:57               | 1-17 (17)   | 18-41 (24)  | 41-56 (16)    | 57-67 (11)   |
+| I.   | `quarterNote` = 63-66 | 3:35           | 2:57               | 1-20 (20)   | 20-41 (22)  | 41-56 (16)    | 57-67 (11)   |
 | II.  | `eighthNote` = 76     | 3:10           | 2:51               | 1-9 (9)     | 10-18 (9)   | 19-30 (12)    |              |
 | III. | `quarterNote` = 52    | 2:30           | 2:33               | 1-10 (10)   | 10-32 (23)  |               |              |
 | IV.  | `quarterNote` = 112   | 1:00           | 1:04               | 1-28 (28)   |             |               |              |
