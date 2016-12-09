@@ -48,7 +48,7 @@ The experience of hearing subset *D/a* in the second movement illustrates a comp
 
 ### Recontextualization in *Walden*
 
-Zooming out from the local details of subset and segment recontextualization, Figure @fig:walden-recontext displays two associative landscapes of the first and second movement containing sets *A*, *B*, *C*, and *D*. These four sets represent the material that Abrahamsen clearly recontextualizes in the second movement. The landscapes, realized in Figure @fig:walden-recontext as schematic association maps, represent the four sets' external disposition and roughly account for the total movement durations. However, they do not account for other associative sets that have secondary roles within the two movements, and they are also limited in segment detail; they show duration but not any granular detail.
+Zooming out from the local details of subset and segment recontextualization, Figure @fig:walden-recontext displays two associative landscapes of the first and second movement containing sets *A*, *B*, *C*, and *D*. These four sets represent the material that Abrahamsen clearly recontextualizes in the second movement. The landscapes, realized in Figure @fig:walden-recontext as schematic association maps, represent the four sets' external disposition and roughly account for the total movement durations. However, they do not account for other associative sets that have secondary roles within the two movements, and they are also limited in segment detail, as they show only duration and no granular detail.
 
 ![Associative landscapes of *Walden* I. and II.](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-schematic-map-mvmt-I-and-II.png){#fig:walden-recontext width=80%}
 
