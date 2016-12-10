@@ -24,9 +24,7 @@ The opening of *Walden* and *Wald* feature imitative call-and-response gestures 
 
 The horn has a special significance for Abrahamsen musically and personally. He was born with cerebral palsy, which affects the right side of his body.[@NYT] He walks with an uneven gait and has only two functional fingers on his right hand leaving him unable to pursue most instruments to professional proficiency.[@NYT] Since the French horn can be played with only the left hand, it became his principle instrument early on and inspired some of his first compositions. The first performance of his own music took place in 1969 with a piece called *October*, for horn and piano.[@LeftAlonePN Program note.] Abrahamsen performed both instruments with his left hand and projected "natural harmonics of the horn directly into the open strings of the grand piano to create resonance."[@LeftAlonePN] This early use of the horn and natural harmonics is notable considering the important role that microtonality has taken up in the works of Abrahamsen's third period, including in *Wald*.
 
-## Analysis
-
-### Form
+## Form
 
 In an interview with the BBC prior to its UK premiere, Abrahamsen noted that *Wald* could bear the subtitle of "Variations" or "A Theme from *Walden*." The form of the work consists of an introduction and seven variations in which the principle thematic material comes from the ascending interval class 5 horn segment (subset *A/a*) and the rhythmic displacement process in the first sixteen measures of *Walden*. Table @tbl:wald-form details the eight total formal divisions within *Wald*, which can be both segmented into smaller sectional divisions and grouped into four parts based on shared material: I, II, III, and IV.
 
@@ -95,7 +93,7 @@ The introduction and seven variations of *Wald* successively decrease in duratio
 
 Throughout the following discussion of *Wald*, the term part will be used to refer to those variation groupings listed in Table @tbl:wald-form. Variation will of course be used to refer to an individual variation instance, while section will refer to those subdivisions within a variation. Given the close relationships between the variations and sections of Part I, a convenient short-hand notation of Intro:Sec1 or Var2:Sec1 or Var3:Sec1 will be used to clearly specify the section at hand. Phrases like "the fourth sections of Part I" or PartI:Sec4 apply to multiple instances of a recurring section (e.g., Intro:Sec4, Var1:Sec4, and Var2:Sec4).
 
-### Associative Sets Overview
+## Associative Sets Overview
 
 The musical material throughout *Wald* can be categorized into nine associative sets (see Figure @fig:wald-sets-all for prototypical segments of each set). The sets vary in their number of subsets and segments but share many overlapping sonic and contextual criteria, which imparts cohesion and economy of materials. Associative set *F* consists of a repeated simultaneity ranging from a simple dyad to a dense chord, and Abrahamsen scores it for piano, harp, marimba, or celesta. Set *G* is defined by either a polyrhythmic repeated note texture or an unmeasured tremolo which Abrahamsen places most often in the two violins of Group V. Sets *H* and *J* correspond closely with sets *A* and *B* of *Walden*, but they are differentiated here with a new letter name to emphasize the recontextualized relationship between them. Like *A* and *B*, set *H* is an ascending interval class 5 call and set *J* is an imitative response. Abrahamsen similarly binds them together in a displacement process during the first and second sections of Part I.
 
