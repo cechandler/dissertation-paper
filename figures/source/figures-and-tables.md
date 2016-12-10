@@ -386,3 +386,18 @@ ORD:| A  1  3  A  1  2  8  3  A  1  8  3  A  1  2  8  3  9  A  1  8  3  A  1  2 
 `K7: 3 8th segments`
 `K8: 7 14:12 segments`
 -->
+
+
+<!-- Section 1 *H/a* attributes
+
+| Criteria          | Intro:Sec1        | Var1:Sec1         | Var2:Sec1     |
+|:------------------|:------------------|:------------------|:--------------|
+| S~2-articulation~ | Legato            | Legato            | Legato        |
+| S~2-duration~     | 7 eighths         | 7 eighths         | 42 eighths    |
+| S~2-dynamics~     | `pp` - `mf`       | `pp` - `mf`       | `pp`          |
+| C~pitch~          | <`D4`, `G4`>      | <`D4`, `G4`>      | <`Bb3`, `F4`> |
+| C~cseg~           | <01>              | <01>              | <01>          |
+| C~group~          | Odd: III (B. fl.) | Odd: III (B. fl.) | III (B. fl.)  |
+|                   | Even: IV (Hn.)    | Even: IV (Hn.)    |               |
+
+-->
