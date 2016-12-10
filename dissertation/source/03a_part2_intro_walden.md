@@ -40,9 +40,7 @@ Table: Instrumental arrangement between versions {#tbl:walden-rearrangement}
 | Horn in `F`  | `->` | Bs. Cl.         | Bs. Cl.          | multiple          | Bsn.             |
 | Bassoon      | `->` | Bsn.            | Bsn.             | multiple          | Bs. Cl.          |
 
-## Analysis
-
-### Form
+## Form
 
 Abrahamsen's compositional process begins with formal structure, since he believes that in order to "make a piece that hangs together as music" one must have a "strong structure that makes it stick together in time."[@Kullberg] His approach to controlling the macro-level formal structure is evident in two elements that successively decrease with each movement: the total duration and number of sectional divisions. Abrahamsen has used the technique of controlling formal structure through proportion in many works; for instance, the movements or sections of *Winternacht*, *Schnee*, and *Wald* also decrease in duration over time, while the sections of *Märchenbilder* increase over time.[@MarchPN] In *Walden*, the decrease is not linear with respect to measurement in seconds but, nonetheless, each movement is shorter than the previous. On the other hand, the number of sectional divisions does decrease linearly; the first movement has with four sections, the second three, the third two, and finally, the fourth concludes as a single continuous statement. Abrahamsen delineates sections by changes in texture, harmonic collection, and compositional technique. Table @tbl:walden-structure displays these decreasing durations and number of section divisions. The two duration columns reflect the timings listed in the original score as well as the timings of the 1994 recording of the Scandinavian Wind Quintet.[@WaldenRec][^CalefaxRec]
 

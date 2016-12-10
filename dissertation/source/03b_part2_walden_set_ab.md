@@ -1,4 +1,4 @@
-### Associative Set Overview
+## Associative Sets Overview
 
 The limited number of associative sets and the overlapping sonic and contextual criteria that support them drive the cohesive and constrained expressivity of *Walden*. Four associative sets constitute the principle musical material for much of the work, especially in the first and second movements. Figure @fig:walden-associative-sets-a-d displays prototypical segments for each set labelled *A*, *B*, *C*, and *D*. <!-- While each set has a varying number of subsets and segments, these prototypes capture the essential characteristics that define their set membership. --> As Abrahamsen notes in his program note, "superfluous material has been peeled away." This quality is evident both through these segments' relative simplicity but also from the number of shared sonic and contextual criteria, including legato articulation, generally soft dynamic, simple contours, and small intervallic leaps (particularly for sets *A*, *B*, and *C*).
 
@@ -7,6 +7,8 @@ Despite their overlapping criteria, Abrahamsen distinguishes the sets through nu
 Abrahamsen organizes each of these distilled associative sets through strict processes and techniques pertaining to the domains of rhythm (augmentation, diminution, displacement, subdivision), pitch (limited harmonic collections, canons, retrograde, permutation), and orchestration (texture, subsets, layers, phrasing). An individual examination of each associative set, the contexts in which they appear, and the way Abrahamsen varies them will illustrate his economy of musical materials and approach to recontextualization.
 
 ![*Walden* Associative Sets *A*, *B*, *C*, *D*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-sets-a-d.png){#fig:walden-associative-sets-a-d width=60%}
+
+## Analysis
 
 ### Associative Set *A*
 
