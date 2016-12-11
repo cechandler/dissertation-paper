@@ -64,7 +64,11 @@ Var2:Sec1 contains no phasing process like the prior sequences of Section 1. Ins
 
 <!-- Varied repetition discussion -->
 
-**Summary on varied repetition.**
+Having described the sonic and contextual criteria forming sets *F*, *G*, *H*, and *J* and examined the processes that shape their associative landscapes, it is apparent that these passages constitute a recontextualization of the rhythmic displacement process and two sets found in the opening *Walden*. The addition of new sets, the timbral variation of the reused sets, and the contextual modification of the displacement process all produce a considerably different musical environment that does not sound like a repetition of *Walden*. However, the experience of hearing these three sections within *Wald* is a different matter. As Figure @fig:wald-part-a-sec1-landscapes depicts, the associative landscapes of PartI:Sec1 are clearly derived from one another and contain a narrow range of variance. There are, of course, many variations in these four associative sets' segments, but despite the changes, Abrahamsen's compositional approach in PartI:Sec1 is better understood as a series of varied repetitions. When these sections return, the experience is not like the first and second movement of *Walden* but rather encourages the perception of familiar music being repeated.
+
+Recontextualization does play a significant role in *Wald* beyond the reuse of sets and processes from *Walden*. It comes in the form of associative sets that Abrahamsen recontextualizes between the paired sections and variations within Part I and Part IV. In other words, the recurring instances of sections between variations form varied repetitions but the paired sections within variations contain recontextualization. An examination of the processes forming the associative landscapes of PartI:Sec2 with further demonstrate these points.
+
+<!-- timbre, spatial location, and duration between attack points change for set *F*; ornamentation, temperament, interval size, and pitch content for subset *H/a*; rhythmic augmentation and diminution for subset *J/a*. -->
 
 <!-- Associative landscapes section 2 -->
 
