@@ -64,7 +64,9 @@ Var2:Sec1 contains no phasing process like the prior sequences of Section 1. Ins
 
 <!-- Varied repetition discussion -->
 
-Having described the sonic and contextual criteria forming sets *F*, *G*, *H*, and *J* and examined the processes that shape their associative landscapes, it is apparent that these passages constitute a recontextualization of the rhythmic displacement process and two sets found in the opening *Walden*. The addition of new sets, the timbral variation of the reused sets, and the contextual modification of the displacement process all produce a considerably different musical environment that does not sound like a repetition of *Walden*. However, the experience of hearing these three sections within *Wald* is a different matter. As Figure @fig:wald-part-a-sec1-landscapes depicts, the associative landscapes of PartI:Sec1 are clearly derived from one another and contain a narrow range of variance. There are, of course, many nuanced variations in the four associative sets' segments, but despite the changes, Abrahamsen's compositional approach in PartI:Sec1 is better understood as a series of varied repetitions. When these sections return, the experience is not like the first and second movement of *Walden* but rather encourages the perception of familiar music being repeated.
+Having described the sonic and contextual criteria forming sets *F*, *G*, *H*, and *J* and examined the processes that shape their associative landscapes, it is apparent that these passages constitute a recontextualization of the rhythmic displacement process and two sets found in the opening *Walden*. The addition of new sets, the timbral variation of the reused sets, and the contextual modification of the displacement process all produce a considerably different musical environment that does not sound like a repetition of *Walden*.
+
+However, the experience of hearing these three sections within *Wald* is a different matter. As Figure @fig:wald-part-a-sec1-landscapes depicts, the associative landscapes of PartI:Sec1 are clearly derived from one another and contain a narrow range of variance. There are, of course, many nuanced contextual changes in the four associative sets' segments, but as Hanninen notes, "Changes in the activity of contextual criteria constitute potential for recontextualization but do not guarantee it; the two are related not by logical implication but by matters of degree and analytical interpretation."[@HanninenRecontext, p. 72] Thus, despite the changes, Abrahamsen's compositional approach in PartI:Sec1 is better understood as a series of varied repetitions. When these sections return, the experience is not like the first and second movement of *Walden* but rather encourages the perception of familiar music being repeated.
 
 Recontextualization does play a significant role in *Wald* beyond the reuse of sets and processes from *Walden*. It comes in the form of associative sets that Abrahamsen recontextualizes between the paired sections and variations within Part I and Part IV. In other words, the recurring instances of sections between variations signify varied repetitions but the paired sections within variations contain recontextualization. An examination of the displacement processes forming the associative landscapes of PartI:Sec2 with further illustrate these points.
 
@@ -118,15 +120,23 @@ Like *J/d* segments, the pitch sequence of *J/c* segments in nearly all of PartI
 
 ![Changing pitch sequence in Var2:Sec2 *J/c*'s embedded segments](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-var2-sec2-jc1-jc2.png){#fig:wald-var2-sec2-jc1-jc2}
 
-Table @tbl:wald-var2-sec2-pitch-seq displays the complete pitch sequence for each embedded segment, which reveals its retrograde construction. Each rhythmic subdivision is partitioned into two- and four-note segments corresponding to the seven total statements of *J/c* segments in Var2:Sec2. A point of retrograde exists between the third and fourth statements. The quintuplet eighth sequence (subset *J/b*) consists of a hexachord mirrored about this central axis. The quarter and triplet quarter sequences project three tetrachords whose retrograde segments flip to the other rhythmic layer at the point of retrograde (ie., the retrograde of the quarter-note layer's third tetrachord is present in the triplet quarter layer's fourth tetrachord). Like other sections, Abrahamsen continues beyond the end of the retrograde suggesting that this process could continue with a new ordering.
+Table @tbl:wald-var2-sec2-pitch-seq displays the complete pitch sequence for each embedded segment, which reveals its retrograde construction. Each rhythmic subdivision is partitioned into two- and four-note segments corresponding to the seven total statements of *J/c* segments in Var2:Sec2. A point of retrograde exists between the third and fourth statements. However, for each rhythmic layer, the retrograde sequence flips to the other rhythmic layer at the point of retrograde. For instance, the retrograde of the quarter-note layer's third tetrachord is present in the triplet quarter layer's fourth tetrachord. Like other sections, Abrahamsen continues beyond the end of the retrograde suggesting that this process could continue with a new ordering.
+
+<!-- The quintuplet eighth sequence (subset *J/b*) consists of a hexachord mirrored about this central axis. The quarter and triplet quarter sequences project three tetrachords whose retrograde segments  -->
 
 Table: De-interleaved pitch sequences in Var2:Sec2 *J/c* segments {#tbl:wald-var2-sec2-pitch-seq}
 
-| Layer             | Pitch Sequence                             |
-|:------------------|:-------------------------------------------|
-| Quintuplet eighth | `<50   16   61   16   61   05   61>`       |
-|                   | `<50   e4   4e   e4   4e   05   4e>`       |
-| Quarter           | `<4e4e 0516 6150 05e4 4e50 1616 6150 e4e>` |
-| Triplet Quarter   | `<6161 05e4 4e50 0516 6150 e4e4 4e50>`     |
+| Layer             | Pitch Sequence                                 |
+|:------------------|:-----------------------------------------------|
+| Quintuplet eighth | `<50   16   61   e4   4e   05   61>` (harp)    |
+|                   | `<50   e4   4e   16   61   05   4e>` (marimba) |
+| Quarter           | `<4e4e 0516 6150 05e4 4e50 1616 6150 e4e>`     |
+| Triplet Quarter   | `<6161 05e4 4e50 0516 6150 e4e4 4e50>`         |
 
 <!-- recontextualization and varied repetition in Part II -->
+
+Similar to the three sequences of PartI:Sec1, the associative landscapes of PartI:Sec2 are highly interrelated and distinctly derived from one another. They can again be described as a series of varied repetitions where continuities in the disposition of segments, the rhythmic displacement process, and pitch space encourage the perception of these returning sections as repetitions and not as new takes on familiar material. However, when taking into account the linear experience of the piece where PartI:Sec2 follows PartI:Sec1, the sections can be understood as recontextualizations of PartI:Sec1 segments from associative sets and subsets *F*, *G*, *H*, and *J*.
+
+This interpretation is supported by the many differences in contextual criteria among the segments and subsets of each set. For instance, the variances in C~rhythm~ and C~pitch~ for subset *G/b*, C~ic~ and C~cseg~ for subset *H/b*, and C~rhythm~, C~cseg~, and C~SC~ for *J/c* and *J/d* all contribute to new and nuanced internal and external dispositions and intersections between the associative material. Combined with the contrasting realization of the displacement process and the numerous changes in sonic criteria (e.g., timbre, articulation, dynamics), the musical material within PartI:Sec2 is "phenomenally transformed" with respect to PartI:Sec1.
+
+Abrahamsen's varied repetition across section instances and recontextualization between paired sections continues for associative sets *K*, *L*, and *M* in PartI:Sec3 and PartI:Sec4. These sections offer new insights into these two compositional approaches, as they are not shaped by rhythmic displacement and produce substantially different associative landscapes.
