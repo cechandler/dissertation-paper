@@ -59,7 +59,7 @@ Figure @fig:wald-intro-sec4-pitches notates the transposed set classes of Intro:
 
 <!-- This left-hand side of Figure @fig:wald-intro-sec4-pitches illustrates how Abrahamsen recontextualizes set *K* within *L* segments.   -->
 
-![Pitch space of set *L* segments](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-intro-sec4-pitch-space.png){#fig:wald-intro-sec4-pitches}
+![Pitch space of set *L* segments in Intro:Sec4](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/wald-intro-sec4-pitch-space.png){#fig:wald-intro-sec4-pitches}
 
 Figure @fig:wald-sec4-k-in-l unravels the interlaced dyads of the four Intro:Sec4 *L* segments. The top staves give the separate voices of the marimba and harp duo and piano, while the lower staves beam the dyad sequences together. Each dyad voice is related by either T~3~ or T~9~ and adheres to both one contour and pitch sequence indicated in Figure @fig:wald-intro-sec4-pitches.
 
@@ -95,4 +95,4 @@ This is yet another different kind of recontextualization. The segments of *M* s
 
 The Intro:Sec4 *M/a* and *M/b* segments conclude the ending of Variation 6 unaccompanied by any segment from set *L*. In Variation 7, Abrahamsen uses a T~7~ equivalent repetition of Variation 6's *L* segment orchestrated for celesta and harp and additionally accented and resonated by other instruments of the ensemble. The *L* segment is accompanied by two *M/a* segments at its beginning, and after it ends, a segment from subset *M/b* concludes the work.
 
-The relationship between Variation 6 and 7 recalls the recontextualization of sets between the first and second movement of *Walden*. Abrahamsen structures the paired variation through a combination of literal repetitions, equivalent repetitions related by transposition, and removal of segments. This produces a similar transparent and sparse texture stemming from the decreased level of density and imparts a sense of decay and closure. 
+The relationship between Variation 6 and 7 recalls the recontextualization of sets between the first and second movement of *Walden*. Abrahamsen structures the paired variation through a combination of literal repetitions, equivalent repetitions related by transposition, and removal of segments. This produces a similar transparent and sparse texture stemming from the decreased level of density and imparts a sense of decay and closure.
