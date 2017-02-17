@@ -11,6 +11,8 @@
 - **UDGIVER**: FORENINGEN DANSK MUSIK TIDSSKRIFT
 - Online-tidsskrifter » Dansk Musik Tidsskrift » 1985-1986 » 06 » Konstruktion, intuition og betydning i Hans Abrahamsens musik
 
+[Link to Website](http://dvm.nu/periodical/dmt/dmt_1985-1986/dmt_1985-1986_06/konstruktion-intuition-og-betydning-i-hans-abrahamsens-musik/)
+
 # Portrait Interview with composer
 
 When you began your career as a composer, was Danish music scene beginning to recover from the shaking after the blast, which took modernism in Denmark had done in the early 60s e. There had been experimented on for dear life, and just about everything had been tried. That is to say that you were in a different situation than the previous generation composers when they wrote their first works, among others. a. there was no generally accepted style, you could pour themselves. What was your starting point when you started composing?
