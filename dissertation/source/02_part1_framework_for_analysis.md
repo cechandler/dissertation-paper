@@ -40,7 +40,7 @@ Table: Individual sonic criteria from Hanninen Example 2.5 {#tbl:hanninen-sonic-
 | S~1-timbre~       | Timbre between events that are temporally adjacent                                                                                   |
 | S~1-articulation~ | Articulation between events that are temporally adjacent                                                                             |
 | S~1-rest~         | Rest marks boundary between events that are temporally adjacent                                                                      |
-| S~2-pitch~        | Pitch proximity between events no (necessarily) temporally adjacent                                                                  |
+| S~2-pitch~        | Pitch proximity between events not (necessarily) temporally adjacent                                                                 |
 | S~2-duration~     | Duration proximity (i.e. lengths of events or rests have proximate values); events not (necessarily) temporally adjacent             |
 | S~2-dynamics~     | Dynamics proximity; events not (necessarily) temporally adjacent                                                                     |
 | S~2-timbre~       | Timbre proximity; events not (necessarily) temporally adjacent                                                                       |
