@@ -1,6 +1,6 @@
 ---
 author: Christopher Chandler
-title: "Reduce, Reuse, Recycle:"
+title: "Recontextualization and Variation"
 subtitle: "Associative Organization in Hans Abrahamsen's *Walden* and *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
