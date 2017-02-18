@@ -1,7 +1,5 @@
 \newpage
 
-\singlespacing
-
 # Appendix
 
 ## Chronological List of Works
