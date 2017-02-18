@@ -3,7 +3,9 @@
 \singlespacing
 
 # Appendix
+
 ## Chronological List of Works
+
 | Year | Title                              | Duration | Instrumentation                         |
 |:-----|:-----------------------------------|:---------|:----------------------------------------|
 | 1970 | *Skum*                             | 14:00    | orchestra                               |
@@ -61,6 +63,7 @@
 | 2015 | *Left, alone*                      | 18:00    | piano and orchestra                     |
 
 ## List of Arrangements
+
 | Year | Composer       | Arrangement                 | Duration | Instrumentation                |
 |:-----|:---------------|:----------------------------|:---------|:-------------------------------|
 | ???? | Bach           | *8 Canons* BWV 1072-78      | 20:00    | fl, cl, vib, gtr, pno, vln, vc |
@@ -80,6 +83,7 @@
 | 2012 | Nielsen        | *Commotio*                  | 21:00    |                                |
 
 ## List of Related Works
+
 | Work or Movement                                  | Related Earlier Work         |
 |:--------------------------------------------------|:-----------------------------|
 | *Nacht und Trumpeten* (1981)                      | *Winternacht* (1976-78) IV   |
