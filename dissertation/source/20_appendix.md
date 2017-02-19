@@ -1,4 +1,5 @@
 \newpage
+\singlespacing
 
 # Appendix
 
@@ -25,7 +26,7 @@
 | 1978 | *Walden*                           | 11:00    | fl, ob, cl, bn, hn                      |
 | 1981 | *Nacht und Trompeten*              | 11:00    | orchestra                               |
 | 1981 | *String Quartet No. 2*             | 15:00    | string quartet                          |
-| 1984 | *Märchenbilder*                    | 14:00    | sinfonietta                             |
+| 1984 | *Märchenbilder*                    | 14:00    | chamber orchestra                       |
 | 1984 | *Seks stykker*                     | 14:00    | vn, hn, pf                              |
 | 1985 | *Zwei Schneetänze*                 | 4:00     | 4rec, or fl, cl, vn, vc                 |
 | 1987 | *Lied in Fall*                     | 14:00    | cello and chamber orchestra             |
@@ -48,7 +49,7 @@
 | 2008 | *String Quartet No. 3*             | 12:00    | string quartet                          |
 | 2009 | *Efterårslied*                     | 6:00     | ca, pno/hpd, vn, va, vc                 |
 | 2009 | *Traumlieder*                      | 14:00    | vn, vc, pno                             |
-| 2009 | *Wald*                             | 18:00    | sinfonietta                             |
+| 2009 | *Wald*                             | 18:00    | chamber orchestra                       |
 | 20?? | *Kharon*                           | 7:00     | trombone                                |
 | 2010 | *Liebeslied*                       | 3:00     | bs fl, ob, bs cl, perc, pno, vn, va, vc |
 | 2010 | *Ten Sinfonias*                    | 20:00    | orchestra                               |
@@ -62,23 +63,23 @@
 
 ## List of Arrangements
 
-| Year | Composer       | Arrangement                 | Duration | Instrumentation                |
-|:-----|:---------------|:----------------------------|:---------|:-------------------------------|
-| ???? | Bach           | *8 Canons* BWV 1072-78      | 20:00    | fl, cl, vib, gtr, pno, vln, vc |
-| ???? | Schumann       | *Kinderszenen* op. 15       |          | fl, ob, cl, bn, hn             |
-| 1988 | Nielsen        | *Fantasistykker* op. 2      | 6:00     | ob, vn, va, vc                 |
-| 1988 | Satie          | *Trois Gymnopedies*         | 12:00    | ob and string quartet          |
-| 1989 | Ravel          | *Le Tombeau de Couperin*    | 20:00    |                                |
-| 1990 | Nielsen        | *Three Piano Pieces* op. 59 | 10:00    |                                |
-| 1991 | Bach / Rouders | *Befiehl du deine Wege*     | 5:00     |                                |
-| 1992 | Nørgård        | *Surf*                      | 5:00     |                                |
-| 1998 | Weyse          | *Fire Aftensange*           | 20:00    | mezzo-soprano and orchestra    |
-| 2000 | Nielsen        | *Festpræludium*             | 3:00     | large orchestra                |
-| 2010 | Nielsen        | *Symfoni Nr. 6*             | 32:00    |                                |
-| 2011 | Debussy        | *Children's Corner*         | 18:00    |                                |
-| 2012 | Ligeti         | *Arc-en-ciel*               | 4:00     |                                |
-| 2012 | Ligeti         | *En Suspens*                | 2:15     |                                |
-| 2012 | Nielsen        | *Commotio*                  | 21:00    |                                |
+| Year | Composer       | Arrangement                 | Duration | Instrumentation                         |
+|:-----|:---------------|:----------------------------|:---------|:----------------------------------------|
+| 1988 | Nielsen        | *Fantasistykker* op. 2      | 6:00     | ob, vn, va, vc                          |
+| 1988 | Satie          | *Trois Gymnopedies*         | 12:00    | ob and string quartet                   |
+| 1989 | Ravel          | *Le Tombeau de Couperin*    | 20:00    | fl, ob, cl, bn, hn                      |
+| 1990 | Nielsen        | *Three Piano Pieces* op. 59 | 10:00    | fl, ob, cl, bsn, hn, 2 vln, vla, vc, db |
+| 1991 | Bach / Rouders | *Befiehl du deine Wege*     | 5:00     | chamber orchestra                       |
+| 1992 | Nørgård        | *Surf*                      | 5:00     | chamber orchestra                       |
+| 1994 | Bach           | *8 Canons* BWV 1072-78      | 20:00    | fl, cl, vib, gtr, pno, vln, vc          |
+| 1998 | Weyse          | *Fire Aftensange*           | 20:00    | mezzo-soprano and orchestra             |
+| 2000 | Nielsen        | *Festpræludium*             | 3:00     | large orchestra                         |
+| 2005 | Schumann       | *Kinderszenen* op. 15       | 19:00    | fl, ob, cl, bn, hn                      |
+| 2010 | Nielsen        | *Symfoni Nr. 6*             | 32:00    | chamber orchestra                       |
+| 2011 | Debussy        | *Children's Corner*         | 18:00    | orchestra                               |
+| 2012 | Ligeti         | *Arc-en-ciel*               | 4:00     | chamber orchestra                       |
+| 2012 | Ligeti         | *En Suspens*                | 2:15     | chamber orchestra                       |
+| 2012 | Nielsen        | *Commotio*                  | 21:00    | orchestra                               |
 
 ## List of Related Works
 

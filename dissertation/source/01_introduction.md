@@ -1,5 +1,4 @@
 \pagenumbering{arabic}
-\doublespacing
 
 # Introduction
 
