@@ -1,6 +1,6 @@
 ---
 author: Christopher Chandler
-title: "Recontextualization and Variation"
+title: "Recontextualization and Variation:"
 subtitle: "Associative Organization in Hans Abrahamsen's *Walden* and *Wald*"
 adviser: Professor David Headlam
 coadviser: Professor Ricardo Zohn-Muldoon
@@ -25,6 +25,7 @@ header-includes:
     - \setlength\parindent{24pt}
     - \lilyGlobalOptions{scale=0.85}
     - \lilyOpticalSize{26}
+    - \renewcommand{\contentsname}{Table of Contents}
 ---
 
 \doublespacing
