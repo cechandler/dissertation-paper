@@ -30,6 +30,10 @@ header-includes:
 
 \doublespacing
 
+\tableofcontents
+
+\newpage
+
 # Biographical Sketch
 
 Christopher Chandler is a composer and educator currently living and teaching in Richmond, Virginia. Born in Savannah, Georgia in 1986, he graduated *magna cum laude* from the University of Richmond in 2008 with a Bachelor of Arts in music composition/theory and psychology where he studied with Benjamin Broening. Christopher earned a Master of Music in composition in 2011 from Bowling Green State University studying with Mikel Kuehn, Elainie Lillios, and Marilyn Shrude. He has attended the Eastman School of Music since 2011 where his principle teacher has been Ricardo Zohn-Muldoon.
@@ -69,10 +73,6 @@ Parts 2 and 3 contain detailed analyses of *Walden* and *Wald*, respectively, an
 The faculty members serving on committee of this dissertation are Dr. David Headlam, Dr. Ricardo Zohn-Muldoon, Dr. David Liptak, and Dr. Lisa Jakelski. I am deeply grateful for their time, thoughts, and guidance. I am additionally thankful for my colleagues at the University of Richmond whose stimulating questions during a presentation of this paper helped me to articulate several aspects of the dissertation with greater clarity. The analytical foundation of this paper is built upon the work of Dr. Dora Hanninen, and I am grateful to Dr. Robert Morris for first exposing me to her work. While Dr. Hanninen did not personally contribute to the preparation of this document, I am indebted to her scholarship.
 
 I completed the work in this dissertation without any outside funding sources.
-
-\newpage
-
-\tableofcontents
 
 \newpage
 
