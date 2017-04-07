@@ -56,16 +56,16 @@ Contextual criteria have many subtypes and individual criteria. Subtypes reflect
 
 Table: Individual contextual criteria from Hanninen Example 2.8 {#tbl:hanninen-contextual-criteria}
 
-| Subtype   | Description                                    | Example Individual Criterion                          |
-|:----------|:-----------------------------------------------|:------------------------------------------------------|
-| C~cseg~   | Pitch contour                                  | C~cseg\ <0132>~                                       |
-| C~pitch~  | Pitch set (unordered); pitch segment (ordered) | C~pitch\ {`C#3`,\ `A2`}~; C~pitch\ <`C#3`,\ `A2`>~    |
-| C~ip~     | Pitch interval (directed and undirected)       | C~ip\ 8~; C~ip\ <81>~; C~ip\ <+8,\ -1>~               |
-| C~pc~     | Pcset (unordered); pcsegment (ordered)         | C~pc\ {9A10}~; C~pc\ <9A10>~                          |
-| C~ic~     | Interval class                                 | C~ic\ 5~                                              |
-| C~int~    | Pc interval                                    | C~int\ 5~                                             |
-| C~SC~     | Set class                                      | C~SC\ 3-4[015]~                                       |
-| C~rhythm~ | Rhythm or rhythmic pattern                     | C~rhythm\ <`quarterNote`\ `quarterNote`\ `halfNote`~> |
+| Subtype   | Description                                    | Example Individual Criterion                           |
+|:----------|:-----------------------------------------------|:-------------------------------------------------------|
+| C~cseg~   | Pitch contour                                  | C~cseg\ <0132>~                                        |
+| C~pitch~  | Pitch set (unordered); pitch segment (ordered) | C~pitch\ {`C#3`,\ `A2`}~; C~pitch\ <`C#3`,\ `A2`>~     |
+| C~ip~     | Pitch interval (directed and undirected)       | C~ip\ 8~; C~ip\ <81>~; C~ip\ <+8,\ -1>~                |
+| C~pc~     | Pcset (unordered); pcsegment (ordered)         | C~pc\ {9A10}~; C~pc\ <9A10>~                           |
+| C~ic~     | Interval class                                 | C~ic\ 5~                                               |
+| C~int~    | Pc interval                                    | C~int\ 5~                                              |
+| C~SC~     | Set class                                      | C~SC\ 3-4[015]~                                        |
+| C~rhythm~ | Rhythm or rhythmic pattern                     | C~rhythm\ <`quarterNote`\ `quarterNote`\ `halfNote`\~> |
 
 A contextual segmentation of the same passage from *Walden* I. mm. 57-59 in Figure @fig:walden-contextual-criteria reveals a number of associative connections. The segments of the trio layer associate through C~pc\ {79A}~ which Abrahamsen articulates through a mixture of interval classes 1, 2, and 3. Interval class also divides the five clear sonic segmentations into two groups via C~ic\ 2~ and C~ic\ 1~, which is further supported by C~cseg\ <01>~ and C~cseg\ <10>~. The duo layer's four segments associate through C~pitch\ {C#4,\ E4}~, and the second segment in m. 56 fleetingly associates with the trio layer through C~ic\ 3~. As with the case of S~2-dynamic~, the duo's first and fourth segments also associate through C~rhythm~. Disjunctive and associative orientations and their sonic and contextual criteria encourage two mindsets as displayed in these readings of the same passage; disjunction parses segments and layers by their differences while association connects segments within and between the layers. Both orientations have guided the analysis in Parts 2 and 3 of identifying and categorizing Abrahamsen's musical material in *Walden* and *Wald*.
 
@@ -81,7 +81,7 @@ In order to demonstrate these notational conventions, Figure @fig:walden-set-a-a
 
 ![Examples of associative subsets within set *A* from *Walden*](/Volumes/Data/Dropbox/Composition/Current-Projects/dissertation-paper/figures/walden-associative-set-a-all.png){#fig:walden-set-a-all}
 
-In addition to labelling conventions, Hanninen draws upon graph theory to present several ways of depicting an associative landscape.[@Hanninen, p. 118-123] An *association map* is one such way that graphically displays an associative landscape through a two-dimensional diagram, where the y-axis contains rows for subsets or sets and the x-axis displays time and appearances of segments.[@Hanninen, p. 160] Segments appearing within the map can take the form of fragments of musical notation (called cutaway score maps) or horizontal bars indicating duration (called bar-graph schematic maps).[^OtherMaps] The maps reveal how segments of associative sets and subsets are configured in time, focusing on their dispositions and distributions that give rise an associative landscape.[@Hanninen, p. 163]
+In addition to labelling conventions, Hanninen draws upon graph theory to present several ways of depicting an associative landscape.[@Hanninen, p. 118-123] An *association map* is one such way that graphically displays an associative landscape through a two-dimensional diagram, where the y-axis contains rows for subsets or sets and the x-axis displays time and appearances of segments.[@Hanninen, p. 160] Segments appearing within the map can take the form of fragments of musical notation (called cutaway score maps) or horizontal bars indicating duration (called bar-graph schematic maps).[^OtherMaps] The maps reveal how segments of associative sets and subsets are configured in time, focusing on their dispositions and distributions that give rise to an associative landscape.[@Hanninen, p. 163]
 
 [^OtherMaps]: Hanninen also discusses additional map types, including running text format and several other kinds of schematic maps. See pages 160-163.
 
