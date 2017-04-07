@@ -14,7 +14,7 @@ fontsize: 12pt
 linestretch: 1
 mainfont: Times New Roman
 header-includes:
-    - \usepackage{tocbibind}
+    - \usepackage[nottoc]{tocbibind}
     - \setcounter{tocdepth}{2}
     - \usepackage{indentfirst}
     - \usepackage{fontspec}
@@ -36,11 +36,11 @@ header-includes:
 
 # Biographical Sketch
 
-Christopher Chandler is a composer and educator currently living and teaching in Richmond, Virginia. Born in Savannah, Georgia in 1986, he graduated *magna cum laude* from the University of Richmond in 2008 with a Bachelor of Arts in music composition/theory and psychology where he studied with Benjamin Broening. Christopher earned a Master of Music in composition in 2011 from Bowling Green State University studying with Mikel Kuehn, Elainie Lillios, and Marilyn Shrude. He has attended the Eastman School of Music since 2011 where his principal teacher has been Ricardo Zohn-Muldoon.
+Christopher Chandler is a composer and educator currently living and teaching in Richmond, Virginia. Born in Savannah, Georgia in 1986, he graduated *magna cum laude* from the University of Richmond in 2008 with a Bachelor of Arts degree where he studied with Dr. Benjamin Broening. Christopher earned a Master of Music in 2011 from Bowling Green State University studying with Dr. Mikel Kuehn, Dr. Elainie Lillios, and Dr. Marilyn Shrude. He attended the Eastman School of Music since 2011 where his principal teacher has been Dr. Ricardo Zohn-Muldoon.
 
 At Eastman, Christopher co-founded the [Switch~ Ensemble], a flexible ensemble dedicated to the creation and performance of new works for chamber ensemble, electronics, and multimedia. He has also been active in promoting new music as vice president of Ossia New Music and coordinator for the Eastman Composers' Sinfonietta. In addition to new music activities, Christopher has served as a teaching assistant for both the Eastman Computer Music Center and Composition Department.
 
-Christopher's acoustic and electroacoustic music is inspired by poetry, nature, the acoustic properties of instruments, and his experiences working closely with sound in computer music studios. His music has been performed across the United States, Canada, and Europe by ensembles including eighth blackbird, Ensemble Dal Niente, Ensemble Modelo62, Ensemble Interface, the Cleveland Chamber Symphony, and Le Nouvel Ensemble Moderne. Recent performances include the International Computer Music Conference (Netherlands), June in Buffalo, Domaine Forget, the Florida State University New Music Festival, the New York City Electroacoustic Music Festival, and SEAMUS Conferences. Recognition for his work includes a BMI Student Composer Award, an ASCAP/SEAMUS Student Commission, two first prizes from the Austin Peay State University Young Composer's Award, winner of the American Modern Ensemble’s Annual Composition Competition, and the Nadia Boulanger Composition Prize from the American Conservatory in Fontainebleau, France.
+Christopher's acoustic and electroacoustic music is inspired by poetry, nature, the acoustic properties of instruments, and his experiences working closely with sound in computer music studios. His music has been performed across the United States, Canada, and Europe by ensembles including Eighth Blackbird, Ensemble Dal Niente, Ensemble Modelo62, Ensemble Interface, the Cleveland Chamber Symphony, and Le Nouvel Ensemble Moderne. Recent performances include the International Computer Music Conference (Netherlands), June in Buffalo, Domaine Forget, the Florida State University New Music Festival, the New York City Electroacoustic Music Festival, and SEAMUS Conferences. Recognition for his work includes a BMI Student Composer Award, an ASCAP/SEAMUS Student Commission, two first prizes from the Austin Peay State University Young Composer's Award, winner of the American Modern Ensemble’s Annual Composition Competition, and the Nadia Boulanger Composition Prize from the American Conservatory in Fontainebleau, France.
 
 After teaching private composition lessons and computer music courses at Eastman (2012-2014) and the Eastman Community Music School (2012-2014), Christopher joined the faculty of the University of Richmond in 2014 where he teaches courses in composition and music technology and directs the Third Practice Electroacoustic Music Festival.
 
@@ -54,7 +54,7 @@ Thanks also to Dr. David Liptak and Dr. Lisa Jakelski for generously donating th
 
 I extend my deepest gratitude to my former teacher, current colleague, and close friend, Dr. Benjamin Broening. He has been a constant source of wisdom and has provided invaluable advice, guidance, and been an advocate for me in countless ways.
 
-Finally, I would like to thank my family and friends for their unwavering support of my musical and academic pursuits. Most importantly, I wish to acknowledge the support and sacrifice of my wife and constant companion, Amy Chandler. I dedicate this dissertation to her and our two beautiful children, Brandon Emerson Chandler and Elise Marie Chandler.
+Finally, I would like to thank my family and friends for their unwavering support of my musical and academic pursuits. Most importantly, I wish to acknowledge the support and sacrifice of my wife and constant companion, Amy Chandler, and our two beautiful children, Brandon Emerson Chandler and Elise Marie Chandler.
 
 \newpage
 
@@ -70,7 +70,7 @@ Parts 2 and 3 contain detailed analyses of *Walden* and *Wald*, respectively, an
 
 # Contributors and Funding Sources
 
-The faculty members serving on committee of this dissertation are Dr. David Headlam, Dr. Ricardo Zohn-Muldoon, Dr. David Liptak, and Dr. Lisa Jakelski. I am deeply grateful for their time, thoughts, and guidance. I am additionally thankful for my colleagues at the University of Richmond whose stimulating questions during a presentation of this paper helped me to articulate several aspects of the dissertation with greater clarity. The analytical foundation of this paper is built upon the work of Dr. Dora Hanninen, and I am grateful to Dr. Robert Morris for first exposing me to her work. While Dr. Hanninen did not personally contribute to the preparation of this document, I am indebted to her scholarship.
+The faculty members serving on the committee of this dissertation are Dr. David Headlam (Theory), Dr. Ricardo Zohn-Muldoon (Composition), Dr. David Liptak (Composition), and Dr. Lisa Jakelski (Musicology). I am deeply grateful for their time, thoughts, and guidance. I am additionally thankful for my colleagues at the University of Richmond whose stimulating questions during a presentation of this paper helped me to articulate several aspects of the dissertation with greater clarity. The analytical foundation of this paper is built upon the work of Dr. Dora Hanninen, and I am grateful to Dr. Robert Morris for first exposing me to her work. While Dr. Hanninen did not personally contribute to the preparation of this document, I am indebted to her scholarship.
 
 I completed the work in this dissertation without any outside funding sources.
 
