@@ -67,6 +67,8 @@ Table: Var2:Sec1 *F* segment pattern {#tbl:wald-var2-sec1-f-a}
 
 Across PartI:Sec2, *F* segments maintain the same initiating and pacing roles within their respective variations. The *F* segment appearing at the onset of Intro:Sec2 in m. 37 creates an abrupt sonic disjunction through S~1-dynamics\ (`f`)~, S~1-timbre~, and S~1-articulation\ (marcato,\ staccato)~, which forms a clear boundary between the two sections. PartI:Sec2 *F* segments differ from those in PartI:Sec1 not only through these sonic attributes but contextually through C~SC\ 6-6[012567]~, as it conforms to the section's pitch space of three interval class `5` superimpositions. Like Var2:Sec1, the segments in Var1:Sec2 and Var2:Sec2 begin on the downbeats following double bar lines, and show stable, cyclical patterning of orchestration and duration between attacks (see Tables @tbl:wald-var1-sec2-f-a and @tbl:wald-var2-sec2-f-a).
 
+\newpage
+
 Table: Var1:Sec2 *F* segment duration pattern {#tbl:wald-var1-sec2-f-a}
 
 | Measures |      171       |       178       |      186       |       193       |      201       |       208       |      216       |       223       |      231       |
