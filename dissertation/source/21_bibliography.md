@@ -2,6 +2,8 @@
 
 # Bibliography
 
+\singlespacing
+
 \setlength{\parindent}{-0.4in}
 \setlength{\leftskip}{0.4in}
 \setlength{\parskip}{8pt}
