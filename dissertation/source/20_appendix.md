@@ -50,7 +50,7 @@
 | 2009 | *Efterårslied*                     | 6:00     | ca, pno/hpd, vn, va, vc                 |
 | 2009 | *Traumlieder*                      | 14:00    | vn, vc, pno                             |
 | 2009 | *Wald*                             | 18:00    | chamber orchestra                       |
-| 20?? | *Kharon*                           | 7:00     | trombone                                |
+| 2009 | *Kharon*                           | 7:00     | trombone                                |
 | 2010 | *Liebeslied*                       | 3:00     | bs fl, ob, bs cl, perc, pno, vn, va, vc |
 | 2010 | *Ten Sinfonias*                    | 20:00    | orchestra                               |
 | 2011 | *Double Concerto*                  | 22:00    | violin, piano, and string orchestra     |
