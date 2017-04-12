@@ -36,6 +36,7 @@ WHEN CONVERTING TO LATEX:
 - fix Table: Individual contextual criteria from Hanninen Example
 - copy in re-worked bibliography
 - re-order appendix and bib
+- Var2:Sec3 rotation sequence table
 -->
 
 \doublespacing
