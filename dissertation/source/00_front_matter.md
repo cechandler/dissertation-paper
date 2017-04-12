@@ -33,7 +33,9 @@ header-includes:
 WHEN CONVERTING TO LATEX:
 - change Dedication section to \section*{} to remove from TOC
 - change several figures to \begin{sidewaysfigure}
-
+- fix Table: Individual contextual criteria from Hanninen Example
+- copy in re-worked bibliography
+- re-order appendix and bib
 -->
 
 \doublespacing
@@ -78,7 +80,7 @@ This dissertation analyzes two related compositions by the Danish composer Hans 
 
 Divided into three parts, this dissertation begins with an overview of Abrahamsen's compositional life thus far and focuses on his approach of reusing, recomposing, and referencing earlier music, both his own and others. Part 1 provides a synopsis of Professor Dora Hanninen's framework for musical analysis from her book *A Theory of Musical Analysis: On Segmentation and Associative Organization*. The discussion identifies the framework's terminology and notational conventions and, through musical examples, illustrates these aspects to underscore its suitability for Abrahamsen's music. Part 1 concludes with Hanninen's distinction between "recontextualization" and "varied repetition," which are two concepts that capture how Abrahamsen treats musical segments both within and between *Walden* and *Wald*.
 
-Parts 2 and 3 contain detailed analyses of *Walden* and *Wald*, respectively, and provide background information on their origins. The analyses focus on identifying musical segments, categorizing them into associative sets based on shared sonic and contextual criteria, and describing the sets' distribution and disposition over time, which Hanninen calls the associative landscape. Part 2 is centered on four associative sets in *Walden* and the way Abrahamsen recontextualizes them between the first and second movements. Part 3 examines seven associative sets within *Wald* and discusses how Abrahamsen not only recomposes two of *Walden*'s four associative sets but also reuses the structure of paired sections containing recontextualized material.
+Parts 2 and 3 contain detailed analyses of *Walden* and *Wald*, respectively, and provide background information on their origins. The analyses focus on identifying musical segments, categorizing them into associative sets based on shared sonic and contextual criteria, and describing the sets' distribution over time, which Hanninen calls the associative landscape. Part 2 is centered on four associative sets in *Walden* and the way Abrahamsen recontextualizes them between the first and second movements. Part 3 examines seven associative sets within *Wald* and discusses how Abrahamsen not only recomposes two of *Walden*'s four associative sets but also reuses the structure of paired sections containing recontextualized material.
 
 \newpage
 
