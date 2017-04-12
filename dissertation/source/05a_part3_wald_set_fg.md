@@ -44,6 +44,8 @@ The Introduction's single segment will serve as a model to compare to Variation 
 
 During Var1:Sec1 and Var2:Sec1, Abrahamsen distributes *F* segments throughout the section varying orchestration (S~2-timbre~) and duration between attacks (S~1-duration~), which moves it from an initiating function to an interjecting one. Tables @tbl:wald-var1-sec1-f and @tbl:wald-var2-sec1-f-a show the pattern of orchestration and duration compression underlying these two variations. Each column displays the onset measure of one or more *F* segments and the duration between its two attacks. Throughout Var1:Sec1, Abrahamsen decreases not only S~1-duration~ but also the duration between an instrument's appearance. For instance, the piano appears in the first, four, sixth, and seventh instances, creating a decreasing period of rest between each piano segment. In Var2:Sec1, the orchestration is less diverse, and the duration pattern is cyclical rather than compressed, mirroring the symmetry of the equal six-measure groupings (see Figure @fig:wald-meter-sec1-and-2).
 
+\newpage
+
 Table: Var1:Sec1 *F* segment pattern {#tbl:wald-var1-sec1-f}
 
 | Measures     |      111       |      119       |      126       |                134                 |      141       |                149                 |      156       |                164                 |
